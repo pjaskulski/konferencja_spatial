@@ -73,6 +73,9 @@ Tekst do analizy:
 """
 
 # Extract structured data from natural language
+# do przetestowania:
+#  -- wielokrotne przetwarzanie tego samego tekstu i uwzględnienie unikalnych znalezisk
+#  -- przetwarzanie mniejszych części tekstu - podział na grupy zdań i przetwarzanie ich osobno
 res = client.chat.completions.create(
     model=MODEL,
     messages=[
