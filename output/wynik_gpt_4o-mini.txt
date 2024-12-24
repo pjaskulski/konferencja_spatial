@@ -1,0 +1,134 @@
+Przemyślenia:
+Zidentyfikowano osobę Adama Dąbrowskiego, który był rejentem w Odessie.
+Adam Dąbrowski urodził się w Zaklikowie, co wskazuje na jego miejsce urodzenia.
+Rodzice Adama Dąbrowskiego to Jordan i Weronika z Paszkowskich, co wskazuje na relację rodzinną.
+Adam Dąbrowski kształcił się w Brześciu Litewskim oraz w Petersburgu, co wskazuje na miejsca nauki.
+Adam Dąbrowski pracował jako sędzia śledczy w Berdyczowie, Żytomierzu, Wiernym i Tyflisie, co wskazuje na jego miejsca pracy.
+Adam Dąbrowski był członkiem sądu wojskowego w Odessie, co również wskazuje na jego miejsce pracy.
+Adam Dąbrowski był emerytowanym generałem-lejtnantem, co wskazuje na jego zawód.
+Adam Dąbrowski był zaangażowany w Komitet Polski oraz w filię Piotrogr. Towarzystwa Pomocy Ofiarom Wojny, co wskazuje na instytucje, z którymi był związany.
+Adam Dąbrowski zmarł 9 X 1920 roku, co wskazuje na datę śmierci.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfBirth
+object   : name='Zaklików' type='miejscowość' description='Miejsce urodzenia Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Zidentyfikowano rodziców Adama Dąbrowskiego, Jordana i Weronikę z Paszkowskich, co wskazuje na relację rodzinną.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: hasFather
+object   : name='Jordan Dąbrowski' type='osoba' description='Ojciec Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Zidentyfikowano rodziców Adama Dąbrowskiego, Jordana i Weronikę z Paszkowskich, co wskazuje na relację rodzinną.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: hasMother
+object   : name='Weronika z Paszkowskich' type='osoba' description='Matka Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski kształcił się w Brześciu Litewskim, co wskazuje na miejsce nauki.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfStudy
+object   : name='Brześć Litewski' type='miejscowość' description='Miejsce nauki Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski kształcił się w Petersburgu w akademii jurydycznej, co wskazuje na miejsce nauki.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfStudy
+object   : name='Petersburg' type='miejscowość' description='Miejsce nauki Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski pracował jako sędzia śledczy w Berdyczowie, co wskazuje na miejsce pracy.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfWork
+object   : name='Berdyczów' type='miejscowość' description='Miejsce pracy Adama Dąbrowskiego jako sędziego śledczego.'
+---
+Przemyślenia:
+Adam Dąbrowski pracował jako sędzia śledczy w Żytomierzu, co wskazuje na miejsce pracy.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfWork
+object   : name='Żytomierz' type='miejscowość' description='Miejsce pracy Adama Dąbrowskiego jako sędziego śledczego.'
+---
+Przemyślenia:
+Adam Dąbrowski pracował jako sędzia śledczy w Wiernym, co wskazuje na miejsce pracy.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfWork
+object   : name='Wierny' type='miejscowość' description='Miejsce pracy Adama Dąbrowskiego jako sędziego śledczego.'
+---
+Przemyślenia:
+Adam Dąbrowski pracował jako sędzia śledczy w Tyflisie, co wskazuje na miejsce pracy.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfWork
+object   : name='Tyflis' type='miejscowość' description='Miejsce pracy Adama Dąbrowskiego jako sędziego śledczego.'
+---
+Przemyślenia:
+Adam Dąbrowski był członkiem sądu wojskowego w Odessie, co wskazuje na miejsce pracy.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: placeOfWork
+object   : name='Odessa' type='miejscowość' description='Miejsce pracy Adama Dąbrowskiego jako członka sądu wojskowego.'
+---
+Przemyślenia:
+Adam Dąbrowski był emerytowanym generałem-lejtnantem, co wskazuje na jego zawód.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: hasOccupation
+object   : name='generał-lejtnant' type='zawód' description='Zawód Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski był rejentem w Odessie przez 16 lat, co wskazuje na jego stanowisko.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: positionHeld
+object   : name='rejent' type='zawód' description='Stanowisko Adama Dąbrowskiego w Odessie.'
+---
+Przemyślenia:
+Adam Dąbrowski był zaangażowany w Komitet Polski, co wskazuje na instytucję, z którą był związany.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: relatedInstitution
+object   : name='Komitet Polski' type='instytucja' description='Instytucja, w której Adam Dąbrowski był zaangażowany.'
+---
+Przemyślenia:
+Adam Dąbrowski był zaangażowany w filię Piotrogr. Towarzystwa Pomocy Ofiarom Wojny, co wskazuje na instytucję, z którą był związany.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: relatedInstitution
+object   : name='Piotrogr. Towarzystwo Pomocy Ofiarom Wojny' type='instytucja' description='Instytucja, w której Adam Dąbrowski był zaangażowany.'
+---
+Przemyślenia:
+Adam Dąbrowski zmarł 9 X 1920 roku, co wskazuje na datę śmierci.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: dateOfDeath
+object   : name='1920-10-09' type='data' description='Data śmierci Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski był aresztowany przez bolszewików, co wskazuje na przyczynę jego śmierci.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: causeOfDeath
+object   : name='rozstrzelanie' type='przyczyna' description='Przyczyna śmierci Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski pozostawił siostrę Romualdę Glińską, co wskazuje na relację rodzinną.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: hasSister
+object   : name='Romualda Glińska' type='osoba' description='Siostra Adama Dąbrowskiego.'
+---
+Przemyślenia:
+Adam Dąbrowski miał syna Wiktora, co wskazuje na relację rodzinną.
+
+subject  : name='Adam Dąbrowski' type='osoba' description='Rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.'
+predicate: hasSon
+object   : name='Wiktor Dąbrowski' type='osoba' description='Syn Adama Dąbrowskiego.'
+---
