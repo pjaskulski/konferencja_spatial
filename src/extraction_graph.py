@@ -7,10 +7,11 @@ import instructor
 from pydantic import BaseModel, Field
 import openai
 from openai import OpenAI
+from graphviz import Digraph
 
 
-MODEL = "gpt-4o-mini"
-#MODEL = "gpt-4o"
+#MODEL = "gpt-4o-mini"
+MODEL = "gpt-4o"
 
 # api key
 env_path = Path(".") / ".env"
@@ -49,6 +50,28 @@ class RelationCollection(BaseModel):
     relations: List[RelationModel] = Field(description="Lista relacji między obiektami występujacymi w tekście")
 
 
+
+def visualize_knowledge_graph(kg: RelationCollection):
+    dot = Digraph(comment="Knowledge Graph")
+
+    # Add nodes
+    for node in kg.relations:
+        dot.node(name=str(node.subject.name),
+                 label=node.subject.name,
+                 color="black")
+
+    # Add edges
+    for edge in kg.relations:
+        dot.edge(tail_name=str(edge.subject.name),
+                 head_name=str(edge.object.name),
+                 label=edge.predicate,
+                 color="green")
+
+    # Render the graph
+    dot_u = dot.unflatten(stagger=3)
+    dot_u.render("knowledge_graph.gv", view=True)
+
+
 client = instructor.from_openai(OpenAI())
 
 # wczytanie tekstu testowego biogramu
@@ -59,7 +82,7 @@ with open(data_file, 'r', encoding='utf-8') as f:
 system_prompt = """
 Jesteś asystentem historyka badającego biografie postaci historycznych.
 Przeanalizuj podany tekst i zidentyfikuj obiekty występujące w tekście np. osoby, miejscowości,
-rzeki, instytucje, zawody, urzędy. Następnie ustal relacje między obiektami np. 'jest to', 'ma brata',
+rzeki, instytucje, zawody, urzędy. Następnie ustal relacje między tymi obiektami np. 'jest to', 'ma brata',
 'miejsce nauki', 'przyczyna śmierci' (dalej podano listę możliwych relacji).
 Wszystkie dane powinny być oparte na faktach, możliwe do zweryfikowania na podstawie tekstu,
 a nie na zewnętrznych założeniach. Przeanalizuj tekst ponownie upewniając się,
@@ -96,3 +119,5 @@ for rel in res.relations:
     print(f'predicate: {rel.predicate}')
     print(f'object   : {rel.object}')
     print('---')
+
+visualize_knowledge_graph(res)
