@@ -7,7 +7,7 @@ from graphviz import Digraph
 if __name__ == "__main__":
 
     # wczytanie wyników
-    data_file = Path('..') / "output" / "wynik_gpt_4o-mini.txt"
+    data_file = Path('..') / "output" / "wynik_gpt_4o-mini_parts_2.txt"
     with open(data_file, 'r', encoding='utf-8') as f:
         results = f.readlines()
         results = [x.strip() for x in results]
@@ -26,6 +26,10 @@ if __name__ == "__main__":
                 tmp2 = item.split("=")
                 if tmp2[0].strip() == "name":
                     relation["subject"] = tmp2[1].strip().strip("'")
+                elif tmp2[0].strip() == "type":
+                    relation["subject_type"] = tmp2[1].strip().strip("'")
+                elif tmp2[0].strip() == "description":
+                    relation["subject_description"] = tmp2[1].strip().strip("'")
         elif line.startswith("predicate:"):
             line = line.replace("predicate:","").strip()
             relation["predicate"] = line
@@ -36,6 +40,10 @@ if __name__ == "__main__":
                 tmp2 = item.split("=")
                 if tmp2[0].strip() == "name":
                     relation["object"] = tmp2[1].strip().strip("'")
+                elif tmp2[0].strip() == "type":
+                    relation["object_type"] = tmp2[1].strip().strip("'")
+                elif tmp2[0].strip() == "description":
+                    relation["object_description"] = tmp2[1].strip().strip("'")
 
     if relation:
         relations.append(relation)
@@ -44,17 +52,17 @@ if __name__ == "__main__":
 
     # Add nodes
     for node in relations:
-        dot.node(name=node["subject"], label=node["subject"], color="black")
+        dot.node(name=node["subject"]+ f' ({node["subject_type"]})', label=node["subject"]+ f' ({node["subject_type"]})', color="black")
 
     # Add edges
     for edge in relations:
         dot.edge(
-            tail_name=str(edge["subject"]),
-            head_name=str(edge["object"]),
+            tail_name=str(edge["subject"]) + f' ({edge["subject_type"]})',
+            head_name=str(edge["object"])+ f' ({edge["object_type"]})',
             label=edge["predicate"],
             color="green",
         )
 
     # Render the graph
     dot_u = dot.unflatten(stagger=3)
-    dot_u.render("knowledge_graph_2.gv", view=True)
+    dot_u.render("knowledge_graph_parts.gv", view=True)
