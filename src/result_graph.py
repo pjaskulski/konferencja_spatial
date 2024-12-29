@@ -7,7 +7,7 @@ from graphviz import Digraph
 if __name__ == "__main__":
 
     # wczytanie wyników
-    data_file = Path('..') / "output" / "wynik_gpt_4o-mini_parts_2.txt"
+    data_file = Path('..') / "output" / "wynik_gpt_4o_parts.txt"
     with open(data_file, 'r', encoding='utf-8') as f:
         results = f.readlines()
         results = [x.strip() for x in results]
@@ -49,20 +49,21 @@ if __name__ == "__main__":
         relations.append(relation)
 
     dot = Digraph(comment="Knowledge Graph")
+    dot.engine = "dot"
 
     # Add nodes
     for node in relations:
-        dot.node(name=node["subject"]+ f' ({node["subject_type"]})', label=node["subject"]+ f' ({node["subject_type"]})', color="black")
+        dot.node(name=node["subject"]+ f' \n({node["subject_type"]})', label=node["subject"]+ f' \n({node["subject_type"]})', color="black")
 
     # Add edges
     for edge in relations:
         dot.edge(
-            tail_name=str(edge["subject"]) + f' ({edge["subject_type"]})',
-            head_name=str(edge["object"])+ f' ({edge["object_type"]})',
+            tail_name=str(edge["subject"]) + f' \n({edge["subject_type"]})',
+            head_name=str(edge["object"])+ f' \n({edge["object_type"]})',
             label=edge["predicate"],
             color="green",
         )
 
     # Render the graph
     dot_u = dot.unflatten(stagger=3)
-    dot_u.render("knowledge_graph_parts.gv", view=True)
+    dot_u.render("knowledge_graph_4o_parts.gv", view=True)

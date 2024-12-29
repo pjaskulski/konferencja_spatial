@@ -9,8 +9,8 @@ import openai
 from openai import OpenAI
 
 
-MODEL = "gpt-4o-mini"
-#MODEL = "gpt-4o"
+#MODEL = "gpt-4o-mini"
+MODEL = "gpt-4o"
 
 # api key
 env_path = Path(".") / ".env"
@@ -101,16 +101,12 @@ predicat_list_with_descripton = [
         "description": "babcia osoby będącej podmiotem relacji"
     },
     {
-        "name": "hasChild",
-        "description": "dziecko osoby będącej podmiotem relacji"
-    },
-    {
         "name": "significantFigure",
-        "description": "znacząca osoba (współpracownik, przyjaciel) dla osoby będącej podmiotem relacji",
+        "description": "znacząca (ważna) osoba (współpracownik, przyjaciel) dla osoby będącej podmiotem relacji",
     },
     {
         "name": "relatedInstitution",
-        "description": "instytucja związana z osobą będącą podmiotem relacji",
+        "description": "instytucja związana z osobą będącą podmiotem relacji, np. instytucja gdzie osoba pracowała",
     },
     {
         "name": "illegitimatePartner",
@@ -134,15 +130,15 @@ predicat_list_with_descripton = [
     },
     {
         "name": "positionHeld",
-        "description": "stanowisko (praca) zajmowane przez osoby będącej podmiotem relacji",
+        "description": "stanowisko (w pracy) zajmowane przez osoby będącej podmiotem relacji",
     },
     {
         "name": "placeOfStudy",
-        "description": "miejsce nauki (miejscowość) osoby będącej podmiotem relacji",
+        "description": "miejsce nauki (nazwa szkoły wraz z miejscowością) osoby będącej podmiotem relacji",
     },
     {
         "name": "placeOfWork",
-        "description": "miejsce pracy (miejscowość) osoby będącej podmiotem relacji",
+        "description": "miejsce pracy (nazwa instytucji, urzędu, firmy) osoby będącej podmiotem relacji",
     },
     {
         "name": "placeOfResidence",
@@ -197,16 +193,9 @@ class RelationCollection(BaseModel):
 
 
 # ---------------------------- FUNCTIONS ---------------------------------------
-def show_results(result: RelationCollection):
+def show_results(result: list):
     """ wyświetlenie wyników """
-    licznik = 0
-    for rel in result.relations:
-        licznik += 1
-        print(f'{licznik}.')
-        print('Przemyślenia:')
-        for cot in rel.chain_of_thought:
-            print(cot)
-        print()
+    for rel in result:
         print(f'subject  : {rel.subject}')
         print(f'predicate: {rel.predicate}')
         print(f'object   : {rel.object}')
@@ -230,11 +219,15 @@ if __name__ == "__main__":
 
     """
 
-    # wczytanie tekstu testowego biogramu podzielonego na części
-    parts = ["Dabrowski_Adam_1.txt", "Dabrowski_Adam_2.txt", "Dabrowski_Adam_3.txt"]
-    for part in parts:
-        print(f'Część: {part}')
+    # lista unikalnych wyników
+    result_list = []
+    unique_relations = []
 
+    # testowy biogram podzielony na części
+    parts = ["Dabrowski_Adam_1.txt", "Dabrowski_Adam_2.txt", "Dabrowski_Adam_3.txt"]
+
+    # wczytanie tekstu i przetwarzanie każdej części
+    for part in parts:
         data_file = Path('..') / "data" / part
         with open(data_file, 'r', encoding='utf-8') as f:
             biogram = f.read()
@@ -245,16 +238,24 @@ if __name__ == "__main__":
         """
 
         # Extract structured data from natural language
-        # do przetestowania:
-        #  -- wielokrotne przetwarzanie tego samego tekstu i uwzględnienie unikalnych znalezisk
-        res = client.chat.completions.create(
-            model=MODEL,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
-            response_model=RelationCollection,
-            temperature = 0
-        )
+        # wielokrotne przetwarzanie tego samego tekstu i uwzględnienie unikalnych znalezisk
+        for i in range(0,3):
+            res = client.chat.completions.create(
+                model=MODEL,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ],
+                response_model=RelationCollection,
+                temperature = 0
+            )
 
-        show_results(res)
+            # filtr unikalnych relacji
+            for relation in res.relations:
+                triple = (relation.subject.name, relation.predicate, relation.object.name)
+                if triple not in result_list:
+                    unique_relations.append(relation)
+                    result_list.append(triple)
+
+    # lista wyników
+    show_results(unique_relations)
