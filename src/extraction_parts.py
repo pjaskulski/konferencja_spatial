@@ -4,6 +4,7 @@ from typing import List, Optional
 from pathlib import Path
 from dotenv import load_dotenv
 import instructor
+from instructor import Mode
 from pydantic import BaseModel, Field
 import openai
 from openai import OpenAI
@@ -205,6 +206,7 @@ def show_results(result: list):
 # ------------------------------ MAIN ------------------------------------------
 if __name__ == "__main__":
     client = instructor.from_openai(OpenAI())
+    client = instructor.from_openai(OpenAI(), mode=Mode.TOOLS_STRICT)
 
     system_prompt = f"""
     Jesteś asystentem historyka badającego biografie postaci historycznych.

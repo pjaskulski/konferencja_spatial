@@ -53,13 +53,13 @@ if __name__ == "__main__":
 
     # Add nodes
     for node in relations:
-        dot.node(name=node["subject"]+ f' \n({node["subject_type"]})', label=node["subject"]+ f' \n({node["subject_type"]})', color="black")
+        dot.node(name=node["subject"]+ f' \n(instanceOf - {node["subject_type"]})', label=node["subject"]+ f' \n(instanceOf - {node["subject_type"]})', color="black")
 
     # Add edges
     for edge in relations:
         dot.edge(
-            tail_name=str(edge["subject"]) + f' \n({edge["subject_type"]})',
-            head_name=str(edge["object"])+ f' \n({edge["object_type"]})',
+            tail_name=str(edge["subject"]) + f' \n(instanceOf - {edge["subject_type"]})',
+            head_name=str(edge["object"])+ f' \n(instanceOf - {edge["object_type"]})',
             label=edge["predicate"],
             color="green",
         )

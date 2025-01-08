@@ -4,7 +4,11 @@ from typing import List, Optional
 from pathlib import Path
 from dotenv import load_dotenv
 import instructor
-from pydantic import BaseModel, Field
+from instructor import Mode
+from instructor import llm_validator
+from pydantic import BaseModel, Field, ValidationError, field_validator
+from pydantic.functional_validators import AfterValidator
+from typing import Annotated
 import openai
 from openai import OpenAI
 
@@ -27,11 +31,11 @@ predicat_list_with_descripton = [
     },
     {
         "name": "dateOfBirth",
-        "description": "data urodzenia dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00",
+        "description": "data urodzenia dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany pomiń je stosując krótki format YYYY-MM lub YYYY",
     },
     {
         "name": "dateOfDeath",
-        "description": "data śmierci dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00",
+        "description": "data śmierci dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany pomiń je stosując krótki format YYYY-MM lub YYYY",
     },
     {
         "name": "placeOfBirth",
@@ -172,7 +176,7 @@ for item in predicat_list_with_descripton:
 
 type_list = ["osoba", "miejscowość", "kraj", "góra", "rzeka", "jezioro", "staw",
              "morze", "data", "instytucja", "stanowisko", "zawód", "jednostka wojskowa",
-             "inny obiekt"]
+             "obiekt gospodarczy", "dzieło", "tytuł", "wydarzenie", "kwota", "inny obiekt"]
 
 type_list_str = ", ".join(type_list)
 
@@ -182,6 +186,15 @@ class ObjectModel(BaseModel):
     name: str = Field(description="nazwa obiektu np. Arnold Kowiński, Kraków, rzeka Wisła, potok, miasto, zbroja, pług")
     type: str = Field(description="typ obiektu")
     description: Optional[str] = Field(description="Dodatkowy (opcjonalny) opis znalezionego obiektu, pochodzący wyłącznie z analizownego tekstu.")
+
+    @field_validator('type')
+    @classmethod
+    def type_only_from_list(cls, value:str) -> str:
+        """ kontrola pola z typem obiektu """
+        if value not in type_list:
+            raise ValueError(f"'{value}' - value outside the expected list of types")
+
+        return value
 
 class RelationModel(BaseModel):
     chain_of_thought: List[str] = Field(
@@ -194,6 +207,13 @@ class RelationModel(BaseModel):
 
 class RelationCollection(BaseModel):
     relations: List[RelationModel] = Field(description="Lista relacji między obiektami występujacymi w tekście")
+
+class ValidateTriple(BaseModel):
+    chain_of_thought: List[str] = Field(
+        ...,
+        description="Kroki wyjaśniające prowadzące do oceny poprawności relacji. Te kroki powinny dostarczać szczegółowego uzasadnienia decyzji o poprawności lub nie."
+    )
+    result: bool = Field(description="Ocena poprawności analizowanej relacji Prawda/Fałsz (True/False)")
 
 
 # ---------------------------- FUNCTIONS ---------------------------------------
@@ -213,9 +233,42 @@ def show_results(result: RelationCollection):
         print('---')
 
 
+def triple_validation(client, relation_to_test:RelationModel, biogram_to_test:str):
+    relation_txt = f'<{relation_to_test.subject.name} -> {relation_to_test.predicate} -> {relation_to_test.object.name}>'
+
+    print(relation_txt)
+
+    sys_prompt = """
+    Jesteś pomocnym asystentem historyka, badającym poprawność przedstawionych twierdzeń (relacji)
+    <subject -> predicate -> object>
+    na podstawie analizy przedstawionego tekstu, zwracasz wartość logiczną True lub False"
+    """
+
+    test_prompt = f""""
+    Relacja do zweryfikowania:
+    {relation_txt}
+    na podstawie tekstu:
+    {biogram_to_test}
+    """
+
+    result = client.chat.completions.create(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": sys_prompt},
+                {"role": "user", "content": test_prompt}
+            ],
+            response_model=ValidateTriple,
+            temperature = 0,
+            max_retries=3
+        )
+
+    return result.result
+
+
 # ------------------------------ MAIN ------------------------------------------
 if __name__ == "__main__":
     client = instructor.from_openai(OpenAI())
+    #client = instructor.from_openai(OpenAI(), mode=Mode.TOOLS_STRICT)
 
     # wczytanie tekstu testowego biogramu
     data_file = Path('..') / "data" / "Dabrowski_Adam.txt"
@@ -244,14 +297,30 @@ if __name__ == "__main__":
     # do przetestowania:
     #  -- wielokrotne przetwarzanie tego samego tekstu i uwzględnienie unikalnych znalezisk
     #  -- przetwarzanie mniejszych części tekstu - podział na grupy zdań i przetwarzanie ich osobno
-    res = client.chat.completions.create(
-        model=MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ],
-        response_model=RelationCollection,
-        temperature = 0
-    )
+
+    try:
+        res = client.chat.completions.create(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            response_model=RelationCollection,
+            temperature = 0,
+            max_retries=3
+        )
+    except ValidationError as e:
+        print(e)
+
+    # walidacja poprawności znalezionych relacji przez LLM często oznacza
+    # poprawne relacje jako fałszywe - do zbadania.
+
+    # for item in res.relations:
+    #     valid = triple_validation(client, item, biogram)
+    #     if not valid:
+    #         res.relations.remove(item)
+    #         print(valid, item)
+    #     else:
+    #         print(valid)
 
     show_results(res)
