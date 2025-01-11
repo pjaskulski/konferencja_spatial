@@ -4,6 +4,8 @@ import time
 import json
 from pathlib import Path
 from typing import List
+import logging
+import logging.config
 from dotenv import load_dotenv
 from wikibaseintegrator import WikibaseIntegrator, wbi_login
 from wikibaseintegrator.wbi_config import config as wbi_config
@@ -13,6 +15,7 @@ from openai import OpenAI
 import instructor
 from pydantic import BaseModel, Field
 from geopy.geocoders import Nominatim
+from ratelimit import limits
 
 
 # adresy dla API Wikibase (instancja docelowa)
@@ -152,7 +155,7 @@ def search_wikihum(nazwa:str, typ_obiektu:str) -> list:
 
 
     except Exception as e:
-        print(f"Wystąpił błąd podczas wyszukiwania: {e}")
+        logging.error("Wystąpił błąd podczas wyszukiwania: %s", e)
         return None
 
 
@@ -221,33 +224,27 @@ def search_wikidata(nazwa:str, typ_obiektu:str) -> list:
 
         return []  # Zwracamy pustą listę, gdy brak wyników
 
-
     except Exception as e:
-       print(f"Wystąpił błąd podczas wyszukiwania: {e}")
-       return None
+        logging.error("Wystąpił błąd podczas wyszukiwania: %s", e)
+        return None
 
 
+# by nie przekroczyć limitów serwera nominatim
+@limits(calls=20, period=60)
 def search_nominatim(nazwa:str) -> tuple:
     """ wyszukiwanie miejscowości w serwisie Nominatim (OpenStreetMap) """
 
     geolocator = Nominatim(user_agent="WikiHum KG creator")
     location = geolocator.geocode(query=nazwa, namedetails=True, extratags=True)
 
-    # przerwa by nie przekroczyć limitów serwera nominatim
-    time.sleep(1.0)
-
     if location:
         # wyniki tylko z odpowiednio dużą wagą
-        importance = location.raw.get('importance')
+        importance = location.raw.get('importance', 0)
         if float(importance) >= 0.4:
             nom_id = location.raw.get('place_id', None)
-            extra = location.raw.get('extratags', None)
-            if extra:
-                nom_wikidata = extra.get('wikidata', None)
-            else:
-                nom_wikidata = None
+            extra = location.raw.get('extratags', {})
+            nom_wikidata = extra.get('wikidata', None)
             nom_name = location.raw.get('display_name', None)
-
             return nom_id, nom_wikidata, nom_name
 
     return None, None, None
@@ -293,127 +290,13 @@ def select_item(candidate_list:list, expected:str) -> str:
     return res.best_fit
 
 
-# ------------------------------ MAIN ------------------------------------------
-if __name__ == "__main__":
+def save_json_kg(relations:list, output_file:str):
+    """ zapis wyników w pliku json """
+    data = []
 
-    # pomiar czasu wykonania
-    start_time = time.time()
-
-    # wczytanie wyników pracy modelu LLM (triplety do grafu wiedzy)
-    print('Wczytanie danych...')
-
-    input_path = Path('..') / "output" / "Adam_Dabrowski.json"
-    with open(input_path, 'r', encoding='utf-8') as f_in:
-        json_data = json.load(f_in)
-        relations = json_data['triplets']
-
-    znane_subject = {}
-    znane_object = {}
     subjects_instance_of = {} # lista unikalnych subjektów
     objects_instance_of = {} # lista unikalnych obiektów
 
-    print("Identyfikacja osób i miejscowości...")
-
-    for relation in relations:
-        print(relation["subject"], '->', relation["predicate"], '->', relation["object"])
-
-        # property
-        predicate = relation["predicate"]
-        if predicate in wikihum_properties:
-            relation["predicate_wikihum_p"] = wikihum_properties[predicate]
-        else:
-            relation["predicate_wikihum_p"] = f'[{predicate}]'
-
-        # instance of dla subject
-        subject_type = relation["subject_type"]
-        if subject_type in wikihum_elements:
-            relation["subject_instance_of"] = wikihum_elements[subject_type]
-        else:
-            relation["subject_instance_of"] = f'[{subject_type}]'
-
-        # instance of dla object
-        object_type = relation["object_type"]
-        if object_type in wikihum_elements:
-            relation["object_instance_of"] = wikihum_elements[object_type]
-        else:
-            if object_type != 'data':
-                relation["object_instance_of"] = f'[{object_type}]'
-
-        # próba identyfikacji osób i miejsc w subject
-        if (relation["subject_type"] in ["osoba", "miejscowość"]
-                and relation["subject"] not in znane_subject):
-            # wyszukiwanie w wikihum
-            candidates = search_wikihum(relation["subject"], relation["subject_type"])
-            if candidates:
-                dane = f'NAZWA: {relation["subject"]} ({relation["subject_type"]})\nOPIS: {relation["subject_description"]} '
-                identified_item = select_item(candidates, dane)
-                if identified_item and identified_item.strip() != "":
-                    relation["subject_qid"] = identified_item
-                    znane_subject[(relation["subject"], relation["subject_type"])] = identified_item
-        elif (relation["subject"], relation["subject_type"]) in znane_subject:
-            relation["subject_qid"] = znane_subject[(relation["subject"], relation["subject_type"])]
-        else:
-            # wyszukiwanie w wikidata
-            candidates = search_wikidata(relation["subject"], relation["subject_type"])
-            if candidates:
-                dane = f'NAZWA: {relation["subject"]} ({relation["subject_type"]})\nOPIS: {relation["subject_description"]} '
-                identified_item = select_item(candidates, dane)
-                if identified_item and identified_item.strip() != "":
-                    relation["subject_wikidata"] = identified_item
-
-        # subject: wyszukiwanie w Nominatim (tylko miejscowości)
-        if ("subject_qid" not in relation and "subject_wikidata" not in relation
-                and relation["subject_type"] == "miejscowość"):
-            n_id, n_wikidata, n_name = search_nominatim(relation["subject"])
-            if n_id:
-                relation["subject_nominatim"] = n_id
-                if n_wikidata:
-                    relation["subject_wikidata"] = n_wikidata
-                if n_name:
-                    relation["subject_nominatim_name"] = n_name
-
-        if "subject_qid" not in relation and relation["subject_type"] != "data":
-            relation["subject_qid"] = "NEW"
-
-        # próba identyfikacji osób i miejsc w object
-        if relation["object_type"] in ["osoba", "miejscowość"] and relation["object"] not in znane_object:
-            # wyszukiwanie w wikihum
-            candidates = search_wikihum(relation["object"], relation["object_type"])
-            if candidates:
-                dane = f'NAZWA: {relation["object"]} ({relation["object_type"]})\nOPIS: {relation["object_description"]} '
-                identified_item = select_item(candidates, dane)
-                if identified_item and identified_item.strip() != "":
-                    relation["object_qid"] = identified_item
-                    znane_object[(relation["object"], relation["object_type"])] = identified_item
-        elif (relation["object"], relation["object_type"]) in znane_object:
-            relation["object_qid"] = znane_object[(relation["object"], relation["object_type"])]
-        else:
-             # wyszukiwanie w wikidata
-            candidates = search_wikidata(relation["object"], relation["object_type"])
-            if candidates:
-                dane = f'NAZWA: {relation["object"]} ({relation["object_type"]})\nOPIS: {relation["object_description"]} '
-                identified_item = select_item(candidates, dane)
-                if identified_item and identified_item.strip() != "":
-                    relation["object_wikidata"] = identified_item
-
-        # object: wyszukiwanie w Nominatim (tylko miejscowości)
-        if ("object_qid" not in relation and "object_wikidata" not in relation
-                and relation["object_type"] == "miejscowość"):
-            n_id, n_wikidata, n_name = search_nominatim(relation["object"])
-            if n_id:
-                relation["object_nominatim"] = n_id
-                if n_wikidata:
-                    relation["object_wikidata"] = n_wikidata
-                if n_name:
-                    relation["object_nominatim_name"] = n_name
-
-        if "object_qid" not in relation and relation["object_type"] != "data":
-            relation["object_qid"] = "NEW"
-
-
-    # zapis wyników w pliku json
-    print("Zapis wyników w pliku json...")
-    data = []
     for relation in relations:
         # subject
         r_subject = {
@@ -421,8 +304,8 @@ if __name__ == "__main__":
                 "type": relation["subject_type"],
                 "description": relation["subject_description"]
             }
-        if "subject_qid" in relation:
-            r_subject["wikihum"] = relation["subject_qid"]
+        if "subject_wikihum" in relation:
+            r_subject["wikihum"] = relation["subject_wikihum"]
         if "subject_wikidata" in relation:
             r_subject["wikidata"] = relation["subject_wikidata"]
         if "subject_nominatim" in relation:
@@ -436,8 +319,8 @@ if __name__ == "__main__":
                 "type": relation["object_type"],
                 "description": relation["object_description"],
             }
-        if "object_qid" in relation:
-            r_object["wikihum"] = relation["object_qid"]
+        if "object_wikihum" in relation:
+            r_object["wikihum"] = relation["object_wikihum"]
         if "object_wikidata" in relation:
             r_object["wikidata"] = relation["object_wikidata"]
         if "object_nominatim" in relation:
@@ -480,15 +363,160 @@ if __name__ == "__main__":
                 data.append(item)
                 objects_instance_of[(relation["object"], relation["object_instance_of"])] = relation["object_instance_of"]
 
-
     output = {"triplets": data}
 
-    output_path = Path('..') / "output" / "Adam_Dabrowski_KG.json"
+    output_path = Path('..') / "output" / output_file
     with open(output_path, 'w', encoding='utf-8') as f_out:
         json.dump(output, f_out, indent=4, ensure_ascii=False)
 
 
+def read_json(input_file:str):
+    """ wczytanie danych z pliku json """
+    input_path = Path('..') / "output" / input_file
+    with open(input_path, 'r', encoding='utf-8') as f_in:
+        json_data = json.load(f_in)
+
+    return json_data['triplets']
+
+
+def update_relations(relation:dict, d_subject:tuple, d_object:tuple):
+    """ aktualizacja danych w słowniku relation """
+    subject_qid, subject_wikidata, subject_nominatim, subject_nominatim_name = d_subject
+    object_qid, object_wikidata, object_nominatim, object_nominatim_name = d_object
+
+    if subject_qid:
+        relation["subject_wikihum"] = subject_qid
+    if subject_wikidata:
+        relation["subject_wikidata"] = subject_wikidata
+    if subject_nominatim:
+        relation["subject_nominatim"] = subject_nominatim
+    if subject_nominatim_name:
+        relation["subject_nominatim_name"] = subject_nominatim_name
+
+    if object_qid:
+        relation["object_wikihum"] = object_qid
+    if object_wikidata:
+        relation["object_wikidata"] = object_wikidata
+    if object_nominatim:
+        relation["object_nominatim"] = object_nominatim
+    if object_nominatim_name:
+        relation["object_nominatim_name"] = object_nominatim_name
+
+
+def process_element(element:str,
+                    element_type:str,
+                    element_description:str,
+                    znane:dict) -> tuple:
+    """ identyfikacja osób i miejscowości w subject """
+    element_qid = element_wikidata = element_nominatim = element_nominatim_name = None
+
+    if (element_type in ["osoba", "miejscowość"]
+            and element not in znane
+            and not element.strip()[0].islower()):
+        # wyszukiwanie w wikihum
+        candidates = search_wikihum(element, element_type)
+        if candidates:
+            dane = f'NAZWA: {element} ({element_type})\nOPIS: {element_description} '
+            identified_item = select_item(candidates, dane)
+            if identified_item and identified_item.strip() != "":
+                element_qid = identified_item
+                znane[(element, element_type)] = identified_item
+    elif (element, element_type) in znane:
+        element_qid = znane[(element, element_type)]
+    else:
+        # wyszukiwanie w wikidata
+        candidates = search_wikidata(element, element_type)
+        if candidates:
+            dane = f'NAZWA: {element} ({element_type})\nOPIS: {element_description} '
+            identified_item = select_item(candidates, dane)
+            if identified_item and identified_item.strip() != "":
+                element_wikidata = identified_item
+
+    # subject: wyszukiwanie w Nominatim (tylko miejscowości)
+    if (not element_qid and not element_wikidata
+            and element_type == "miejscowość"):
+        n_id, n_wikidata, n_name = search_nominatim(element)
+        if n_id:
+            element_nominatim = n_id
+            if n_wikidata:
+                element_wikidata = n_wikidata
+            if n_name:
+                element_nominatim_name = n_name
+
+    if not element_qid and element_type != "data":
+        element_qid = "NEW"
+
+    return element_qid, element_wikidata, element_nominatim, element_nominatim_name
+
+
+# ------------------------------ MAIN ------------------------------------------
+if __name__ == "__main__":
+
+    # pomiar czasu wykonania
+    start_time = time.time()
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s %(levelname)-4s %(message)s',
+        datefmt='%m-%d %H:%M:%S')
+    logging.RootLogger.manager.getLogger('httpx').disabled = True
+
+    # wczytanie wyników pracy modelu LLM (triplety do grafu wiedzy)
+    logging.info('Wczytanie danych...')
+
+    relations = read_json(input_file="Adam_Dabrowski.json")
+
+    znane_subject = {}
+    znane_object = {}
+
+    logging.info("Identyfikacja osób i miejscowości...")
+
+    for relation in relations:
+        logging.info(relation["subject"] + ' -> ' + relation["predicate"] + ' -> ' + relation["object"])
+
+        # property
+        predicate = relation["predicate"]
+        if predicate in wikihum_properties:
+            relation["predicate_wikihum_p"] = wikihum_properties[predicate]
+        else:
+            relation["predicate_wikihum_p"] = f'[{predicate}]'
+
+        # instance of dla subject
+        subject_type = relation["subject_type"]
+        if subject_type in wikihum_elements:
+            relation["subject_instance_of"] = wikihum_elements[subject_type]
+        else:
+            relation["subject_instance_of"] = f'[{subject_type}]'
+
+        # instance of dla object
+        object_type = relation["object_type"]
+        if object_type in wikihum_elements:
+            relation["object_instance_of"] = wikihum_elements[object_type]
+        else:
+            if object_type != 'data':
+                relation["object_instance_of"] = f'[{object_type}]'
+
+        # próba identyfikacji osób i miejsc w subject
+        data_subject = process_element(element=relation["subject"],
+                                                   element_type=relation["subject_type"],
+                                                   element_description=relation["subject_description"],
+                                                   znane=znane_subject)
+
+        # próba identyfikacji osób i miejsc w object
+        data_object = process_element(element=relation["object"],
+                                                   element_type=relation["object_type"],
+                                                   element_description=relation["object_description"],
+                                                   znane=znane_object)
+
+        update_relations(relation=relation, d_subject=data_subject, d_object=data_object)
+
+
+    # zapis wyników w pliku json
+    logging.info("Zapis wyników w pliku json...")
+
+    save_json_kg(relations=relations, output_file="Adam_Dabrowski_KG.json")
+
     # czas wykonania programu
     end_time = time.time()
     elapsed_time = end_time - start_time
-    print(f'Czas wykonania programu: {time.strftime("%H:%M:%S", time.gmtime(elapsed_time))} s.')
+    logging.info("Czas wykonania programu: %s s.",time.strftime("%H:%M:%S", time.gmtime(elapsed_time)))
