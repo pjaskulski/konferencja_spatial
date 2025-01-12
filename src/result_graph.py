@@ -1,69 +1,61 @@
 """ graf na podstawie wyników """
+import json
 from pathlib import Path
 from graphviz import Digraph
+
+
+# ----------------------------- FUNCTIONS --------------------------------------
+def read_json(input_file:str):
+    """ wczytanie danych z pliku json """
+    input_path = Path('..') / "output" / input_file
+    with open(input_path, 'r', encoding='utf-8') as f_in:
+        json_data = json.load(f_in)
+
+    return json_data['triplets']
 
 
 # ------------------------------ MAIN ------------------------------------------
 if __name__ == "__main__":
 
     # wczytanie wyników
-    data_file = Path('..') / "output" / "wynik_gpt_4o_parts.txt"
-    with open(data_file, 'r', encoding='utf-8') as f:
-        results = f.readlines()
-        results = [x.strip() for x in results]
+    biogram_file = "Adam_Dabrowski_KG.json"
+    relations = read_json(input_file=biogram_file)
 
-    relations = []
-    relation = {}
-
-    for line in results:
-        if line == "---":
-            relations.append(relation)
-            relation = {}
-        elif line.startswith("subject  :"):
-            line = line.replace("subject  :","").strip()
-            tmp = line.split("' ")
-            for item in tmp:
-                tmp2 = item.split("=")
-                if tmp2[0].strip() == "name":
-                    relation["subject"] = tmp2[1].strip().strip("'")
-                elif tmp2[0].strip() == "type":
-                    relation["subject_type"] = tmp2[1].strip().strip("'")
-                elif tmp2[0].strip() == "description":
-                    relation["subject_description"] = tmp2[1].strip().strip("'")
-        elif line.startswith("predicate:"):
-            line = line.replace("predicate:","").strip()
-            relation["predicate"] = line
-        elif line.startswith("object   :"):
-            line = line.replace("object   :","").strip()
-            tmp = line.split("' ")
-            for item in tmp:
-                tmp2 = item.split("=")
-                if tmp2[0].strip() == "name":
-                    relation["object"] = tmp2[1].strip().strip("'")
-                elif tmp2[0].strip() == "type":
-                    relation["object_type"] = tmp2[1].strip().strip("'")
-                elif tmp2[0].strip() == "description":
-                    relation["object_description"] = tmp2[1].strip().strip("'")
-
-    if relation:
-        relations.append(relation)
-
+    # graf
     dot = Digraph(comment="Knowledge Graph")
     dot.engine = "dot"
 
     # Add nodes
     for node in relations:
-        dot.node(name=node["subject"]+ f' \n(instanceOf - {node["subject_type"]})', label=node["subject"]+ f' \n(instanceOf - {node["subject_type"]})', color="black")
+        subject = node["subject"]["name"]
+        if "wikihum" in node["subject"]:
+            subject += f'\n[{node["subject"]["wikihum"].replace("[","").replace("]","")}]'
+
+        dot.node(name=subject, label=subject, color="black")
 
     # Add edges
     for edge in relations:
+        predicate = edge["predicate"]["name"]
+        if "wikihum" in edge["predicate"]:
+            predicate += f'\n[{edge["predicate"]["wikihum"].replace("[","").replace("]","")}]'
+        e_subject = edge["subject"]["name"]
+        if "wikihum" in edge["subject"]:
+            e_subject += f'\n[{edge["subject"]["wikihum"].replace("[","").replace("]","")}]'
+
+        e_object = ""
+        if "name" in edge["object"]:
+            e_object = edge["object"]["name"]
+        if "wikihum" in edge["object"]:
+            e_object += f'\n[{edge["object"]["wikihum"].replace("[","").replace("]","")}]'
+
         dot.edge(
-            tail_name=str(edge["subject"]) + f' \n(instanceOf - {edge["subject_type"]})',
-            head_name=str(edge["object"])+ f' \n(instanceOf - {edge["object_type"]})',
-            label=edge["predicate"],
+            tail_name=e_subject,
+            head_name=e_object,
+            label=predicate,
             color="green",
         )
 
     # Render the graph
+    output_file = biogram_file.replace(".json", ".gv")
     dot_u = dot.unflatten(stagger=3)
-    dot_u.render("knowledge_graph_4o_parts.gv", view=True)
+    dot_u.render(filename=output_file, view=True)
