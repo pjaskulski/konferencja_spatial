@@ -262,9 +262,6 @@ if __name__ == "__main__":
         min_sentences_per_chunk=2        # Minimum sentences in each chunk
     )
 
-    # testowy biogram podzielony na części
-    #parts = ["Dabrowski_Adam_1.txt", "Dabrowski_Adam_2.txt", "Dabrowski_Adam_3.txt"]
-
     chunks = chunker.chunk(text)
 
     parts = []
@@ -303,7 +300,9 @@ if __name__ == "__main__":
 
             # filtr unikalnych relacji
             for relation in res.relations:
-                triple = (relation.subject.name, relation.predicate, relation.object.name)
+                triple = (relation.subject.name.lower(),
+                          relation.predicate.lower(),
+                          relation.object.name.lower())
                 if triple not in result_list:
                     unique_relations.append(relation)
                     result_list.append(triple)
