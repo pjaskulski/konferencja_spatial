@@ -1,5 +1,6 @@
 """ knowledge extraction from text (test przetwarznia biogramu w częściach) """
 import os
+import json
 from typing import List, Optional
 from pathlib import Path
 from dotenv import load_dotenv
@@ -8,6 +9,7 @@ from instructor import Mode
 from pydantic import BaseModel, Field
 import openai
 from openai import OpenAI
+from chonkie import SentenceChunker
 
 
 #MODEL = "gpt-4o-mini"
@@ -203,9 +205,33 @@ def show_results(result: list):
         print('---')
 
 
+def save_results(result:List[RelationModel], output_file:str):
+    """ zapis wyników w pliku json"""
+    data = []
+    output = {}
+    for rel in result:
+        item = {
+                "subject": rel.subject.name,
+                "subject_type": rel.subject.type,
+                "subject_description": rel.subject.description,
+                "predicate": rel.predicate,
+                "object": rel.object.name,
+                "object_type": rel.object.type,
+                "object_description": rel.object.description
+            }
+        data.append(item)
+
+    output = {"triplets": data}
+
+    output_path = Path('..') / "output" / output_file
+    with open(output_path, 'w', encoding='utf-8') as f_out:
+        json.dump(output, f_out, indent=4, ensure_ascii=False)
+
+
+
 # ------------------------------ MAIN ------------------------------------------
 if __name__ == "__main__":
-    client = instructor.from_openai(OpenAI())
+    #client = instructor.from_openai(OpenAI())
     client = instructor.from_openai(OpenAI(), mode=Mode.TOOLS_STRICT)
 
     system_prompt = f"""
@@ -225,14 +251,37 @@ if __name__ == "__main__":
     result_list = []
     unique_relations = []
 
+    input_path = Path('..') / "data" / "Dabrowski_Adam.txt"
+    with open(input_path, 'r', encoding='utf-8') as f:
+        text = f.read()
+
+    chunker = SentenceChunker(
+        tokenizer="gpt2",                # Supports string identifiers
+        chunk_size=384,                  # Maximum tokens per chunk
+        chunk_overlap=32,                # Overlap between chunks
+        min_sentences_per_chunk=2        # Minimum sentences in each chunk
+    )
+
     # testowy biogram podzielony na części
-    parts = ["Dabrowski_Adam_1.txt", "Dabrowski_Adam_2.txt", "Dabrowski_Adam_3.txt"]
+    #parts = ["Dabrowski_Adam_1.txt", "Dabrowski_Adam_2.txt", "Dabrowski_Adam_3.txt"]
+
+    chunks = chunker.chunk(text)
+
+    parts = []
+    licznik = 0
+    for chunk in chunks:
+        licznik += 1
+        if licznik == 1:
+            first_sentence = chunk.sentences[0].text
+            if ')' in first_sentence:
+                first_sentence = first_sentence[:first_sentence.find(')')+1]
+            part = chunk.text
+        else:
+            part = first_sentence + '\n' + chunk.text
+        parts.append(part)
 
     # wczytanie tekstu i przetwarzanie każdej części
-    for part in parts:
-        data_file = Path('..') / "data" / part
-        with open(data_file, 'r', encoding='utf-8') as f:
-            biogram = f.read()
+    for biogram in parts:
 
         user_prompt = f"""
         Tekst do analizy:
@@ -261,3 +310,4 @@ if __name__ == "__main__":
 
     # lista wyników
     show_results(unique_relations)
+    save_results(unique_relations, "Adam_Dabrowski.json")
