@@ -1,4 +1,5 @@
 """ graf na podstawie wyników """
+import os
 import json
 from pathlib import Path
 from graphviz import Digraph
@@ -7,55 +8,68 @@ from graphviz import Digraph
 # ----------------------------- FUNCTIONS --------------------------------------
 def read_json(input_file:str):
     """ wczytanie danych z pliku json """
-    input_path = Path('..') / "output" / input_file
+    input_path = Path('..') / "output_dataset_gemini" / input_file
     with open(input_path, 'r', encoding='utf-8') as f_in:
         json_data = json.load(f_in)
 
     return json_data['triplets']
 
 
-# ------------------------------ MAIN ------------------------------------------
-if __name__ == "__main__":
-
-    # wczytanie wyników
-    biogram_file = "Adam_Dabrowski_KG.json"
-    relations = read_json(input_file=biogram_file)
-
-    # graf
+def visualize_knowledge_graph(kg:list, filename:str):
+    """ zapis grafu w pliku pdf """
     dot = Digraph(comment="Knowledge Graph")
-    dot.engine = "dot"
 
     # Add nodes
-    for node in relations:
-        subject = node["subject"]["name"]
-        if "wikihum" in node["subject"]:
-            subject += f'\n[{node["subject"]["wikihum"].replace("[","").replace("]","")}]'
+    for triplet in kg:
+        if triplet.get("subject",{}).get("description", None):
+            node_name = f'{triplet["subject"]["name"]}\n({triplet["subject"]["description"]})'
+            node_label = triplet["subject"]["name"]
+        else:
+            node_name = triplet["subject"]["name"]
+            node_label = triplet["subject"]["name"]
 
-        dot.node(name=subject, label=subject, color="black")
+        dot.node(name=node_name, label=node_label, color="black")
 
-    # Add edges
-    for edge in relations:
-        predicate = edge["predicate"]["name"]
-        if "wikihum" in edge["predicate"]:
-            predicate += f'\n[{edge["predicate"]["wikihum"].replace("[","").replace("]","")}]'
-        e_subject = edge["subject"]["name"]
-        if "wikihum" in edge["subject"]:
-            e_subject += f'\n[{edge["subject"]["wikihum"].replace("[","").replace("]","")}]'
+    # Add edgee
+    for triplet in kg:
+        if triplet.get("subject",{}).get("description", ""):
+            subject_name = f'{triplet["subject"]["name"]}\n({triplet["subject"]["description"]})'
+        else:
+            subject_name = triplet["subject"]["name"]
 
-        e_object = ""
-        if "name" in edge["object"]:
-            e_object = edge["object"]["name"]
-        if "wikihum" in edge["object"]:
-            e_object += f'\n[{edge["object"]["wikihum"].replace("[","").replace("]","")}]'
+        if triplet.get("object",{}).get("description", None):
+            object_name = f'{triplet["object"]["name"]}\n({triplet["object"]["description"]})'
+        else:
+            object_name = triplet["object"]["name"]
 
         dot.edge(
-            tail_name=e_subject,
-            head_name=e_object,
-            label=predicate,
+            tail_name=subject_name,
+            head_name=object_name,
+            #label=triplet["predicate"]["name"],
+            label=triplet["predicate"],
             color="green",
         )
 
     # Render the graph
-    output_file = biogram_file.replace(".json", ".gv")
-    dot_u = dot.unflatten(stagger=3)
-    dot_u.render(filename=output_file, view=True)
+    output_file = filename.replace('.json','.gv')
+    output_path = Path('..') / "output_dataset_gemini" / output_file
+    dot_u = dot.unflatten(stagger=4)
+    dot_u.render(output_path, view=False)
+
+
+# ------------------------------ MAIN ------------------------------------------
+if __name__ == "__main__":
+
+    # dataset
+    data_folder = Path("..") / "output_dataset_gemini"
+    data_file_list = data_folder.glob('*.json')
+
+    for data_file in data_file_list:
+        # nazwa pliku bez ścieżki
+        file_name = os.path.basename(data_file)
+        print(file_name)
+
+        # odczytanie pliku json
+        relations = read_json(input_file=data_file)
+        # zapis grafu w pliku pdf
+        visualize_knowledge_graph(kg=relations, filename=file_name)
