@@ -1,0 +1,38 @@
+[
+    {
+        "name": "osoba",
+        "description": "osoba"
+    },
+    {
+        "name": "miejscowość",
+        "description": "np.: wieś, miasto, przysiółek, folwark"
+    },
+    {
+        "name": "obiekt fizjograficzny",
+        "description": "np.: góra, wzgórze, łąka, las"
+    },
+    {
+        "name": "obiekt hydrologiczny",
+        "description": "np.: rzeka, potok, staw, jezioro"
+    },
+    {
+        "name": "instytucja",
+        "description": "np.: ministerstwo, urząd podatkowy/skarbowy/celny, muzeum itp."
+    },
+    {
+        "name": "organizacja",
+        "description": "np.: stowarzyszenie, towarzystwo, związek zawodowy, partia polityczna, organizacja podziemna/partyzancka, zakon religijny itp."
+    },
+    {
+        "name": "urząd",
+        "description": "urząd (stanowisko) pełniony przez osobę, np.: prezydent, premier, minister, hetman, kanclerz, kasztelan, starosta, rajca, burmistrz, przeor, biskup itp."
+    },
+    {
+        "name": "uczelnia",
+        "description": "szkoła, uniwersytet, seminarium duchowne lub inna instytucja edukacyjna"
+    },
+    {
+        "name": "zawód",
+        "description": "zawód lub funkcja osoby, wykonywany i/lub wyuczony np. nauczyciel, rzemieślnik, rolnik, kupiec, pisarz, wojskowy, rycerz, ksiądz, zakonnik, naukowiec, dyplomata itp."
+    }
+]
