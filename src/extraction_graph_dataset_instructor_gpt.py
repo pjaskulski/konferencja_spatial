@@ -9,7 +9,6 @@ import instructor
 from pydantic import BaseModel, Field
 import openai
 from openai import OpenAI
-from graphviz import Digraph
 
 
 MODEL_O3 = "o3-mini"
@@ -25,165 +24,25 @@ OPENAI_ORG_ID = os.environ.get("OPENAI_ORG_ID")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 openai.api_key = OPENAI_API_KEY
 
-predicat_list_with_descripton = [
-    {
-        "name": "instanceOf",
-        "description": "jest to, czym jest podmiot relacji np. osoba, miejscowość, rzeka, instytucja itp.",
-    },
-    {
-        "name": "dateOfBirth",
-        "description": "data urodzenia dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00",
-    },
-    {
-        "name": "dateOfDeath",
-        "description": "data śmierci dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00",
-    },
-    {
-        "name": "placeOfBirth",
-        "description": "miejsce urodzenia dla osób"
-    },
-    {
-        "name": "placeOfDeath",
-        "description": "miejsce śmierci dla osób"
-    },
-    {
-        "name": "dateOfBurial",
-        "description": "data pochówku (pogrzebu) dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00",
-    },
-    {
-        "name": "placeOfBurial",
-        "description": "miejsce pochówku (grobu) dla osób"
-    },
-    {
-        "name": "hasFather",
-        "description": "ojciec osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasMother",
-        "description": "matka osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasSon",
-        "description": "syn osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasDaughter",
-        "description": "córka osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasBrother",
-        "description": "brat osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasSister", "description": "siostra osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasWife",
-        "description": "żona osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasHusband",
-        "description": "mąż osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasUncle",
-        "description": "wuj osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasAunt",
-        "description": "ciotka osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasCousin",
-        "description": "kuzyn osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasGrandfather",
-        "description": "dziadek osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "hasGrandmother",
-        "description": "babcia osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "significantFigure",
-        "description": "znacząca osoba (współpracownik, przyjaciel) dla osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "relatedInstitution",
-        "description": "instytucja lub organizacja związana z osobą będącą podmiotem relacji",
-    },
-    {
-        "name": "illegitimatePartner",
-        "description": "nieformalny partner osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "hasGrandson",
-        "description": "wnuk osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasGranddaughter",
-        "description": "wnuczka osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "hasOccupation",
-        "description": "zawód (wyuczony, wykonywany) osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "positionHeld",
-        "description": "stanowisko (praca), urząd zajmowane przez osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "placeOfStudy",
-        "description": "szkoła, uczelnia, instytucja edukacyjna w której uczyła się osoba będąca podmiotem relacji",
-    },
-    {
-        "name": "significantLocality",
-        "description": "miejsce, miejscowość związana z osobą będącą podmiotem relacji",
-    },
-    {
-        "name": "causeOfDeath",
-        "description": "przyczyna śmierci osoby będącej podmiotem relacji",
-    },
-    {
-        "name": "nobleTitle ",
-        "description": "tytuł szlachecki lub arystokratyczny (np. (książę, księżna, król, królowa, hrabia, hrabina, baron, baronowa, markiz, markiza itp.) posiadany przez osobę będącą podmiotem relacji",
-    },
-    {
-        "name": "hasAssets",
-        "description": "własność (nieruchomości, majątek, firmy) posiadana przez osobę będącą podmiotem relacji",
-    },
-    {
-        "name": "isAuthorOf",
-        "description": "dzieło, którego autorem jest osoba będąca podmiotem relacji",
-    },
-    {
-        "name": "significantEvent",
-        "description": "znaczące wydarzenie, w którym brała udiał osoba będąca podmiotem relacji"
-    },
-    {
-        "name": "hasAchievement",
-        "description": "znaczące osiągnięcia (sukcesy, nagrody) osoby będąca podmiotem relacji"
-    },
-    {
-        "name": "religiousAffiliation",
-        "description": "wyznanie religijne osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasStepson",
-        "description": "przybrany syn osoby będącej podmiotem relacji"
-    },
-    {
-        "name": "hasStepfather",
-        "description": "przybrany ojciec osoby będącej podmiotem relacji"
-    }
-]
 
-predicat_list = ""
+# lista predykatów (właściwości)
+with open('predicate.json', 'r', encoding='utf-8') as f:
+    predicat_list_with_descripton = json.load(f)
+
+predicat_list_string = ""
 for item in predicat_list_with_descripton:
-    predicat_list += f'{item["name"]} - {item["description"]}\n'
+    predicat_list_string += f'{item["name"]} - {item["description"]}\n'
+
+# lista typów obiektów
+with open('object.json', 'r', encoding='utf-8') as f:
+    object_list_with_descripton = json.load(f)
+
+object_list_string = ""
+for item in object_list_with_descripton:
+    object_list_string += f'{item["name"]} - {item["description"]}\n'
 
 
+# ------------------------------ CLASS -----------------------------------------
 class ObjectModel(BaseModel):
     chain_of_thought: List[str] = Field(
         ...,
@@ -193,7 +52,7 @@ class ObjectModel(BaseModel):
         description="nazwa obiektu np. Arnold Kowiński, Kraków, rzeka Wisła, potok, miasto, zbroja, pług. Ten sam obiekt występujący wielokrotnie w analizowanym tekście powinien mieć przypisaną zawsze tą samą nazwę."
     )
     type: str = Field(
-        description="typ obiektu np. osoba, miejscowość, obiekt fizjograficzny, obiekt hydrologiczny, przedmiot, instytucja, organizacja, urząd, zawód"
+        description=f"typ obiektu np. {object_list_string}"
     )
     description: Optional[str] = Field(
         description="Dodatkowy, opcjonalny opis znalezionego obiektu, pochodzący wyłącznie z analizowanego tekstu. Ten sam obiekt występujący wielokrotnie w analizowanym tekście powinien mieć przypisany zawsze ten sam opis."
@@ -209,7 +68,7 @@ class RelationModel(BaseModel):
         description="podmiot relacji np. Bogdan ma brata: Adama Krzepkowskiego (podmiot: Bogdan)"
     )
     predicate: str = Field(
-        description=f"nazwa relacji zachodzącej między podmiotem a obiektem np. {predicat_list}"
+        description=f"nazwa relacji zachodzącej między podmiotem a obiektem np. {predicat_list_string}"
     )
     object: ObjectModel = Field(
         description="obiekt relacji np. Bogdan ma brata: Adama Krzepkowskiego (obiekt: Adam Krzepkowski)"
@@ -222,47 +81,7 @@ class RelationCollection(BaseModel):
     )
 
 
-def visualize_knowledge_graph(kg: dict, filename:str):
-    """ zapis grafu w pliku pdf """
-    dot = Digraph(comment="Knowledge Graph")
-
-    # Add nodes
-    for node in kg["triplets"]:
-        if "description" in node["subject"] and node["subject"]["description"]:
-            node_name = f'{node["subject"]["name"]}\n({node["subject"]["description"]})'
-            #node_label = node.subject.name
-        else:
-            node_name = node["subject"]["name"]
-            #node_label = node.subject.name
-
-        dot.node(name=node_name, label=node_name, color="black")
-
-    # Add edges
-    for edge in kg["triplets"]:
-        if "description" in edge["subject"] and edge["subject"]["description"]:
-            subject_name = f'{edge["subject"]["name"]}\n({edge["subject"]["description"]})'
-        else:
-            subject_name = edge["subject"]["name"]
-
-        if "description" in edge["object"] and edge["object"]["description"]:
-            object_name = f'{edge["object"]["name"]}\n({edge["object"]["description"]})'
-        else:
-            object_name = edge["object"]["name"]
-
-        dot.edge(
-            tail_name=str(subject_name),
-            head_name=str(object_name),
-            label=edge["predicate"]["name"],
-            color="green",
-        )
-
-    # Render the graph
-    output_file = filename + ".gv"
-    output_path = Path('..') / "output_dataset" / output_file
-    dot_u = dot.unflatten(stagger=4)
-    dot_u.render(output_path, view=False)
-
-
+# ------------------------------ FUNCTIONS -------------------------------------
 def export_to_dictionary(kg: RelationCollection, curr_structure:dict) -> dict:
     """ export wyników w formie słownika """
 
@@ -288,6 +107,8 @@ def export_to_dictionary(kg: RelationCollection, curr_structure:dict) -> dict:
     for item in kg.relations:
         # lista przemyśleń modelu
         for chain in item.chain_of_thought:
+            with open('analiza.log', 'a', encoding='utf-8') as f_log:
+                f_log.write(f'  - {chain}\n')
             print(f'  - {chain}')
 
         relacja = (
@@ -330,15 +151,17 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
     """ analiza biogramu """
     system_prompt = """
     Jesteś asystentem historyka badającego biografie postaci historycznych.
-    Przeanalizuj podany tekst i zidentyfikuj obiekty występujące w tekście np. osoby,
-    miejscowości, rzeki, instytucje, zawody, urzędy. Nazwy osób, miejscowości i innych
-    obiektów zapisuj zawsze w formie mianownika. Następnie ustal relacje między tymi
-    obiektami np. 'instanceOf', 'hasBrother', 'relatedInstitution', 'causeOfDeath' (dalej podano
-    listę możliwych relacji).
+    Twoim zadaniem jest wydobycie informacji z tekstu w celu zbudowania grafu wiedzy.
+    Przeanalizuj podany tekst i zidentyfikuj obiekty występujące w tekście (dalej podano
+    listę możliwych typów obiektów). Następnie ustal relacje między tymi
+    obiektami (dalej podano listę możliwych relacji). Postaraj się wydobyć tak wiele obiektów
+    i relacji między nimi jak to tylko możliwe. 
     Wszystkie dane powinny być oparte na faktach, możliwe do zweryfikowania na podstawie tekstu,
     a nie na zewnętrznych założeniach. Upewnij się, że wyodrębnione zostały wszystkie
     znaczące obiekty (wszystie osoby, miejscowości) i ich wzajemne relacje z tekstu.
-    Odpowiedzi udziel w języku polskim.
+    Odpowiedzi udziel w języku polskim. Nazwy osób, miejscowości i innych
+    obiektów zapisuj zawsze w formie mianownika. W przypadku osób podawaj nazwę
+    zawsze w kolejności: imię nazwisko.
     """
     #czy dla znalezionych obiektów będących przedmiotem relacji znaleziono ich relacje np.
     #Kazimierz -> hasFather -> Władysław, Władysław -> nobleTitle -> hrabia.
@@ -348,6 +171,8 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
     Tekst do analizy:
     {tekst_biogramu}
     """
+
+    rezultat = None
 
     # Extract structured data from natural language
     if llm_model == "o3-mini":
@@ -359,7 +184,7 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
             ],
             response_model=RelationCollection,
         )
-    else:
+    elif llm_model == MODEL_GPT_4O or llm_model == MODEL_GPT_4O_MINI:
         rezultat = client.chat.completions.create(
             model=llm_model,
             messages=[
@@ -368,7 +193,7 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
             ],
             response_model=RelationCollection,
             temperature=0,
-            seed=42,
+            seed=2,
         )
 
     return rezultat
@@ -379,6 +204,8 @@ def object_analysis(client, data_structure, llm_model) -> dict:
 
     data_org = data_structure["triplets"]
     data_new = []
+
+    additional = prepare_additional_prompt(data_structure)
 
     # unikalne trójki w dotychczasowych danych
     unikalne = []
@@ -417,11 +244,16 @@ def object_analysis(client, data_structure, llm_model) -> dict:
 
             # jeżeli jest opis, opis jest dostatecznie długi i zawiera więcej niż 1 wyraz
             if description and len(description) > 15 and description.count(" ") > 1:
-                obj_res = analiza(client, f'(dotyczy: {object_name}) {description}', llm_model)
+                obj_res = analiza(client,
+                                  f'(dotyczy: {object_name}) {description}',
+                                  llm_model,
+                                  add_prompt=additional)
                 data = []
                 for item in obj_res.relations:
                     # lista przemyśleń modelu
                     for chain in item.chain_of_thought:
+                        with open('analiza.log', 'a', encoding='utf-8') as f_log:
+                            f_log.write(f'  - {chain}\n')
                         print(f'  - {chain}')
 
                     record = { "subject" : {
@@ -500,7 +332,7 @@ def prepare_additional_prompt(struktura:dict) -> str:
     return result
 
 
-# --------------------------- MAIN ---------------------------------------------
+# -------------------------------- MAIN ----------------------------------------
 if __name__ == '__main__':
 
     client = instructor.from_openai(OpenAI())
@@ -510,6 +342,9 @@ if __name__ == '__main__':
     data_file_list = data_folder.glob('*.txt')
 
     for data_file in data_file_list:
+        # pomiar czasu wykonania
+        start_time = time.time()
+
         # nazwa pliku bez ścieżki
         file_name = os.path.basename(data_file)
 
@@ -520,6 +355,8 @@ if __name__ == '__main__':
             continue
 
         print(file_name)
+        with open('analiza.log', 'a', encoding='utf-8') as f_log:
+            f_log.write(f'{file_name}\n')
 
         # wczytanie tekstu testowego biogramu
         data_file = Path("..") / "dataset" / file_name
@@ -527,36 +364,39 @@ if __name__ == '__main__':
             biogram = f.read()
 
         # do przetestowania:
-        # -- przetwarzanie mniejszych części tekstu - podział na grupy zdań i przetwarzanie ich osobno
+        # -- przetwarzanie mniejszych części tekstu - podział na grupy zdań
+        # i przetwarzanie ich osobno
 
         # możliwość wielokrotnego przetwarzania biogramu przez model językowy
         # z zapisem unikalnych relacji
         struktura = {}
         additional_user_prompt = ""
 
-        number_of_repetitions = 3
+        number_of_repetitions = 2
         for i in range(1, number_of_repetitions + 1):
             if i > 1:
                 additional_user_prompt = prepare_additional_prompt(struktura)
 
             print(f"Analiza tekstu biogramu ({i}) ...")
+            with open('analiza.log', 'a', encoding='utf-8') as f_log:
+                f_log.write(f"Analiza tekstu biogramu ({i}) ...\n")
             res = analiza(client, biogram, MODEL, add_prompt=additional_user_prompt)
 
             # konwersja wyników do formy słownika (uzupełnienie istniejącego słownika
             # jeżeli biogram jest przetwarzany kolejny raz)
             print("Zapis wyników w formie ustrukturyzowanej")
             struktura = export_to_dictionary(kg=res, curr_structure=struktura)
-            time.sleep(1.0)
+            time.sleep(2.0)
 
         # dodatkowa analiza treści pól description w celu wyszukania dodatkowych
-        # relacji dla obiektów w dotychczasowych relacjach (tylko dla osób)
-        #print("Dodatkowa analiza struktury wyników, wyszukiwanie dodatkowych relacji...")
-        #struktura = object_analysis(client, struktura, MODEL)
+        # relacji dla obiektów w dotychczasowych relacjach (tylko dla typu: 'osoba')
+        print("Dodatkowa analiza struktury wyników, wyszukiwanie dodatkowych relacji...")
+        struktura = object_analysis(client, struktura, MODEL)
 
         # zapis wyników w pliku json
         print("Zapis wyników w formacie json...")
         save_json(out_data=struktura, filename=file_name)
 
-        # przygotowanie wizualizacji w formie grafu z zapisem do pdf
-        #print("Przygotowanie wizualiacji grafu i zapis w pliku pdf...")
-        #visualize_knowledge_graph(kg=struktura, filename=file_name)
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print("Czas przetwarzania biogramu: %s s.",time.strftime("%H:%M:%S", time.gmtime(elapsed_time)))
