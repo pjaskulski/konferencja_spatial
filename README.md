@@ -2,11 +2,11 @@
 
 Materiały związane z pracami dotyczącymi wydobywania z biogramów PSB danych dla bazy wiedzy WikiHum oraz z referatem na konferencję Spatial & Digital History network - ESSHC 2025 (Leiden, Netherlands), prezentującym te prace.
 
-# Streszczenie referatu
+## Streszczenie referatu
 
 While computer usage has become commonplace in the humanities, historical data often remains siloed within textual sources rather than residing in structured databases or knowledge bases. This unstructured format presents significant challenges for searching and analysis. Manual data transformation into databases or knowledge bases is a further hurdle due to its time-consuming nature. Our work aimed to bridge this gap by leveraging advancements in Artificial Intelligence (AI) and Natural Language Processing (NLP) for automated text processing. This pipeline facilitates information extraction, identification and linking of proper names (people and locations), and data transformation for seamless integration into a knowledge base (Wikibase). The processing pipeline, built using Python scripts, incorporates large language models, fuzzy string matching, and import methods based on the Wikibase API.  We applied this pipeline to biographies from the Polish Biographical Dictionary dataset (over 27,500 entries). An additional challenge stemmed from the occasional use of archaic language in these early 20th-century biographies.  Beyond efficiency gains through automation, a crucial aspect of our work involved evaluating the quality of the processed data.
 
-# Bibliografia
+## Bibliografia
 
 1. Xiaohan Feng, Xixin Wu and Helen Meng, "Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema"
 https://human-interpretable-ai.github.io/assets/pdf/19_Ontology_grounded_Automatic.pdf
