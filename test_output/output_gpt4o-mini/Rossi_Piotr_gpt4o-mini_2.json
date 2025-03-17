@@ -1,0 +1,454 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810",
+                "type": "data",
+                "description": "rok śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1790",
+                "type": "data",
+                "description": "rok przybycia do Wilna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": "zawód Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, współpracownik Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "architekt, współpracownik Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "architekt gub. wileńskiej",
+                "type": "urząd",
+                "description": "stanowisko Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac przy ul. Wileńskiej",
+                "type": "obiekt fizjograficzny",
+                "description": "własność Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac na przedmieściu",
+                "type": "obiekt fizjograficzny",
+                "description": "własność Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa browaru przy placu Kossakowskich na arsenał",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa dwóch skasowanych kolegiów jezuickich",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wykonanie planu miasta Wilna",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "pomiar podziemi pod Baksztą w Wilnie",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1794-12-30",
+                "type": "data",
+                "description": "data złożenia przysięgi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kościoła w Podbrzeziu",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa oficyny pałacu Dominika Radziwiłła na teatr",
+                "type": "obiekt fizjograficzny",
+                "description": "osiągnięcie Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1810",
+                "type": "data",
+                "description": "rok delegowania do reperacji młyna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790",
+                "type": "rok",
+                "description": "rok urodzenia Andrzeja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794",
+                "type": "rok",
+                "description": "rok urodzenia Klemensa"
+            }
+        }
+    ]
+}

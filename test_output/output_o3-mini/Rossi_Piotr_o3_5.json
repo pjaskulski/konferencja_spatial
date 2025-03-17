@@ -1,0 +1,349 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "Ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "Miasto, w którym zapewne urodził się Rossi Piotr"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "Caryca, której Rossi Piotr złożył przysięgę na wierność 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "Król, dla którego w 1791 pomierzył podziemia pod Baksztą w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "Architekt, z którym Rossi Piotr współpracował przy budowie portyku katedry i przebudowie oficyny pałacu Dominika Radziwiłła"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Architekt, z którym Rossi Piotr wspólnie przebudował kościół w Podbrzeziu (pow. wileński)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Architekt, z którym Rossi Piotr w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "Mechanik, z którym Rossi Piotr w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt gub. wileńskiej",
+                "type": "zawód",
+                "description": "Pełnił funkcję architekta gub. wileńskiej w 1800 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Rzymianka, żona Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Józefa Baltazary",
+                "type": "osoba",
+                "description": "Matka Małgorzaty; nazwisko podawane również jako Baldassari"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Rzymianka, żona Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "Córka Rossi Piotra, urodzona w 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "Architekt, urodzony ok. 1760, zmarł po 1810; urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "Córka Rossi Piotra, urodzona w 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "Caryca, której Rossi Piotr złożył przysięgę na wierność 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1794-12-30",
+                "type": "data",
+                "description": "Data złożenia przysięgi na wierność Katarzynie II"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "urodzony w 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "Syn Rossi Piotra, urodzony w 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794-00-00",
+                "type": "data",
+                "description": "Urodzony w 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "Córka Rossi Piotra, urodzona w 1792"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1792-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia, rok 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "Córka Rossi Piotra, urodzona w 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1793-00-00",
+                "type": "data",
+                "description": "urodzona w 1793"
+            }
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "ojciec Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "żona Piotra Rossi, rzymianka, córka Józefa Baltazary"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "córka Piotra Rossi, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "córka Piotra Rossi, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "żona Piotra Rossi, rzymianka, córka Józefa Baltazary"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "ojciec Małgorzaty Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "magistrat w Wilnie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół kamedułów w Pożajściu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "cesarzowa Rosji"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "architekt"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac przy ul. Wileńskiej",
+                "type": "obiekt fizjograficzny",
+                "description": "własność Piotra Rossi w 1809 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "Data urodzenia Andrzeja Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1791"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "syn Piotra Rossi, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        }
+    ]
+}

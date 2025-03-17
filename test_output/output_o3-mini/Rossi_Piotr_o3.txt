@@ -1,0 +1,162 @@
+Próba 1
+Rossi_Piotr_o3_1.json
+
+Rossi Piotr -> dateOfBirth -> Rossi Piotr, NIE
+Rossi Piotr -> dateOfDeath -> Rossi Piotr, NIE
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Małgorzata -> hasFather -> Józef Baltazar, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> significantFigure -> Stanisław August, TAK
+Rossi Piotr -> significantFigure -> Katarzyna II, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Dominik Radziwiłł, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Andrzej -> dateOfBirth -> Andrzej, NIE
+Kornel -> dateOfBirth -> Kornel, NIE
+Klemens -> dateOfBirth -> Klemens, NIE
+Izabella -> dateOfBirth -> Izabella, NIE
+Feliksa -> dateOfBirth -> Feliksa, NIE
+Rossi Piotr -> isAuthorOf -> plan miasta Wilna, TAK
+Rossi Piotr -> hasAchievement -> przebudowa kolegiów jezuickich, TAK
+Rossi Piotr -> hasAchievement -> przebudowa kaplicy Matki Boskiej przy Ostrej Bramie, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> hasAchievement -> przebudowa browaru na arsenał, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Andrzej -> hasFather -> Andrzej, NIE
+Feliksa -> hasDaughter -> Feliksa, NIE
+Katarzyna II -> dateOfEvent -> przysięga wierności Katarzynie II, NIE
+Augustyn Kossakowski -> significantFigure -> Augustyn Kossakowski, NIE
+Dominik Radziwiłł -> hasAssets -> pałac, TAK
+Karol Schildhaus -> hasOccupation -> architekt, TAK
+
+Próba 2
+Rossi_Piotr_o3_2.json
+
+Piotr Rossi -> dateOfBirth -> 1760-00-00, TAK
+Piotr Rossi -> dateOfDeath -> 1810-00-00, TAK
+Piotr Rossi -> placeOfBirth -> Rzym, TAK
+Piotr Rossi -> hasFather -> Andrzej Rossi, TAK
+Piotr Rossi -> hasWife -> Małgorzata, TAK
+Małgorzata -> hasFather -> Józef Baltazar, TAK
+Piotr Rossi -> hasSon -> Andrzej Rossi, TAK
+Piotr Rossi -> hasSon -> Kornel Rossi, TAK
+Piotr Rossi -> hasSon -> Klemens Rossi, TAK
+Piotr Rossi -> hasDaughter -> Izabella Rossi, TAK
+Piotr Rossi -> hasDaughter -> Feliksa Rossi, TAK
+Piotr Rossi -> significantFigure -> Stanisław August, TAK
+Piotr Rossi -> significantFigure -> Katarzyna II, TAK
+Piotr Rossi -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Piotr Rossi -> significantFigure -> Augustyn Kossakowski, TAK
+Piotr Rossi -> significantFigure -> Karol Schildhaus, TAK
+Piotr Rossi -> significantFigure -> Hermanowski, TAK
+Piotr Rossi -> significantFigure -> Dominik Radziwiłł, TAK
+Małgorzata -> placeOfBirth -> Rzym, TAK
+Andrzej Rossi -> dateOfBirth -> 1790-00-00, TAK
+Kornel Rossi -> dateOfBirth -> 1791-00-00, TAK
+Klemens Rossi -> dateOfBirth -> 1794-00-00, TAK
+Izabella Rossi -> dateOfBirth -> 1792-00-00, TAK
+Feliksa Rossi -> dateOfBirth -> 1793-00-00, TAK
+Stanisław August -> dateOfEvent -> 1791-00-00, TAK
+Katarzyna II -> dateOfEvent -> 1794-12-30, NIE
+Augustyn Kossakowski -> hasOccupation -> Architekt, TAK
+Karol Schildhaus -> hasOccupation -> architekt, TAK
+Karol Schildhaus -> dateOfEvent -> 1810-00-00, NIE
+Hermanowski -> hasOccupation -> Mechanik, TAK
+Hermanowski -> dateOfEvent -> 1810-00-00, NIE
+Dominik Radziwiłł -> hasAssets -> pałac, TAK
+
+Próba 3
+Rossi_Piotr_o3_3.json
+
+Rossi Piotr -> dateOfBirth -> 1760-00-00, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> significantFigure -> Stanisław August, TAK
+Rossi Piotr -> significantFigure -> Katarzyna II, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Małgorzata -> hasFather -> Józef Baltazary, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Andrzej -> dateOfBirth -> 1790-00-00, TAK
+Kornel -> dateOfBirth -> 1791-00-00, TAK
+Klemens -> dateOfBirth -> 1794-00-00, TAK
+Izabella -> dateOfBirth -> 1792-00-00, TAK
+Feliksa -> dateOfBirth -> 1793-00-00, TAK
+Katarzyna II -> dateOfEvent -> 1794-12-30, NIE
+Hermanowski -> dateOfEvent -> 1810-00-00, NIE
+Hermanowski -> relatedInstitution -> Magistrat Wilno, TAK
+
+
+Próba 4
+Rossi_Piotr_03_4.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Małgorzata -> hasFather -> Józef Baltazar, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabela, TAK
+Rossi Piotr -> hasDaughter -> Felinksa, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Małgorzata -> placeOfBirth -> Rzym, NIE
+Andrzej -> dateOfBirth -> 1790-00-00, TAK
+Kornel -> dateOfBirth -> 1791-00-00, TAK
+Izabela -> dateOfBirth -> 1792-00-00, TAK
+Felinksa -> dateOfBirth -> 1793-00-00, TAK
+Augustyn Kossakowski -> hasOccupation -> architekt, TAK
+Karol Schildhaus -> relatedInstitution -> Magistrat, TAK
+Hermanowski -> hasOccupation -> mechanik, TAK
+Hermanowski -> relatedInstitution -> magistrat, TAK
+
+Rossi_Piotr_o3_5.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> dateOfBirth -> 1760-00-00, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> significantFigure -> Katarzyna II, TAK
+Rossi Piotr -> significantFigure -> Stanisław August, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> hasOccupation -> architekt gub. wileńskiej, NIE
+Małgorzata -> hasMother -> Józefa Baltazary, NIE
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Katarzyna II -> dateOfEvent -> 1794-12-30, NIE
+Andrzej -> dateOfBirth -> 1790-00-00, TAK
+Kornel -> dateOfBirth -> 1791-00-00, TAK
+Klemens -> dateOfBirth -> 1794-00-00, TAK
+Izabella -> dateOfBirth -> 1792-00-00, TAK
+Feliksa -> dateOfBirth -> 1793-00-00, TAK
+
+---
+
+RAZEM:
+
+143: 117 TAK, 26 NIE

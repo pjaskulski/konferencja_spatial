@@ -1,0 +1,574 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "urodzony ok. 1760 (1760-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "zmarł po 1810 (przybliżona data: 1810-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "przypuszczalne miejsce urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie, autor m.in. planu miasta Wilna"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, żona Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, żona Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazar",
+                "type": "osoba",
+                "description": "ojciec Małgorzaty (Baldassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, który w 1791 pomierzył podziemia pod Baksztą w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król, dla którego w 1791 Rossi Piotr wykonywał pomiary"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, który po zajęciu Wilna przez Rosjan złożył przysięgę wierności"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "caryca, której Rossi Piotr złożył przysięgę na wierność (30 XII 1794)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, który współpracował przy budowie portyku katedry"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "architekt otrzymujący większość zleceń w Wilnie; współpracownik Rossi Piotra przy budowie portyku katedry"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, który we współpracy z innym architektem przebudował kościół w Podbrzeziu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, z którym Rossi Piotr przebudował kościół w Podbrzeziu (powiat wileński)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, który prowadził przebudowę oficyny pałacu na teatr"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Dominik Radziwiłł",
+                "type": "osoba",
+                "description": "właściciel pałacu, którego oficyna została przebudowana przez Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt delegowany w 1810 do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt współdelegowany z Rossi Piotrem do reperacji młyna miejskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt delegowany w 1810 do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, który współpracował z Rossi Piotrem przy reperacji młyna miejskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "urodzony w 1790 (1790-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "urodzony w 1791 (1791-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "urodzony w 1794 (1794-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "urodzona w 1792 (1792-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "urodzona w 1793 (1793-00-00)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "plan miasta Wilna",
+                "type": "dzieło",
+                "description": "Plan miasta Wilna wykonany w 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przybycie do Wilna",
+                "type": "wydarzenie",
+                "description": "Pojawił się w Wilnie, r. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "kościół kamedułów w Pożajściu",
+                "type": "instytucja",
+                "description": "Brał udział w pracach przy kościele kamedułów w Pożajściu, r. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kolegiów jezuickich",
+                "type": "osiągnięcie",
+                "description": "Przebudował na koszary dwa skasowane kolegia jezuickie przy kościołach Św. Ignacego i Św. Kazimierza, r. 1798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "osiągnięcie",
+                "description": "Przerobił kaplicę Matki Boskiej przy Ostrej Bramie wg własnych planów, l. 1798–9"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "architekt gub. wileńskiej",
+                "type": "urząd",
+                "description": "Występował w aktach jako architekt gub. wileńskiej, r. 1800"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa browaru na arsenał",
+                "type": "osiągnięcie",
+                "description": "Przerobił browar przy placu Kossakowskich na Antokolu na arsenał, t. r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac na przedmieściu",
+                "type": "nieruchomość",
+                "description": "Nabywca placu na przedmieściu, r. 1795"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac przy ul. Wileńskiej",
+                "type": "nieruchomość",
+                "description": "Właściciel placu przy ul. Wileńskiej, r. 1809"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "caryca, której Rossi Piotr złożył przysięgę na wierność (30 XII 1794)"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "przysięga wierności Katarzynie II",
+                "type": "wydarzenie",
+                "description": "złożona 30 XII 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, z którym Rossi Piotr przebudował kościół w Podbrzeziu (powiat wileński)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, z którym Rossi Piotr przebudował kościół w Podbrzeziu (powiat wileński)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dominik Radziwiłł",
+                "type": "osoba",
+                "description": "właściciel pałacu, którego oficyna została przebudowana przez Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "pałac",
+                "type": "obiekt fizjograficzny",
+                "description": "pałac, którego oficyna została przebudowana przez Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt współdelegowany z Rossi Piotrem do reperacji młyna miejskiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

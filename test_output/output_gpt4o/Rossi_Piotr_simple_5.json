@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "data przybliżona, dalsze losy nieznane"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "zapewne w Rzymie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata Baltazary",
+                "type": "osoba",
+                "description": "rzymianka, córka Józefa Baltazary (Baldassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "magistrat wileński",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "władze kościelne",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "król Stanisław August",
+                "type": "osoba",
+                "description": "zleceniodawca"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Rosja",
+                "type": "organizacja",
+                "description": "złożył przysięgę na wierność Katarzynie II"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "kameduli",
+                "type": "organizacja",
+                "description": "prace przy kościele w Pożajściu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "jezuici",
+                "type": "organizacja",
+                "description": "przebudowa skasowanych kolegiów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "katedra wileńska",
+                "type": "instytucja",
+                "description": "współpraca przy budowie portyku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "pałac Dominika Radziwiłła",
+                "type": "instytucja",
+                "description": "przebudowa oficyny na teatr"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "kaplica Matki Boskiej przy Ostrej Bramie",
+                "type": "instytucja",
+                "description": "przebudowa wg własnych planów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "browar przy placu Kossakowskich na Antokolu",
+                "type": "instytucja",
+                "description": "przerobiony na arsenał"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "młyn miejski w Wilnie",
+                "type": "instytucja",
+                "description": "reperacja młyna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "plan miasta Wilna",
+                "type": "dzieło",
+                "description": "wykonany w 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "dzieło",
+                "description": "przebudowa wg własnych planów w l. 1798–9"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa browaru na arsenał",
+                "type": "dzieło",
+                "description": "przerobiony w 1800"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760 – zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "reperacja młyna miejskiego w Wilnie",
+                "type": "dzieło",
+                "description": "delegowany w 1810"
+            }
+        }
+    ]
+}

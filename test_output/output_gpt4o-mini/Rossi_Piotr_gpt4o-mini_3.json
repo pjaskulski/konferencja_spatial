@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król Polski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra, rzymianka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra, rzymianka"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra, rzymianka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nieokreslony zawód",
+                "type": "zawód",
+                "description": "Brak informacji o zawodzie Andrzeja."
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "nieokreslone miejsce",
+                "type": "miejscowość",
+                "description": "nieokreślone miejsce urodzenia Klemensa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Rossi Piotra, rzymianka"
+            }
+        }
+    ]
+}

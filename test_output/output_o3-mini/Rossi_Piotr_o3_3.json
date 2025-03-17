@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "rok urodzenia przybliżony (ok. 1760)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "zapewne miejsce urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "syn Andrzeja, architekt"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król, dla którego w 1791 pomierzył podziemia pod Baksztą w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "władczyni, na której wierność złożył 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "współpracownik, od którego zależało wykonywanie zleceń (m.in. budowa portyku katedry, przebudowa oficyny pałacu Dominika Radziwiłła)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, z którym współpracował przy przebudowie kościoła w Podbrzeziu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt, z którym w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, z którym w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, żona Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, żona Rossi Piotra"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "ojciec Małgorzaty (Baltassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794-00-00",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1792"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1792-00-00",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, ur. 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1793-00-00",
+                "type": "data",
+                "description": "rok urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "władczyni, na której wierność złożył 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1794-12-30",
+                "type": "data",
+                "description": "data złożenia wierności Katarzynie II po zajęciu Wilna przez Rosjan"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, z którym w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "rok delegacji do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, z którym w 1810 był delegowany przez magistrat do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Magistrat Wilno",
+                "type": "instytucja",
+                "description": "magistrat delegujący do reperacji młyna miejskiego w Wilnie"
+            }
+        }
+    ]
+}

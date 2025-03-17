@@ -1,0 +1,409 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Ojciec Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "Żona Piotra Rossi, córka Józefa Baltazary"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "placeOfResidence"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "Główny architekt w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "Cesarzowa Rosji"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasFatherInLaw"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Teść Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "Żona Piotra Rossi, córka Józefa Baltazary"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Teść Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "Data urodzenia Andrzeja Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794-00-00",
+                "type": "data",
+                "description": "Data urodzenia Klemensa Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1793",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "Główny architekt w Wilnie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "główny architekt",
+                "type": "urząd",
+                "description": "w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Teść Piotra Rossi"
+            },
+            "predicate": {
+                "name": "hasSonInLaw"
+            },
+            "object": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": null
+            }
+        }
+    ]
+}

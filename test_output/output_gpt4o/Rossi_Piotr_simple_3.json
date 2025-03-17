@@ -1,0 +1,184 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "data przybliżona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "data po 1810, dokładna data nieznana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "zapewne w Rzymie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata Baltazary",
+                "type": "osoba",
+                "description": "rzymianka, córka Józefa Baltazary (Baldassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": "przypuszczalne miejsce śmierci"
+            }
+        }
+    ]
+}

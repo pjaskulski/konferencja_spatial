@@ -1,0 +1,429 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako syn Mikołaja, kasztelana sieradzkiego., Mikołaj jest ojcem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "sławny rycerz polski, brat Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako brat Zawiszy Czarnego., Zawisza Czarny jest bratem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa i Zawiszy Czarnego"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako brat Piotra Kruczka., Piotr Kruczek jest bratem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Zawisza",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Zawisza jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Piotr jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Stefan jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1453",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Farurej Jan z Garbowa zmarł w 1453 roku., Data śmierci Farureja Jana z Garbowa to 1453 rok.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "sławny rycerz polski, brat Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1429",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Zawisza Czarny zmarł w 1429 roku., Data śmierci Zawiszy Czarnego to 1429 rok.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa i Zawiszy Czarnego"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1430",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Piotr Kruczek zmarł w 1430 roku., Data śmierci Piotra Kruczka to 1430 rok.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": null
+            },
+            "reasoning": "Farurej Jan z Garbowa był rycerzem polskim z XV wieku., Jego zawód to rycerz.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan",
+                "type": "urząd",
+                "description": "kasztelan sieradzki"
+            },
+            "reasoning": "Mikołaj był kasztelanem sieradzkim., Jego urząd to kasztelan.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "król Węgier i cesarz rzymski"
+            },
+            "reasoning": "Farurej Jan z Garbowa był w służbie u Zygmunta Luksemburskiego, co wskazuje na relację zawodową lub służbową., Zygmunt Luksemburski jest wymieniony jako osoba, u której Farurej Jan z Garbowa służył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "bitwa pod Grunwaldem",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w bitwie pod Grunwaldem w 1410 roku"
+            },
+            "reasoning": "Farurej Jan z Garbowa brał udział w bitwie pod Grunwaldem, co jest znaczącym osiągnięciem., Bitwa pod Grunwaldem jest jednym z najważniejszych wydarzeń w historii Polski.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "turniej w Budzie",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w turnieju w Budzie w 1412 roku"
+            },
+            "reasoning": "Farurej Jan z Garbowa uczestniczył w turnieju w Budzie w 1412 roku, co jest znaczącym wydarzeniem., Turniej w Budzie jest wymieniony jako jedno z wydarzeń, w których brał udział.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "konfederacja korczyńska",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w konfederacji korczyńskiej w 1438 roku"
+            },
+            "reasoning": "Farurej Jan z Garbowa brał udział w konfederacji korczyńskiej w 1438 roku, co jest znaczącym wydarzeniem., Konfederacja korczyńska jest wymieniona jako jedno z wydarzeń, w których brał udział.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wyniesienie Władysława III na tron węgierski",
+                "type": "wydarzenie",
+                "description": "zaangażowanie w wyniesienie Władysława III na tron węgierski w 1440 roku"
+            },
+            "reasoning": "Farurej Jan z Garbowa był zaangażowany w wyniesienie Władysława III na tron węgierski, co jest znaczącym wydarzeniem., Wyniesienie Władysława III na tron węgierski jest wymienione jako jedno z wydarzeń, w których brał udział.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wyprawa warneńska",
+                "type": "wydarzenie",
+                "description": "zaangażowanie w wyprawę warneńską"
+            },
+            "reasoning": "Farurej Jan z Garbowa był zaangażowany w wyprawę warneńską, co jest znaczącym wydarzeniem., Wyprawa warneńska jest wymieniona jako jedno z wydarzeń, w których brał udział.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, kasztelana sieradzkiego"
+            },
+            "predicate": {
+                "name": "hasRelative"
+            },
+            "object": {
+                "name": "Elżbieta",
+                "type": "osoba",
+                "description": "córka Piotra Kruczka"
+            },
+            "reasoning": "Farurej Jan z Garbowa miał relacje majątkowe z wdową po Zawiszy i córką Piotra Kruczka, Elżbietą., Wdowa po Zawiszy i Elżbieta, córka Piotra Kruczka, są wymienione jako osoby, z którymi Farurej Jan z Garbowa miał relacje majątkowe.",
+            "result": false
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "sławny rycerz polski, brat Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki"
+            },
+            "reasoning": "Zawisza Czarny jest opisany jako brat Farureja Jana z Garbowa., Z relacji wynika, że Zawisza Czarny jest synem Mikołaja, kasztelana sieradzkiego, ponieważ jest bratem Farureja Jana z Garbowa, który jest synem Mikołaja.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa i Zawiszy Czarnego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "sławny rycerz polski, brat Farureja Jana z Garbowa"
+            },
+            "reasoning": "Piotr Kruczek jest wymieniony jako brat Farureja Jana z Garbowa i Zawiszy Czarnego., Zawisza Czarny jest już zidentyfikowany jako brat Farureja Jana z Garbowa w istniejących relacjach., Zatem Piotr Kruczek jest również bratem Zawiszy Czarnego.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Z tekstu wynika, że Piotr jest synem Farureja Jana z Garbowa., Farurej Jan z Garbowa jest już zidentyfikowany jako osoba w poprzednich relacjach., Piotr jest już zidentyfikowany jako syn Farureja Jana z Garbowa w poprzednich relacjach.",
+            "result": false
+        },
+        {
+            "subject": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Z tekstu wynika, że Stefan jest synem Farureja Jana z Garbowa., Relacja między Stefanem a Farurejem Janem z Garbowa to relacja ojciec-syn.",
+            "result": false
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "król Węgier i cesarz rzymski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "król",
+                "type": "urząd",
+                "description": "król Węgier"
+            },
+            "reasoning": "Zygmunt Luksemburski jest określony jako król Węgier i cesarz rzymski., To wskazuje na jego pełnione urzędy.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "król Węgier i cesarz rzymski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "cesarz",
+                "type": "urząd",
+                "description": "cesarz rzymski"
+            },
+            "reasoning": "Zygmunt Luksemburski jest określony jako król Węgier i cesarz rzymski., To wskazuje na jego pełnione urzędy.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Elżbieta",
+                "type": "osoba",
+                "description": "córka Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa i Zawiszy Czarnego"
+            },
+            "reasoning": "Z tekstu wynika, że Elżbieta jest córką Piotra Kruczka., Relacja między Elżbietą a Piotrem Kruczkiem to relacja ojciec-córka.",
+            "result": true
+        }
+    ]
+}

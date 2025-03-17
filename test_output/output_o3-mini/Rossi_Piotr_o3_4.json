@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, córka Józefa Baltazary (Baldassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, żona Rossi Piotra, córka Józefa Baltazary (Baldassari?)"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazar",
+                "type": "osoba",
+                "description": "ojciec Małgorzaty"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, urodzony w 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, urodzony w 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, urodzony w 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabela",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, urodzona w 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Felinksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, urodzona w 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, współpracownik przy przebudowie kościoła w Podbrzeziu (powiat wileński)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "współpracownik przy budowie portyku katedry oraz osoba otrzymująca większość zleceń w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt, delegowany wraz z Rossi Piotrem przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760, zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, delegowany wraz z Rossi Piotrem przez magistrat do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": "architekt, urodzony ok. 1760 – zm. po 1810, prawdopodobnie urodzony w Rzymie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce urodzenia Rossi Piotra"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "rzymianka, córka Józefa Baltazary (Baldassari?)"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce urodzenia, określone przez określenie 'rzymianka'"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, urodzony w 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "rok urodzenia Andrzeja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Rossi Piotra, urodzony w 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "rok urodzenia Kornela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabela",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, urodzona w 1792"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1792-00-00",
+                "type": "data",
+                "description": "Data urodzenia, rok 1792, dzień i miesiąc nieznane"
+            }
+        },
+        {
+            "subject": {
+                "name": "Felinksa",
+                "type": "osoba",
+                "description": "córka Rossi Piotra, urodzona w 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1793-00-00",
+                "type": "data",
+                "description": "data urodzenia Felinksy określona tylko rocznie (1793)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, współpracownik przy przebudowie kościoła w Podbrzeziu (powiat wileński)"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt, delegowany wraz z Rossi Piotrem przez magistrat do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Magistrat",
+                "type": "instytucja",
+                "description": "Organ władzy miejskiej, delegujący Karola Schildhausa do reperacji młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, delegowany wraz z Rossi Piotrem przez magistrat do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "mechanik",
+                "type": "zawód",
+                "description": "Zawód Hermanowskiego jako mechanik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, delegowany wraz z Rossi Piotrem przez magistrat do reperacji młyna miejskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "magistrat",
+                "type": "instytucja",
+                "description": "Magistrat w Wilnie, delegował Rossi Piotra i Hermanowskiego do reperacji młyna miejskiego"
+            }
+        }
+    ]
+}

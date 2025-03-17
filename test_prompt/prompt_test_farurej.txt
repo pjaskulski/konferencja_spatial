@@ -1,0 +1,83 @@
+Jesteś asystentem historyka badającego biografie postaci historycznych.
+Twoim zadaniem jest wydobycie informacji z tekstu w celu zbudowania grafu wiedzy.
+Przeanalizuj podany tekst i zidentyfikuj obiekty występujące w tekście (dalej podano
+listę możliwych typów obiektów). Następnie ustal relacje między tymi
+obiektami (dalej podano listę możliwych relacji - predykatów). Odpowiedzią powinna być lista tripletów subject -> predicate -> object,
+zapisana w formie listy struktur JSON.
+Postaraj się odnaleźć wszystkie relacje i obiekty z tekstu. 
+Wszystkie dane powinny być oparte na faktach, możliwe do zweryfikowania na podstawie tekstu,
+a nie na zewnętrznych założeniach. Upewnij się, że wyodrębnione zostały wszystkie
+znaczące obiekty (wszystie osoby, miejscowości) i ich wzajemne relacje z tekstu.
+Odpowiedzi udziel w języku polskim. Nazwy osób, miejscowości i innych
+obiektów zapisuj zawsze w formie mianownika. W przypadku osób podawaj nazwę
+zawsze w kolejności: imię nazwisko. Pomiń osoby, krewnych którzy są anonimowi
+(nie znane jest ani imię ani nazwisko).
+Odpowiedż przygotuj w formie struktury JSON np. 
+
+[ {"subject": "podmiot relacji", "predicate": "relacja", "object": "przedmiot relacji"},
+  {"subject": "Jan Kowalski", "predicate": "hasOccupation", "object": "mechanik" }
+ ]    
+
+Lista poszukiwanych typów obiektów:
+
+- osoba,
+- miejscowość (np. wieś, miasto, przysiółek, folwark)
+- obiekt fizjograficzny (np. góra, wzgórze, łąka, las)
+- obiekt hydrologiczny (np. rzeka, potok, staw, jezioro)
+- instytucja (np. ministerstwo, urząd podatkowy/skarbowy/celny, muzeum, bank itp.)
+- organizacja (np. stowarzyszenie, towarzystwo, związek zawodowy, partia polityczna, organizacja podziemna/partyzancka, zakon religijny itp.)
+- urząd (urząd w znaczeniu: stanowisko, pełniony przez osobę, np. prezydent, premier, minister, hetman, kanclerz, kasztelan, starosta, rajca, burmistrz, przeor, biskup itp.)
+- uczelnia (szkoła, uniwersytet, seminarium duchowne lub inna instytucja edukacyjna)
+ - zawód (zawód lub funkcja osoby, wykonywany i/lub wyuczony np. nauczyciel, rzemieślnik, rolnik, kupiec, pisarz, wojskowy, rycerz, ksiądz, zakonnik, naukowiec, dyplomata itp.)
+
+Lista możliwych relacji:
+ 
+- dateOfBirth = data urodzenia dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00, jeżeli data jest przybliżona lub niepewna odnotuj to w polu description. Roczna data urodzenia często podana jest w nawiasie w pierwszym zdaniu biogramu. Data dokłada jest często podana w głębu tekstu.
+- dateOfDeath = data śmierci dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00, jeżeli data jest przybliżona lub niepewna odnotuj to w polu description. Roczna data śmierci często podana jest w nawiasie w pierwszym zdaniu biogramu. Data dokłada jest często podana w głębu tekstu.
+- placeOfBirth = miejsce urodzenia dla osób
+- placeOfDeath = miejsce śmierci dla osób
+- dateOfBurial = data pochówku (pogrzebu, kiedy pochowano osobę) dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00, jeżeli data jest przybliżona lub niepewna odnotuj to w polu description
+- placeOfBurial = miejsce pochówku (grobu) dla osób
+- hasFather = ojciec osoby będącej podmiotem relacji
+- hasMother = matka osoby będącej podmiotem relacji
+- hasSon = syn osoby będącej podmiotem relacji
+- hasDaughter = córka osoby będącej podmiotem relacji
+- hasBrother = brat osoby będącej podmiotem relacji
+- hasSister = siostra osoby będącej podmiotem relacji
+- hasWife = żona osoby będącej podmiotem relacji
+- hasHusband = mąż osoby będącej podmiotem relacji
+- hasUncle = wuj osoby będącej podmiotem relacji
+- hasAunt = ciotka osoby będącej podmiotem relacji
+- hasCousin = kuzyn osoby będącej podmiotem relacji
+- hasRelative = krewny (nieokreślonego lub dalszego stopnia) osoby będącej podmiotem relacji
+- hasGrandfather = dziadek osoby będącej podmiotem relacji
+- hasGrandmother = babcia osoby będącej podmiotem relacji
+- illegitimatePartner = nieformalny partner osoby będącej podmiotem relacji
+- hasGrandson = wnuk osoby będącej podmiotem relacji
+- hasGranddaughter = wnuczka osoby będącej podmiotem relacji
+- hasStepson = przybrany syn (pasierb) osoby będącej podmiotem relacji
+- hasStepdaughter = przybrana córka (pasierbica) osoby będącej podmiotem relacji
+- hasStepfather = przybrany ojciec (ojczym) osoby będącej podmiotem relacji
+- hasStepmother = przybrana matka (macocha) osoby będącej podmiotem relacji
+- hasBrotherInLaw = szwagier osoby będącej podmiotem relacji
+- hasSisterInLaw = szwagierka osoby będącej podmiotem relacji
+- hasFatherInLaw = teść osoby będącej podmiotem relacji
+- hasMotherInLaw = teść osoby będącej podmiotem relacji
+- significantFigure = znacząca postać (współpracownik, przełożony, przyjaciel) nie będąca krewnym, dla osoby będącej podmiotem relacji, ktoś z kim podmiot relacji zetknął się osobiście lub chociażby korespondencyjnie
+- hasMilitaryRank = stopień wojskowy osoby będącej podmiotem relacji np. rotmistrz, porucznik, generał. Uwzględnjij tylko stopnie związane z armią, wojskiem, policją.
+- hasOccupation = zawód (wyuczony, wykonywany), stanowisko pracy osoby będącej podmiotem relacji np. nauczyciel, kupiec, rzemieślnik, ksiądz, bibliotekarz.
+- positionHeld = nazwa pełnionego urzędu osoby będącej podmiotem relacji np. kasztelan, hetman, biskup, sędzia. Jeżeli występuje wiele urzędów zapisz je w osobnych relacjach.
+- nameOfSchoolOrUniversity = nazwa szkoły, uczelni, instytucji edukacyjnej w której uczyła się osoba będąca podmiotem relacji, jeżeli znana jest tylko miejscowość zapisz 'nieokreslona szkoła/uczelnia', jeżeli znana jest miejscowość w której położona jest szkoła/uczelnia zapisz nazwę miejscowośc w polu descriptioni
+- relatedInstitution = instytucja (np. ministerstwo, urząd podatkowy, muzeum, uczelnia w której pracowała osoba) związana z osobą będącą podmiotem relacji
+- relatedOrganisation = Organizacja (np. partia, związek, towarzystwo, zakon religijny) związana z osobą będącą podmiotem relacji
+- causeOfDeath = przyczyna śmierci osoby będącej podmiotem relacji
+- hasAssets = własność (nieruchomości, majątek, firma) posiadana przez osobę będącą podmiotem relacji
+- isAuthorOf = dzieło (książka, obraz, rzeźba, utwór muzyczny), którego autorem jest osoba będąca podmiotem relacji
+- hasAchievement = znaczące osiągnięcia (nagrody, dyplomy, medale, nadane tytuły, dla architekta = wykonane budynki, przebudowy) osoby będąca podmiotem relacji
+- religiousAffiliation = wyznanie religijne (np. katolicyzm, protestantyzm) osoby będącej podmiotem relacji
+- hasCoatOfArms = herb szlachecki osoby będącej podmiotem relacji
+
+Tekst do analizy: 
+
+Farurej Jan z Garbowa († 1453). Jeden z głośniejszych rycerzy polskich w. XV, był synem Mikołaja, kasztelana sieradzkiego, a bratem sławnego Zawiszy Czarnego († 1429) i Piotra Kruczka († 1430). W pierwszym okresie życia razem z Zawiszą pozostaje w służbie u Zygmunta Luksemburskiego. Długosz wymienia go wśród rycerzy walczących w r. 1408 w Bośni. W r. 1410 powraca do kraju i staje wraz z bratem pod chorągwiami Jagiełły. W bitwie pod Grunwaldem należy do najbardziej zasłużonych. W latach następnych przebywa na dworze królewskim, w r. 1412 jest uczestnikiem głośnego turnieju w Budzie. W r. 1426 bawi w kraju i przeprowadza dział majątkowy z bratem Zawiszą. Po śmierci tego ostatniego Zygmunt Luksemburski przyjmuje F-ja do służby z płacą 500 złotych węgierskich. W latach następnych wykazuje F. wielką zapobiegliwość majątkową, wyzyskując, jak się zdaje, na swoją korzyść pewną niezaradność wdowy po Zawiszy i pozostałej po Piotrze Kruczku córki Elżbiety. W wyniku szeregu procesów większość dóbr garbowskich pozostaje ostatecznie w jego ręku. W r. 1430 świadkuje na przywileju jedlneńskim. W r. 1438 bierze udział w konfederacji korczyńskiej. W r. 1440 krząta się czynnie około wyniesienia Władysława III na tron węgierski, co mu przychodziło tym łatwiej, że podobnie jak Zawisza był possessionatus i na Węgrzech. Za zasługi te król zapisał mu 400 grzywien na wsi Osobnica. W okresie wyprawy warneńskiej wyzyskał ciężkie położenie skarbu królewskiego na rozmaite korzystne dla siebie transakcje majątkowe, dokonywane wspólnie z Janem Głowaczem z Oleśnicy. Zmarł w r. 1453, pozostawiając synów Zawiszę, Piotra i Stefana.
+

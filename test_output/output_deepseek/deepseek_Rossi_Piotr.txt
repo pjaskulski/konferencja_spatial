@@ -1,0 +1,187 @@
+Rossi_Piotr_deepseek_chat.json
+
+Rossi Piotr -> dateOfBirth -> ok. 1760, TAK
+Rossi Piotr -> dateOfDeath -> po 1810, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> hasFather -> Andrzej Rossi, TAK
+Rossi Piotr -> hasOccupation -> architekt, TAK
+Rossi Piotr -> hasWife -> Małgorzata Baltazary, TAK
+Rossi Piotr -> hasSon -> Andrzej Rossi, TAK
+Rossi Piotr -> hasSon -> Kornel Rossi, TAK
+Rossi Piotr -> hasSon -> Klemens Rossi, TAK
+Rossi Piotr -> hasDaughter -> Izabella Rossi, TAK
+Rossi Piotr -> hasDaughter -> Feliksa Rossi, TAK
+Rossi Piotr -> relatedInstitution -> magistrat, TAK
+Rossi Piotr -> relatedInstitution -> kościół kamedułów w Pożajściu, NIE
+Rossi Piotr -> relatedInstitution -> katedra w Wilnie, NIE
+Rossi Piotr -> relatedInstitution -> pałac Dominika Radziwiłła, NIE
+Rossi Piotr -> relatedInstitution -> kaplica Matki Boskiej przy Ostrej Bramie, NIE
+Rossi Piotr -> relatedInstitution -> browar przy placu Kossakowskich, NIE
+Rossi Piotr -> relatedInstitution -> młyn miejski w Wilnie, NIE
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Małgorzata Baltazary -> hasFather -> Józef Baltazary, TAK
+
+25: 19 TAK, 6 NIE
+
+Rossi_Piotr_deepseek_chat_2.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> placeOfResidence -> Wilno, TAK
+Rossi Piotr -> significantFigure -> Dominik Radziwiłł, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Małgorzata -> hasFather -> Józef Baltazara, TAK
+
+18: 18 TAK
+Rossi_Piotr.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> hasOccupation -> architekt, TAK
+Rossi Piotr -> positionHeld -> architekt gubernialny, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> relatedInstitution -> Wilno, NIE
+Rossi Piotr -> relatedInstitution -> Kościół kamedułów w Pożajściu, NIE
+Rossi Piotr -> relatedInstitution -> Kościół w Podbrzeziu, NIE
+Rossi Piotr -> relatedInstitution -> Kaplica Matki Boskiej przy Ostrej Bramie, NIE
+Rossi Piotr -> relatedInstitution -> Browar na placu Kossakowskich na Antokolu, NIE
+Rossi Piotr -> relatedInstitution -> Oficyna pałacu Dominika Radziwiłła, NIE
+Rossi Piotr -> relatedInstitution -> Młyn miejski w Wilnie, NIE
+Małgorzata -> hasFather -> Józef Baltazara, TAK
+Andrzej -> hasSon -> Andrzej, NIE
+Kornel -> dateOfBirth -> 1791, TAK
+Klemens -> hasSon -> Klemens, NIE
+Izabella -> hasDaughter -> Izabella, NIE
+Feliksa -> hasDaughter -> Feliksa, NIE
+
+29: 18 TAK, 11 NIE 
+
+---
+Rossi_Piotr.json
+
+Rossi Piotr -> hasFather -> Andrzej
+Rossi Piotr -> hasWife -> Małgorzata
+Rossi Piotr -> hasSon -> Andrzej
+Rossi Piotr -> hasSon -> Kornel
+Rossi Piotr -> hasSon -> Klemens
+Rossi Piotr -> hasDaughter -> Izabella
+Rossi Piotr -> hasDaughter -> Feliksa
+Rossi Piotr -> hasOccupation -> architekt
+Rossi Piotr -> positionHeld -> architekt gubernialny
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski
+Rossi Piotr -> significantFigure -> Karol Schildhaus
+Rossi Piotr -> significantFigure -> Hermanowski
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej
+Rossi Piotr -> hasAssets -> plac na przedmieściu
+Rossi Piotr -> placeOfBirth -> Rzym
+Rossi Piotr -> relatedInstitution -> Wilno
+Rossi Piotr -> relatedInstitution -> Kościół kamedułów w Pożajściu
+Rossi Piotr -> relatedInstitution -> Kościół w Podbrzeziu
+Rossi Piotr -> relatedInstitution -> Kaplica Matki Boskiej przy Ostrej Bramie
+Rossi Piotr -> relatedInstitution -> Browar na placu Kossakowskich na Antokolu
+Rossi Piotr -> relatedInstitution -> Oficyna pałacu Dominika Radziwiłła
+Rossi Piotr -> relatedInstitution -> Młyn miejski w Wilnie
+Małgorzata -> hasFather -> Józef Baltazara
+Andrzej -> hasSon -> Andrzej
+Kornel -> dateOfBirth -> 1791
+Klemens -> hasSon -> Klemens
+Izabella -> hasDaughter -> Izabella
+Feliksa -> hasDaughter -> Feliksa
+
+Rossi_Piotr.json - 4 próba
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> relatedInstitution -> Wilno, NIE
+Rossi Piotr -> relatedInstitution -> kościół kamedułów w Pożajściu, NIE
+Rossi Piotr -> relatedInstitution -> kaplica Matki Boskiej przy Ostrej Bramie, NIE
+Rossi Piotr -> relatedInstitution -> browar na arsenał, NIE
+Rossi Piotr -> relatedInstitution -> oficyna pałacu Dominika Radziwiłła, NIE
+Rossi Piotr -> relatedInstitution -> dwa skasowane kolegia jezuickie, NIE
+Rossi Piotr -> relatedInstitution -> kościół w Podbrzeziu, NIE
+Rossi Piotr -> relatedInstitution -> młyn miejski w Wilnie, NIE
+Rossi Piotr -> hasAchievement -> plan miasta Wilna, TAK
+Rossi Piotr -> hasAchievement -> podziemia pod Baksztą w Wilnie, TAK
+Rossi Piotr -> hasAchievement -> kaplica Matki Boskiej przy Ostrej Bramie, TAK
+Rossi Piotr -> hasAchievement -> browar na arsenał, TAK
+Rossi Piotr -> hasAchievement -> oficyna pałacu Dominika Radziwiłła, TAK
+Rossi Piotr -> hasAchievement -> dwa skasowane kolegia jezuickie, TAK
+Rossi Piotr -> hasAchievement -> kościół w Podbrzeziu, TAK
+Rossi Piotr -> hasAchievement -> młyn miejski w Wilnie, TAK
+Małgorzata -> hasFather -> Józef Baltazara, TAK
+Andrzej -> dateOfBirth -> 1790, TAK
+Kornel -> dateOfBirth -> 1791-00-00, TAK
+Klemens -> hasSon -> Klemens, NIE
+Izabella -> hasDaughter -> Izabella, NIE
+Feliksa -> hasDaughter -> Feliksa, NIE
+
+37: 26 TAK, 11 NIE 
+
+---
+
+Rossi_Piotr_deepseek_chat_5.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Karol Schildhaus, TAK
+Rossi Piotr -> significantFigure -> Hermanowski, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> relatedInstitution -> Gubernia wileńska, NIE
+Rossi Piotr -> significantFigure -> Dominik Radziwiłł, TAK
+Rossi Piotr -> hasAchievement -> Przebudowa kaplicy Matki Boskiej przy Ostrej Bramie, TAK
+Rossi Piotr -> hasAchievement -> Przerobienie browaru na arsenał, TAK
+Małgorzata -> hasFather -> Józef Baltazara, TAK
+
+20: 

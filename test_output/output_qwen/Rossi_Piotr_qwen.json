@@ -1,0 +1,574 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "ok. 1760-00-00",
+                "type": "data",
+                "description": "Data przybliżona zakończona 00-00"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "po 1810-00-00",
+                "type": "data",
+                "description": "Data niedokładna (opis 'po 1810')"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzymie",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Córka Józefa Baltazary (Baldassari?)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "Syn, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "Syn, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "Syn, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "Córka, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "Córka, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "prace pomiarowe, projektowe i wykonawcze",
+                "type": "opis dokonanych prac",
+                "description": "na zlecenie króla, władz kościelnych i magistratu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebuda podziem pod Baksztą w Wilnie (1791)",
+                "type": "realizacja budowlana",
+                "description": "Na zleceie Stanisława Augusta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wykonanie planu miasta Wilna w 1794",
+                "type": "dokonienie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebuda kościoła w Podbrzeziu razem z Augustynem Kossakowskim (1798)",
+                "type": "projekt budowlany",
+                "description": "Wykonany wspólnie z Augustynem Kossakowskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebuda katedry jako wspólnik Wawrzyńca Gucewicza",
+                "type": "współpraca",
+                "description": "Budowa portyku i przebudy pałacu Radziwiłła"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac na przedmieściu Wilna",
+                "type": " nieruchomość",
+                "description": "Nabywca w 1795"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "plac przy ul. Wileńskiej",
+                "type": " nieruchomość",
+                "description": "Właściciel w 1809"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "magistrat Wilna",
+                "type": "instytucja",
+                "description": "Zlecający projekty i prace w latach 1790-1810"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Współautor przebudy kościoła w Podbrzeziu 1798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "Glowny konkurent i współpracownik przy budowie portyku katedry"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Współdnieta w reperacji młyna w 1810"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebuda budynków jezuickich w 1798 na koszary",
+                "type": "inwestycje",
+                "description": "Przebudowa skasowanych kolojiów przy kościółach Św. Ignacego i Św. Kazimierza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebuda browaru na arsenał",
+                "type": "przebudowa",
+                "description": "Lokalizacja: plac Kossakowskich w Antokolu (1800)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "książęcy magistrat",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "architekt gub. wileńskiej",
+                "type": "urząd",
+                "description": "Opis z 1800 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "reperacja młyna miejskiego (1810)",
+                "type": "zlecenie",
+                "description": "Rcón wspólnie z Karolem Schildhausem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa podziem Bakszy w Wilnie",
+                "type": "prace pomiarowe",
+                "description": "W 1791 dla Stanisława Augusta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa oficyny pałacu na teatr",
+                "type": "projekt",
+                "description": "Pracy zakończone w 1792 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "projekt dla kamedułów w Pożajściu",
+                "type": "praca budowlana",
+                "description": "W 1792 wzięcie udziału w pracach"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wykonanie portyku katedry",
+                "type": "projekt budowlany",
+                "description": "Wspólny projekt z Wawrzyńcem Gucewiczem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "książęta",
+                "type": "urząd",
+                "description": "Klient -国王 Stanisław August"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowy budynków kościelnych",
+                "type": "działańi",
+                "description": "Prace w kościołach Św. Ignacego i Św. Kazimierza 1798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rossi Piotr",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przygotowanie projektu na Antokolu",
+                "type": "architeury",
+                "description": "Przebuda browaru w 1800"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Córka Józefa Baltazary (Baldassari?)"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Baldassari?"
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Współautor przebudy kościoła w Podbrzeziu 1798"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architeekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Współautor przebudy kościoła w Podbrzeziu 1798"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kośścioła w Podbrzeziu (1798)",
+                "type": "zawód",
+                "description": "Wykonana wspólnie z Piotrem Rosiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Współdnieta w reperacji młyna w 1810"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Reperacja młyna w 1810 w Wilnie",
+                "type": "Instytucja",
+                "description": "Collaboration with Rossi Piotr on the mill's repair"
+            }
+        }
+    ]
+}

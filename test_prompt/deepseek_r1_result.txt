@@ -1,0 +1,46 @@
+<think>
+Okay, I need to analyze the given text about Farurej Jan z Garbowa and extract all the relevant information to build a knowledge graph. Let me start by identifying all the objects mentioned in the text.
+
+First, the main subject is Farurej Jan z Garbowa. He's a notable figure, a Polish knight from the 15th century. I should note his death year as 1453. His father is Mikołaj, who was the castellan of Sieradz. His brothers are Zawisza Czarny and Piotr Kruczko. Zawisza Czarny died in 1429, and Piotr in 1430. 
+
+Farurej Jan was in the service of Zygmunt Luksemburski, so that's an institution or organization he was related to. He fought in several battles and events, like the Battle of Grunwald in 1410, a tournament in Buda in 1412, and was involved in the Korczyn Confederation in 1438. He also played a role in the elevation of Władysław III to the Hungarian throne in 1440.
+
+He had three sons: Zawisza, Piotr, and Stefan. There's a mention of a daughter-in-law, Elżbieta, who was the daughter of Piotr Kruczko. He also had dealings with Jan Głowacz from Oleśnica, which is another person and place to note.
+
+Places mentioned include Garbów, Sieradz, Bośnia, Grunwald, Buda, Jedlno, Korczyn, Osobnica, and Oleśnica. Institutions include the Hungarian court and the Korczyn Confederation.
+
+Now, looking at the relationships. Farurej Jan has a father, brothers, sons, and a daughter-in-law. He was in service with Zygmunt Luksemburski, participated in battles and events, and had transactions with others. His occupation is a knight, and he held assets in places like Osobnica.
+
+I need to make sure I capture all these relationships using the provided predicates. For example, his date of death is 1453, his place of origin is Garbów, his father is Mikołaj, brothers are Zawisza and Piotr, sons are Zawisza, Piotr, and Stefan. He was related to Elżbieta as his daughter-in-law. His occupation is a knight, and he was associated with the Korczyn Confederation and the Hungarian court.
+
+I should also note his military rank as a knight and any significant achievements, like his role in the Battle of Grunwald and the elevation of Władysław III. He had assets in Osobnica and was involved in transactions with Jan Głowacz.
+
+I need to structure all these into JSON triplets, ensuring each subject-predicate-object relationship is accurately represented based on the text. I'll go through each part of the text step by step to extract all possible triplets without missing any important details.
+</think>
+
+```json
+[
+  {"subject": "Farurej Jan z Garbowa", "predicate": "dateOfDeath", "object": "1453-00-00"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "placeOfBirth", "object": "Garbów"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasFather", "object": "Mikołaj"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasBrother", "object": "Zawisza Czarny"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasBrother", "object": "Piotr Kruczko"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasSon", "object": "Zawisza"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasSon", "object": "Piotr"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasSon", "object": "Stefan"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasDaughterInLaw", "object": "Elżbieta"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasOccupation", "object": "rycerz"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "relatedInstitution", "object": "Zygmunt Luksemburski"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "relatedInstitution", "object": "Korczyńska Konfederacja"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "relatedInstitution", "object": "dwór królewski"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "relatedInstitution", "object": "Węgierskie Królestwo"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasAssets", "object": "Osobnica"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "significantFigure", "object": "Jan Głowacz z Oleśnicy"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasMilitaryRank", "object": "rycerz"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasAchievement", "object": "udział w bitwie pod Grunwaldem"},
+  {"subject": "Farurej Jan z Garbowa", "predicate": "hasAchievement", "object": "wyniesienie Władysława III na tron węgierski"},
+  {"subject": "Mikołaj", "predicate": "positionHeld", "object": "kasztelan sieradzki"},
+  {"subject": "Zawisza Czarny", "predicate": "dateOfDeath", "object": "1429-00-00"},
+  {"subject": "Piotr Kruczko", "predicate": "dateOfDeath", "object": "1430-00-00"},
+  {"subject": "Elżbieta", "predicate": "hasFather", "object": "Piotr Kruczko"}
+]

@@ -1,0 +1,484 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: ok. 1760"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Przybliżona data śmierci: po 1810"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "Prawdopodobne miejsce urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Ojciec Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Rzymianka, żona Piotra Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Rzymianka, żona Piotra Rossi"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazar",
+                "type": "osoba",
+                "description": "Ojciec Małgorzaty (możliwie Baltassari)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810, urodzony zapewne w Rzymie"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "Król, zleceniodawca – dla którego w 1791 pomierzył podziemia pod Baksztą w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "Władczyni, na której wierność złożył przysięgę 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "Osoba, która otrzymywała większość zleceń w Wilnie, konkurent w zakresie prowadzonych prac architektonicznych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Architekt, współpracownik przy przebudowie kościoła w Podbrzeżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Architekt, współdelegowany wraz z nim do reperacji młyna miejskiego w Wilnie w 1810"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający głównie w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "Mechanik, współdelegowany do reperacji młyna miejskiego w Wilnie w 1810"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, działający w Wilnie, który prowadził m.in. przebudowę oficyny pałacu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Dominik Radziwiłł",
+                "type": "osoba",
+                "description": "Właściciel pałacu, którego oficynę przebudowano na teatr przy współpracy z Piotrem Rossi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "Rzymianka, żona Piotra Rossi"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "Prawdopodobne miejsce urodzenia na podstawie określenia 'Rzymianka'"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1790"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1790-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: rok 1790"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1791"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: 1791"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "Syn Piotra Rossi, ur. 1794"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1794-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: 1794"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1792"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1792-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: 1792"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "Córka Piotra Rossi, ur. 1793"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1793-00-00",
+                "type": "data",
+                "description": "Przybliżona data urodzenia: 1793"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "Król, zleceniodawca – dla którego w 1791 pomierzył podziemia pod Baksztą w Wilnie"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Pomiar podziemi pod Baksztą w Wilnie dla króla Stanisław August, zleceniodawcy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "Władczyni, na której wierność złożył przysięgę 30 XII 1794 po zajęciu Wilna przez Rosjan"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1794-12-30",
+                "type": "data",
+                "description": "Data złożenia przysięgi wierności Katarzynie II po zajęciu Wilna przez Rosjan"
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "Architekt, współpracownik przy przebudowie kościoła w Podbrzeżu"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "Architekt",
+                "type": "zawód",
+                "description": "Zawód architekta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Architekt, współdelegowany wraz z nim do reperacji młyna miejskiego w Wilnie w 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "Architekt, współdelegowany wraz z nim do reperacji młyna miejskiego w Wilnie w 1810"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Reperacja młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "Mechanik, współdelegowany do reperacji młyna miejskiego w Wilnie w 1810"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "Mechanik",
+                "type": "zawód",
+                "description": "Mechanik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "Mechanik, współdelegowany do reperacji młyna miejskiego w Wilnie w 1810"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Reperacja młyna miejskiego w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dominik Radziwiłł",
+                "type": "osoba",
+                "description": "Właściciel pałacu, którego oficynę przebudowano na teatr przy współpracy z Piotrem Rossi"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "pałac",
+                "type": "obiekt",
+                "description": "Pałac, którego oficynę przebudowano na teatr przy współpracy z Piotrem Rossi"
+            }
+        }
+    ]
+}

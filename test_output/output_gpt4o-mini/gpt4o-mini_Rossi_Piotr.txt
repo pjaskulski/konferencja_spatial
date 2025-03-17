@@ -1,0 +1,140 @@
+Rossi_Piotr_1.json
+
+Próba 1
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> dateOfDeath -> 1810, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Małgorzata -> hasWife -> Małgorzata, NIE
+Kornel -> placeOfBirth -> nieokreslone miejsce, NIE
+Klemens -> hasSon -> Rossi Piotr, NIE
+Izabella -> hasMother -> Małgorzata, TAK
+Feliksa -> hasMother -> Małgorzata, TAK
+
+16: 13 TAK, 3 NIE
+
+Próba 2
+Rossi_Piotr_2.json
+
+Rossi Piotr -> dateOfBirth -> 1760, TAK
+Rossi Piotr -> dateOfDeath -> 1810, TAK
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> dateOfEvent -> 1790, NIE
+Rossi Piotr -> hasOccupation -> architekt, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac przy ul. Wileńskiej, TAK
+Rossi Piotr -> hasAssets -> plac na przedmieściu, TAK
+Rossi Piotr -> hasAchievement -> przebudowa kaplicy Matki Boskiej przy Ostrej Bramie, TAK
+Rossi Piotr -> hasAchievement -> przebudowa browaru przy placu Kossakowskich na arsenał, TAK
+Rossi Piotr -> hasAchievement -> przebudowa dwóch skasowanych kolegiów jezuickich, TAK
+Rossi Piotr -> hasAchievement -> wykonanie planu miasta Wilna, TAK
+Rossi Piotr -> hasAchievement -> pomiar podziemi pod Baksztą w Wilnie, TAK
+Rossi Piotr -> dateOfEvent -> 1794-12-30, NIE
+Rossi Piotr -> hasAchievement -> przebudowa kościoła w Podbrzeziu, TAK
+Rossi Piotr -> hasAchievement -> przebudowa oficyny pałacu Dominika Radziwiłła na teatr, TAK
+Rossi Piotr -> dateOfEvent -> 1810, NIE
+Małgorzata -> hasWife -> Małgorzata, NIE
+Andrzej -> dateOfBirth -> 1790, TAK
+Kornel -> hasSon -> Kornel, NIE
+Klemens -> dateOfBirth -> 1794, TAK
+
+30: 25 TAK, 5 NIE
+
+Próba 3
+Rossi_Piotr_3.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> significantFigure -> Stanisław August, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Małgorzata -> hasWife -> Małgorzata, TAK
+Andrzej -> hasOccupation -> nieokreslony zawód, NIE
+Kornel -> hasSon -> Kornel, NIE
+Klemens -> placeOfBirth -> nieokreslone miejsce, NIE
+Izabella -> hasDaughter -> Izabella, NIE
+Feliksa -> hasMother -> Małgorzata, NIE
+
+15: 10 TAK, 5 NIE
+
+Próba 4
+Rossi_Piotr_4.json
+
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Rossi Piotr -> significantFigure -> Katarzyna II, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> hasOccupation -> architektura, NIE
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> dateOfEvent -> Wilno, NIE
+
+12: 10 TAK, 2 NIE
+
+Próba 5
+Rossi_Piotr_5.json
+
+Rossi Piotr -> dateOfBirth -> 1760, TAK
+Rossi Piotr -> dateOfDeath -> 1810, TAK
+Rossi Piotr -> hasFather -> Andrzej, TAK
+Rossi Piotr -> hasWife -> Małgorzata, TAK
+Rossi Piotr -> hasSon -> Andrzej, TAK
+Rossi Piotr -> hasSon -> Kornel, TAK
+Rossi Piotr -> hasSon -> Klemens, TAK
+Rossi Piotr -> hasDaughter -> Izabella, TAK
+Rossi Piotr -> hasDaughter -> Feliksa, TAK
+Rossi Piotr -> hasOccupation -> architekt, TAK
+Rossi Piotr -> positionHeld -> architekt gub. wileńskiej, TAK
+Rossi Piotr -> significantFigure -> Augustyn Kossakowski, TAK
+Rossi Piotr -> significantFigure -> Wawrzyniec Gucewicz, TAK
+Rossi Piotr -> placeOfBirth -> Rzym, TAK
+Małgorzata -> hasWife -> Małgorzata, NIE
+Andrzej -> dateOfBirth -> 1790, TAK
+Kornel -> hasSon -> Kornel, NIE
+Klemens -> hasOccupation -> nieokreślony zawód, NIE
+Izabella -> dateOfBirth -> 1792, TAK
+Feliksa -> dateOfBirth -> 1793, TAK
+
+20: 17 TAK, 3 NIE
+
+--------------------------------------------------------------------------------
+16: 13 TAK, 3 NIE
+30: 25 TAK, 5 NIE
+15: 10 TAK, 5 NIE
+12: 10 TAK, 2 NIE
+20: 17 TAK, 3 NIE
+-----------------
+
+18.6 15 TAK, 3.6 NIE
+% TRUE = 80.6%
+% TOTAL = 45.3%
+     
+
+
+
+
