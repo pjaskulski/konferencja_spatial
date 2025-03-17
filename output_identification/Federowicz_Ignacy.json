@@ -1,0 +1,1048 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "ksiądz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19145448"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "ksiądz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19145448"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "paulin",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "paulin",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1836-04-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Czechy",
+                "type": "miejscowość",
+                "description": "wieś pod Zduńską Wolą",
+                "wikihum": "Q26397"
+            }
+        },
+        {
+            "subject": {
+                "name": "Czechy",
+                "type": "miejscowość",
+                "description": "wieś pod Zduńską Wolą",
+                "wikihum": "Q26397"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1913-06-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Aleksander Federowicz",
+                "type": "osoba",
+                "description": "ojciec Ignacego Federowicza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Federowicz",
+                "type": "osoba",
+                "description": "ojciec Ignacego Federowicza",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Aniela Wilczyńska",
+                "type": "osoba",
+                "description": "matka Ignacego Federowicza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aniela Wilczyńska",
+                "type": "osoba",
+                "description": "matka Ignacego Federowicza",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wieluń",
+                "type": "miejscowość",
+                "description": "miejsce ukończenia szkoły powiatowej przez Ignacego Federowicza",
+                "wikihum": "Q86561"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wieluń",
+                "type": "miejscowość",
+                "description": "miejsce ukończenia szkoły powiatowej przez Ignacego Federowicza",
+                "wikihum": "Q86561"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Częstochowa",
+                "type": "miejscowość",
+                "description": "miejsce wstąpienia do zakonu paulinów przez Ignacego Federowicza",
+                "wikihum": "Q26724"
+            }
+        },
+        {
+            "subject": {
+                "name": "Częstochowa",
+                "type": "miejscowość",
+                "description": "miejsce wstąpienia do zakonu paulinów przez Ignacego Federowicza",
+                "wikihum": "Q26724"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": "miejsce otrzymania święceń kapłańskich przez Ignacego Federowicza",
+                "wikihum": "Q87838"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": "miejsce otrzymania święceń kapłańskich przez Ignacego Federowicza",
+                "wikihum": "Q87838"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Leśniów",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia obowiązków kaznodziei przez Ignacego Federowicza",
+                "wikihum": "Q49279"
+            }
+        },
+        {
+            "subject": {
+                "name": "Leśniów",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia obowiązków kaznodziei przez Ignacego Federowicza",
+                "wikihum": "Q49279"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Skałka",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia funkcji przez Ignacego Federowicza",
+                "wikihum": "Q110048"
+            }
+        },
+        {
+            "subject": {
+                "name": "Skałka",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia funkcji przez Ignacego Federowicza",
+                "wikihum": "Q110048"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagy-Levard",
+                "type": "miejscowość",
+                "description": "miejsce otwarcia nowego klasztoru oo. paulinów przez Ignacego Federowicza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nagy-Levard",
+                "type": "miejscowość",
+                "description": "miejsce otwarcia nowego klasztoru oo. paulinów przez Ignacego Federowicza",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor św. Krzyża",
+                "type": "miejscowość",
+                "description": "miejsce założenia klasztoru przez Ignacego Federowicza na Węgrzech",
+                "wikihum": "NEW",
+                "wikidata": "Q1787112",
+                "nominatim": 41805841,
+                "nominatim_name": "Monastery of the Cross, חיים הזז, קרית שמואל, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9218812, ישראל"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor św. Krzyża",
+                "type": "miejscowość",
+                "description": "miejsce założenia klasztoru przez Ignacego Federowicza na Węgrzech",
+                "wikihum": "NEW",
+                "wikidata": "Q1787112",
+                "nominatim": 41805841,
+                "nominatim_name": "Monastery of the Cross, חיים הזז, קרית שמואל, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9218812, ישראל"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prokurator klasztoru i magister nowicjatu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "prokurator klasztoru i magister nowicjatu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "przeor i administrator parafii",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przeor i administrator parafii",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kustosz generalny zakonu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza w całej monarchii austriackiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kustosz generalny zakonu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza w całej monarchii austriackiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zakon paulinów",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zakon paulinów",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół na Skałce",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kościół na Skałce",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor oo. paulinów w Nagy-Levard",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor oo. paulinów w Nagy-Levard",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor św. Krzyża",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor św. Krzyża",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pogrzeb J. Długosza",
+                "type": "wydarzenie",
+                "description": "uroczysty pogrzeb J. Długosza, w którym uczestniczył Ignacy Federowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pogrzeb J. Długosza",
+                "type": "wydarzenie",
+                "description": "uroczysty pogrzeb J. Długosza, w którym uczestniczył Ignacy Federowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "restauracja kościoła na Skałce",
+                "type": "wydarzenie",
+                "description": "restauracja kościoła na Skałce, w której uczestniczył Ignacy Federowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "restauracja kościoła na Skałce",
+                "type": "wydarzenie",
+                "description": "restauracja kościoła na Skałce, w której uczestniczył Ignacy Federowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "odnowiciel kościoła na Skałce",
+                "type": "osiągnięcie",
+                "description": "dzięki jego pracom nazwano go odnowicielem kościoła na Skałce",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "odnowiciel kościoła na Skałce",
+                "type": "osiągnięcie",
+                "description": "dzięki jego pracom nazwano go odnowicielem kościoła na Skałce",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "K. Knaus",
+                "type": "osoba",
+                "description": "architekt, pod jego kierunkiem wnętrze kościoła otrzymało piękną polichromię",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "K. Knaus",
+                "type": "osoba",
+                "description": "architekt, pod jego kierunkiem wnętrze kościoła otrzymało piękną polichromię",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "A. Mikołajewski",
+                "type": "osoba",
+                "description": "wykonał polichromię według projektu Niedzielskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "A. Mikołajewski",
+                "type": "osoba",
+                "description": "wykonał polichromię według projektu Niedzielskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Niedzielski",
+                "type": "osoba",
+                "description": "autor projektu polichromii wykonanej przez A. Mikołajewskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Niedzielski",
+                "type": "osoba",
+                "description": "autor projektu polichromii wykonanej przez A. Mikołajewskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tola Certowiczówna",
+                "type": "osoba",
+                "description": "artystka rzeźbiarka, darczyńca brązowych orłów odlewanych w Paryżu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tola Certowiczówna",
+                "type": "osoba",
+                "description": "artystka rzeźbiarka, darczyńca brązowych orłów odlewanych w Paryżu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Łepkowski",
+                "type": "osoba",
+                "description": "konserwator, zaangażowany w urządzenie Grobów Zasłużonych",
+                "wikihum": "Q160722"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łepkowski",
+                "type": "osoba",
+                "description": "konserwator, zaangażowany w urządzenie Grobów Zasłużonych",
+                "wikihum": "Q160722"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży",
+                "wikihum": "Q152519"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "ks. bp Dunajewski",
+                "type": "osoba",
+                "description": "biskup, oddał pod straż i opiekę Groby Zasłużonych Ignacemu Federowiczowi",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ks. bp Dunajewski",
+                "type": "osoba",
+                "description": "biskup, oddał pod straż i opiekę Groby Zasłużonych Ignacemu Federowiczowi",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        }
+    ]
+}

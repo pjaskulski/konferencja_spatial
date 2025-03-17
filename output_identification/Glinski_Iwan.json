@@ -1,0 +1,433 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda kijowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "wojewoda kijowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda nowogrodzki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q108587475"
+            }
+        },
+        {
+            "subject": {
+                "name": "wojewoda nowogrodzki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q108587475"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Lew Borysowicz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lew Borysowicz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny",
+                "wikihum": "Q153475"
+            }
+        },
+        {
+            "subject": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny",
+                "wikihum": "Q153475"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Wasyl Gliński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q153476"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wasyl Gliński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q153476"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1522-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasNiece",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Helena Glińska",
+                "type": "osoba",
+                "description": "późniejsza małżonka w. ks. Wasyla",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Glińska",
+                "type": "osoba",
+                "description": "późniejsza małżonka w. ks. Wasyla",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dworzanin królewski",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dworzanin królewski",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "namiestnik przełomski i ożski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "namiestnik przełomski i ożski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "chorąży ziemski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "chorąży ziemski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "marszałek hospodarski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q121335323"
+            }
+        },
+        {
+            "subject": {
+                "name": "marszałek hospodarski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q121335323"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "majątki w Kijowszczyźnie",
+                "type": "własność",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "majątki w Kijowszczyźnie",
+                "type": "własność",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "własność",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny",
+                "wikihum": "Q153475"
+            }
+        }
+    ]
+}

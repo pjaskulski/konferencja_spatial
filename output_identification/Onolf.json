@@ -1,0 +1,613 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": "biskup diecezji kruszwickiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": "biskup diecezji kruszwickiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": "biskup diecezji kujawskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": "biskup diecezji kujawskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1187-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q87838"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q87838"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "konsekracja tumu pod Łęczycą",
+                "type": "wydarzenie",
+                "description": "konsekracja tumu pod Łęczycą w 1161 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "konsekracja tumu pod Łęczycą",
+                "type": "wydarzenie",
+                "description": "konsekracja tumu pod Łęczycą w 1161 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zjazd łęczycki",
+                "type": "wydarzenie",
+                "description": "zjazd łęczycki w 1180 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zjazd łęczycki",
+                "type": "wydarzenie",
+                "description": "zjazd łęczycki w 1180 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "budowa katedry romańskiej we Włocławku",
+                "type": "wydarzenie",
+                "description": "budowa niezachowanej katedry romańskiej we Włocławku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "budowa katedry romańskiej we Włocławku",
+                "type": "wydarzenie",
+                "description": "budowa niezachowanej katedry romańskiej we Włocławku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "początki szpitala Św. Gotarda",
+                "type": "wydarzenie",
+                "description": "początki szpitala Św. Gotarda (Szpetala) nad Wisłą naprzeciw Włocławka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "początki szpitala Św. Gotarda",
+                "type": "wydarzenie",
+                "description": "początki szpitala Św. Gotarda (Szpetala) nad Wisłą naprzeciw Włocławka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "relikwiarz-portatyl kruszwicki",
+                "type": "wydarzenie",
+                "description": "okazały relikwiarz-portatyl tzw. kruszwicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "relikwiarz-portatyl kruszwicki",
+                "type": "wydarzenie",
+                "description": "okazały relikwiarz-portatyl tzw. kruszwicki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "obdarowanie kapituły włocławskiej",
+                "type": "wydarzenie",
+                "description": "obdarowanie kapituły włocławskiej przez Leszka Bolesławowica w 1185 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "obdarowanie kapituły włocławskiej",
+                "type": "wydarzenie",
+                "description": "obdarowanie kapituły włocławskiej przez Leszka Bolesławowica w 1185 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Leszek Bolesławowic",
+                "type": "osoba",
+                "description": "książę, który obdarował kapitułę włocławską w 1185 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "książę",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Leszek Bolesławowic",
+                "type": "osoba",
+                "description": "książę, który obdarował kapitułę włocławską w 1185 roku",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "książę",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Swidger",
+                "type": "osoba",
+                "description": "biskup kruszwicki przed Onolfem",
+                "wikihum": "Q173771"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": "biskup diecezji kruszwickiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Swidger",
+                "type": "osoba",
+                "description": "biskup kruszwicki przed Onolfem",
+                "wikihum": "Q173771"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Werner-Wiernierz",
+                "type": "osoba",
+                "description": "biskup włocławski, który przeszedł na diecezję płocką",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "biskup włocławski",
+                "type": "urząd",
+                "description": "biskup diecezji włocławskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Werner-Wiernierz",
+                "type": "osoba",
+                "description": "biskup włocławski, który przeszedł na diecezję płocką",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "biskup włocławski",
+                "type": "urząd",
+                "description": "biskup diecezji włocławskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Werner-Wiernierz",
+                "type": "osoba",
+                "description": "biskup włocławski, który przeszedł na diecezję płocką",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "biskup płocki",
+                "type": "urząd",
+                "description": "biskup diecezji płockiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "biskup płocki",
+                "type": "urząd",
+                "description": "biskup diecezji płockiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "następca Onolfa jako biskup kujawski",
+                "wikihum": "Q172760"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": "biskup diecezji kujawskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "następca Onolfa jako biskup kujawski",
+                "wikihum": "Q172760"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dziekan kapituły",
+                "type": "urząd",
+                "description": "dziekan kapituły przed zostaniem biskupem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dziekan kapituły",
+                "type": "urząd",
+                "description": "dziekan kapituły przed zostaniem biskupem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem",
+                "wikihum": "Q164270"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "połączenie diecezji kruszwickiej i włocławskiej",
+                "type": "wydarzenie",
+                "description": "połączenie obu diecezji kujawskich w jedną, przypisywane Onolfowi",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "połączenie diecezji kruszwickiej i włocławskiej",
+                "type": "wydarzenie",
+                "description": "połączenie obu diecezji kujawskich w jedną, przypisywane Onolfowi",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

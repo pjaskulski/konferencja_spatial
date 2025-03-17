@@ -1,0 +1,574 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kartograf",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kartograf",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "oficer regimentu",
+                "type": "zawód",
+                "description": "w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "oficer regimentu",
+                "type": "zawód",
+                "description": "w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "nobleTitle",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szlachcic",
+                "type": "tytuł szlachecki",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19169142"
+            }
+        },
+        {
+            "subject": {
+                "name": "szlachcic",
+                "type": "tytuł szlachecki",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19169142"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "tytuł szlachecki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kapitan",
+                "type": "urząd",
+                "description": "z kompanią",
+                "wikihum": "NEW",
+                "wikidata": "Q18430688"
+            }
+        },
+        {
+            "subject": {
+                "name": "kapitan",
+                "type": "urząd",
+                "description": "z kompanią",
+                "wikihum": "NEW",
+                "wikidata": "Q18430688"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "major",
+                "type": "urząd",
+                "description": "w regimencie pieszym 16",
+                "wikihum": "NEW",
+                "wikidata": "Q6738009"
+            }
+        },
+        {
+            "subject": {
+                "name": "major",
+                "type": "urząd",
+                "description": "w regimencie pieszym 16",
+                "wikihum": "NEW",
+                "wikidata": "Q6738009"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Warta",
+                "type": "obiekt hydrologiczny",
+                "description": "od Sieradza do wsi Siemiątki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Warta",
+                "type": "obiekt hydrologiczny",
+                "description": "od Sieradza do wsi Siemiątki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Narew",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Narew",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Biebrza",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Biebrza",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Wisła",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Wisła",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Liwiec",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Liwiec",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Wkra",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Wkra",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Skarbowa",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11741678"
+            }
+        },
+        {
+            "subject": {
+                "name": "Komisja Skarbowa",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11741678"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kwatermistrz",
+                "type": "stanowisko",
+                "description": "w regimencie w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kwatermistrz",
+                "type": "stanowisko",
+                "description": "w regimencie w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "stanowisko",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nobilitacja",
+                "type": "wydarzenie",
+                "description": "otrzymanie tytułu szlacheckiego w 1791 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q1975665"
+            }
+        },
+        {
+            "subject": {
+                "name": "nobilitacja",
+                "type": "wydarzenie",
+                "description": "otrzymanie tytułu szlacheckiego w 1791 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q1975665"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teodor Henryk Langfort",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "Q159782"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rzeka Pilica",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rzeka Pilica",
+                "type": "obiekt hydrologiczny",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt hydrologiczny",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

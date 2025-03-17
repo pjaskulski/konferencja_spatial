@@ -1,0 +1,805 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q30911974"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q30911974"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q147390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q147390"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Piotr Rossia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "ojciec Piotr Rossia",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Piotr Rossia, rzymianka, córka Józefa Baltazary",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Piotr Rossia, rzymianka, córka Józefa Baltazary",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Andrzej",
+                "type": "osoba",
+                "description": "syn Piotr Rossia, ur. 1790",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Piotr Rossia, ur. 1791",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kornel",
+                "type": "osoba",
+                "description": "syn Piotr Rossia, ur. 1791",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Piotr Rossia, ur. 1794",
+                "wikihum": "Q157723"
+            }
+        },
+        {
+            "subject": {
+                "name": "Klemens",
+                "type": "osoba",
+                "description": "syn Piotr Rossia, ur. 1794",
+                "wikihum": "Q157723"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Piotr Rossia, ur. 1792",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izabella",
+                "type": "osoba",
+                "description": "córka Piotr Rossia, ur. 1792",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Piotr Rossia, ur. 1793",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliksa",
+                "type": "osoba",
+                "description": "córka Piotr Rossia, ur. 1793",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q143061"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q143061"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król, dla którego Piotr Rossi wykonywał prace pomiarowe",
+                "wikihum": "Q172354"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "król, dla którego Piotr Rossi wykonywał prace pomiarowe",
+                "wikihum": "Q172354"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "cesarzowa Rosji, której Piotr Rossi złożył przysięgę na wierność",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna II",
+                "type": "osoba",
+                "description": "cesarzowa Rosji, której Piotr Rossi złożył przysięgę na wierność",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy przebudowie kościoła w Podbrzeziu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Augustyn Kossakowski",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy przebudowie kościoła w Podbrzeziu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy budowie portyku katedry",
+                "wikihum": "Q154470"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy budowie portyku katedry",
+                "wikihum": "Q154470"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy reperacji młyna miejskiego w Wilnie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Schildhaus",
+                "type": "osoba",
+                "description": "architekt, współpracownik Piotr Rossia przy reperacji młyna miejskiego w Wilnie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, współpracownik Piotr Rossia przy reperacji młyna miejskiego w Wilnie",
+                "wikihum": "Q154929"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hermanowski",
+                "type": "osoba",
+                "description": "mechanik, współpracownik Piotr Rossia przy reperacji młyna miejskiego w Wilnie",
+                "wikihum": "Q154929"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "architekt guberni wileńskiej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "architekt guberni wileńskiej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieruchomości w Wilnie",
+                "type": "majątek",
+                "description": "plac na przedmieściu i plac przy ul. Wileńskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nieruchomości w Wilnie",
+                "type": "majątek",
+                "description": "plac na przedmieściu i plac przy ul. Wileńskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przebudowa kościoła w Podbrzeziu",
+                "type": "wydarzenie",
+                "description": "współpraca z Augustynem Kossakowskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przebudowa kościoła w Podbrzeziu",
+                "type": "wydarzenie",
+                "description": "współpraca z Augustynem Kossakowskim",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "budowa portyku katedry",
+                "type": "wydarzenie",
+                "description": "współpraca z Wawrzyńcem Gucewiczem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "budowa portyku katedry",
+                "type": "wydarzenie",
+                "description": "współpraca z Wawrzyńcem Gucewiczem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przebudowa oficyny pałacu Dominika Radziwiłła na teatr",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przebudowa oficyny pałacu Dominika Radziwiłła na teatr",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "wydarzenie",
+                "description": "przebudowa według własnych planów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "wydarzenie",
+                "description": "przebudowa według własnych planów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt, ur. ok. 1760, zm. po 1810",
+                "wikihum": "Q168590"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przerobienie browaru na arsenał",
+                "type": "wydarzenie",
+                "description": "przerobienie browaru przy placu Kossakowskich na Antokolu na arsenał",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przerobienie browaru na arsenał",
+                "type": "wydarzenie",
+                "description": "przerobienie browaru przy placu Kossakowskich na Antokolu na arsenał",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

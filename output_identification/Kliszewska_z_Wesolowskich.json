@@ -1,0 +1,451 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "śpiewaczka operetkowa i operowa",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "śpiewaczka operetkowa i operowa",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Frysztak",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie jasielskim",
+                "wikihum": "NEW",
+                "wikidata": "Q498777",
+                "nominatim": 175341716,
+                "nominatim_name": "Frysztak, gmina Frysztak, powiat strzyżowski, województwo podkarpackie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Frysztak",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie jasielskim",
+                "wikihum": "NEW",
+                "wikidata": "Q498777",
+                "nominatim": 175341716,
+                "nominatim_name": "Frysztak, gmina Frysztak, powiat strzyżowski, województwo podkarpackie, Polska"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Katowice",
+                "type": "miejscowość",
+                "description": "miasto na Śląsku",
+                "wikihum": "Q41461"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katowice",
+                "type": "miejscowość",
+                "description": "miasto na Śląsku",
+                "wikihum": "Q41461"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1927-11-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Antoni Kliszewski",
+                "type": "osoba",
+                "description": "aktor i śpiewak",
+                "wikihum": "Q157365"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kliszewski",
+                "type": "osoba",
+                "description": "aktor i śpiewak",
+                "wikihum": "Q157365"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "H. Majeranowska, M. Szlezygierowa i Lamperi",
+                "type": "osoba",
+                "description": "nauczyciele śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "H. Majeranowska, M. Szlezygierowa i Lamperi",
+                "type": "osoba",
+                "description": "nauczyciele śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Lwowski",
+                "type": "instytucja",
+                "description": "główna scena występów Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teatr Lwowski",
+                "type": "instytucja",
+                "description": "główna scena występów Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Polski w Katowicach",
+                "type": "instytucja",
+                "description": "instytucja, z którą była związana Karolina Kliszewska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teatr Polski w Katowicach",
+                "type": "instytucja",
+                "description": "instytucja, z którą była związana Karolina Kliszewska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska stawiała pierwsze kroki na scenie",
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska stawiała pierwsze kroki na scenie",
+                "wikihum": "Q144390"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "występ w operetce „Mikado”",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w operetce A. Sulivana „Mikado” w teatrze lwowskim w 1892 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "występ w operetce „Mikado”",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w operetce A. Sulivana „Mikado” w teatrze lwowskim w 1892 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "występ w teatrze «Nowym» w Warszawie",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w roli Elizy w „O chlebie i wodzie” E. Jakobsona w 1893 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "występ w teatrze «Nowym» w Warszawie",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w roli Elizy w „O chlebie i wodzie” E. Jakobsona w 1893 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+                "type": "instytucja",
+                "description": "teatr objazdowy, w którym Karolina Kliszewska grała w latach 1895–6",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+                "type": "instytucja",
+                "description": "teatr objazdowy, w którym Karolina Kliszewska grała w latach 1895–6",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska reżyserowała „Jasia i Małgosię” i dawała lekcje śpiewu w 1920 roku",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska reżyserowała „Jasia i Małgosię” i dawała lekcje śpiewu w 1920 roku",
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        }
+    ]
+}

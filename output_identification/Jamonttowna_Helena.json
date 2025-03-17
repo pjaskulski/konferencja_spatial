@@ -1,0 +1,740 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "hasAlias",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Hela Warzycka",
+                "type": "alias",
+                "description": "pseudonim Heleny Jamonttówny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hela Warzycka",
+                "type": "alias",
+                "description": "pseudonim Heleny Jamonttówny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "alias",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1914-05-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1944-08-21",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Starówka",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Heleny Jamonttówny",
+                "wikihum": "Q133984"
+            }
+        },
+        {
+            "subject": {
+                "name": "Starówka",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Heleny Jamonttówny",
+                "wikihum": "Q133984"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Janusz Jamontt",
+                "type": "osoba",
+                "description": "sędzia Sądu Najwyższego, profesor prawa karnego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Janusz Jamontt",
+                "type": "osoba",
+                "description": "sędzia Sądu Najwyższego, profesor prawa karnego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Róża de Latour",
+                "type": "osoba",
+                "description": "matka Heleny Jamonttówny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Róża de Latour",
+                "type": "osoba",
+                "description": "matka Heleny Jamonttówny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum Humanistyczne C. Plater",
+                "type": "instytucja",
+                "description": "szkoła ukończona przez Helenę Jamonttównę w 1932 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gimnazjum Humanistyczne C. Plater",
+                "type": "instytucja",
+                "description": "szkoła ukończona przez Helenę Jamonttównę w 1932 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "miejsce studiów Heleny Jamonttówny na Wydziale Prawa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "miejsce studiów Heleny Jamonttówny na Wydziale Prawa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Armia Krajowa",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q4793413"
+            }
+        },
+        {
+            "subject": {
+                "name": "Armia Krajowa",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q4793413"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Konfederacja Narodu",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q11742327"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konfederacja Narodu",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q11742327"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska Macierz Szkolna",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q11822242"
+            }
+        },
+        {
+            "subject": {
+                "name": "Polska Macierz Szkolna",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW",
+                "wikidata": "Q11822242"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pomoc Bliźniemu",
+                "type": "organizacja",
+                "description": "katolicka organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pomoc Bliźniemu",
+                "type": "organizacja",
+                "description": "katolicka organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Falanga",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Falanga",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Delegatura Rządu",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Delegatura Rządu",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Patronat Opieki nad Więźniami",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Patronat Opieki nad Więźniami",
+                "type": "organizacja",
+                "description": "organizacja, z którą była związana Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pełnienie służby jako łączniczka AK",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Heleny Jamonttówny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pełnienie służby jako łączniczka AK",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Heleny Jamonttówny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zdarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Humanistyczny Uniwersytetu Warszawskiego",
+                "type": "instytucja",
+                "description": "miejsce studiów Heleny Jamonttówny na sekcji filozofii i psychologii",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wydział Humanistyczny Uniwersytetu Warszawskiego",
+                "type": "instytucja",
+                "description": "miejsce studiów Heleny Jamonttówny na sekcji filozofii i psychologii",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Międzyorganizacyjne Porozumienie Pomocy Więźniom",
+                "type": "organizacja",
+                "description": "organizacja, której Helena Jamonttówna była inicjatorką, współorganizatorką i przewodniczącą",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Międzyorganizacyjne Porozumienie Pomocy Więźniom",
+                "type": "organizacja",
+                "description": "organizacja, której Helena Jamonttówna była inicjatorką, współorganizatorką i przewodniczącą",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "akcja pomocy i ratowania dzieci żydowskich",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym brała udział Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "akcja pomocy i ratowania dzieci żydowskich",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym brała udział Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "akcje odbijania więźniów",
+                "type": "wydarzenie",
+                "description": "wydarzenia, w których brała udział Helena Jamonttówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "akcje odbijania więźniów",
+                "type": "wydarzenie",
+                "description": "wydarzenia, w których brała udział Helena Jamonttówna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944",
+                "wikihum": "Q155668"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "łączniczka AK w zgrupowaniu płka „Radosława”",
+                "type": "stanowisko",
+                "description": "stanowisko pełnione przez Helenę Jamonttównę podczas powstania w 1944 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "łączniczka AK w zgrupowaniu płka „Radosława”",
+                "type": "stanowisko",
+                "description": "stanowisko pełnione przez Helenę Jamonttównę podczas powstania w 1944 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "stanowisko",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

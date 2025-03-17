@@ -1,0 +1,1369 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "powieściopisarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "powieściopisarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Będzin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q18735"
+            }
+        },
+        {
+            "subject": {
+                "name": "Będzin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q18735"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "19-05",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Józef Kazimierz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q167474"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Kazimierz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q167474"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna Maria z Kempińskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Maria z Kempińskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "I Prywatna Średnia Szkoła Żeńska w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "I Prywatna Średnia Szkoła Żeńska w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1942",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1919",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Filaretów",
+                "type": "organizacja",
+                "description": "młodzieżowy niepodległościowy związek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Związek Filaretów",
+                "type": "organizacja",
+                "description": "młodzieżowy niepodległościowy związek",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Strzelecki",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Związek Strzelecki",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ilustrowany Kurier Codzienny",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ilustrowany Kurier Codzienny",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Goniec Krakowski",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Goniec Krakowski",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nowa Reforma",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nowa Reforma",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nowości Ilustrowane",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nowości Ilustrowane",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kurier Czerwony",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kurier Czerwony",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kino",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kino",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Świat",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW",
+                "wikidata": "Q8082049"
+            }
+        },
+        {
+            "subject": {
+                "name": "Świat",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW",
+                "wikidata": "Q8082049"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kurier Poranny",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kurier Poranny",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Światowid",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW",
+                "wikidata": "Q30918672"
+            }
+        },
+        {
+            "subject": {
+                "name": "Światowid",
+                "type": "instytucja",
+                "description": "czasopismo",
+                "wikihum": "NEW",
+                "wikidata": "Q30918672"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydawnictwo Ibis",
+                "type": "instytucja",
+                "description": "wydawnictwo",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wydawnictwo Ibis",
+                "type": "instytucja",
+                "description": "wydawnictwo",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Człowiek z mostu",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Człowiek z mostu",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gwiazda i hrabia małżonek",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gwiazda i hrabia małżonek",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Małżeństwo gwiazdy",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małżeństwo gwiazdy",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Twarze pod szminką",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Twarze pod szminką",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wysokie C",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW",
+                "wikidata": "Q115547237"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wysokie C",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW",
+                "wikidata": "Q115547237"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kariera Władki Brzozkówny",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kariera Władki Brzozkówny",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lady Władka",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lady Władka",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rozeszły się ich drogi",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rozeszły się ich drogi",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kobieta płaci...",
+                "type": "dzieło",
+                "description": "trylogia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kobieta płaci...",
+                "type": "dzieło",
+                "description": "trylogia",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szczęście przychodzi, kiedy chce",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szczęście przychodzi, kiedy chce",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Moi rodzice rozwodzą się",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Moi rodzice rozwodzą się",
+                "type": "dzieło",
+                "description": "powieść",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Śpiewnik wojenny",
+                "type": "dzieło",
+                "description": "antologia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Śpiewnik wojenny",
+                "type": "dzieło",
+                "description": "antologia",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasAlias",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "type": "pseudonim",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "type": "pseudonim",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "pseudonim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze",
+                "type": "wydarzenie",
+                "description": "działalność społeczna w 1915 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze",
+                "type": "wydarzenie",
+                "description": "działalność społeczna w 1915 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "aresztowanie i osadzenie w więzieniu na ul. Gęsiej",
+                "type": "wydarzenie",
+                "description": "aresztowanie w maju 1942 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "aresztowanie i osadzenie w więzieniu na ul. Gęsiej",
+                "type": "wydarzenie",
+                "description": "aresztowanie w maju 1942 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda",
+                "type": "instytucja",
+                "description": "krakowskie czasopisma",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda",
+                "type": "instytucja",
+                "description": "krakowskie czasopisma",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "prowadzenie jadłodajni na Nowym Świecie w Warszawie",
+                "type": "wydarzenie",
+                "description": "działalność podczas wojny 1939-45",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "prowadzenie jadłodajni na Nowym Świecie w Warszawie",
+                "type": "wydarzenie",
+                "description": "działalność podczas wojny 1939-45",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

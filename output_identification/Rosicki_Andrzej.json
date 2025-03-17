@@ -1,0 +1,756 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent miasta Łodzi",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "prezydent miasta Łodzi",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dyrektor Towarzystwa Kredytowego m. Łodzi",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dyrektor Towarzystwa Kredytowego m. Łodzi",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1814-10-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1904-01-17",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Władysławowo",
+                "type": "miejscowość",
+                "description": "koło Konina",
+                "wikihum": "Q87772",
+                "wikidata": "Q836965",
+                "nominatim": 162136565,
+                "nominatim_name": "Władysławowo, powiat pucki, województwo pomorskie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysławowo",
+                "type": "miejscowość",
+                "description": "koło Konina",
+                "wikihum": "Q87772",
+                "wikidata": "Q836965",
+                "nominatim": 162136565,
+                "nominatim_name": "Władysławowo, powiat pucki, województwo pomorskie, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q52081"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q52081"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cmentarz katolicki przy ul. Ogrodowej w Łodzi",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "cmentarz katolicki przy ul. Ogrodowej w Łodzi",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Walenty Rosicki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Walenty Rosicki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Marianna z Idzikowskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna z Idzikowskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Józefa Konstancja",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q169849"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Konstancja",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q169849"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Antonina Wiktoria",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antonina Wiktoria",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Piotr Michał",
+                "type": "osoba",
+                "description": "kupiec",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Michał",
+                "type": "osoba",
+                "description": "kupiec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Kredytowe m. Łodzi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Kredytowe m. Łodzi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burmistrz Sochaczewa",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "burmistrz Sochaczewa",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Sochaczew",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q76789"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sochaczew",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q76789"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "predecessor",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Franciszek Traeger",
+                "type": "osoba",
+                "description": "poprzednik Andrzeja Rosickiego na stanowisku prezydenta Łodzi",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Traeger",
+                "type": "osoba",
+                "description": "poprzednik Andrzeja Rosickiego na stanowisku prezydenta Łodzi",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "causeOfDismissal",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieprawomyślność i nielojalność wobec władz rosyjskich",
+                "type": "przyczyna",
+                "description": "sprzyjał powstańcom styczniowym, udzielając im wsparcia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nieprawomyślność i nielojalność wobec władz rosyjskich",
+                "type": "przyczyna",
+                "description": "sprzyjał powstańcom styczniowym, udzielając im wsparcia",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przyczyna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "założenie Towarzystwa Kredytowego m. Łodzi",
+                "type": "wydarzenie",
+                "description": "Andrzej Rosicki był jednym z założycieli w 1872 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "założenie Towarzystwa Kredytowego m. Łodzi",
+                "type": "wydarzenie",
+                "description": "Andrzej Rosicki był jednym z założycieli w 1872 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "emerytura za 30-letnią pracę",
+                "type": "osiągnięcie",
+                "description": "otrzymał emeryturę w wysokości 375 rubli rocznie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "emerytura za 30-letnią pracę",
+                "type": "osiągnięcie",
+                "description": "otrzymał emeryturę w wysokości 375 rubli rocznie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

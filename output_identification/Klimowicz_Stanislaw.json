@@ -1,0 +1,487 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "zecer",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW",
+                "wikidata": "Q2274981"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "zecer",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW",
+                "wikidata": "Q2274981"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Paulina Klimowicz",
+                "type": "osoba",
+                "description": "brat Stanisława Klimowicza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paulina Klimowicz",
+                "type": "osoba",
+                "description": "brat Stanisława Klimowicza",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Koło Młodych Drukarzy",
+                "type": "organizacja",
+                "description": "współzałożyciel Stanisław Klimowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Koło Młodych Drukarzy",
+                "type": "organizacja",
+                "description": "współzałożyciel Stanisław Klimowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zjednoczenie Robotnicze",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zjednoczenie Robotnicze",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Zagraniczny Socjalistów Polskich",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Związek Zagraniczny Socjalistów Polskich",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Pomocy Więźniom i Emigrantom Politycznym «Czerwony Krzyż»",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Pomocy Więźniom i Emigrantom Politycznym «Czerwony Krzyż»",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q97863"
+            }
+        },
+        {
+            "subject": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q97863"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1935-00-00",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Leodium",
+                "type": "miejscowość",
+                "description": "miejsce studiów Stanisława Klimowicza",
+                "wikihum": "NEW",
+                "wikidata": "Q3992",
+                "nominatim": 94993552,
+                "nominatim_name": "Liège, Wallonie, 4000, België / Belgique / Belgien"
+            }
+        },
+        {
+            "subject": {
+                "name": "Leodium",
+                "type": "miejscowość",
+                "description": "miejsce studiów Stanisława Klimowicza",
+                "wikihum": "NEW",
+                "wikidata": "Q3992",
+                "nominatim": 94993552,
+                "nominatim_name": "Liège, Wallonie, 4000, België / Belgique / Belgien"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Drukarnia A. Reiffa",
+                "type": "instytucja",
+                "description": "polska drukarnia w Paryżu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Drukarnia A. Reiffa",
+                "type": "instytucja",
+                "description": "polska drukarnia w Paryżu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Ubezpieczeń New-York",
+                "type": "instytucja",
+                "description": "instytucja w Paryżu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Ubezpieczeń New-York",
+                "type": "instytucja",
+                "description": "instytucja w Paryżu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego",
+                "wikihum": "Q157356"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

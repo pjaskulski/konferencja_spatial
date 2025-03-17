@@ -1,0 +1,842 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1852-01-18",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1920-12-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Lwowski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Lwowski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Wiedeński",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Wiedeński",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "profesor teologii pastoralnej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "profesor teologii pastoralnej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dziekan wydziału teologicznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dziekan wydziału teologicznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kierownik seminarjum homiletycznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kierownik seminarjum homiletycznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "radca gr.-kat. Konsystorza Metropol.",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "radca gr.-kat. Konsystorza Metropol.",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "egzaminator synodalny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "egzaminator synodalny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komentarz do Pisma św. St. Test.",
+                "type": "dzieło",
+                "description": "wraz z tekstem starosłowiańskim (t. I–VII, Lw. 1900–1908)",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Komentarz do Pisma św. St. Test.",
+                "type": "dzieło",
+                "description": "wraz z tekstem starosłowiańskim (t. I–VII, Lw. 1900–1908)",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pedagogja chrześc. kat.",
+                "type": "dzieło",
+                "description": "Lw. 1891, 2. wyd. pomn. 1909",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pedagogja chrześc. kat.",
+                "type": "dzieło",
+                "description": "Lw. 1891, 2. wyd. pomn. 1909",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teologia pasterska",
+                "type": "dzieło",
+                "description": "Lw. 1902",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Teologia pasterska",
+                "type": "dzieło",
+                "description": "Lw. 1902",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Święcenia kapłańskie",
+                "type": "wydarzenie",
+                "description": "Jan Bartoszewski otrzymał święcenia kapłańskie w 1875 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q662862"
+            }
+        },
+        {
+            "subject": {
+                "name": "Święcenia kapłańskie",
+                "type": "wydarzenie",
+                "description": "Jan Bartoszewski otrzymał święcenia kapłańskie w 1875 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q662862"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Doktor św. teologii",
+                "type": "osiągnięcie",
+                "description": "Jan Bartoszewski osiągnął stopień doktora św. teologii w 1879 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Doktor św. teologii",
+                "type": "osiągnięcie",
+                "description": "Jan Bartoszewski osiągnął stopień doktora św. teologii w 1879 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Traktaty teologiczne",
+                "type": "dzieło",
+                "description": "Jan Bartoszewski drukował traktaty teologiczne w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Traktaty teologiczne",
+                "type": "dzieło",
+                "description": "Jan Bartoszewski drukował traktaty teologiczne w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "adjunkt wydziału teologicznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "adjunkt wydziału teologicznego",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "zastępca profesora teologii pastoralnej",
+                "type": "zawód",
+                "description": "z językiem wykładowym ruskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zastępca profesora teologii pastoralnej",
+                "type": "zawód",
+                "description": "z językiem wykładowym ruskim",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "profesor zwyczajny teologii pastoralnej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "profesor zwyczajny teologii pastoralnej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wykładowca pedagogiki",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wykładowca pedagogiki",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "traktaty teologiczne",
+                "type": "dzieło",
+                "description": "drukowane w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "traktaty teologiczne",
+                "type": "dzieło",
+                "description": "drukowane w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Bartoszewski",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego",
+                "wikihum": "Q148826"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kazania",
+                "type": "dzieło",
+                "description": "pasyjne, niedzielne, świąteczne, pogrzebowe i majowe",
+                "wikihum": "NEW",
+                "wikidata": "Q20034979"
+            }
+        },
+        {
+            "subject": {
+                "name": "kazania",
+                "type": "dzieło",
+                "description": "pasyjne, niedzielne, świąteczne, pogrzebowe i majowe",
+                "wikihum": "NEW",
+                "wikidata": "Q20034979"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

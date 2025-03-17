@@ -1,0 +1,639 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "Q156572"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "działacz kulturalny",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "działacz kulturalny",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Ludwiszcze",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwiszcze",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "burgrabia krzemieniecki",
+                "wikihum": "Q172360"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "burgrabia krzemieniecki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Barbara z Kuczabskich",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Barbara z Kuczabskich",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Liceum Wołyńskie w Krzemieńcu",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Liceum Wołyńskie w Krzemieńcu",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wołyński Sąd Główny",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wołyński Sąd Główny",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podsędek sądu",
+                "type": "urząd",
+                "description": "w Starym Konstantynowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "podsędek sądu",
+                "type": "urząd",
+                "description": "w Starym Konstantynowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kurator gimnazjum",
+                "type": "urząd",
+                "description": "honorowy, w Równem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kurator gimnazjum",
+                "type": "urząd",
+                "description": "honorowy, w Równem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kołki",
+                "type": "miejscowość",
+                "description": "w powiecie starokonstantynowskim",
+                "wikihum": "NEW",
+                "wikidata": "Q1010088",
+                "nominatim": 177745634,
+                "nominatim_name": "Колки, Колківська селищна громада, Луцький район, Волинська область, Україна"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kołki",
+                "type": "miejscowość",
+                "description": "w powiecie starokonstantynowskim",
+                "wikihum": "NEW",
+                "wikidata": "Q1010088",
+                "nominatim": 177745634,
+                "nominatim_name": "Колки, Колківська селищна громада, Луцький район, Волинська область, Україна"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1862-11-08",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Franciszka Czarnocka",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Czarnocka",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "syn Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Juliusz",
+                "type": "osoba",
+                "description": "syn Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Juliusz",
+                "type": "osoba",
+                "description": "syn Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Feliks Czacki",
+                "type": "osoba",
+                "description": "bratanek Tadeusza Czackiego",
+                "wikihum": "Q150877"
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliks Czacki",
+                "type": "osoba",
+                "description": "bratanek Tadeusza Czackiego",
+                "wikihum": "Q150877"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "K. Kaczkowski",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "K. Kaczkowski",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "K. Sienkiewicz",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "K. Sienkiewicz",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "A. Słowikowski",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "A. Słowikowski",
+                "type": "osoba",
+                "description": "współpracownik Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gromadzenie materiałów do historii T. Czackiego i szkół krzemienieckich",
+                "type": "wydarzenie",
+                "description": "przedsięwzięcie organizowane przez Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "gromadzenie materiałów do historii T. Czackiego i szkół krzemienieckich",
+                "type": "wydarzenie",
+                "description": "przedsięwzięcie organizowane przez Kamieńskiego Antoniego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zbiór portretów nauczycieli krzemienieckich",
+                "type": "przedmiot",
+                "description": "znajdował się w dworze Kamieńskiego Antoniego w Kołkach",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zbiór portretów nauczycieli krzemienieckich",
+                "type": "przedmiot",
+                "description": "znajdował się w dworze Kamieńskiego Antoniego w Kołkach",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

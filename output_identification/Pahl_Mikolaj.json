@@ -1,0 +1,1040 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "burmistrz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1595-04-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1649-08-21",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "obywatel gdański",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "obywatel gdański",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna von Domfsdorff",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna von Domfsdorff",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasStepfather",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Konstanty Ferber",
+                "type": "osoba",
+                "description": "burmistrz",
+                "wikihum": "Q152564"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Ferber",
+                "type": "osoba",
+                "description": "burmistrz",
+                "wikihum": "Q152564"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna von Thielen",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna von Thielen",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Konstanty Pahl",
+                "type": "osoba",
+                "description": "burmistrz gdański w latach 1687–91",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Pahl",
+                "type": "osoba",
+                "description": "burmistrz gdański w latach 1687–91",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q30075448"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gimnazjum",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q30075448"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q83578"
+            }
+        },
+        {
+            "subject": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q83578"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lipsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q49963"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lipsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q49963"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wittenberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146885"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wittenberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146885"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Giessen",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3874",
+                "nominatim": 127855355,
+                "nominatim_name": "Gießen, Landkreis Gießen, Hessen, Deutschland"
+            }
+        },
+        {
+            "subject": {
+                "name": "Giessen",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3874",
+                "nominatim": 127855355,
+                "nominatim_name": "Gießen, Landkreis Gießen, Hessen, Deutschland"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146796"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dyplom nobilitacyjny",
+                "type": "osiągnięcie",
+                "description": "otrzymany od cesarza Ferdynanda II",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dyplom nobilitacyjny",
+                "type": "osiągnięcie",
+                "description": "otrzymany od cesarza Ferdynanda II",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Hel",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q36255"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hel",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q36255"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wyżyny",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q90579"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wyżyny",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q90579"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mierzeja i Szkarpawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mierzeja i Szkarpawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rajca",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q1114674"
+            }
+        },
+        {
+            "subject": {
+                "name": "rajca",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q1114674"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9352961"
+            }
+        },
+        {
+            "subject": {
+                "name": "sędzia",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9352961"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "inspektor kancelarii i archiwum",
+                "type": "urząd",
+                "description": "funkcja dożywotnia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "inspektor kancelarii i archiwum",
+                "type": "urząd",
+                "description": "funkcja dożywotnia",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q248577"
+            }
+        },
+        {
+            "subject": {
+                "name": "prezydent",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q248577"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wiceprezydent",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wiceprezydent",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "sejmik w Malborku",
+                "type": "wydarzenie",
+                "description": "sierpień 1637",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "sejmik w Malborku",
+                "type": "wydarzenie",
+                "description": "sierpień 1637",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "sejmik w Grudziądzu",
+                "type": "wydarzenie",
+                "description": "luty 1638",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "sejmik w Grudziądzu",
+                "type": "wydarzenie",
+                "description": "luty 1638",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "sejmik w Toruniu",
+                "type": "wydarzenie",
+                "description": "styczeń 1640",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "sejmik w Toruniu",
+                "type": "wydarzenie",
+                "description": "styczeń 1640",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q164791"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "układ wielkich miast z rycerstwem",
+                "type": "wydarzenie",
+                "description": "2 października 1637",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "układ wielkich miast z rycerstwem",
+                "type": "wydarzenie",
+                "description": "2 października 1637",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

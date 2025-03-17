@@ -1,0 +1,377 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "możnowładca",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "możnowładca",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Miechów, Zagorzyce, Komorów",
+                "type": "majątek",
+                "description": "włości Jakszy z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Miechów, Zagorzyce, Komorów",
+                "type": "majątek",
+                "description": "włości Jakszy z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "klasztor założony przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "klasztor założony przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor premonstrantek w Krzyżanowicach",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor premonstrantek w Krzyżanowicach",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor premonstrantek na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor premonstrantek na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1176-02-24",
+                "type": "data",
+                "description": "data śmierci Jakszy z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "nobleTitle",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "książę",
+                "type": "tytuł",
+                "description": "tytuł szlachecki Jakszy z Miechowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "książę",
+                "type": "tytuł",
+                "description": "tytuł szlachecki Jakszy z Miechowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "tytuł",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wyprawa do Palestyny",
+                "type": "wydarzenie",
+                "description": "wyprawa Jakszy z Miechowa do Palestyny w 1162 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wyprawa do Palestyny",
+                "type": "wydarzenie",
+                "description": "wyprawa Jakszy z Miechowa do Palestyny w 1162 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "założenie klasztoru bożogrobców w Miechowie",
+                "type": "wydarzenie",
+                "description": "założenie klasztoru bożogrobców w Miechowie przez Jaksę z Miechowa około 1163 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "założenie klasztoru bożogrobców w Miechowie",
+                "type": "wydarzenie",
+                "description": "założenie klasztoru bożogrobców w Miechowie przez Jaksę z Miechowa około 1163 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "plan obalenia rządów Bolesława Kędzierzawego",
+                "type": "wydarzenie",
+                "description": "plan Jakszy z Miechowa dotyczący obalenia rządów Bolesława Kędzierzawego około 1170 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "plan obalenia rządów Bolesława Kędzierzawego",
+                "type": "wydarzenie",
+                "description": "plan Jakszy z Miechowa dotyczący obalenia rządów Bolesława Kędzierzawego około 1170 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

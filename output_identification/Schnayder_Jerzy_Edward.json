@@ -1,0 +1,1030 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1974-07-27",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Krzeszowice",
+                "type": "miejscowość",
+                "description": "miejscowość koło Krakowa",
+                "wikihum": "Q47136",
+                "wikidata": "Q146509",
+                "nominatim": 171157701,
+                "nominatim_name": "Krzeszowice, gmina Krzeszowice, powiat krakowski, województwo małopolskie, 32-065, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzeszowice",
+                "type": "miejscowość",
+                "description": "miejscowość koło Krakowa",
+                "wikihum": "Q47136",
+                "wikidata": "Q146509",
+                "nominatim": 171157701,
+                "nominatim_name": "Krzeszowice, gmina Krzeszowice, powiat krakowski, województwo małopolskie, 32-065, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Edward Schnayder",
+                "type": "osoba",
+                "description": "sędzia",
+                "wikihum": "Q4002"
+            }
+        },
+        {
+            "subject": {
+                "name": "Edward Schnayder",
+                "type": "osoba",
+                "description": "sędzia",
+                "wikihum": "Q4002"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Felicja Schnayder",
+                "type": "osoba",
+                "description": "z domu Krzyszkowska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Felicja Schnayder",
+                "type": "osoba",
+                "description": "z domu Krzyszkowska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Felicja Teresa Schnayder",
+                "type": "osoba",
+                "description": "z domu Kęszycka, historyczka i pedagog",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Felicja Teresa Schnayder",
+                "type": "osoba",
+                "description": "z domu Kęszycka, historyczka i pedagog",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Edward Schnayder",
+                "type": "osoba",
+                "description": "geograf, pracownik B. Jag.",
+                "wikihum": "Q4002"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Janina Smorawińska",
+                "type": "osoba",
+                "description": "farmaceutka, zamężna Smorawińska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Janina Smorawińska",
+                "type": "osoba",
+                "description": "farmaceutka, zamężna Smorawińska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Łódzki i Uniwersytet Wrocławski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Łódzki i Uniwersytet Wrocławski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "filolog klasyczny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "filolog klasyczny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ponad sto prac naukowych",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ponad sto prac naukowych",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "badania nad grecką periegezą",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "badania nad grecką periegezą",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta",
+                "type": "dzieło",
+                "description": "przekład wraz z Danielą Gromską",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta",
+                "type": "dzieło",
+                "description": "przekład wraz z Danielą Gromską",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1891-08-06",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cmentarz Salwatorski",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "cmentarz Salwatorski",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum św. Jacka w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gimnazjum św. Jacka w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polskie Towarzystwo Filologiczne",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Polskie Towarzystwo Filologiczne",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Łódzkie Towarzystwo Naukowe",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łódzkie Towarzystwo Naukowe",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komitet Nauk o Kulturze Antycznej PAN",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Komitet Nauk o Kulturze Antycznej PAN",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De rerum natura apud tragicos Graecos descripta",
+                "type": "dzieło",
+                "description": "praca doktorska Jerzego Edwarda Schnaydera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De rerum natura apud tragicos Graecos descripta",
+                "type": "dzieło",
+                "description": "praca doktorska Jerzego Edwarda Schnaydera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De Heraclidis descriptione urbium Graecarum",
+                "type": "dzieło",
+                "description": "praca habilitacyjna Jerzego Edwarda Schnaydera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De Heraclidis descriptione urbium Graecarum",
+                "type": "dzieło",
+                "description": "praca habilitacyjna Jerzego Edwarda Schnaydera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De periegetarum Graecorum reliquis",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o greckiej periegezie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De periegetarum Graecorum reliquis",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o greckiej periegezie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De itinerariis poematis Romanorum",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o poetyckich opisach podróży w literaturze rzymskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De itinerariis poematis Romanorum",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o poetyckich opisach podróży w literaturze rzymskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Soziologisches in den Werken des Theophrastos",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o twórczości Teofrasta",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Soziologisches in den Werken des Theophrastos",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o twórczości Teofrasta",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Studia nad Teofrastem",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o twórczości Teofrasta",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Studia nad Teofrastem",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o twórczości Teofrasta",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Antologia listu antycznego",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera w serii Biblioteka Narodowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antologia listu antycznego",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera w serii Biblioteka Narodowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wybór pism Ksenofonta",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera w serii Biblioteka Narodowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wybór pism Ksenofonta",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera w serii Biblioteka Narodowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De Verrinarum narrationibus quasi scaenae aptis",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o kunszcie Cycerona",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De Verrinarum narrationibus quasi scaenae aptis",
+                "type": "dzieło",
+                "description": "praca Jerzego Edwarda Schnaydera o kunszcie Cycerona",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Edward Schnayder",
+                "type": "osoba",
+                "description": "filolog klasyczny, profesor Uniw. Łódz. i Uniw. Wrocł.",
+                "wikihum": "Q170045"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ślub z Felicją Teresą z Kęszyckich",
+                "type": "wydarzenie",
+                "description": "ślub Jerzego Edwarda Schnaydera z Felicją Teresą z Kęszyckich w Stęszewie koło Poznania",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ślub z Felicją Teresą z Kęszyckich",
+                "type": "wydarzenie",
+                "description": "ślub Jerzego Edwarda Schnaydera z Felicją Teresą z Kęszyckich w Stęszewie koło Poznania",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,615 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "filantropka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "filantropka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1900-04-20",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Bogumił Linde",
+                "type": "osoba",
+                "description": "językoznawca",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bogumił Linde",
+                "type": "osoba",
+                "description": "językoznawca",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Górecki",
+                "type": "osoba",
+                "description": "budowniczy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Górecki",
+                "type": "osoba",
+                "description": "budowniczy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pensja żeńska Z. Wilczyńskiej",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pensja żeńska Z. Wilczyńskiej",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Umiejętności w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Akademia Umiejętności w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Zachęty Sztuk Pięknych",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Zachęty Sztuk Pięknych",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gmina augsburska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "gmina augsburska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "matka Ludwiki Góreckiej",
+                "type": "osoba",
+                "description": "matka Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "matka Ludwiki Góreckiej",
+                "type": "osoba",
+                "description": "matka Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Julian Ursyn Niemcewicz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Ursyn Niemcewicz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151567"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151567"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Narcyza Żmichowska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Narcyza Żmichowska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Maria Ilnicka",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q155373"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Ilnicka",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q155373"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Seweryna Duchińska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151911"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryna Duchińska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151911"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nagroda im. B. Lindego",
+                "type": "przedmiot",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nagroda im. B. Lindego",
+                "type": "przedmiot",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "realność przy ul. Królewskiej 17",
+                "type": "nieruchomość",
+                "description": "dom, w którym mieszkał B. Linde",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "realność przy ul. Królewskiej 17",
+                "type": "nieruchomość",
+                "description": "dom, w którym mieszkał B. Linde",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "nieruchomość",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

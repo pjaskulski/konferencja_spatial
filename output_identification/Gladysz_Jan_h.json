@@ -1,0 +1,650 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podrzędczy sądecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "podrzędczy sądecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "rycerz z drobnej szlachty sądeckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "rycerz z drobnej szlachty sądeckiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wieś Łosie i latyfundium",
+                "type": "majątek",
+                "description": "nadane przez Kazimierza Wielkiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wieś Łosie i latyfundium",
+                "type": "majątek",
+                "description": "nadane przez Kazimierza Wielkiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ropa, Zdynia, Hańczowa, Wysowe",
+                "type": "miejscowości",
+                "description": "wsie założone przez Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ropa, Zdynia, Hańczowa, Wysowe",
+                "type": "miejscowości",
+                "description": "wsie założone przez Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "miejscowości",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół w Szymbarku",
+                "type": "obiekt",
+                "description": "fundowany przez Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kościół w Szymbarku",
+                "type": "obiekt",
+                "description": "fundowany przez Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "obiekt",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starosta spiski",
+                "type": "urząd",
+                "description": "pierwszy starosta spiski w Lubowli w 1413 r.",
+                "wikihum": "NEW",
+                "wikidata": "Q66200820"
+            }
+        },
+        {
+            "subject": {
+                "name": "starosta spiski",
+                "type": "urząd",
+                "description": "pierwszy starosta spiski w Lubowli w 1413 r.",
+                "wikihum": "NEW",
+                "wikidata": "Q66200820"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dokument lokacji Gorlic",
+                "type": "wydarzenie",
+                "description": "Paweł świadkował na dokumencie w 1466 r.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dokument lokacji Gorlic",
+                "type": "wydarzenie",
+                "description": "Paweł świadkował na dokumencie w 1466 r.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "mieszczanie krakowscy i sądeccy",
+                "type": "osoby",
+                "description": "spokrewnieni z rodem rycerskim Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "ród rycerski Gładysza Jana",
+                "type": "ród",
+                "description": "ród rycerski Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "mieszczanie krakowscy i sądeccy",
+                "type": "osoby",
+                "description": "spokrewnieni z rodem rycerskim Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osoby",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ród rycerski Gładysza Jana",
+                "type": "ród",
+                "description": "ród rycerski Gładysza Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "ród",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": "król, który nadał ziemie Gładyszowi Janowi",
+                "wikihum": "Q156969"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": "król, który nadał ziemie Gładyszowi Janowi",
+                "wikihum": "Q156969"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nadanie ziemi",
+                "type": "wydarzenie",
+                "description": "nadanie wsi Łosie i latyfundium przez Kazimierza Wielkiego 27 października 1359 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nadanie ziemi",
+                "type": "wydarzenie",
+                "description": "nadanie wsi Łosie i latyfundium przez Kazimierza Wielkiego 27 października 1359 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rozwój osadnictwa",
+                "type": "wydarzenie",
+                "description": "rozwój osadnictwa polskiego i wołoskiego na polskim pograniczu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rozwój osadnictwa",
+                "type": "wydarzenie",
+                "description": "rozwój osadnictwa polskiego i wołoskiego na polskim pograniczu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gładysz",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór warowny w Szymbarku",
+                "type": "obiekt fizjograficzny",
+                "description": "siedziba rodu Gładyszów, istniejąca do dziś",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dwór warowny w Szymbarku",
+                "type": "obiekt fizjograficzny",
+                "description": "siedziba rodu Gładyszów, istniejąca do dziś",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "?",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pierwszy starosta spiski",
+                "type": "wydarzenie",
+                "description": "Paweł był pierwszym starostą spiskim w Lubowli w 1413 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pierwszy starosta spiski",
+                "type": "wydarzenie",
+                "description": "Paweł był pierwszym starostą spiskim w Lubowli w 1413 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

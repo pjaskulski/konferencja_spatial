@@ -1,0 +1,572 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1614-09-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1685-04-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "brat Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "brat Gabriela Krumhausena",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "brat Gabriela Krumhausena",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "brat Gabriela Krumhausena",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "ojciec Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Gertruda Schumann",
+                "type": "osoba",
+                "description": "matka Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda Schumann",
+                "type": "osoba",
+                "description": "matka Gabriela Krumhausena",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasGrandfather",
+                "wikihum": "P91"
+            },
+            "object": {
+                "name": "Stanisław Bornbach",
+                "type": "osoba",
+                "description": "dziadek Gabriela Krumhausena po kądzieli, pisarz miejski i kronikarz Gdańska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Bornbach",
+                "type": "osoba",
+                "description": "dziadek Gabriela Krumhausena po kądzieli, pisarz miejski i kronikarz Gdańska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstancja Falcke",
+                "type": "osoba",
+                "description": "żona Gabriela Krumhausena, wdowa po Henryku Nimsgarten",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstancja Falcke",
+                "type": "osoba",
+                "description": "żona Gabriela Krumhausena, wdowa po Henryku Nimsgarten",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstancja Falcke",
+                "type": "osoba",
+                "description": "żona Gabriela Krumhausena, wdowa po Henryku Nimsgarten",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Konstancja Falcke",
+                "type": "osoba",
+                "description": "żona Gabriela Krumhausena, wdowa po Henryku Nimsgarten",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet w Strasburgu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet w Strasburgu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarz",
+                "type": "zawód",
+                "description": "sekretarz rezydujący w Warszawie",
+                "wikihum": "NEW",
+                "wikidata": "Q63869739"
+            }
+        },
+        {
+            "subject": {
+                "name": "sekretarz",
+                "type": "zawód",
+                "description": "sekretarz rezydujący w Warszawie",
+                "wikihum": "NEW",
+                "wikidata": "Q63869739"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolekcjonowanie",
+                "type": "osiągnięcie",
+                "description": "kolekcjonowanie książek, broni, obrazów i przyrządów matematycznych",
+                "wikihum": "NEW",
+                "wikidata": "Q208165"
+            }
+        },
+        {
+            "subject": {
+                "name": "kolekcjonowanie",
+                "type": "osiągnięcie",
+                "description": "kolekcjonowanie książek, broni, obrazów i przyrządów matematycznych",
+                "wikihum": "NEW",
+                "wikidata": "Q208165"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przekazanie portretu Heweliusza",
+                "type": "osiągnięcie",
+                "description": "przekazanie portretu Heweliusza Bibliotece Rady Miasta",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przekazanie portretu Heweliusza",
+                "type": "osiągnięcie",
+                "description": "przekazanie portretu Heweliusza Bibliotece Rady Miasta",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

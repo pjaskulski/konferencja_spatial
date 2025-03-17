@@ -1,0 +1,412 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1637",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q60198"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q60198"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q60198"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1598",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Krakowska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Akademia Krakowska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kustosz kolegiaty św. Małgorzaty",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kustosz kolegiaty św. Małgorzaty",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wikariusz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wikariusz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wojciech Łopacki",
+                "type": "osoba",
+                "description": "rajca miejski i balwierz, odszczepieniec",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wojciech Łopacki",
+                "type": "osoba",
+                "description": "rajca miejski i balwierz, odszczepieniec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kamionka Wielka",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q40715"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamionka Wielka",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q40715"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartłomiej Fuzorius",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej",
+                "type": "osiągnięcie",
+                "description": "stworzone w 1631 roku, oparte o kapitał wieczysty 1000 złp",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej",
+                "type": "osiągnięcie",
+                "description": "stworzone w 1631 roku, oparte o kapitał wieczysty 1000 złp",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

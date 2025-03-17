@@ -1,0 +1,413 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda poznański",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9377087"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "wojewoda poznański",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9377087"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ród Nałęczów",
+                "type": "instytucja",
+                "description": "potężny ród w Wielkopolsce",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ród Nałęczów",
+                "type": "instytucja",
+                "description": "potężny ród w Wielkopolsce",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1321-04-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klątwa za szkody wyrządzone kościołowi poznańskiemu",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klątwa za szkody wyrządzone kościołowi poznańskiemu",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "syn Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "nieznany z imienia syn Dobrogost z Dzwonowa, który ściągnął na siebie klątwę",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "syn Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "nieznany z imienia syn Dobrogost z Dzwonowa, który ściągnął na siebie klątwę",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "syn Dobrogost z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego",
+                "wikihum": "Q152188"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "syn Dobrogost z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego",
+                "wikihum": "Q152188"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zwycięstwo pod Kłeckiem",
+                "type": "wydarzenie",
+                "description": "zwycięstwo nad Januszem z Bibersteinu, wodzem wojsk głogowskich",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zwycięstwo pod Kłeckiem",
+                "type": "wydarzenie",
+                "description": "zwycięstwo nad Januszem z Bibersteinu, wodzem wojsk głogowskich",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Łokietek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151316"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łokietek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151316"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ziemia nie poświęcona",
+                "type": "miejsce",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ziemia nie poświęcona",
+                "type": "miejsce",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "miejsce",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "syn Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "nieznany z imienia syn Dobrogost z Dzwonowa, który ściągnął na siebie klątwę",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ziemia nie poświęcona",
+                "type": "miejsce",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "syn Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "nieznany z imienia syn Dobrogost z Dzwonowa, który ściągnął na siebie klątwę",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "syn Dobrogost z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego",
+                "wikihum": "Q152188"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "syn Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "nieznany z imienia syn Dobrogost z Dzwonowa, który ściągnął na siebie klątwę",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "syn Dobrogost z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego",
+                "wikihum": "Q152188"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "wdowa po Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "żona Dobrogost z Dzwonowa, zaspokoiła pretensje kościoła poznańskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wdowa po Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "żona Dobrogost z Dzwonowa, zaspokoiła pretensje kościoła poznańskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        }
+    ]
+}

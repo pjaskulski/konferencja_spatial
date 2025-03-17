@@ -1,0 +1,396 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW",
+                "wikidata": "Q18433331"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW",
+                "wikidata": "Q18433331"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "nauczyciel seminarium nauczycielskiego",
+                "type": "zawód",
+                "description": "nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nauczyciel seminarium nauczycielskiego",
+                "type": "zawód",
+                "description": "nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "podręczniki szkolne",
+                "type": "przedmiot",
+                "description": "dwujęzyczne podręczniki szkolne, w których część polska przeważała",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "podręczniki szkolne",
+                "type": "przedmiot",
+                "description": "dwujęzyczne podręczniki szkolne, w których część polska przeważała",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zbiór pieśni polskich z melodiami na dwa i trzy głosy",
+                "type": "przedmiot",
+                "description": "zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zbiór pieśni polskich z melodiami na dwa i trzy głosy",
+                "type": "przedmiot",
+                "description": "zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Głogówek",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q16001"
+            }
+        },
+        {
+            "subject": {
+                "name": "Głogówek",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q16001"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zamiar wydania dalszych polskich podręczników szkolnych",
+                "type": "osiągnięcie",
+                "description": "zamiar wydania dalszych polskich podręczników szkolnych z czytankami z żywotów świętych i historii kościelnej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zamiar wydania dalszych polskich podręczników szkolnych",
+                "type": "osiągnięcie",
+                "description": "zamiar wydania dalszych polskich podręczników szkolnych z czytankami z żywotów świętych i historii kościelnej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1830-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1895-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku",
+                "wikihum": "Q150839"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Głogówek",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q16001"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych",
+                "type": "dzieło",
+                "description": "podręcznik dwujęzyczny, współautor Jan Besta",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych",
+                "type": "dzieło",
+                "description": "podręcznik dwujęzyczny, współautor Jan Besta",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

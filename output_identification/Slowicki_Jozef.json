@@ -1,0 +1,472 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Rostoka",
+                "type": "miejscowość",
+                "description": "wieś w obwodzie krasnostawskim",
+                "wikihum": "NEW",
+                "wikidata": "Q2861",
+                "nominatim": 135280744,
+                "nominatim_name": "Rostock, Mecklenburg-Vorpommern, Deutschland"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rostoka",
+                "type": "miejscowość",
+                "description": "wieś w obwodzie krasnostawskim",
+                "wikihum": "NEW",
+                "wikidata": "Q2861",
+                "nominatim": 135280744,
+                "nominatim_name": "Rostock, Mecklenburg-Vorpommern, Deutschland"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Zagrzeb",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146556"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zagrzeb",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146556"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1847",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Józef",
+                "type": "osoba",
+                "description": "rolnik i duchowny grekokatolicki",
+                "wikihum": "Q4654"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef",
+                "type": "osoba",
+                "description": "rolnik i duchowny grekokatolicki",
+                "wikihum": "Q4654"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Powstanie listopadowe",
+                "type": "wydarzenie",
+                "description": "powstanie 1830/31 r.",
+                "wikihum": "NEW",
+                "wikidata": "Q11825990"
+            }
+        },
+        {
+            "subject": {
+                "name": "Powstanie listopadowe",
+                "type": "wydarzenie",
+                "description": "powstanie 1830/31 r.",
+                "wikihum": "NEW",
+                "wikidata": "Q11825990"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "emigrant",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q4989857"
+            }
+        },
+        {
+            "subject": {
+                "name": "emigrant",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q4989857"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1803",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q50436"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q50436"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podporucznik w 16. pułku piechoty liniowej",
+                "type": "stanowisko",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "podporucznik w 16. pułku piechoty liniowej",
+                "type": "stanowisko",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "stanowisko",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "aresztowanie przez policję austriacką w Galicji",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "aresztowanie przez policję austriacką w Galicji",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "śmierć w więzieniu",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "śmierć w więzieniu",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przyczyna śmierci",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

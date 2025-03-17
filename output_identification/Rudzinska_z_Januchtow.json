@@ -1,0 +1,700 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "historyk",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "historyk",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "socjolog literatury",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "socjolog literatury",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1943-07-17",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kielce",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q42141"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kielce",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q42141"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1975-04-04",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cmentarz w Wólce Węglowej",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "cmentarz w Wólce Węglowej",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Tadeusz Januchta",
+                "type": "osoba",
+                "description": "urzędnik",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Januchta",
+                "type": "osoba",
+                "description": "urzędnik",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Zenaida Karaś",
+                "type": "osoba",
+                "description": "korektorka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zenaida Karaś",
+                "type": "osoba",
+                "description": "korektorka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Roman Rudziński",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "Q168956"
+            }
+        },
+        {
+            "subject": {
+                "name": "Roman Rudziński",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "Q168956"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Instytut Badań Literackich PAN",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Instytut Badań Literackich PAN",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stefan Żółkiewski",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan Żółkiewski",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza",
+                "type": "dzieło",
+                "description": "praca magisterska z 1965 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza",
+                "type": "dzieło",
+                "description": "praca magisterska z 1965 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)",
+                "type": "dzieło",
+                "description": "praca magisterska z 1968 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)",
+                "type": "dzieło",
+                "description": "praca magisterska z 1968 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Artysta wobec kultury. Dwa typy autorefleksji literackiej: ekspresjoniści „Zdroju” i Witkacy",
+                "type": "dzieło",
+                "description": "rozprawa doktorska z 1973 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artysta wobec kultury. Dwa typy autorefleksji literackiej: ekspresjoniści „Zdroju” i Witkacy",
+                "type": "dzieło",
+                "description": "rozprawa doktorska z 1973 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Między awangardą a kulturą masową. Wokół społecznej roli pisarza",
+                "type": "dzieło",
+                "description": "tom artykułów i recenzji opublikowany pośmiertnie w 1978 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Między awangardą a kulturą masową. Wokół społecznej roli pisarza",
+                "type": "dzieło",
+                "description": "tom artykułów i recenzji opublikowany pośmiertnie w 1978 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "adiunkt",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "adiunkt",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146696"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146696"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury",
+                "wikihum": "Q168942"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Frankfurt nad Menem",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146858"
+            }
+        },
+        {
+            "subject": {
+                "name": "Frankfurt nad Menem",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146858"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        }
+    ]
+}

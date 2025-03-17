@@ -1,0 +1,533 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "introligator",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3270204"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "introligator",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3270204"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "księgarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "księgarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "nakładca",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nakładca",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1538-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Norymberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146877"
+            }
+        },
+        {
+            "subject": {
+                "name": "Norymberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146877"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            }
+        },
+        {
+            "subject": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "Q165054",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Jana Patruusa z Koła",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Jana Patruusa z Koła",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "firma drukarska Melchiora i Michaela Lotterów",
+                "type": "instytucja",
+                "description": "firma drukarska w Lipsku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "firma drukarska Melchiora i Michaela Lotterów",
+                "type": "instytucja",
+                "description": "firma drukarska w Lipsku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Latalski",
+                "type": "osoba",
+                "description": "biskup",
+                "wikihum": "Q159843"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Latalski",
+                "type": "osoba",
+                "description": "biskup",
+                "wikihum": "Q159843"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przedmieście św. Marcin",
+                "type": "miejscowość",
+                "description": "część Poznania",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przedmieście św. Marcin",
+                "type": "miejscowość",
+                "description": "część Poznania",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Chwaliszewo",
+                "type": "miejscowość",
+                "description": "miasteczko kapituły poznańskiej",
+                "wikihum": "Q25152"
+            }
+        },
+        {
+            "subject": {
+                "name": "Chwaliszewo",
+                "type": "miejscowość",
+                "description": "miasteczko kapituły poznańskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kapituła poznańska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kapituła poznańska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dominikanie przy kościele Św. Katarzyny w Poznaniu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dominikanie przy kościele Św. Katarzyny w Poznaniu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "córki Jana Patruusa z Koła",
+                "type": "osoba",
+                "description": "córki Jana Patruusa z Koła",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "córki Jana Patruusa z Koła",
+                "type": "osoba",
+                "description": "córki Jana Patruusa z Koła",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca",
+                "wikihum": "Q165054"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "drukowanie książek na zlecenie biskupa Jana Latalskiego",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "drukowanie książek na zlecenie biskupa Jana Latalskiego",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}
