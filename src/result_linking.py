@@ -516,6 +516,8 @@ if __name__ == "__main__":
         if os.path.exists(link_path):
             continue
 
+
+
         relations = read_json(input_file=file_name)
 
         znane_subject = {}

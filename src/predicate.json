@@ -17,7 +17,7 @@
     },
     {
         "name": "dateOfBurial",
-        "description": "data pochówku (pogrzebu) dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00, jeżeli data jest przybliżona lub niepewna odnotuj to w polu description"
+        "description": "data pochówku (pogrzebu, kiedy pochowano osobę) dla osób, w formacie YYYY-MM-DD, jeżeli dzień lub miesiąc jest nieznany wpisz 00, jeżeli data jest przybliżona lub niepewna odnotuj to w polu description"
     },
     {
         "name": "placeOfBurial",
@@ -164,16 +164,8 @@
         "description": "dzieło (książka, obraz, rzeźba, utwór muzyczny), którego autorem jest osoba będąca podmiotem relacji"
     },
     {
-        "name": "significantEvent",
-        "description": "znaczące wydarzenie historyczne, w którym brała udział osoba będąca podmiotem relacji"
-    },
-    {
-        "name": "dateOfEvent",
-        "description": "data znaczącego wydarzenia, w formacie YYYY-MM-DD"
-    },
-    {
         "name": "hasAchievement",
-        "description": "znaczące osiągnięcia (nagrody, dyplomy, medale, nadane tytuły) osoby będąca podmiotem relacji"
+        "description": "znaczące osiągnięcia (nagrody, dyplomy, medale, nadane tytuły, dla architekta: wykonane budynki, przebudowy) osoby będąca podmiotem relacji"
     },
     {
         "name": "religiousAffiliation",

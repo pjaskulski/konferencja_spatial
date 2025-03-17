@@ -3,6 +3,8 @@ import os
 import json
 import time
 from typing import List, Optional
+import logging
+import logging.config
 from pathlib import Path
 from dotenv import load_dotenv
 import instructor
@@ -12,10 +14,9 @@ from openai import OpenAI
 
 
 MODEL_O3 = "o3-mini"
-MODEL_GPT_4O_MINI = "gpt-4o-mini"
-MODEL_GPT_4O = "gpt-4o"
+MODEL = MODEL_O3
 
-MODEL = MODEL_GPT_4O
+CHAIN_OF_THOUGHT = False
 
 # api key
 env_path = Path(".") / ".env"
@@ -44,10 +45,6 @@ for item in object_list_with_descripton:
 
 # ------------------------------ CLASS -----------------------------------------
 class ObjectModel(BaseModel):
-    chain_of_thought: List[str] = Field(
-        ...,
-        description="Kroki wyjaśniające prowadzące do zidentyfikowania obiektów w tekście. Te kroki powinny dostarczać szczegółowego uzasadnienia wykrycia obiektów.",
-    )
     name: str = Field(
         description="nazwa obiektu np. Arnold Kowiński, Kraków, rzeka Wisła, potok, miasto, zbroja, pług. Ten sam obiekt występujący wielokrotnie w analizowanym tekście powinien mieć przypisaną zawsze tą samą nazwę."
     )
@@ -60,10 +57,6 @@ class ObjectModel(BaseModel):
 
 
 class RelationModel(BaseModel):
-    chain_of_thought: List[str] = Field(
-        ...,
-        description="Kroki wyjaśniające prowadzące do zidentyfikowania relacji między obiektami. Te kroki powinny dostarczać szczegółowego uzasadnienia wykrycia obiektów i ich relacji.",
-    )
     subject: ObjectModel = Field(
         description="podmiot relacji np. Bogdan ma brata: Adama Krzepkowskiego (podmiot: Bogdan)"
     )
@@ -106,10 +99,11 @@ def export_to_dictionary(kg: RelationCollection, curr_structure:dict) -> dict:
 
     for item in kg.relations:
         # lista przemyśleń modelu
-        for chain in item.chain_of_thought:
-            with open('analiza.log', 'a', encoding='utf-8') as f_log:
-                f_log.write(f'  - {chain}\n')
-            print(f'  - {chain}')
+        if CHAIN_OF_THOUGHT:
+            for chain in item.chain_of_thought:
+                with open('analiza.log', 'a', encoding='utf-8') as f_log:
+                    f_log.write(f'  - {chain}\n')
+                logging.info('  - %s', chain)
 
         relacja = (
             item.subject.name,
@@ -142,7 +136,7 @@ def export_to_dictionary(kg: RelationCollection, curr_structure:dict) -> dict:
 def save_json(out_data:dict, filename:str):
     """ zapis danych w pliku json """
     output_file = filename.replace('.txt', '.json')
-    output_path = Path('..') / "output_dataset" / output_file
+    output_path = Path('..') / "output_o3" / output_file
     with open(output_path, 'w', encoding='utf-8') as f_out:
         json.dump(out_data, f_out, indent=4, ensure_ascii=False)
 
@@ -154,14 +148,15 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
     Twoim zadaniem jest wydobycie informacji z tekstu w celu zbudowania grafu wiedzy.
     Przeanalizuj podany tekst i zidentyfikuj obiekty występujące w tekście (dalej podano
     listę możliwych typów obiektów). Następnie ustal relacje między tymi
-    obiektami (dalej podano listę możliwych relacji). Postaraj się wydobyć tak wiele obiektów
-    i relacji między nimi jak to tylko możliwe. 
+    obiektami (dalej podano listę możliwych relacji). Postaraj się odnaleźć wszystkie relacje
+    i obiekty z tekstu. 
     Wszystkie dane powinny być oparte na faktach, możliwe do zweryfikowania na podstawie tekstu,
     a nie na zewnętrznych założeniach. Upewnij się, że wyodrębnione zostały wszystkie
     znaczące obiekty (wszystie osoby, miejscowości) i ich wzajemne relacje z tekstu.
     Odpowiedzi udziel w języku polskim. Nazwy osób, miejscowości i innych
     obiektów zapisuj zawsze w formie mianownika. W przypadku osób podawaj nazwę
-    zawsze w kolejności: imię nazwisko.
+    zawsze w kolejności: imię nazwisko. Pomiń osoby, krewnych którzy są anomimowi
+    (nie znane jest ani imię ani nazwisko).
     """
     #czy dla znalezionych obiektów będących przedmiotem relacji znaleziono ich relacje np.
     #Kazimierz -> hasFather -> Władysław, Władysław -> nobleTitle -> hrabia.
@@ -175,7 +170,7 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
     rezultat = None
 
     # Extract structured data from natural language
-    if llm_model == "o3-mini":
+    if llm_model == "o3-mini" or llm_model == "o1":
         rezultat = client.chat.completions.create(
             model=llm_model,
             messages=[
@@ -184,7 +179,7 @@ def analiza(client, tekst_biogramu:str, llm_model, add_prompt=""):
             ],
             response_model=RelationCollection,
         )
-    elif llm_model == MODEL_GPT_4O or llm_model == MODEL_GPT_4O_MINI:
+    elif llm_model == MODEL_GPT_4O or llm_model == MODEL_GPT_4O_MINI or llm_model == MODEL_GPT_45:
         rezultat = client.chat.completions.create(
             model=llm_model,
             messages=[
@@ -232,6 +227,9 @@ def object_analysis(client, data_structure, llm_model) -> dict:
         )
         unikalne.append(relacja)
 
+    with open('analiza.log', 'a', encoding='utf-8') as f_log:
+        f_log.write('Analiza pól "description"\n')
+
     for element in data_org:
         if "description" in element["object"]:
             description = str(element["object"]["description"]).strip()
@@ -251,10 +249,11 @@ def object_analysis(client, data_structure, llm_model) -> dict:
                 data = []
                 for item in obj_res.relations:
                     # lista przemyśleń modelu
-                    for chain in item.chain_of_thought:
-                        with open('analiza.log', 'a', encoding='utf-8') as f_log:
-                            f_log.write(f'  - {chain}\n')
-                        print(f'  - {chain}')
+                    if CHAIN_OF_THOUGHT:
+                        for chain in item.chain_of_thought:
+                            with open('analiza.log', 'a', encoding='utf-8') as f_log:
+                                f_log.write(f'  - {chain}\n')
+                            logging.info('  - %s', chain)
 
                     record = { "subject" : {
                         "name": object_name,
@@ -335,6 +334,14 @@ def prepare_additional_prompt(struktura:dict) -> str:
 # -------------------------------- MAIN ----------------------------------------
 if __name__ == '__main__':
 
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s %(levelname)-4s %(message)s',
+        datefmt='%m-%d %H:%M:%S')
+    logging.RootLogger.manager.getLogger('httpx').disabled = True
+
+    logging.info("Model: %s", MODEL)
+
     client = instructor.from_openai(OpenAI())
 
     # dataset
@@ -350,11 +357,14 @@ if __name__ == '__main__':
 
         # pomijanie biogramów już przetworzonych
         json_file = file_name.replace('.txt', '.json')
-        json_path = Path('..') / "output_dataset" / json_file
+        json_path = Path('..') / "output_o3" / json_file
         if os.path.exists(json_path):
             continue
 
-        print(file_name)
+        if file_name != "Rossi_Piotr.txt":
+            continue
+
+        logging.info(file_name)
         with open('analiza.log', 'a', encoding='utf-8') as f_log:
             f_log.write(f'{file_name}\n')
 
@@ -372,31 +382,31 @@ if __name__ == '__main__':
         struktura = {}
         additional_user_prompt = ""
 
-        number_of_repetitions = 2
+        number_of_repetitions = 1
         for i in range(1, number_of_repetitions + 1):
             if i > 1:
                 additional_user_prompt = prepare_additional_prompt(struktura)
 
-            print(f"Analiza tekstu biogramu ({i}) ...")
+            logging.info("Analiza tekstu biogramu (%s) ...", i)
             with open('analiza.log', 'a', encoding='utf-8') as f_log:
                 f_log.write(f"Analiza tekstu biogramu ({i}) ...\n")
             res = analiza(client, biogram, MODEL, add_prompt=additional_user_prompt)
 
             # konwersja wyników do formy słownika (uzupełnienie istniejącego słownika
             # jeżeli biogram jest przetwarzany kolejny raz)
-            print("Zapis wyników w formie ustrukturyzowanej")
+            logging.info("Zapis wyników w formie ustrukturyzowanej")
             struktura = export_to_dictionary(kg=res, curr_structure=struktura)
             time.sleep(2.0)
 
         # dodatkowa analiza treści pól description w celu wyszukania dodatkowych
         # relacji dla obiektów w dotychczasowych relacjach (tylko dla typu: 'osoba')
-        print("Dodatkowa analiza struktury wyników, wyszukiwanie dodatkowych relacji...")
+        logging.info("Dodatkowa analiza struktury wyników, wyszukiwanie dodatkowych relacji...")
         struktura = object_analysis(client, struktura, MODEL)
 
         # zapis wyników w pliku json
-        print("Zapis wyników w formacie json...")
+        logging.info("Zapis wyników w formacie json...")
         save_json(out_data=struktura, filename=file_name)
 
         end_time = time.time()
         elapsed_time = end_time - start_time
-        print("Czas przetwarzania biogramu: %s s.",time.strftime("%H:%M:%S", time.gmtime(elapsed_time)))
+        logging.info("Czas wykonania programu: %s s.",time.strftime("%H:%M:%S", time.gmtime(elapsed_time)))
