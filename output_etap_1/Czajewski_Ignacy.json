@@ -1,0 +1,349 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "ksiądz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "kanonik honorowy",
+                "type": "zawód",
+                "description": "kapituły mohylewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1868-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1922-01-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Ząbki",
+                "type": "miejscowość",
+                "description": "cmentarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia Duchowna w Petersburgu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "proboszcz",
+                "type": "urząd",
+                "description": "Charków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanclerz kurii metropolitalnej",
+                "type": "urząd",
+                "description": "Petersburg"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "kościół św. Katarzyny",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "kościół św. Piotra i Pawła",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "C. K. O. i P. T. P. O. W.",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie przez agentów G. P. U.",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "szpital Dzieciątka Jezus",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "proces bpa Cieplaka",
+                "type": "wydarzenie",
+                "description": "1923"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Tiebie jedinomu sogrieszyła",
+                "type": "dzieło",
+                "description": "powieść Anny Mar"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "seminarium duchowne w Petersburgu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prefekt",
+                "type": "zawód",
+                "description": "w szkołach średnich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zarządca biblioteki",
+                "type": "zawód",
+                "description": "szkoły męskiej przy kościele św. Katarzyny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Parafia Charkowska – miesięcznik informacyjny",
+                "type": "dzieło",
+                "description": "pismo w języku polskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kalendarzyk charkowski informacyjny",
+                "type": "dzieło",
+                "description": "zawierający dane statystyczne o stanie inteligencji, przemysłu i handlu polskim w Charkowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziekan i proboszcz",
+                "type": "zawód",
+                "description": "kościół św. Piotra i Pawła w Moskwie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ks., kanonik honorowy kapituły mohylewskiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "tajne narady duchowieństwa katolickiego w Petersburgu",
+                "type": "wydarzenie",
+                "description": "po przewrocie bolszewickim w latach 1918–20"
+            }
+        }
+    ]
+}

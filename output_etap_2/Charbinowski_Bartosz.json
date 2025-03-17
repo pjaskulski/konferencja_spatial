@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy sandomierski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "ochmistrz dworu królowej Anny",
+                "type": "urząd",
+                "description": "około 1414"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "bratanica Piotra Wysza",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Wysz",
+                "type": "osoba",
+                "description": "biskup krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "Sulimczyk"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Włodko",
+                "type": "osoba",
+                "description": "cześnik krakowski, starosta lubelski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Halszka",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Piotr Charbinowski",
+                "type": "osoba",
+                "description": "podczaszy sandomierski, starosta podolski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Stanisław Charbinowski",
+                "type": "osoba",
+                "description": "przedchorągiewny rycerz chorągwi małopolskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jan Charbinowski",
+                "type": "osoba",
+                "description": "podczaszy lwowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodko",
+                "type": "osoba",
+                "description": "cześnik krakowski, starosta lubelski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "cześnik krakowski",
+                "type": "urząd",
+                "description": "od 1365"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodko",
+                "type": "osoba",
+                "description": "cześnik krakowski, starosta lubelski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta lubelski",
+                "type": "urząd",
+                "description": "od 1383"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Charbinowski",
+                "type": "osoba",
+                "description": "podczaszy sandomierski, starosta podolski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podczaszy sandomierski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Charbinowski",
+                "type": "osoba",
+                "description": "podczaszy sandomierski, starosta podolski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta podolski",
+                "type": "urząd",
+                "description": "do 1411"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Charbinowski",
+                "type": "osoba",
+                "description": "przedchorągiewny rycerz chorągwi małopolskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "przedchorągiewny rycerz chorągwi małopolskiej",
+                "type": "urząd",
+                "description": "w bitwie pod Grunwaldem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Charbinowski",
+                "type": "osoba",
+                "description": "przedchorągiewny rycerz chorągwi małopolskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży sandomierski",
+                "type": "urząd",
+                "description": "w 1433"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Charbinowski",
+                "type": "osoba",
+                "description": "podczaszy lwowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podczaszy lwowski",
+                "type": "urząd",
+                "description": "w czwartym dziesiątku XV stulecia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "relatedTo"
+            },
+            "object": {
+                "name": "Piotr Wysz",
+                "type": "osoba",
+                "description": "biskup krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "relatedTo"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "Sulimczyk"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Anna",
+                "type": "osoba",
+                "description": "królowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "politicalOpponent"
+            },
+            "object": {
+                "name": "Wojciech Jastrzębiec",
+                "type": "osoba",
+                "description": "biskup, przeciwnik polityczny Bartosza Charbinowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartosz Charbinowski",
+                "type": "osoba",
+                "description": "podkomorzy sandomierski, pochodził z możnego rodu Sulimów"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1421-03-04",
+                "type": "data",
+                "description": "Data śmierci Bartosza Charbinowskiego jest przybliżona, ponieważ zniknął z widowni po tej dacie."
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kruszwicki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Gerward",
+                "type": "osoba",
+                "description": "brat Przezdrzewa z Ostrowa, biskup kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Maciej z Gołańczy",
+                "type": "osoba",
+                "description": "siostrzeniec Przezdrzewa z Ostrowa, biskup kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Maciej z Ostrowa",
+                "type": "osoba",
+                "description": "sędzia brzeski kujawski, ojciec Przezdrzewa z Ostrowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jan z Ostrowa",
+                "type": "osoba",
+                "description": "starszy brat Przezdrzewa z Ostrowa, poprzedni kasztelan kruszwicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": "król Polski, z którym podróżował Przezdrzew z Ostrowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "zm. między r. 1341 a 1344, kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "proces polsko-krzyżacki z 1339 roku",
+                "type": "wydarzenie",
+                "description": "proces, w którym Przezdrzew z Ostrowa złożył zeznania jako świadek"
+            }
+        }
+    ]
+}

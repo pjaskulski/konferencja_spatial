@@ -1,0 +1,319 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1564-07-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "prawdopodobnie Węgier z pochodzenia, osiadły w Killobe na Pomorzu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Barbara Niżyńska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Dorota",
+                "type": "osoba",
+                "description": "córka Michała Rosenberga"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "córka Wessla Ottinghusena"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Paweł (II)",
+                "type": "osoba",
+                "description": "rajca gdański, zmarły w 1585 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Grzegorz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jerzy",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wittenberga",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "radca sądowy",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "bogaty księgozbiór",
+                "type": "przedmiot",
+                "description": "przeszedł na własność biblioteki Rady Miejskiej w Gdańsku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "szlachectwo Rzeszy",
+                "type": "tytuł",
+                "description": "nadane przez cesarza Karola V"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "szpital miejski «Packenhaus»",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "kontrakt z księciem Albrechtem pruskim",
+                "type": "wydarzenie",
+                "description": "dotyczył wyłącznego prawa do wybierania bursztynu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przybycie do Gdańska",
+                "type": "wydarzenie",
+                "description": "przybycie do Gdańska w 1519 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "poselstwo do Krakowa",
+                "type": "wydarzenie",
+                "description": "członek poselstwa wysłanego przez gdańską Radę Miejską do Krakowa w 1525 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": "nowa siedziba firmy bursztynowej po śmierci Pawła Koene-Jaskiego"
+            }
+        }
+    ]
+}

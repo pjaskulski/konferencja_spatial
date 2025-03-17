@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1852-01-18",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1920-12-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Uniwersytet Lwowski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Wiedeński",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "profesor teologii pastoralnej",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziekan wydziału teologicznego",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kierownik seminarjum homiletycznego",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "radca gr.-kat. Konsystorza Metropol.",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "egzaminator synodalny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Komentarz do Pisma św. St. Test.",
+                "type": "dzieło",
+                "description": "wraz z tekstem starosłowiańskim (t. I–VII, Lw. 1900–1908)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Pedagogja chrześc. kat.",
+                "type": "dzieło",
+                "description": "Lw. 1891, 2. wyd. pomn. 1909"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Teologia pasterska",
+                "type": "dzieło",
+                "description": "Lw. 1902"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Święcenia kapłańskie",
+                "type": "wydarzenie",
+                "description": "Bartoszewski Jan otrzymał święcenia kapłańskie w 1875 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Doktor św. teologii",
+                "type": "osiągnięcie",
+                "description": "Bartoszewski Jan osiągnął stopień doktora św. teologii w 1879 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Traktaty teologiczne",
+                "type": "dzieło",
+                "description": "Bartoszewski Jan drukował traktaty teologiczne w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'."
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "adjunkt wydziału teologicznego",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zastępca profesora teologii pastoralnej",
+                "type": "zawód",
+                "description": "z językiem wykładowym ruskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "profesor zwyczajny teologii pastoralnej",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wykładowca pedagogiki",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "traktaty teologiczne",
+                "type": "dzieło",
+                "description": "drukowane w czasopismach cerkiewnych 'Ruskyj Syjon', 'Hałyckyj Syjon', 'Duszpastyr'"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bartoszewski Jan",
+                "type": "osoba",
+                "description": "ksiądz greckokatolicki, profesor Uniwersytetu Lwowskiego"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "kazania",
+                "type": "dzieło",
+                "description": "pasyjne, niedzielne, świąteczne, pogrzebowe i majowe"
+            }
+        }
+    ]
+}

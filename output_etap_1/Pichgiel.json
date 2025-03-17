@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1700-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Barbara z domu Biettin",
+                "type": "osoba",
+                "description": "żona Christiana Pichgiela starszego, żyła w latach 1666–1716"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Johan Pichgiel",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Daniel Pichgiel",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Emanuel Pichgiel",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prowadzenie warsztatu złotniczego",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Matthias Pichgiel młodszy",
+                "type": "osoba",
+                "description": "kuzyn Christiana Pichgiela starszego, złotnik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Matthias Pichel",
+                "type": "osoba",
+                "description": "stryj Christiana Pichgiela starszego, złotnik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Hieronim Edel",
+                "type": "osoba",
+                "description": "złotnik, nauczyciel Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starszy cechu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Christiana Pichgiela starszego w latach 1692 i 1697"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański, żył w latach 1652–1700"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zastępca starszego cechu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Christiana Pichgiela starszego w latach 1691, 1696 i 1700"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "warsztat rodziców",
+                "type": "instytucja",
+                "description": "miejsce nauki Christiana Pichgiela młodszego w latach 1689–1704"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "egzamin mistrzowski",
+                "type": "wydarzenie",
+                "description": "egzamin zdany przez Christiana Pichgiela młodszego 10 stycznia 1716 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, złotnik"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1724-05-26",
+                "type": "data",
+                "description": null
+            }
+        }
+    ]
+}

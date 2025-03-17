@@ -1,0 +1,349 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan zawichojski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Przybek z Grodziny i Opatkowic",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "Brat Jaśka z Grodziny i Łańcuchowa, kanonik krakowski i kustosz gnieźnieński."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Przybek",
+                "type": "osoba",
+                "description": "Brat Jaśka z Grodziny i Łańcuchowa, łożniczy królewski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Machna z Mokrska",
+                "type": "osoba",
+                "description": "Matka Jaśka z Grodziny i Łańcuchowa, siostrzenica Pakosza ze Żmigrodu."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan Kuropatwa z Łańcuchowa",
+                "type": "osoba",
+                "description": "Syn Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Elżbieta z Widuchowej",
+                "type": "osoba",
+                "description": "Wdowa po Jaśku z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1421-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Grodziny",
+                "type": "miejscowość",
+                "description": "Gniazdo rodzinne rodziny Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Łańcuchów",
+                "type": "miejscowość",
+                "description": "Miejscowość kupiona przez Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Stary Żmigród",
+                "type": "miejscowość",
+                "description": "Miejscowość objęta w zastaw przez Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "akt unii horodelskiej",
+                "type": "wydarzenie",
+                "description": "Wydarzenie poświadczone przez Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "akt zbratania szlachty polskiej z bojarstwem litewskim",
+                "type": "wydarzenie",
+                "description": "Wydarzenie przypieczętowane przez Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "herb Śreniawa",
+                "type": "herb",
+                "description": "Herb reprezentowany przez Jaśka z Grodziny i Łańcuchowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "łowczy",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia ziemski lubelski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "Brat Jaśka z Grodziny i Łańcuchowa, kanonik krakowski i kustosz gnieźnieński."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik krakowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "Brat Jaśka z Grodziny i Łańcuchowa, kanonik krakowski i kustosz gnieźnieński."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kustosz gnieźnieński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Przybek",
+                "type": "osoba",
+                "description": "Brat Jaśka z Grodziny i Łańcuchowa, łożniczy królewski."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "łożniczy królewski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "trzej bracia",
+                "type": "osoba",
+                "description": "Trzej bracia Jaśka z Grodziny i Łańcuchowa, których imiona nie zostały podane w tekście."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kuropatwa z Łańcuchowa",
+                "type": "osoba",
+                "description": "Syn Jaśka z Grodziny i Łańcuchowa."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta z Widuchowej",
+                "type": "osoba",
+                "description": "Wdowa po Jaśku z Grodziny i Łańcuchowa."
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Jaśko z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "Kuropatwa Jaśko z Grodziny i Łańcuchowa h. Śreniawa, kasztelan zawichojski."
+            }
+        }
+    ]
+}

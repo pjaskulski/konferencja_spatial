@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan nakielski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1723-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Maciej Grabski",
+                "type": "osoba",
+                "description": "sędzia grodzki bydgoski i starosta kłecki."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Marianna Mańkowska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Anna Konradzka",
+                "type": "osoba",
+                "description": "pierwsza żona Jana Kazimierza Grabskiego, wdowa po Wojciechu Wilczyńskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Marianna Łakińska",
+                "type": "osoba",
+                "description": "druga żona Jana Kazimierza Grabskiego, wdowa po Zdzychowskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Maciej Grabski (syn)",
+                "type": "osoba",
+                "description": "syn Jana Kazimierza Grabskiego z pierwszego małżeństwa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Franciszek Grabski",
+                "type": "osoba",
+                "description": "jezuita, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stanisław Grabski",
+                "type": "osoba",
+                "description": "dziekan fary gnieźnieńskiej, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Józef Grabski",
+                "type": "osoba",
+                "description": "syn Jana Kazimierza Grabskiego z drugiego małżeństwa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Żelice, Michałkowice, Miasteczko, Brzostowo, części dóbr nowomiejskich",
+                "type": "miejscowości",
+                "description": "posiadłości Jana Kazimierza Grabskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Prawdy powszechne albo dowolne nauki chrześcijańskiej filozofii",
+                "type": "dzieło",
+                "description": "przetłumaczone przez Jana Kazimierza Grabskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "J. Morawski",
+                "type": "osoba",
+                "description": "autor pracy 'Palestra pietatis christianae', dedykowanej Janowi Kazimierzowi Grabskiemu."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "komisarz do sprawdzania rachunków poborowych",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego z sejmiku średzkiego w 1688 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "deputat na trybunał koronny",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego z województwa poznańskiego w latach 1694 i 1695."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia grodzki nakielski",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego w 1695 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "poseł na sejm z województwa kaliskiego",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego w 1699 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "poseł na sejm lubelski",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego w 1703 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "konsyliarz konfederacji zawiązanej w Środzie",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego w 1703 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia surogator grodzki wałecki",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Jana Kazimierza Grabskiego pod koniec życia."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "konfederacja zawiązana w Środzie",
+                "type": "organizacja",
+                "description": "konfederacja zawiązana w Środzie pod laską Piotra Bronisza w 1703 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, syn Macieja i Marianny Mańkowskiej, zmarł w 1723 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "król Leszczyński",
+                "type": "osoba",
+                "description": "król, który nominował Jana Kazimierza Grabskiego na stanowisko kasztelana nakielskiego około 1708 roku."
+            }
+        }
+    ]
+}

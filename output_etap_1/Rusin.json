@@ -1,0 +1,379 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1330-12-20",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasFatherInLaw"
+            },
+            "object": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Helena",
+                "type": "osoba",
+                "description": "żona Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Anna",
+                "type": "osoba",
+                "description": "córka Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Gertruda",
+                "type": "osoba",
+                "description": "córka Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasSonInLaw"
+            },
+            "object": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Helena",
+                "type": "osoba",
+                "description": "żona Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "córka kuśnierza Wilusza",
+                "type": "osoba",
+                "description": "żona Jana, syna Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda",
+                "type": "osoba",
+                "description": "córka Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Tyczek Snel",
+                "type": "osoba",
+                "description": "mąż Gertrudy, córki Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda",
+                "type": "osoba",
+                "description": "córka Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Elżbieta",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka Snela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka Snela"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Stanisław Pensator",
+                "type": "osoba",
+                "description": "mąż Elżbiety, córki Gertrudy i Tyczka Snela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Pensator",
+                "type": "osoba",
+                "description": "mąż Elżbiety, córki Gertrudy i Tyczka Snela"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Elżbieta",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka Snela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "uzyskanie przywileju celnego od Władysława Łokietka",
+                "type": "wydarzenie",
+                "description": "starania o przywilej celny dla mieszczan krakowskich w 1320 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "znaczny majątek w gotówce oraz nieruchomościach w Krakowie",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "uzyskanie odpustu dla kościoła Najśw. Marii Panny w Krakowie",
+                "type": "wydarzenie",
+                "description": "odpust uzyskany w Rzymie w 1326 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przygotowania do pielgrzymki do Ziemi Świętej",
+                "type": "wydarzenie",
+                "description": "przygotowania do pielgrzymki pod koniec 1330 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": "pełniony przez Rusina Mikołaja w latach 1319–20, 1327, 1329–30"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "nieruchomości w Krakowie",
+                "type": "majątek",
+                "description": "domy i ogrody nabyte przez Rusina Mikołaja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dom w Krakowie",
+                "type": "majątek",
+                "description": "nabyty od Sandra Snela w 1313 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "ogród nad rzeką Rudawą",
+                "type": "majątek",
+                "description": "nabyty przez Rusina Mikołaja w 1319 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasChild"
+            },
+            "object": {
+                "name": "nieznane dzieci",
+                "type": "osoba",
+                "description": "dwoje dzieci Rusina Mikołaja, których imion nie znamy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Rusina Mikołaja"
+            },
+            "predicate": {
+                "name": "hasGuardian"
+            },
+            "object": {
+                "name": "dzieci Rusina Mikołaja",
+                "type": "osoba",
+                "description": "dzieci Rusina Mikołaja, nad którymi opiekę przejął Mikołaj z Zawichostu"
+            }
+        }
+    ]
+}

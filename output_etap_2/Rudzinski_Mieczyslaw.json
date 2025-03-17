@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet w Moskwie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Werki",
+                "type": "miejscowość",
+                "description": "koło Wilna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Dachau",
+                "type": "miejscowość",
+                "description": "obóz koncentracyjny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1940-11-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1887-04-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Rudziński",
+                "type": "osoba",
+                "description": "ojciec Mieczysława Rudzińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Maria z Downarowiczów",
+                "type": "osoba",
+                "description": "matka Mieczysława Rudzińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zrzeszenie Prawników Socjalistów w Warszawie",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Liga Praw Człowieka i Obywatela",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Aleksander Lednicki",
+                "type": "osoba",
+                "description": "osoba, z którą Mieczysław Rudziński współpracował w kancelarii"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "adwokat",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Okręgowa Rada Adwokacka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Rada Konsultacyjna (Beirat)",
+                "type": "instytucja",
+                "description": "powołana przez niemieckiego komisarza dla reorganizacji adwokatury E. Wendorffa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Polskiej Młodzieży Socjalistycznej",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "żołnierz",
+                "type": "zawód",
+                "description": "służba na froncie kaukaskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dyplomata",
+                "type": "zawód",
+                "description": "praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedEvent"
+            },
+            "object": {
+                "name": "Zjazd Polskiej Młodzieży Akademickiej w Moskwie",
+                "type": "wydarzenie",
+                "description": "współorganizator w 1915 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komitet Pomocy Ofiarom Wojny",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek Centralnego Sądu Partyjnego PPS",
+                "type": "urząd",
+                "description": "wybrany na XXII Kongresie PPS w 1931 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek Sądu Koleżeńskiego Zrzeszenia Prawników Socjalistów w Warszawie",
+                "type": "urząd",
+                "description": "wybrany na Walnym Zjeździe Zrzeszenia w 1935 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rzecznik dyscyplinarny w Okręgowej Radzie Adwokackiej",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zastępca rzecznika dyscyplinarnego w Prezydium Okręgowej Rady Adwokackiej w Warszawie",
+                "type": "urząd",
+                "description": "w początkach okupacji niemieckiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "arrestedBy"
+            },
+            "object": {
+                "name": "gestapo",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "imprisonedIn"
+            },
+            "object": {
+                "name": "obóz koncentracyjny Sachsenhausen",
+                "type": "miejsce",
+                "description": "przewieziony 3 maja 1940 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
+            },
+            "predicate": {
+                "name": "imprisonedIn"
+            },
+            "object": {
+                "name": "obóz koncentracyjny Dachau",
+                "type": "miejsce",
+                "description": "przewieziony we wrześniu 1940 roku"
+            }
+        }
+    ]
+}

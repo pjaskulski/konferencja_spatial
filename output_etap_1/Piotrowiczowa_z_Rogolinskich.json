@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Ansberta z Badeńskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "ciosy bagnetów i pik kozackich",
+                "type": "przedmiot",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "dateOfBurial"
+            },
+            "object": {
+                "name": "1863-02-28",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Radogoszcz (Dobra?) pod Łodzią",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wydanie zakazu przyjmowania kobiet do służby liniowej",
+                "type": "wydarzenie",
+                "description": "wydane przez Wydział Wojny Rządu Narodowego 16 IV 1863"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "śmierć odbiła się głośnym echem w całym kraju",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "ulica w Łodzi",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "dołączenie do partii Józefa Sawickiego",
+                "type": "wydarzenie",
+                "description": "Maria Piotrowiczowa dołączyła do partii Józefa Sawickiego podczas powstania styczniowego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "śmierć w szpitalu po odniesieniu ciężkich ran",
+                "type": "wydarzenie",
+                "description": "Konstanty Piotrowicz zmarł w szpitalu po odniesieniu ciężkich ran podczas powstania styczniowego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Sawicki",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Dworzaczek",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie po Józefie Sawickim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "rozbicie oddziału pod Dobrą",
+                "type": "wydarzenie",
+                "description": "Oddział, do którego dołączyli Maria i Konstanty Piotrowiczowie, został rozbity pod Dobrą 24 lutego 1863 roku."
+            }
+        }
+    ]
+}

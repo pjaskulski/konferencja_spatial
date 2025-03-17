@@ -1,0 +1,199 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Dobroczynności św. Wincentego a Paulo",
+                "type": "instytucja",
+                "description": "organizacja charytatywna we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Leon Sapieha",
+                "type": "osoba",
+                "description": "mąż Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasGrandfather"
+            },
+            "object": {
+                "name": "Adam Kazimierz Czartoryski",
+                "type": "osoba",
+                "description": "dziadek Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Zamoyski",
+                "type": "osoba",
+                "description": "ojciec Jadwigi Sapieżyny z Zamoyskich, prezes Senatu Królestwa Kongresowego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Zofia z Czartoryskich",
+                "type": "osoba",
+                "description": "matka Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Celina Działyńska",
+                "type": "osoba",
+                "description": "siostra Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Adam Sapieha",
+                "type": "osoba",
+                "description": "syn Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1890-03-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Krasiczyn",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1806-07-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Podzamcze",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Władysław Zamoyski",
+                "type": "osoba",
+                "description": "brat Jadwigi Sapieżyny z Zamoyskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka, żona Leona Sapiehy"
+            },
+            "predicate": {
+                "name": "hasDaughterInLaw"
+            },
+            "object": {
+                "name": "Jadwiga",
+                "type": "osoba",
+                "description": "synowa Jadwigi Sapieżyny z Zamoyskich"
+            }
+        }
+    ]
+}

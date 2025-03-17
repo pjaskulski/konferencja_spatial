@@ -1,0 +1,344 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "architekt",
+                "type": "zawód",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi jest wymieniony jako architekt w tekście., Jego zawód jest bezpośrednio podany w pierwszym zdaniu.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1760-00-00",
+                "type": "data",
+                "description": "Data przybliżona"
+            },
+            "reasoning": "Piotr Rossi urodził się około 1760 roku, co jest podane w pierwszym zdaniu tekstu.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1810-00-00",
+                "type": "data",
+                "description": "Data przybliżona, zmarł po 1810 roku"
+            },
+            "reasoning": "Piotr Rossi zmarł po 1810 roku, co jest podane w pierwszym zdaniu tekstu.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi urodził się zapewne w Rzymie, co jest podane w tekście., Rzym jest wymieniony jako prawdopodobne miejsce urodzenia.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": null
+            },
+            "reasoning": "Andrzej jest wymieniony jako ojciec Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "córka Józefa Baltazary (Baldassari?)"
+            },
+            "reasoning": "Małgorzata jest wymieniona jako żona Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Andrzej Rossi",
+                "type": "osoba",
+                "description": "ur. 1790"
+            },
+            "reasoning": "Andrzej jest wymieniony jako syn Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kornel Rossi",
+                "type": "osoba",
+                "description": "ur. 1791"
+            },
+            "reasoning": "Kornel jest wymieniony jako syn Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Klemens Rossi",
+                "type": "osoba",
+                "description": "ur. 1794"
+            },
+            "reasoning": "Klemens jest wymieniony jako syn Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Izabella Rossi",
+                "type": "osoba",
+                "description": "ur. 1792"
+            },
+            "reasoning": "Izabella jest wymieniona jako córka Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Feliksa Rossi",
+                "type": "osoba",
+                "description": "ur. 1793"
+            },
+            "reasoning": "Feliksa jest wymieniona jako córka Piotra Rossi w tekście., Jest to bezpośrednio podane w zdaniu dotyczącym jego rodziny.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "placeOfActivity"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi był architektem, który pojawił się w Wilnie około 1790 roku., W tekście wspomniano, że podejmował się prac na zlecenie króla, władz kościelnych i magistratu., To wskazuje, że Wilno było miejscem jego działalności zawodowej.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Gucewicz",
+                "type": "osoba",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi współpracował z Wawrzyńcem Gucewiczem przy budowie portyku katedry., Współpraca ta wskazuje na znaczącą relację zawodową między nimi.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasFatherInLaw"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Baldassari?"
+            },
+            "reasoning": "Piotr Rossi był żonaty z Małgorzatą, która była córką Józefa Baltazary (Baldassari?)., To wskazuje, że Józef Baltazary (Baldassari?) był teściem Piotra Rossi.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "architekt guberni wileńskiej",
+                "type": "urząd",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi w 1800 roku występuje w aktach jako architekt guberni wileńskiej., To wskazuje, że pełnił urząd architekta guberni wileńskiej.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "nieruchomości w Wilnie",
+                "type": "własność",
+                "description": null
+            },
+            "reasoning": "Piotr Rossi w 1795 roku występuje jako nabywca placu na przedmieściu, a w 1809 jako właściciel placu przy ul. Wileńskiej., To wskazuje, że posiadał nieruchomości w Wilnie.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kolegiów jezuickich na koszary",
+                "type": "osiągnięcie",
+                "description": "przy kościołach Św. Ignacego i Św. Kazimierza"
+            },
+            "reasoning": "Piotr Rossi w 1798 roku przebudował na koszary dwa skasowane kolegia jezuickie przy kościołach Św. Ignacego i Św. Kazimierza., To wskazuje, że był zaangażowany w przebudowę tych budynków.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie",
+                "type": "osiągnięcie",
+                "description": "według własnych planów"
+            },
+            "reasoning": "Piotr Rossi w latach 1798-1799 przebudował kaplicę Matki Boskiej przy Ostrej Bramie według własnych planów., To wskazuje, że był autorem projektu tej przebudowy.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Rossi",
+                "type": "osoba",
+                "description": "architekt"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "przebudowa browaru na arsenał",
+                "type": "osiągnięcie",
+                "description": "przy placu Kossakowskich na Antokolu"
+            },
+            "reasoning": "Piotr Rossi w 1800 roku przerobił browar przy placu Kossakowskich na Antokolu na arsenał., To wskazuje, że był zaangażowany w tę przebudowę.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Małgorzata Rossi",
+                "type": "osoba",
+                "description": "córka Józefa Baltazary (Baldassari?)"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Baltazary",
+                "type": "osoba",
+                "description": "Baldassari?"
+            },
+            "reasoning": "Małgorzata Rossi jest wymieniona jako córka Józefa Baltazary (Baldassari?)., Relacja między Małgorzatą Rossi a Józefem Baltazary (Baldassari?) to relacja ojciec-córka.",
+            "result": true
+        }
+    ]
+}

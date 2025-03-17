@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rektor",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1745-02-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1807-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rektor",
+                "type": "urząd",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kolegium pijarskie w Radziejowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wstąpienie do zakonu pijarów",
+                "type": "wydarzenie",
+                "description": "27 sierpnia 1765 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Podoliniec",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "kolegium pijarskie w Rzeszowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "nauczyciel w kolegium pijarskim w Rzeszowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "profesor",
+                "type": "zawód",
+                "description": "profesor w kolegium pijarskim w Drohiczynie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prefekt i profesor",
+                "type": "zawód",
+                "description": "prefekt i profesor w kolegium szczuczyńskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wicedyrektor",
+                "type": "urząd",
+                "description": "wicedyrektor w kolegium szczuczyńskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wicerektor",
+                "type": "urząd",
+                "description": "wicerektor w kolegium pijarskim w Drohiczynie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "KEN",
+                "type": "instytucja",
+                "description": "Komisja Edukacji Narodowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "kolegium łowickie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "paraliż",
+                "type": "przyczyna",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Łuków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Radom",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Collegium Nobilium",
+                "type": "instytucja",
+                "description": "w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "ks. Jordan",
+                "type": "osoba",
+                "description": "prowincjał pijarski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "ks. Reszczyński",
+                "type": "osoba",
+                "description": "prowincjał pijarski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "ks. Franciszek Salezy Jezierski",
+                "type": "osoba",
+                "description": "wizytator KEN"
+            }
+        }
+    ]
+}

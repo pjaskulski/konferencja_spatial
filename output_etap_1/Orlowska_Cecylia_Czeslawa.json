@@ -1,0 +1,244 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działaczka komunistyczna",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1906-02-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Eliasz Grynberg",
+                "type": "osoba",
+                "description": "urzędnik w zakładach I. K. Poznańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Markowski vel Franciszek Szczepowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, również skazany w 1937 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komunistyczna Partia Robotnicza Polski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Międzynarodówka Komunistyczna",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "komunistyczny uniwersytet im. J. M. Swierdłowa",
+                "type": "instytucja",
+                "description": "miejsce studiów Cecylii Orłowskiej w Moskwie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Gimnazjum im. E. Orzeszkowej w Łodzi",
+                "type": "instytucja",
+                "description": "szkoła, do której uczęszczała Cecylia Orłowska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Młodzieży Komunistycznej",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Cecylia Orłowska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie i skazanie w 1937 roku",
+                "type": "wydarzenie",
+                "description": "aresztowanie i skazanie Cecylii Orłowskiej w 1937 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, pseudonimy: Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pośmiertna rehabilitacja",
+                "type": "wydarzenie",
+                "description": "rehabilitacja Cecylii Orłowskiej po śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Markowski vel Franciszek Szczepowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, również skazany w 1937 roku"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie i skazanie w 1937 roku",
+                "type": "wydarzenie",
+                "description": "aresztowanie i skazanie Antoniego Markowskiego vel Franciszka Szczepowskiego w 1937 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Markowski vel Franciszek Szczepowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, również skazany w 1937 roku"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pośmiertna rehabilitacja",
+                "type": "wydarzenie",
+                "description": "rehabilitacja Antoniego Markowskiego vel Franciszka Szczepowskiego po śmierci"
+            }
+        }
+    ]
+}

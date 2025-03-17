@@ -1,0 +1,439 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Odo Bujwid",
+                "type": "osoba",
+                "description": "profesor bakteriologii UJ"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Kazimiera z Klimontowiczów",
+                "type": "osoba",
+                "description": "głośna bojowniczka o prawo kobiet do wyższego wykształcenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Kazimiera Rouppertowa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Demelowa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Helena Jurgielewiczowa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jerzy Mostowski",
+                "type": "osoba",
+                "description": "lekarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Czesław Mostowski",
+                "type": "osoba",
+                "description": "prawnik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Cmentarz Rakowicki",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1890-06-17",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1962-12-08",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "uczelnia",
+                "description": "miejscowość: Kraków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych w Krakowie",
+                "type": "instytucja",
+                "description": "spółka rodzinna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Spójnia",
+                "type": "organizacja",
+                "description": "postępowa organizacja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "lekarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kierownik wytwórni szczepionek",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "tajna produkcja i przerzut surowicy przeciwtężcowej oraz szczepionek do obozów koncentracyjnych",
+                "type": "wydarzenie",
+                "description": "działania w czasie drugiej wojny światowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "organizacja wojskowego szpitala polowego w Zwierzyńcu pod Zamościem",
+                "type": "wydarzenie",
+                "description": "działania w czasie drugiej wojny światowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Klinika chirurgiczna Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szpital w Drohobyczu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szpital im. Dzieciątka Jezus w Warszawie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szpital Bonifratrów w Krakowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Stacja Sanitarno-Epidemiologiczna w Olsztynie",
+                "type": "instytucja",
+                "description": "Sanepid"
+            }
+        },
+        {
+            "subject": {
+                "name": "Odo Bujwid",
+                "type": "osoba",
+                "description": "profesor bakteriologii UJ"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": "miejscowość: Kraków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimiera z Klimontowiczów",
+                "type": "osoba",
+                "description": "głośna bojowniczka o prawo kobiet do wyższego wykształcenia"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "walka o prawo kobiet do wyższego wykształcenia",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "prawnik",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "ekonomista",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

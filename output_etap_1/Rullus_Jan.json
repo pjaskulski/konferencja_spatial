@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1532-06-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wrocław",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Sebastian Puschel",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Wiedeński",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Walentyn Eck",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Leonard Cox",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Erazm z Rotterdamu",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Krakowski ośrodek wydawniczy",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "Rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Akademia Lubrańskiego w Poznaniu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Wrocławska rada miejska",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "hasOrigin"
+            },
+            "object": {
+                "name": "Wissemburg",
+                "type": "miejscowość",
+                "description": "miejscowość w Alzacji"
+            }
+        },
+        {
+            "subject": {
+                "name": "Matka Rullusa Jana",
+                "type": "osoba",
+                "description": "matka Rullusa Jana"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Legnica",
+                "type": "miejscowość",
+                "description": "miejscowość w Polsce"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Andrzej Trzecieski starszy",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Antoninus",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Anzelm Ephorinus",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jost Ludwik Decjusz",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Andrzej Winkler",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Antoni Mela",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Metzler",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Klemens Borek",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Maciej Przybyło",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Lang",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jerzy Werner",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Andrzej Schroeter",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Wencki",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wawrzyniec Just",
+                "type": "osoba",
+                "description": "przyjaciel Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zbiór druków i kodeksów rękopiśmiennych",
+                "type": "przedmiot",
+                "description": "pokaźny zbiór druków i kodeksów rękopiśmiennych zgromadzony przez Rullusa Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "zbiór druków i kodeksów rękopiśmiennych",
+                "type": "przedmiot",
+                "description": "pokaźny zbiór druków i kodeksów rękopiśmiennych zgromadzony przez Rullusa Jana"
+            }
+        }
+    ]
+}

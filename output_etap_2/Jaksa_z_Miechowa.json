@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "Fundacja Jakszy z Miechowa, założona ok. 1163 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztory premonstrantek w Krzyżanowicach i na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "Instytucje wspierane przez Jaksę z Miechowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1176-02-24",
+                "type": "data",
+                "description": "Data śmierci Jakszy z Miechowa, zapisana w \"Liber mortuorum\" klasztoru św. Wincentego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "hasRelative"
+            },
+            "object": {
+                "name": "Piotr Włostowic",
+                "type": "osoba",
+                "description": "W starszej literaturze uważany za teścia Jakszy z Miechowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "hasRelative"
+            },
+            "object": {
+                "name": "Świętosław",
+                "type": "osoba",
+                "description": "W starszej literaturze uważany za szwagra Jakszy z Miechowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bolesław Kędzierzawy",
+                "type": "osoba",
+                "description": "Książę, przeciwko któremu Jaksa z Miechowa planował bunt."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Kazimierz Sprawiedliwy",
+                "type": "osoba",
+                "description": "Książę, który sprzeciwił się planom Jakszy z Miechowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "ród Gryfitów",
+                "type": "organizacja",
+                "description": "Uważany niekiedy za protoplastę rodu Gryfitów."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyprawa do Palestyny",
+                "type": "wydarzenie",
+                "description": "Wyprawa Jakszy z Miechowa do Palestyny w 1162 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "Fundacja Jakszy z Miechowa, założona ok. 1163 roku."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "majątki i nadania",
+                "type": "własność",
+                "description": "Obdarowana majątkami przez książąt polskich i rycerstwo."
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "kompleks włości",
+                "type": "własność",
+                "description": "Kompleks włości, które rozrosły się do 15 osad, 9 z nich w Lubelskiem."
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor premonstrantek na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "trzy wsie: Zwierzyniec, Zabierzów, Bibice",
+                "type": "własność",
+                "description": "Podstawę klasztoru miała stanowić darowizna trzech wsi: Zwierzyńca, Zabierzowa i Bibic."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dux",
+                "type": "urząd",
+                "description": "Tytuł \"Jaxa qui cognominatus dux\" w dokumencie Bolesława Wstydliwego."
+            }
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "zecer",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Paulina Klimowicz",
+                "type": "osoba",
+                "description": "brat Stanisława Klimowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Koło Młodych Drukarzy",
+                "type": "organizacja",
+                "description": "współzałożyciel Stanisław Klimowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zjednoczenie Robotnicze",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Zagraniczny Socjalistów Polskich",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Pomocy Więźniom i Emigrantom Politycznym «Czerwony Krzyż»",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": "członek Stanisław Klimowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1935-00-00",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Leodium",
+                "type": "miejscowość",
+                "description": "miejsce studiów Stanisława Klimowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Drukarnia A. Reiffa",
+                "type": "instytucja",
+                "description": "polska drukarnia w Paryżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Ubezpieczeń New-York",
+                "type": "instytucja",
+                "description": "instytucja w Paryżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Klimowicz",
+                "type": "osoba",
+                "description": "pseud. Łapa, Lipski, zecer, działacz ruchu robotniczego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

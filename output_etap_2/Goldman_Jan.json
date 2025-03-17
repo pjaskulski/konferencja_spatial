@@ -1,0 +1,199 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "uczelnia",
+                "description": "Wydział Filozoficzny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "doktor filozofii",
+                "type": "osiągnięcie",
+                "description": "w zakresie filologii romańskiej i angielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1942-00-00",
+                "type": "data",
+                "description": "zginął z rąk hitlerowców"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1907-05-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Lea Goldman",
+                "type": "osoba",
+                "description": "z domu Bader"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "IV Gimnazjum Realne im. H. Sienkiewicza",
+                "type": "uczelnia",
+                "description": "Kraków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Paryż"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "lektor języka francuskiego",
+                "type": "zawód",
+                "description": "Lwów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel prywatny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "właściciel firmy wydawniczej",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

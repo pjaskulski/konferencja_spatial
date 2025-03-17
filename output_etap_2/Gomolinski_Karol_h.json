@@ -1,0 +1,349 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy łęczycki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Gomoliński",
+                "type": "osoba",
+                "description": "ojciec Karola Gomolińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Bielicka",
+                "type": "osoba",
+                "description": "matka Karola Gomolińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zasiadanie jako deputat w trybunale koronnym",
+                "type": "wydarzenie",
+                "description": "od 1727 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "miecznik łęczycki",
+                "type": "urząd",
+                "description": "za Augusta II"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podczaszy i chorąży",
+                "type": "urząd",
+                "description": "za Augusta III"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia grodzki",
+                "type": "urząd",
+                "description": "od 17 marca 1749 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy",
+                "type": "urząd",
+                "description": "od 1757 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "podpisanie elekcji Stanisława Augusta",
+                "type": "wydarzenie",
+                "description": "1764 rok"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Order Św. Stanisława",
+                "type": "osiągnięcie",
+                "description": "przyznany przez króla Stanisława Augusta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1784-11-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "klasztor bernardynów w Łęczycy",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Helena z Pokrzywnickich",
+                "type": "osoba",
+                "description": "żona Karola Gomolińskiego, zmarła w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Ignacy Gomoliński",
+                "type": "osoba",
+                "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Marianna Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona Opackiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "bernardyni w Łęczycy",
+                "type": "organizacja",
+                "description": "klasztor, w którym Karol Gomoliński spędzał czas na starość i był syndykiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "majątek w Krośniewicach",
+                "type": "własność",
+                "description": "dziedziczny majątek Karola Gomolińskiego w woj. łęczyckim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena z Pokrzywnickich",
+                "type": "osoba",
+                "description": "żona Karola Gomolińskiego, zmarła w Warszawie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Gomoliński",
+                "type": "osoba",
+                "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "konsyliarz konfederacji łęczyckiej",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "generał Skarbek",
+                "type": "osoba",
+                "description": "pierwszy mąż Józefaty Gomolińskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Dzierzbicki",
+                "type": "osoba",
+                "description": "drugi mąż Józefaty Gomolińskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona Opackiego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Opacki",
+                "type": "osoba",
+                "description": "mąż Marianny Gomolińskiej"
+            }
+        }
+    ]
+}

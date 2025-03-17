@@ -1,0 +1,439 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Becalel Schenirer",
+                "type": "osoba",
+                "description": "pochodzący z Tarnopola kupiec"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Róża z Laków",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Szymon",
+                "type": "osoba",
+                "description": "sędzia rabinacki w Krakowie w latach 1935–1939"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "rak żołądka",
+                "type": "choroba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie",
+                "type": "miejsce",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Izaak Landau",
+                "type": "osoba",
+                "description": "rabin"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Beit Jakow",
+                "type": "instytucja",
+                "description": "żeńskie szkolnictwo żydowskie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Keren Hatora",
+                "type": "instytucja",
+                "description": "Fundusz Wychowania Religijnego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Agudat Israel",
+                "type": "instytucja",
+                "description": "Związek Izraela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Bajs Jakow",
+                "type": "instytucja",
+                "description": "łódzkie czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Benot Agudat Israel",
+                "type": "instytucja",
+                "description": "żeńska organizacja młodzieżowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kolegium Nauczycielskie Keren Hatora",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Der kojech fun hejlikn szabes",
+                "type": "dzieło",
+                "description": "sztuka dla dzieci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Chane un ir zibn zin",
+                "type": "dzieło",
+                "description": "sztuka dla dzieci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Ester un Achaszwejrosz",
+                "type": "dzieło",
+                "description": "sztuka dla dzieci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Gizamlte szriftn",
+                "type": "dzieło",
+                "description": "zbiór artykułów oświatowych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Cu wos darf men Bejs Jakew szulen",
+                "type": "dzieło",
+                "description": "broszura"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Sefer ha-mahazot",
+                "type": "dzieło",
+                "description": "zbiory artykułów w przekładzie na język hebrajski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Em bi-Jisra’el",
+                "type": "dzieło",
+                "description": "zbiory artykułów w przekładzie na język hebrajski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1883-07-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1935-03-01",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "D. M. Flesch",
+                "type": "osoba",
+                "description": "neoortodoksyjny rabin w Wiedniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyjazd do Wiednia w listopadzie 1914",
+                "type": "wydarzenie",
+                "description": "wyjazd z Krakowa z powodu zbliżania się wojsk rosyjskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "warsztat krawiecki przy ul. św. Katarzyny 1 w Krakowie",
+                "type": "miejscowość",
+                "description": "miejsce założenia pierwszej szkoły religijnej dla dziewcząt żydowskich przez Sarę Szenirer"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "współzałożenie Benot Agudat Israel",
+                "type": "wydarzenie",
+                "description": "współzałożenie żeńskiej organizacji młodzieżowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "konferencja żydowskich działaczy oświatowych w 1925 roku",
+                "type": "wydarzenie",
+                "description": "współorganizacja konferencji"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sara Szenirer",
+                "type": "osoba",
+                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "seminarium nauczycielskie z internatem w Krakowie",
+                "type": "miejscowość",
+                "description": "miejsce założenia seminarium nauczycielskiego przez Sarę Szenirer"
+            }
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "historyk",
+                "type": "zawód",
+                "description": "historyk i socjolog literatury"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "socjolog literatury",
+                "type": "zawód",
+                "description": "historyk i socjolog literatury"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1943-07-17",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kielce",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1975-04-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "cmentarz w Wólce Węglowej",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Tadeusz Januchta",
+                "type": "osoba",
+                "description": "urzędnik"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Zenaida Karaś",
+                "type": "osoba",
+                "description": "korektorka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Roman Rudziński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "polonistyka, lata 1960-1965"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Instytut Badań Literackich PAN",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stefan Żółkiewski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie",
+                "type": "instytucja",
+                "description": "wykłady z teorii kultury"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "relatedPlace"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "półroczny pobyt, 1973-1974"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "relatedPlace"
+            },
+            "object": {
+                "name": "Frankfurt nad Menem",
+                "type": "miejscowość",
+                "description": "kilkumiesięczny pobyt"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Między awangardą a kulturą masową. Wokół społecznej roli pisarza",
+                "type": "dzieło",
+                "description": "tom artykułów i recenzji, opublikowany pośmiertnie w 1978 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starszy asystent i sekretarz naukowy",
+                "type": "urząd",
+                "description": "Pracownia Badań Kultury Współczesnej PAN, lata 1967-1969"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarz naukowy",
+                "type": "urząd",
+                "description": "Pracownia Badań Kultury Literackiej IBL, od kwietnia 1969"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kamila Anna Rudzińska",
+                "type": "osoba",
+                "description": "historyk i socjolog literatury"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "doktor nauk humanistycznych",
+                "type": "zawód",
+                "description": "uzyskany w Instytucie Badań Literackich PAN, grudzień 1972"
+            }
+        }
+    ]
+}

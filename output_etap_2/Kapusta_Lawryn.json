@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "setnik",
+                "type": "zawód",
+                "description": "setnik czehryński i subotowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dyplomata",
+                "type": "zawód",
+                "description": "dyplomata kozacki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bohdan Chmielnicki",
+                "type": "osoba",
+                "description": "hetman kozacki, przywódca powstania przeciwko Rzeczypospolitej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Fedorowicz",
+                "type": "osoba",
+                "description": "były dowódca załogi kozackiej w Suczawie, oskarżony o przywłaszczenie rzeczy poległego syna hetmańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Iwan Fomin",
+                "type": "osoba",
+                "description": "poseł moskiewski oczekujący w Czehryniu na hetmana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Strieszniew i Briedichin",
+                "type": "osoba",
+                "description": "posłowie carscy przebywający na Ukrainie po Fominie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Repnin-Oboleński",
+                "type": "osoba",
+                "description": "poseł rosyjski do Polski, który przywiózł listy Jana Kazimierza do cara"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jerzy II Rakoczy",
+                "type": "osoba",
+                "description": "zaangażowany w łupieską wyprawę do Polski, w której udział brali Kozacy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Parcewicz",
+                "type": "osoba",
+                "description": "poseł cesarski, którego Kapusta Ławryn miał powitać w 1656 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Reniger",
+                "type": "osoba",
+                "description": "rezydent cesarski w Turcji, który relacjonował misję Kapusty Ławryna do sułtana tureckiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Harasim Kapłoński",
+                "type": "osoba",
+                "description": "osoba, która podpisała akt ugody cudnowskiej w imieniu Kapusty Ławryna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "setnik czehryński",
+                "type": "urząd",
+                "description": "setnik czehryński w 1653 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "setnik subotowski",
+                "type": "urząd",
+                "description": "setnik subotowski w sierpniu 1653 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "ugoda perejasławska",
+                "type": "wydarzenie",
+                "description": "przygotowania dyplomatyczne do ugody perejasławskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "sułtan turecki",
+                "type": "osoba",
+                "description": "sułtan turecki, do którego Kapusta Ławryn posłował w 1657 roku"
+            }
+        }
+    ]
+}

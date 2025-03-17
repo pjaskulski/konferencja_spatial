@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Jaszczew",
+                "type": "miejscowość",
+                "description": "koło Krosna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1922-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "uczelnia",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szpital św. Łazarza",
+                "type": "instytucja",
+                "description": "w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Klinika położniczo-ginekologiczna Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "docent położnictwa i ginekologii",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "profesor nadzwyczajny",
+                "type": "urząd",
+                "description": "otrzymany w 1909 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Olga z Górskich",
+                "type": "osoba",
+                "description": "żona Stanisława Brauna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jerzy Braun",
+                "type": "osoba",
+                "description": "syn Stanisława Brauna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Zofia Braun",
+                "type": "osoba",
+                "description": "córka Stanisława Brauna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Braun",
+                "type": "osoba",
+                "description": "ginekolog"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dom przy ul. Dietlowskiej 95",
+                "type": "obiekt fizjograficzny",
+                "description": "przebudowany na zakład położniczy, sprzedany w 1898 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Olga z Górskich",
+                "type": "osoba",
+                "description": "żona Stanisława Brauna"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1863",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Braun",
+                "type": "osoba",
+                "description": "syn Stanisława Brauna"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1893",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Braun",
+                "type": "osoba",
+                "description": "córka Stanisława Brauna"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1895",
+                "type": "data",
+                "description": null
+            }
+        }
+    ]
+}

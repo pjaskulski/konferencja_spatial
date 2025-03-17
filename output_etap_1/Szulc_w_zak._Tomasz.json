@@ -1,0 +1,124 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zakon Dominikanów",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lubawa",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce urodzenia Tomasza Szulca-Prątnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1705-00-00",
+                "type": "data",
+                "description": "data śmierci Tomasza Szulca-Prątnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski oraz oficjał i wizytator diecezji chełmińskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "studium zakonne",
+                "type": "instytucja",
+                "description": "miejsce studiów filozoficzno-teologicznych Tomasza Szulca-Prątnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": "miejsce związane z działalnością Tomasza Szulca-Prątnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "przeor",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Tomasza Szulca-Prątnickiego w zakonie dominikanów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici",
+                "type": "dzieło",
+                "description": "dzieło autorstwa Tomasza Szulca-Prątnickiego wydane w Gdańsku"
+            }
+        }
+    ]
+}

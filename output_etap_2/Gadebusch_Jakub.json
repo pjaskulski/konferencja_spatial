@@ -1,0 +1,124 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Gryfii",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Gimnazjum Akademickie",
+                "type": "uczelnia",
+                "description": "Gdańsk"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "profesor fizyki i metafizyki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "uniwersytet w Królewcu",
+                "type": "uczelnia",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Vestibulum Regni Poloniae",
+                "type": "dzieło",
+                "description": "krótki rys części gramatyki polskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Encomium Regni Poloniae",
+                "type": "dzieło",
+                "description": "opis Polski z wiadomościami o pochodzeniu Polaków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Chronicon dynastarum Regni Poloniae",
+                "type": "dzieło",
+                "description": "wierszowany utwór Klemensa Janickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "profesor fizyki i metafizyki"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "profesor",
+                "type": "zawód",
+                "description": "fizyki i metafizyki"
+            }
+        }
+    ]
+}

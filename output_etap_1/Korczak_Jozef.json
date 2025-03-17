@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działacz niepodległościowy",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "poeta",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1891-01-09",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Dąbrówka",
+                "type": "miejscowość",
+                "description": "wieś w powiecie janowskim ziemi lubelskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Korczak",
+                "type": "osoba",
+                "description": "ojciec Józefa Korczaka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Rozalia Korczak",
+                "type": "osoba",
+                "description": "matka Józefa Korczaka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Siedlce",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Organizacja Młodzieży Narodowej",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Strzelecki",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Oddział Lotny Wojsk Polskich",
+                "type": "instytucja",
+                "description": "detaszowany oddział I Brygady Legionów Polskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Organizacja Wojskowa",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Pogotowie Bojowe PPS",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Wojsko Polskie",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Milicja Ludowa",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Ministerstwo Spraw Wojskowych",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wolna Wszechnica Polska",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "uniwersytet",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1920-10-18",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Michniszki",
+                "type": "miejscowość",
+                "description": "w pobliżu Nowych Trok w ziemi wileńskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Order Virtuti Militari 5 kl.",
+                "type": "osiągnięcie",
+                "description": "odznaczenie pośmiertne"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Niepodległości z Mieczami",
+                "type": "osiągnięcie",
+                "description": "odznaczenie pośmiertne"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Wskazania przyszłości",
+                "type": "dzieło",
+                "description": "broszura poświęcona sprawie wychowania żołnierza, wydana w 1921 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Przed świtem",
+                "type": "dzieło",
+                "description": "zbiór wierszy uzupełniony przedmową A. Struga i życiorysem pióra T. Hołówki, wydany w 1922 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Bagiński",
+                "type": "osoba",
+                "description": "osoba, która poinformowała Józefa Korczaka o Oddziale Lotnym Wojsk Polskich"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "pseud. Piotr, działacz niepodległościowy, poeta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": "biskup diecezji kruszwickiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": "biskup diecezji kujawskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1187-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "konsekracja tumu pod Łęczycą",
+                "type": "wydarzenie",
+                "description": "konsekracja tumu pod Łęczycą w 1161 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zjazd łęczycki",
+                "type": "wydarzenie",
+                "description": "zjazd łęczycki w 1180 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa katedry romańskiej we Włocławku",
+                "type": "wydarzenie",
+                "description": "budowa niezachowanej katedry romańskiej we Włocławku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "początki szpitala Św. Gotarda",
+                "type": "wydarzenie",
+                "description": "początki szpitala Św. Gotarda (Szpetala) nad Wisłą naprzeciw Włocławka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "relikwiarz-portatyl kruszwicki",
+                "type": "wydarzenie",
+                "description": "okazały relikwiarz-portatyl tzw. kruszwicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "obdarowanie kapituły włocławskiej",
+                "type": "wydarzenie",
+                "description": "obdarowanie kapituły włocławskiej przez Leszka Bolesławowica w 1185 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Leszek Bolesławowic",
+                "type": "osoba",
+                "description": "książę, który obdarował kapitułę włocławską w 1185 roku"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "książę",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Swidger",
+                "type": "osoba",
+                "description": "biskup kruszwicki przed Onolfem"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": "biskup diecezji kruszwickiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Werner-Wiernierz",
+                "type": "osoba",
+                "description": "biskup włocławski, który przeszedł na diecezję płocką"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "biskup włocławski",
+                "type": "urząd",
+                "description": "biskup diecezji włocławskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Werner-Wiernierz",
+                "type": "osoba",
+                "description": "biskup włocławski, który przeszedł na diecezję płocką"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "biskup płocki",
+                "type": "urząd",
+                "description": "biskup diecezji płockiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "następca Onolfa jako biskup kujawski"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": "biskup diecezji kujawskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziekan kapituły",
+                "type": "urząd",
+                "description": "dziekan kapituły przed zostaniem biskupem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski, zm. przed 1187 rokiem"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "połączenie diecezji kruszwickiej i włocławskiej",
+                "type": "wydarzenie",
+                "description": "połączenie obu diecezji kujawskich w jedną, przypisywane Onolfowi"
+            }
+        }
+    ]
+}

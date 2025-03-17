@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lubawa",
+                "type": "miejscowość",
+                "description": "ziemia chełmińska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1705-00-00",
+                "type": "data",
+                "description": "jesień 1705"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "hasRelative"
+            },
+            "object": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Zakon Dominikanów",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "przeor",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pisarz religijny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "studium zakonne",
+                "type": "uczelnia",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "magister teologii",
+                "type": "osiągnięcie",
+                "description": "najwyższy stopień naukowy w zakonie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "złożenie ślubów zakonnych",
+                "type": "wydarzenie",
+                "description": "24 października 1660"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici",
+                "type": "dzieło",
+                "description": "wydane w Gdańsku w latach 1694-1695, wydanie drugie w 1697"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prepozyt i kanonik chełmiński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "archiprezbiter elbląski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "proboszcz lubawski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "oficjał i wizytator diecezji chełmińskiej",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

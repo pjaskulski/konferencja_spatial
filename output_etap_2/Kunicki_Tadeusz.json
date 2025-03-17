@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1919-10-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1967-12-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kunicki",
+                "type": "osoba",
+                "description": "ślusarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Józefa z Winklerów",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Zofia Chromy",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "wypadek samochodowy",
+                "type": "zdarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "generał brygady",
+                "type": "stopień wojskowy",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "artykuły na tematy artyleryjskie",
+                "type": "dzieło",
+                "description": "zamieszczone w „Przeglądzie Artyleryjskim” i „Przeglądzie Wojsk Lądowych”"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Robotnicza",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Zjednoczona Partia Robotnicza",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Akademia Medyczno-Weterynaryjna",
+                "type": "instytucja",
+                "description": "Lwów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego",
+                "type": "instytucja",
+                "description": "Moskwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasAward"
+            },
+            "object": {
+                "name": "Krzyż Komandorski Orderu Odrodzenia Polski",
+                "type": "odznaczenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasAward"
+            },
+            "object": {
+                "name": "Krzyż Walecznych",
+                "type": "odznaczenie",
+                "description": null
+            }
+        }
+    ]
+}

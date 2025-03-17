@@ -1,0 +1,244 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1851",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1933-1939",
+                "type": "data",
+                "description": "Zmarł prawdopodobnie w latach poprzedzających wybuch drugiej wojny światowej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "II. Gimnazjum Miejskie",
+                "type": "uczelnia",
+                "description": "Warszawa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Politechnika w Londynie",
+                "type": "uczelnia",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": "Pracował w Rumunii przy budowie kolei."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "zawiadowca warsztatów mechanicznych",
+                "type": "zawód",
+                "description": "Pracował w Turcji jako zawiadowca warsztatów mechanicznych w Adrianopolu."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "emigracyjny związek Białego Orła",
+                "type": "organizacja",
+                "description": "Anglia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "towarzystwa geograficzne",
+                "type": "organizacja",
+                "description": "Paryż, Londyn, Amsterdam, Bruksela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyjazd do Afryki zachodniej",
+                "type": "wydarzenie",
+                "description": "Liberia, Kongo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyprawa Rogozińskiego do Kamerunu",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powrót do kraju i osiedlenie w Warszawie",
+                "type": "wydarzenie",
+                "description": "1928"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie historyczne",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "gimnazjum we Wrocławiu",
+                "type": "uczelnia",
+                "description": "Wrocław"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Belgia, Francja, Anglia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "pamiętnik i notatki z podróży",
+                "type": "dzieło",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "nauczyciel seminarium nauczycielskiego",
+                "type": "zawód",
+                "description": "nauczyciel seminarium nauczycielskiego w Głogówku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "podręczniki szkolne",
+                "type": "przedmiot",
+                "description": "dwujęzyczne podręczniki szkolne, w których część polska przeważała"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Zbiór pieśni polskich z melodiami na dwa i trzy głosy",
+                "type": "przedmiot",
+                "description": "zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Głogówek",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zamiar wydania dalszych polskich podręczników szkolnych",
+                "type": "osiągnięcie",
+                "description": "zamiar wydania dalszych polskich podręczników szkolnych z czytankami z żywotów świętych i historii kościelnej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1830-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1895-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Antoni Cygan",
+                "type": "osoba",
+                "description": "pedagog górnośląski, nauczyciel seminarium nauczycielskiego w Głogówku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Głogówek",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Besta",
+                "type": "osoba",
+                "description": "kolega Antoniego Cygana, współautor podręczników"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych",
+                "type": "dzieło",
+                "description": "podręcznik dwujęzyczny, współautor Jan Besta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Eliasz Grynberg",
+                "type": "osoba",
+                "description": "ojciec Cecylii Orłowskiej, urzędnik w zakładach I. K. Poznańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "matka Cecylii Orłowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1906-02-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Markowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, alternatywne nazwisko Franciszek Szczepowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Markowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, alternatywne nazwisko Franciszek Szczepowski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działaczka komunistyczna",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komunistyczna Partia Robotnicza Polski",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Młodzieży Komunistycznej",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "komunistyczny uniwersytet im. J. M. Swierdłowa",
+                "type": "instytucja",
+                "description": "Moskwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Gimnazjum im. E. Orzeszkowej",
+                "type": "instytucja",
+                "description": "Łódź"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "dateOfArrest"
+            },
+            "object": {
+                "name": "1937-00-00",
+                "type": "data",
+                "description": "Data aresztowania Cecylii Orłowskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Markowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, alternatywne nazwisko Franciszek Szczepowski"
+            },
+            "predicate": {
+                "name": "dateOfArrest"
+            },
+            "object": {
+                "name": "1937-00-00",
+                "type": "data",
+                "description": "Data aresztowania Antoniego Markowskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Cecylia Orłowska",
+                "type": "osoba",
+                "description": "działaczka komunistyczna, właściwe nazwisko Grynberg, pseudonimy Lida, Wanda, Gruba Ceśka"
+            },
+            "predicate": {
+                "name": "posthumouslyRehabilitated"
+            },
+            "object": {
+                "name": "rehabilitacja",
+                "type": "wydarzenie",
+                "description": "Pośmiertna rehabilitacja Cecylii Orłowskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Markowski",
+                "type": "osoba",
+                "description": "mąż Cecylii Orłowskiej, alternatywne nazwisko Franciszek Szczepowski"
+            },
+            "predicate": {
+                "name": "posthumouslyRehabilitated"
+            },
+            "object": {
+                "name": "rehabilitacja",
+                "type": "wydarzenie",
+                "description": "Pośmiertna rehabilitacja Antoniego Markowskiego."
+            }
+        }
+    ]
+}

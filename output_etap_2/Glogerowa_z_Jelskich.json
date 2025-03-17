@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pisarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "tłumaczka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1860-07-00",
+                "type": "data",
+                "description": "Urodzona w połowie lipca."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1899-04-11",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Tykocin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Helena z Kałęczyńskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "pensja wizytek polskich",
+                "type": "uczelnia",
+                "description": "Wersal"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dwór w Dudziczach",
+                "type": "obiekt fizjograficzny",
+                "description": "Gniazdo rodzinne Jelskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "neoromantyzm",
+                "type": "wydarzenie",
+                "description": "Przedstawicielka rozwijającego się podówczas neoromantyzmu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Adam Pług",
+                "type": "osoba",
+                "description": "Przyjaciel domu Glogerów, autor pośmiertnego wspomnienia o Aleksandrze Glogerowej z Jelskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "przekład pamiętników Michała Starzeńskiego",
+                "type": "dzieło",
+                "description": "Nie dokończony przekład pisanych po francusku pamiętników Michała Starzeńskiego, starosty brańskiego w czasach Stan. Aug. Poniatowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Zamość",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "majątek Jeżewo",
+                "type": "obiekt fizjograficzny",
+                "description": "Majątek na Podlasiu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "historyk",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "etnograf",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Pług",
+                "type": "osoba",
+                "description": "Przyjaciel domu Glogerów, autor pośmiertnego wspomnienia o Aleksandrze Glogerowej z Jelskich"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "pośmiertne wspomnienie o Aleksandrze Glogerowej z Jelskich",
+                "type": "dzieło",
+                "description": null
+            }
+        }
+    ]
+}

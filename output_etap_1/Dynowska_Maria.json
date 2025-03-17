@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1872-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1938-05-03",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Henryk Dynowski",
+                "type": "osoba",
+                "description": "Ojciec Marii Dynowskiej, profesor gimnazjum."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Franciszka z Brudnickich",
+                "type": "osoba",
+                "description": "Matka Marii Dynowskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Dynowska",
+                "type": "osoba",
+                "description": "Siostra Marii Dynowskiej, malarka."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polski Słownik Biograficzny",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Stronnictwo Narodowe",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Narodowa Organizacja Kobiet",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Podręcznik do historii literatury polskiej",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Korespondencja Józefa Ignacego Kraszewskiego i Leopolda Kronenberga",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Polska w zwyczaju i obyczaju",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Dylu dylu na badylu",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Skarbiec poezji polskiej",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karolina Stolzenwald",
+                "type": "osoba",
+                "description": "Znana działaczka i filantropka warszawska."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Antoni Bądzkiewicz",
+                "type": "osoba",
+                "description": "Polonista, który obudził w Marii Dynowskiej zamiłowanie do literatury."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Chmielowski",
+                "type": "osoba",
+                "description": "Jeden z najwybitniejszych uczonych warszawskich, wykładowca na 'uniwersytecie latającym'."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Latający",
+                "type": "instytucja",
+                "description": "Instytucja edukacyjna, gdzie wykładali najwybitniejsi uczeni warszawscy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Szkoła Techniczna kolei terespolskiej",
+                "type": "instytucja",
+                "description": "Instytucja edukacyjna, gdzie Maria Dynowska brała lekcje od profesorów."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": "Znana uczelnia w Krakowie, która wydała prace Marii Dynowskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Pamiętnik Literacki",
+                "type": "instytucja",
+                "description": "Czasopismo literackie, gdzie Maria Dynowska opublikowała swoją pierwszą rozprawę naukową."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Rok Polski",
+                "type": "instytucja",
+                "description": "Czasopismo, w którym Maria Dynowska opublikowała szkic literacki o liryce Konopnickiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarka redakcji",
+                "type": "zawód",
+                "description": "Stanowisko zajmowane przez Marię Dynowską w Roku Polskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "założenie 'sali zajęć' dla chłopców z ulicy",
+                "type": "wydarzenie",
+                "description": "Inicjatywa założona przez Marię Dynowską w czasie pierwszej rewolucji rosyjskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "nauczanie na tajnych kursach języka i literatury polskiej",
+                "type": "wydarzenie",
+                "description": "Działalność edukacyjna prowadzona przez Marię Dynowską w czasie pierwszej rewolucji rosyjskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wiceprzewodnicząca Narodowej Organizacji Kobiet",
+                "type": "zawód",
+                "description": "Stanowisko zajmowane przez Marię Dynowską w Narodowej Organizacji Kobiet."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "kandydowanie do Sejmu",
+                "type": "wydarzenie",
+                "description": "Wydarzenie związane z działalnością polityczną Marii Dynowskiej w 1930 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "Urodzona w 1872, zmarła w 1938, działaczka społeczna i literacka."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie po wygłoszeniu mowy programowej",
+                "type": "wydarzenie",
+                "description": "Wydarzenie związane z działalnością polityczną Marii Dynowskiej w 1930 roku."
+            }
+        }
+    ]
+}

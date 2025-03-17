@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "startOfMilitaryService"
+            },
+            "object": {
+                "name": "1783",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "oberfajerwerker",
+                "type": "stopień wojskowy",
+                "description": "starszy ogniomistrz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "podporucznik rzeczywisty",
+                "type": "stopień wojskowy",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "porucznik artylerii",
+                "type": "stopień wojskowy",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "expelledFrom"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "kapitan III klasy",
+                "type": "stopień wojskowy",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "relatedOrganization"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "relatedOrganization"
+            },
+            "object": {
+                "name": "Korpus weteranów i inwalidów",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "relatedOrganization"
+            },
+            "object": {
+                "name": "6 pułk jazdy galicyjsko-francuskiej",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "relatedOrganization"
+            },
+            "object": {
+                "name": "15 pułk ułanów",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "mistakenIdentityWith"
+            },
+            "object": {
+                "name": "Wojciech Bartosz Głowacki",
+                "type": "osoba",
+                "description": "bohater spod Racławic"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "placeOfResidence"
+            },
+            "object": {
+                "name": "Wołoszczyzna",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "destination"
+            },
+            "object": {
+                "name": "Włochy",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "capturedBy"
+            },
+            "object": {
+                "name": "korsarze algierscy",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "liberatedBy"
+            },
+            "object": {
+                "name": "interwencja francuska",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "arrivalDate"
+            },
+            "object": {
+                "name": "1797-12-01",
+                "type": "data",
+                "description": "Data lądowania w porcie Liworno."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "joinedOrganization"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": "Data dołączenia do Legionów Dąbrowskiego: 1797-12-05"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "assignedTo"
+            },
+            "object": {
+                "name": "artyleria legionowa",
+                "type": "organizacja",
+                "description": "Data przydzielenia: 1798-02-06"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "stationedAt"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "distinguishedIn"
+            },
+            "object": {
+                "name": "obrona twierdzy Mantui",
+                "type": "wydarzenie",
+                "description": "Kampania 1799 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "imprisonedAt"
+            },
+            "object": {
+                "name": "Leoben i Graz",
+                "type": "miejscowość",
+                "description": "Miejsca niewoli austriackiej po kapitulacji twierdzy Mantui"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "promotedTo"
+            },
+            "object": {
+                "name": "porucznik artylerii",
+                "type": "stopień wojskowy",
+                "description": "Awans po powrocie z niewoli"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "causeOfExpulsion"
+            },
+            "object": {
+                "name": "zerwanie szlif kapitanowi Szubertowi",
+                "type": "wydarzenie",
+                "description": "Przyczyna wydalenia z Legionów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P."
+            },
+            "predicate": {
+                "name": "transferredTo"
+            },
+            "object": {
+                "name": "Korpus weteranów i inwalidów",
+                "type": "organizacja",
+                "description": "Data przeniesienia: 1811-12-09"
+            }
+        }
+    ]
+}

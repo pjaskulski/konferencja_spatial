@@ -1,0 +1,379 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1872-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1938-05-03",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Henryk Dynowski",
+                "type": "osoba",
+                "description": "profesor gimnazjum w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Franciszka Dynowska",
+                "type": "osoba",
+                "description": "z domu Brudnicka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Dynowska",
+                "type": "osoba",
+                "description": "malarka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polski Słownik Biograficzny",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Stronnictwo Narodowe",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wiceprzewodnicząca Narodowej Organizacji Kobiet",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarka redakcji 'Roku Polskiego'",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Hieronim Morsztyn i jego spuścizna literacka",
+                "type": "dzieło",
+                "description": "opublikowane w 1910 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Jan Franciszek Loredano i polski tłumacz anonim »Dianei«",
+                "type": "dzieło",
+                "description": "opublikowane w 1913 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Filip Nereusz Golański",
+                "type": "dzieło",
+                "description": "opublikowane w 1916 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Podręcznik do historii literatury polskiej",
+                "type": "dzieło",
+                "description": "opublikowane w 1921 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Korespondencja Józefa Ignacego Kraszewskiego i Leopolda Kronenberga",
+                "type": "dzieło",
+                "description": "opublikowane w 1929 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Polska w zwyczaju i obyczaju",
+                "type": "dzieło",
+                "description": "książka dla dzieci i młodzieży"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Dylu dylu na badylu",
+                "type": "dzieło",
+                "description": "zbiór wierszyków oparty o motywy ludowe"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Skarbiec poezji polskiej",
+                "type": "dzieło",
+                "description": "antologia obrazków dramatycznych dla scen oświatowych, wydana w 1937 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "uniwersytet latający"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karolina Stolzenwald",
+                "type": "osoba",
+                "description": "działaczka i filantropka warszawska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie Marii Dynowskiej",
+                "type": "wydarzenie",
+                "description": "aresztowanie po wygłoszeniu mowy programowej w 1930 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Dynowski",
+                "type": "osoba",
+                "description": "profesor gimnazjum w Warszawie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "profesor gimnazjum w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Dynowska",
+                "type": "osoba",
+                "description": "z domu Brudnicka"
+            },
+            "predicate": {
+                "name": "hasMaidenName"
+            },
+            "object": {
+                "name": "Brudnicka",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Stolzenwald",
+                "type": "osoba",
+                "description": "działaczka i filantropka warszawska"
+            },
+            "predicate": {
+                "name": "placeOfActivity"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        }
+    ]
+}

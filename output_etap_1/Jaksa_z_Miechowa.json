@@ -1,0 +1,169 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "możnowładca",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Miechów, Zagorzyce, Komorów",
+                "type": "majątek",
+                "description": "włości Jakszy z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "klasztor założony przez Jaksę z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor premonstrantek w Krzyżanowicach",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor premonstrantek na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "klasztor obdarowany przez Jaksę z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1176-02-24",
+                "type": "data",
+                "description": "data śmierci Jakszy z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "książę",
+                "type": "tytuł",
+                "description": "tytuł szlachecki Jakszy z Miechowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyprawa do Palestyny",
+                "type": "wydarzenie",
+                "description": "wyprawa Jakszy z Miechowa do Palestyny w 1162 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "założenie klasztoru bożogrobców w Miechowie",
+                "type": "wydarzenie",
+                "description": "założenie klasztoru bożogrobców w Miechowie przez Jaksę z Miechowa około 1163 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski, fundator klasztoru bożogrobców z Miechowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "plan obalenia rządów Bolesława Kędzierzawego",
+                "type": "wydarzenie",
+                "description": "plan Jakszy z Miechowa dotyczący obalenia rządów Bolesława Kędzierzawego około 1170 roku"
+            }
+        }
+    ]
+}

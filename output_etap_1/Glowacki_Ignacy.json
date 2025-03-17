@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "legionista",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kapitan Wojska Polskiego",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wstąpienie do wojska",
+                "type": "wydarzenie",
+                "description": "Wstąpienie do wojska w 1783 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "oberfajerwerker",
+                "type": "osiągnięcie",
+                "description": "Stopień uzyskany podczas powstania kościuszkowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wołoszczyzna",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Włochy",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pojmanie przez korsarzy algierskich",
+                "type": "wydarzenie",
+                "description": "Pojmanie przez korsarzy algierskich i wyzwolenie dzięki interwencji francuskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Liworno",
+                "type": "miejscowość",
+                "description": "Port, w którym wylądował Ignacy Głowacki 1 grudnia 1797 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Rimini",
+                "type": "miejscowość",
+                "description": "Miejsce przydziału do artylerii legionowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": "Miejsce stacjonowania kompanii Ignacego Głowackiego latem 1798 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "obrona twierdzy Mantui",
+                "type": "osiągnięcie",
+                "description": "Odznaczenie się przy obronie twierdzy Mantui w kampanii 1799 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Leoben",
+                "type": "miejscowość",
+                "description": "Miejsce niewoli austriackiej Ignacego Głowackiego po kapitulacji twierdzy Mantui"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Graz",
+                "type": "miejscowość",
+                "description": "Miejsce niewoli austriackiej Ignacego Głowackiego po kapitulacji twierdzy Mantui"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wydalenie z Legionów",
+                "type": "wydarzenie",
+                "description": "Wydalenie z Legionów 23 maja 1801 roku za zerwanie szlif kapitanowi Szubertowi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "kapitan 6 pułku jazdy galicyjsko-francuskiej",
+                "type": "wydarzenie",
+                "description": "Pojawienie się jako kapitan 6 pułku jazdy galicyjsko-francuskiej 5 czerwca 1809 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przeniesienie do Korpusu weteranów i inwalidów",
+                "type": "wydarzenie",
+                "description": "Przeniesienie do Korpusu weteranów i inwalidów jako kapitan III klasy 9 grudnia 1811 roku ze względu na zły stan zdrowia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wojciech Bartosz Głowacki",
+                "type": "osoba",
+                "description": "bohater spod Racławic"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "bohater spod Racławic",
+                "type": "osiągnięcie",
+                "description": "Bohater spod Racławic"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1770-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1815-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Konstantynopol",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "próba przedostania się do Włoch",
+                "type": "wydarzenie",
+                "description": "Próba przedostania się statkiem do Włoch, gdzie formowały się Legiony Dąbrowskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "interwencja francuska",
+                "type": "wydarzenie",
+                "description": "Wyzwolenie Ignacego Głowackiego dzięki interwencji francuskiej po pojmaniu przez korsarzy algierskich."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "awans na porucznika artylerii",
+                "type": "wydarzenie",
+                "description": "Awans Ignacego Głowackiego na porucznika artylerii po powrocie z niewoli austriackiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Podole",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wejście do VI batalionu piechoty legionowej",
+                "type": "wydarzenie",
+                "description": "Wejście Ignacego Głowackiego do VI batalionu piechoty legionowej po rozwiązaniu artylerii."
+            }
+        },
+        {
+            "subject": {
+                "name": "Wojciech Bartosz Głowacki",
+                "type": "osoba",
+                "description": "bohater spod Racławic"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan Wojska Polskiego"
+            }
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Werki koło Wilna",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "obóz koncentracyjny w Dachau",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1940-11-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1887-04-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Rudziński",
+                "type": "osoba",
+                "description": "ojciec Mieczysława Rudzińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Maria z Downarowiczów",
+                "type": "osoba",
+                "description": "matka Mieczysława Rudzińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "uniwersytet w Moskwie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Polskiej Młodzieży Socjalistycznej",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kancelaria Aleksandra Lednickiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zrzeszenie Prawników Socjalistów w Warszawie",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Liga Praw Człowieka i Obywatela",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "adwokat",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "obrońca w sprawach politycznych",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Zjazd Polskiej Młodzieży Akademickiej w Moskwie",
+                "type": "wydarzenie",
+                "description": "współorganizator w 1915 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie",
+                "type": "wydarzenie",
+                "description": "po listopadzie 1917 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek Okręgowej Rady Adwokackiej oraz rzecznik dyscyplinarny",
+                "type": "stanowisko",
+                "description": "w samorządzie adwokackim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie przez gestapo i transport do obozów koncentracyjnych",
+                "type": "wydarzenie",
+                "description": "aresztowany w marcu 1940, przewieziony do Sachsenhausen i Dachau"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek Rady Konsultacyjnej",
+                "type": "stanowisko",
+                "description": "powołanej przez niemieckiego komisarza dla reorganizacji adwokatury"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mieczysław Rudziński",
+                "type": "osoba",
+                "description": "adwokat, obrońca w sprawach politycznych"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "opinia sprzeciwiająca się wydaleniu Żydów z adwokatury",
+                "type": "wydarzenie",
+                "description": "współautor opinii w lutym 1940 roku"
+            }
+        }
+    ]
+}

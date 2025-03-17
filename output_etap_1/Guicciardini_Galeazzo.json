@@ -1,0 +1,319 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "budowniczy",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1557-07-31",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "brat Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Brat, który miał dokończyć pracę Guicciardini Galeazzo po jego śmierci, ale nie dotrzymał umowy i uciekł."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa zamku w Melsztynie",
+                "type": "wydarzenie",
+                "description": "Projekt budowlany, w którym uczestniczył Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa domu Montelupich w Krakowie",
+                "type": "wydarzenie",
+                "description": "Projekt budowlany, w którym uczestniczył Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa domu Gutteterów w Krakowie",
+                "type": "wydarzenie",
+                "description": "Projekt budowlany, w którym uczestniczył Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa zamku wawelskiego",
+                "type": "wydarzenie",
+                "description": "Projekt budowlany, w którym uczestniczył Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "naprawa dzwonnicy zygmuntowskiej",
+                "type": "wydarzenie",
+                "description": "Projekt budowlany, w którym uczestniczył Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "cegielnia koło Krakowa",
+                "type": "przedmiot",
+                "description": "Cegielnia będąca częścią majątku Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "stajnia z 13 końmi",
+                "type": "przedmiot",
+                "description": "Stajnia będąca częścią majątku Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "kamienica książęca w Rynku",
+                "type": "miejscowość",
+                "description": "Kamienica książąt Wiśniowieckich, gdzie mieszkał Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "przedsiębiorca budowlany",
+                "type": "zawód",
+                "description": "Osoba prowadząca działalność budowlaną na szeroką skalę."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Florencja",
+                "type": "miejscowość",
+                "description": "Miasto we Włoszech, z którego pochodził Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Pilecki z Pilicy",
+                "type": "osoba",
+                "description": "Podkomorzy lubelski, który miał długi wobec Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Barbara Kmitowa",
+                "type": "osoba",
+                "description": "Wdowa po Piotrze, wojewodzie krakowskim, która miała długi wobec Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Spytek Jordan z Melsztyna",
+                "type": "osoba",
+                "description": "Osoba, która miała pretensje do majątku Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Sebastian Montelupi",
+                "type": "osoba",
+                "description": "Osoba, dla której Guicciardini Galeazzo prowadził prace budowlane."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Aleksander Gucci",
+                "type": "osoba",
+                "description": "Osoba, która dokończyła budowę po Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tomasz Ferrovore",
+                "type": "osoba",
+                "description": "Osoba, która dokończyła budowę domu Gutteterów."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy, pochodzący ze znanej patrycjuszowskiej rodziny florenckiej."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "S. Serlio",
+                "type": "osoba",
+                "description": "Architekt, którego wzory mogły wpłynąć na Guicciardini Galeazzo."
+            }
+        }
+    ]
+}

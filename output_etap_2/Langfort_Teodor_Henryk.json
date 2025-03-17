@@ -1,0 +1,154 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kartograf",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "oficer regimentu",
+                "type": "zawód",
+                "description": "w batalionie Skarbu Kor."
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "kapitan",
+                "type": "stopień wojskowy",
+                "description": "otrzymał patent na szarżę kapitana z kompanią w 1791 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "major",
+                "type": "stopień wojskowy",
+                "description": "mianowany majorem w regimencie pieszym 16 w 1794 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "mapa rzeki Warty",
+                "type": "dzieło",
+                "description": "dotycząca odcinka od Sieradza do wsi Siemiątki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komisja Skarbowa",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kwatermistrz",
+                "type": "urząd",
+                "description": "regimentu w batalionie Skarbu Kor."
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "mapa rzeki Narew i Biebrza",
+                "type": "przedmiot",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "dateOfNobilitation"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Nobilitacja Langforta Teodora Henryka."
+            }
+        }
+    ]
+}

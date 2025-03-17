@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "filantropka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1900-04-20",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Bogumił Linde",
+                "type": "osoba",
+                "description": "językoznawca"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Górecki",
+                "type": "osoba",
+                "description": "budowniczy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "pensja żeńska Z. Wilczyńskiej",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Akademia Umiejętności w Krakowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Zachęty Sztuk Pięknych",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "gmina augsburska",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "matka Ludwiki Góreckiej",
+                "type": "osoba",
+                "description": "matka Ludwiki Góreckiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Julian Ursyn Niemcewicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Narcyza Żmichowska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Maria Ilnicka",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Seweryna Duchińska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "nagroda im. B. Lindego",
+                "type": "przedmiot",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "realność przy ul. Królewskiej 17",
+                "type": "nieruchomość",
+                "description": "dom, w którym mieszkał B. Linde"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda poznański",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Dobrogosta z Dzwonowa w latach 1308-1318."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1321-04-16",
+                "type": "data",
+                "description": "Data śmierci Dobrogosta z Dzwonowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "nieznany z imienia syn Dobrogosta z Dzwonowa",
+                "type": "osoba",
+                "description": "Syn Dobrogosta z Dzwonowa, który razem z nim ściągnął klątwę."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "Syn Dobrogosta z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "wdowa po Dobrogostu z Dzwonowa",
+                "type": "osoba",
+                "description": "Żona Dobrogosta z Dzwonowa, zaspokoiła pretensje kościoła poznańskiego po jego śmierci."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół poznański",
+                "type": "instytucja",
+                "description": "Instytucja, której Dobrogost z Dzwonowa wyrządził szkody, ściągając klątwę na siebie i syna."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "ziemia nie poświęcona",
+                "type": "miejsce",
+                "description": "Miejsce pochówku Dobrogosta z Dzwonowa i jego syna z powodu klątwy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "memberOf"
+            },
+            "object": {
+                "name": "ród Nałęczów",
+                "type": "organizacja",
+                "description": "Potężny ród w Wielkopolsce, do którego należał Dobrogost z Dzwonowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Łokietek",
+                "type": "osoba",
+                "description": "Król Polski, którego interesy wspierał Dobrogost z Dzwonowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "nieznana, prawdopodobnie związana z klątwą",
+                "type": "przyczyna",
+                "description": "Przyczyna śmierci Dobrogosta z Dzwonowa, sugerowana jako niezwykła i prawdopodobnie związana z klątwą."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Janusz z Bibersteinu",
+                "type": "osoba",
+                "description": "Dowódca wojsk głogowskich, pokonany przez Dobrogosta z Dzwonowa pod Kłeckiem."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318"
+            },
+            "predicate": {
+                "name": "relatedEvent"
+            },
+            "object": {
+                "name": "przewrót polityczny w Wielkopolsce",
+                "type": "wydarzenie",
+                "description": "Przewrót polityczny związany z walkami z Głogowczykami, w którym uczestniczył Dobrogost z Dzwonowa."
+            }
+        }
+    ]
+}

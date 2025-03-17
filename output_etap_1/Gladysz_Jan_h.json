@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podrzędczy sądecki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "rycerz z drobnej szlachty sądeckiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "wieś Łosie i latyfundium",
+                "type": "majątek",
+                "description": "nadane przez Kazimierza Wielkiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Ropa, Zdynia, Hańczowa, Wysowe",
+                "type": "miejscowości",
+                "description": "wsie założone przez Gładysza Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "kościół w Szymbarku",
+                "type": "obiekt",
+                "description": "fundowany przez Gładysza Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "syn Gładysza Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Gładysza Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta spiski",
+                "type": "urząd",
+                "description": "pierwszy starosta spiski w Lubowli w 1413 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "dokument lokacji Gorlic",
+                "type": "wydarzenie",
+                "description": "Paweł świadkował na dokumencie w 1466 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "mieszczanie krakowscy i sądeccy",
+                "type": "osoby",
+                "description": "spokrewnieni z rodem rycerskim Gładysza Jana"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "ród rycerski Gładysza Jana",
+                "type": "ród",
+                "description": "ród rycerski Gładysza Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": "król, który nadał ziemie Gładyszowi Janowi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "nadanie ziemi",
+                "type": "wydarzenie",
+                "description": "nadanie wsi Łosie i latyfundium przez Kazimierza Wielkiego 27 października 1359 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "rozwój osadnictwa",
+                "type": "wydarzenie",
+                "description": "rozwój osadnictwa polskiego i wołoskiego na polskim pograniczu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dwór warowny w Szymbarku",
+                "type": "obiekt fizjograficzny",
+                "description": "siedziba rodu Gładyszów, istniejąca do dziś"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, przejął bachmistrzostwo bocheńskie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pierwszy starosta spiski",
+                "type": "wydarzenie",
+                "description": "Paweł był pierwszym starostą spiskim w Lubowli w 1413 roku"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kruszwicki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta kujawski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1346-10-31",
+                "type": "data",
+                "description": "Data śmierci Mikołaja z Woli według nekrologu strzeleńskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Maciej z Gołańczy",
+                "type": "osoba",
+                "description": "biskup, który wykupił Mikołaja z Woli z niewoli"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "obrona zamku biskupów kujawskich w Raciążku",
+                "type": "wydarzenie",
+                "description": "wydarzenie z 1330 roku, w którym brał udział Mikołaj z Woli"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy brzeski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "asesor sądu ziemskiego w Inowrocławiu",
+                "type": "stanowisko",
+                "description": "stanowisko pełnione przez Mikołaja z Woli w 1341 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Inowrocław",
+                "type": "miejscowość",
+                "description": "miejsce, gdzie Mikołaj z Woli pełnił funkcję asesora sądu ziemskiego w 1341 roku"
+            }
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "książę cieszyński",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "książę górnogłogowski",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Katarzyna Sydonja",
+                "type": "osoba",
+                "description": "matka Adama Wacława, księżniczka saska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1574-12-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1617-07-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Cieszyn",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kościół dominikanów cieszyńskich",
+                "type": "obiekt sakralny",
+                "description": "miejsce pochówku Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "żona Adama Wacława, córka księcia kurlandzkiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Fryderyk Wilhelm",
+                "type": "osoba",
+                "description": "syn Adama Wacława, ostatni cieszyński Piast męski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Elżbieta Lukrecja",
+                "type": "osoba",
+                "description": "córka Adama Wacława, ostatnia Piastówna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Cieszyn",
+                "type": "miejscowość",
+                "description": "miejsce związane z Adamem Wacławem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "religiousAffiliation"
+            },
+            "object": {
+                "name": "katolicyzm",
+                "type": "religia",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "wojsko cesarskie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dowódca oddziału jazdy",
+                "type": "stanowisko",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "radca cesarski, najwyższy dowódca wojskowy, zarządca Śląska",
+                "type": "stanowisko",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pielgrzymka ekspiacyjna do Kalwarii Zebrzydowskiej",
+                "type": "wydarzenie",
+                "description": "zorganizowana przez Adama Wacława w 1614 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasStepfather"
+            },
+            "object": {
+                "name": "Emeryk Forgach",
+                "type": "osoba",
+                "description": "ojczym Adama Wacława, żupan trenczyński"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "dwór elektora saskiego",
+                "type": "miejscowość",
+                "description": "miejsce wychowania Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Fryderyk Kazimierz",
+                "type": "osoba",
+                "description": "brat przyrodni Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "ruina finansowa Cieszyna",
+                "type": "wydarzenie",
+                "description": "skutek długów zaciągniętych przez Adama Wacława"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zmiana wyznania na katolicyzm",
+                "type": "wydarzenie",
+                "description": "wydarzenie z 1610 roku, które wpłynęło na relacje z Habsburgami"
+            }
+        },
+        {
+            "subject": {
+                "name": "Katarzyna Sydonja",
+                "type": "osoba",
+                "description": "matka Adama Wacława, księżniczka saska"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "księżniczka saska",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "żona Adama Wacława, córka księcia kurlandzkiego"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "książę kurlandzki",
+                "type": "osoba",
+                "description": "ojciec Elżbiety Kettler"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fryderyk Wilhelm",
+                "type": "osoba",
+                "description": "syn Adama Wacława, ostatni cieszyński Piast męski"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "Piast",
+                "type": "tytuł szlachecki",
+                "description": "ostatni cieszyński Piast męski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Lukrecja",
+                "type": "osoba",
+                "description": "córka Adama Wacława, ostatnia Piastówna"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "Piastówna",
+                "type": "tytuł szlachecki",
+                "description": "ostatnia z rodu Piastów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Emeryk Forgach",
+                "type": "osoba",
+                "description": "ojczym Adama Wacława, żupan trenczyński"
+            },
+            "predicate": {
+                "name": "hasStepson"
+            },
+            "object": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Emeryk Forgach",
+                "type": "osoba",
+                "description": "ojczym Adama Wacława, żupan trenczyński"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "żupan trenczyński",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

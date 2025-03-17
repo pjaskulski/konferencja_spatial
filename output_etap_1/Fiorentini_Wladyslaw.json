@@ -1,0 +1,424 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1820-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1914-01-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "wileński cmentarz bernardyński",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Antoni Fiorentini",
+                "type": "osoba",
+                "description": "kupiec"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Anna Fiorentini",
+                "type": "osoba",
+                "description": "córka Bazylego Popowa i Bogumiły z Gizbertów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bolesław Rusiecki",
+                "type": "osoba",
+                "description": "malarz, syn Kanuta"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław Syrokomla",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Aleksander Strauss",
+                "type": "osoba",
+                "description": "znany artysta fotograf wileński"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zbiór obrazów",
+                "type": "przedmiot",
+                "description": "cenny zbiór obrazów mistrzów obcych i artystów polskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Jęczmieniszki",
+                "type": "miejscowość",
+                "description": "majątek Władysława Fiorentiniego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rajca miejski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Fiorentini",
+                "type": "osoba",
+                "description": "córka Bazylego Popowa i Bogumiły z Gizbertów"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Bazyli Popow",
+                "type": "osoba",
+                "description": "marszałek powiatu dyneburskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Fiorentini",
+                "type": "osoba",
+                "description": "córka Bazylego Popowa i Bogumiły z Gizbertów"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Bogumiła z Gizbertów",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Fiorentini",
+                "type": "osoba",
+                "description": "kupiec"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1798-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Fiorentini",
+                "type": "osoba",
+                "description": "kupiec"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1855-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Rusiecki",
+                "type": "osoba",
+                "description": "malarz, syn Kanuta"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Kanut Rusiecki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Borgo",
+                "type": "miejscowość",
+                "description": "gniazdo rodu Fiorentinich w Rzeczypospolitej Weneckiej"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miejscowość",
+                "type": "typ",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miejscowość",
+                "type": "typ",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jęczmieniszki",
+                "type": "miejscowość",
+                "description": "majątek Władysława Fiorentiniego"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miejscowość",
+                "type": "typ",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "wileński cmentarz bernardyński",
+                "type": "miejscowość",
+                "description": null
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miejscowość",
+                "type": "typ",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fabian Fiorentini",
+                "type": "osoba",
+                "description": "sekretarz królewski, dzierżawca ekonomii w woj. grodzieńskim"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarz królewski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fabian Fiorentini",
+                "type": "osoba",
+                "description": "sekretarz królewski, dzierżawca ekonomii w woj. grodzieńskim"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Oława i Szwabiszki",
+                "type": "miejscowość",
+                "description": "majątki Fabiana Fiorentiniego w Trockiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Fiorentini",
+                "type": "osoba",
+                "description": "założyciel stypendium handlowego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasGrandson"
+            },
+            "object": {
+                "name": "Władysław Fiorentini",
+                "type": "osoba",
+                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Fiorentini",
+                "type": "osoba",
+                "description": "założyciel stypendium handlowego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "stypendium handlowe w Wilnie",
+                "type": "przedmiot",
+                "description": "założone przez Franciszka Fiorentiniego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bazyli Popow",
+                "type": "osoba",
+                "description": "marszałek powiatu dyneburskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "marszałek powiatu dyneburskiego",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bazyli Popow",
+                "type": "osoba",
+                "description": "marszałek powiatu dyneburskiego"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Anna Fiorentini",
+                "type": "osoba",
+                "description": "córka Bazylego Popowa i Bogumiły z Gizbertów"
+            }
+        }
+    ]
+}

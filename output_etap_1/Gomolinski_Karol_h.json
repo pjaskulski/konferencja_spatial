@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy łęczycki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1696",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1784-11-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Łęczyca",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Karola Gomolińskiego u bernardynów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Gomoliński",
+                "type": "osoba",
+                "description": "ojciec Karola Gomolińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Bielicka",
+                "type": "osoba",
+                "description": "matka Karola Gomolińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Helena Gomolińska",
+                "type": "osoba",
+                "description": "z domu Pokrzywnickich, żona Karola Gomolińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Ignacy Gomoliński",
+                "type": "osoba",
+                "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej, instygator koronny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Marianna Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona Opackiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia grodzki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "miecznik łęczycki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podczaszy",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "syndyk bernardynów w Łęczycy",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "deputat w trybunale koronnym",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Order Św. Stanisława",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Krośniewica",
+                "type": "miejscowość",
+                "description": "dziedziczny majątek Karola Gomolińskiego w woj. łęczyckim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "trybunał koronny",
+                "type": "instytucja",
+                "description": "instytucja, w której Karol Gomoliński pełnił funkcję deputata"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "sejm 1735 roku",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Karol Gomoliński zabiegał o uspokojenie Rzeczypospolitej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "sejm 1746 roku",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Karol Gomoliński forsował sprawę komisji do aukcji wojska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "elekcja Stanisława Augusta",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Karol Gomoliński podpisał elekcję"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "sejm konwokacyjny 1764 roku",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Karol Gomoliński przemawiał w sprawach podatkowych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "konfederacja barska",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Karol Gomoliński popierał umiarkowanego marszałka Szczawińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Łęczyca",
+                "type": "miejscowość",
+                "description": "miejsce związane z działalnością Karola Gomolińskiego jako syndyka bernardynów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Krośniewica",
+                "type": "miejscowość",
+                "description": "miejsce związane z działalnością Karola Gomolińskiego jako właściciela dziedzicznego majątku"
+            }
+        }
+    ]
+}

@@ -1,0 +1,409 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Maryla Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Włodzimierz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Tadeusz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1913-12-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Tomasz Szczygielski",
+                "type": "osoba",
+                "description": "syn Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Rouen",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "debiut w TZSP w Warszawie",
+                "type": "wydarzenie",
+                "description": "debiut artystyczny Józefy Kazimiery Szczygielskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "medale artystyczne",
+                "type": "osiągnięcie",
+                "description": "srebrny medal za postępy w dziedzinie historii sztuki, dwa brązowe medale oraz zaszczytna wzmianka za rysunki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1866-12-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1843-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1846-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1913-12-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Zakopane",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1908 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Budapeszt",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1910 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": "miejsce wystawy Józefy Kazimiery Szczygielskiej w grudniu 1901 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wystawa w TPSP w Krakowie",
+                "type": "wydarzenie",
+                "description": "wystawa Józefy Kazimiery Szczygielskiej w 1897 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wielki srebrny medal",
+                "type": "osiągnięcie",
+                "description": "za kompozycje dekoracyjne pokazane we Lwowie w 1895 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Rada Szkolna Okręgowa we Lwowie",
+                "type": "instytucja",
+                "description": "instytucja, z którą współpracowała Józefa Kazimiera Szczygielska w czasie pobytu w Zakopanem"
+            }
+        }
+    ]
+}

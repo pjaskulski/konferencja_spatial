@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Janusz Jamontt",
+                "type": "osoba",
+                "description": "sędzia Sądu Najwyższego, profesor prawa karnego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Róża de Latour",
+                "type": "osoba",
+                "description": "matka Heleny Jamonttówny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Starówka",
+                "type": "miejscowość",
+                "description": "część Warszawy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1944-08-21",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Armia Krajowa",
+                "type": "organizacja",
+                "description": "organizacja wojskowa podczas II wojny światowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Konfederacja Narodu",
+                "type": "organizacja",
+                "description": "organizacja polityczna podczas II wojny światowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Gimnazjum Humanistyczne C. Plater",
+                "type": "instytucja",
+                "description": "szkoła średnia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "uczelnia wyższa w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "łączniczka",
+                "type": "zawód",
+                "description": "rola pełniona w Armii Krajowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Falanga",
+                "type": "organizacja",
+                "description": "organizacja młodzieży nacjonalistycznej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Międzyorganizacyjne Porozumienie Pomocy Więźniom",
+                "type": "organizacja",
+                "description": "organizacja zajmująca się pomocą więźniom"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Delegatura Rządu",
+                "type": "instytucja",
+                "description": "instytucja związana z polskim rządem na uchodźstwie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Patronat Opieki nad Więźniami",
+                "type": "instytucja",
+                "description": "instytucja zajmująca się opieką nad więźniami"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zgrupowanie płka 'Radosława'",
+                "type": "organizacja",
+                "description": "jednostka Armii Krajowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Wydział Humanistyczny Uniwersytetu Warszawskiego",
+                "type": "instytucja",
+                "description": "wydział Uniwersytetu Warszawskiego, gdzie studiowała filozofię i psychologię"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Macierz Szkolna",
+                "type": "organizacja",
+                "description": "organizacja edukacyjna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Pomoc Bliźniemu",
+                "type": "organizacja",
+                "description": "katolicka organizacja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena Jamonttówna",
+                "type": "osoba",
+                "description": "pseud. Hela Warzycka, ur. 1914, zm. 1944"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Wydział Prawa Uniwersytetu Warszawskiego",
+                "type": "instytucja",
+                "description": "wydział Uniwersytetu Warszawskiego, gdzie studiowała prawo"
+            }
+        }
+    ]
+}

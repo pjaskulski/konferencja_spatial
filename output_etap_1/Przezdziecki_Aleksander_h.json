@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "stolnik upicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna Eleonora ze Skopów",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Felicjanna z Chreptowiczów",
+                "type": "osoba",
+                "description": "podkomorzanka nowogrodzka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Konstancja Aleksandra z Kamińskich",
+                "type": "osoba",
+                "description": "córka Krzysztofa, sędziego orszańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Antoni Przezdziecki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1734-10-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Sporządzenie testamentu w Wilnie",
+                "type": "wydarzenie",
+                "description": "Sporządzenie testamentu w Wilnie 29 września 1732 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Elekcja Stanisława Leszczyńskiego",
+                "type": "wydarzenie",
+                "description": "Elekcja Stanisława Leszczyńskiego 11 września 1733 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan inflancki",
+                "type": "urząd",
+                "description": "Mianowany 24 listopada 1726 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży mozyrski",
+                "type": "urząd",
+                "description": "Pełnił urząd co najmniej od 1694 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "deputat na Trybunał Wielkiego Księstwa Litewskiego",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarz poselstwa do Rosji",
+                "type": "urząd",
+                "description": "Wyznaczony przez radę senatu w 1703 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "starostwo hrabowskie",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Biesiady w województwie mińskim",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "znaczne dobra zasławskie i Włodawa",
+                "type": "majątek",
+                "description": "Posiadane w zastawie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Elekcja Augusta II",
+                "type": "wydarzenie",
+                "description": "Elekcja Augusta II w 1697 roku, w której Aleksander Przezdziecki prawdopodobnie uczestniczył."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Walki wewnętrzne na Litwie",
+                "type": "wydarzenie",
+                "description": "Walki wewnętrzne na Litwie w 1700 roku, w których Aleksander Przezdziecki brał udział."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Rokowania z Piotrem I",
+                "type": "wydarzenie",
+                "description": "Rokowania z Piotrem I o zawarcie traktatu narewskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Wysłanie do Saksonii",
+                "type": "wydarzenie",
+                "description": "Wysłanie do Saksonii z oświadczeniem od wojska litewskiego o przejściu na stronę Stanisława Leszczyńskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Michał Wiśniowiecki",
+                "type": "osoba",
+                "description": "późniejszy kanclerz wielki litewski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1724-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1727-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        }
+    ]
+}

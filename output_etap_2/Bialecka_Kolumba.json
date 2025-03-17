@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zgromadzenie ss. dominikanek III Zakonu regularnego w Polsce",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1838-08-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1887-03-18",
+                "type": "data",
+                "description": "umarła w opinji świętości"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Jaśniszcze",
+                "type": "miejscowość",
+                "description": "koło Podkamienia w powiecie brodzkim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Franciszek",
+                "type": "osoba",
+                "description": "dziedzic wioski Jaśniszcze"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna Ernestyna z Radziejowskich",
+                "type": "osoba",
+                "description": "matka Białeckiej Kolumby"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "klasztor Sacré Coeur",
+                "type": "uczelnia",
+                "description": "we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie habitu dominikanek życia czynnego",
+                "type": "wydarzenie",
+                "description": "Nancy w Lotaryngii, 1858"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "założenie pierwszego macierzystego domu zakonu",
+                "type": "wydarzenie",
+                "description": "Wielowieś, 1861"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Bielinach",
+                "type": "wydarzenie",
+                "description": "1870"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Tyczynie",
+                "type": "wydarzenie",
+                "description": "1878"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Rawie Ruskiej",
+                "type": "wydarzenie",
+                "description": "1885"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wincenty Jandel",
+                "type": "osoba",
+                "description": "generał zakonu oo. dominikanów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "złożenie ślubów zakonnych",
+                "type": "wydarzenie",
+                "description": "1859"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyjazd do Francji w celu ratowania zdrowia",
+                "type": "wydarzenie",
+                "description": "1869"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zamiar podjęcia starań o beatyfikację",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek",
+                "type": "osoba",
+                "description": "dziedzic wioski Jaśniszcze"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Jaśniszcze",
+                "type": "miejscowość",
+                "description": "wioska, której dziedzicem był Franciszek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wincenty Jandel",
+                "type": "osoba",
+                "description": "generał zakonu oo. dominikanów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "generał zakonu oo. dominikanów",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "ubożejący szlachcic, dziedzic części Mękarzowa, Wilkowa i Raszkowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Maria Anna Lubieniecka",
+                "type": "osoba",
+                "description": "pochodząca z rodu Lubienieckich h. Rola"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Zofia Gucci",
+                "type": "osoba",
+                "description": "gorliwa socynianka, pochodząca z osiadłej w Polsce rodziny włoskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1627-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1691-08-06",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Koloszwar",
+                "type": "miejscowość",
+                "description": "miejsce działalności Andrzeja Łachowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "minister ariański",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kolegium Unitariańskie w Koloszwarze",
+                "type": "instytucja",
+                "description": "miejsce pracy Andrzeja Łachowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "bracia polscy",
+                "type": "instytucja",
+                "description": "grupa religijna, z którą był związany Andrzej Łachowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hieronim Moskorzowski",
+                "type": "osoba",
+                "description": "teolog socyniański, spokrewniony z rodziną Łachowskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Mękarzów",
+                "type": "miejscowość",
+                "description": "miejsce narodzin Andrzeja Łachowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "główny kościół unitariański w Koloszwarze",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Andrzeja Łachowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "preceptor dzieci Jerzego Niemirycza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jerzy Niemirycz",
+                "type": "osoba",
+                "description": "osoba, której dzieci były nauczane przez Andrzeja Łachowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Marcin Ruar",
+                "type": "osoba",
+                "description": "osoba, której Andrzej Łachowski był pomocnikiem w Gdańsku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Seweryn Morsztyn",
+                "type": "osoba",
+                "description": "osoba, przy której boku Andrzej Łachowski opiekował się współwyznawcami"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Teofil Morsztyn",
+                "type": "osoba",
+                "description": "osoba, przy której boku Andrzej Łachowski opiekował się współwyznawcami"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Taszycki",
+                "type": "osoba",
+                "description": "osoba, która współpracowała z Andrzejem Łachowskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "A. Węgierski",
+                "type": "osoba",
+                "description": "osoba, do której książki Andrzej Łachowski spisywał protokół"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze (Cluj)"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Christianismi restitutio",
+                "type": "dzieło",
+                "description": "dzieło skopiowane przez Andrzeja Łachowskiego"
+            }
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kamieniecki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1518-00-00",
+                "type": "data",
+                "description": "Zmarł przed 15 marca 1518 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jakub Podfilipski (syn)",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "żona Mikołaja Jazłowieckiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "żona Mikołaja Jazłowieckiego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Mikołaj Jazłowiecki",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Podfilipie",
+                "type": "miejscowość",
+                "description": "dziedziczne miasteczko w ziemi kamienieckiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "stolnik kamieniecki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "uzyskanie prawa magdeburskiego dla Podfilipia",
+                "type": "wydarzenie",
+                "description": "Wydarzenie miało miejsce w 1510 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "porozumienie dotyczące pogranicza polsko-mołdawskiego",
+                "type": "wydarzenie",
+                "description": "Wydarzenie miało miejsce w 1510 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "obrady sejmu piotrkowskiego",
+                "type": "wydarzenie",
+                "description": "Wydarzenie miało miejsce w 1511 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "otrzymanie konsensu królewskiego na wykupienie wsi Holeniszczów",
+                "type": "wydarzenie",
+                "description": "Wydarzenie miało miejsce w 1511 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "orzekanie w sporze dotyczącym łąk pod Kamieńcem",
+                "type": "wydarzenie",
+                "description": "Wydarzenie miało miejsce w 1513 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia ziemski kamieniecki",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

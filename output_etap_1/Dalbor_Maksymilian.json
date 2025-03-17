@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1839-10-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1923-07-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Krotoszyn",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Krotoszyn",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Emilia z Nowaków",
+                "type": "osoba",
+                "description": "żona Dalbora Maksymiliana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Order Virtuti Militari",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Powstanie styczniowe",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "zarządca majątku",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "elew rolniczy",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wyższa Szkoła Leśnicza we Lwowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Mirosław",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wrocław",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Krotoszyn",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Syberia",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Podole",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Ukraina",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Powiat zamojski",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Galicja",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "syn Dalbora Maksymiliana",
+                "type": "osoba",
+                "description": "syn Dalbora Maksymiliana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "córka Dalbora Maksymiliana",
+                "type": "osoba",
+                "description": "córka Dalbora Maksymiliana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "ojciec Dalbora Maksymiliana",
+                "type": "osoba",
+                "description": "ojciec Dalbora Maksymiliana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "matka Dalbora Maksymiliana",
+                "type": "osoba",
+                "description": "matka Dalbora Maksymiliana"
+            }
+        }
+    ]
+}

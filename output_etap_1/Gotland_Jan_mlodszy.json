@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "budowniczy",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starszy cechu",
+                "type": "urząd",
+                "description": "starszy cechu w Toruniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Gotland",
+                "type": "miejscowość",
+                "description": "wyspa, z której pochodził Hans Gotland"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wznoszenie parteru kościoła Św. Jana",
+                "type": "wydarzenie",
+                "description": "praca Jana Gotlanda młodszego przy kościele Św. Jana w Toruniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa górnej części wieży kościoła Św. Jana",
+                "type": "wydarzenie",
+                "description": "praca Jana Gotlanda młodszego przy kościele Św. Jana w Toruniu w latach 1428–33"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wzniesienie zakrystii przy kościele Św. Wawrzyńca",
+                "type": "wydarzenie",
+                "description": "praca Jana Gotlanda młodszego przy kościele Św. Wawrzyńca w 1427 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa bramy miejskiej zwanej mostową",
+                "type": "wydarzenie",
+                "description": "praca Jana Gotlanda młodszego w 1432 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "budowa sklepień i kaplicy w kościele OO. Franciszkanów w Braniewie",
+                "type": "wydarzenie",
+                "description": "praca Jana Gotlanda młodszego w latach 1437–45"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1380-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1445-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "murator",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub",
+                "type": "osoba",
+                "description": "mistrz, u którego Jan Gotland młodszy pracował po śmierci ojca"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński"
+            }
+        }
+    ]
+}

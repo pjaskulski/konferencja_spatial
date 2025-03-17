@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1856",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Klopffleisch",
+                "type": "osoba",
+                "description": "właściciel browaru na Nowym Świecie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działacz rewolucyjny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zesłanie na Syberię",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Nerczyński Zawód",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Narcyz Tchórzewski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Henryk Krajewski",
+                "type": "osoba",
+                "description": "naczelnik organizacji warszawskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Romuald Świerzbiński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Antonina Lissowska",
+                "type": "osoba",
+                "description": "modystka zajmująca się przemytem druków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Wysocki",
+                "type": "osoba",
+                "description": "główny delegat wojskowy Tow. Demokr. Pol. na kraj"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ludwik Bulewski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Paweł Darasz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Warszawa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "nieznane przedsiębiorstwo",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "fabryka maszyn na Solcu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Związek Demokratyczny",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Centralizacja Towarzystwa Demokratycznego Polskiego w Paryżu",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Centralny Komitet Demokracji Europejskiej w Londynie",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Natalis Sulerzyski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ignacy Łyskowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie w Zbrachlinie",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Klopffleisch",
+                "type": "osoba",
+                "description": "właściciel browaru na Nowym Świecie"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "browar na Nowym Świecie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Krajewski",
+                "type": "osoba",
+                "description": "naczelnik organizacji warszawskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "naczelnik organizacji warszawskiej",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antonina Lissowska",
+                "type": "osoba",
+                "description": "modystka zajmująca się przemytem druków"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "modystka",
+                "type": "zawód",
+                "description": "zajmująca się przemytem druków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Wysocki",
+                "type": "osoba",
+                "description": "główny delegat wojskowy Tow. Demokr. Pol. na kraj"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "organizacja",
+                "description": null
+            }
+        }
+    ]
+}

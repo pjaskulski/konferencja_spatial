@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1828-12-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1893-03-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Leżajsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Cmentarz Łyczakowski",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mateusz Krystyniacki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Katarzyna z Romańskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Teofila Felsztyńska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "sześciu synów",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Towarzystwo Nauczycieli Szkół Wyższych",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "tłumacz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "wydawca literatury greckiej i łacińskiej",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dyrektor miejskiego gimnazjum w Drohobyczu",
+                "type": "urząd",
+                "description": "mianowany w 1863 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "profesor greki i łaciny",
+                "type": "urząd",
+                "description": "w gimnazjum I i IV we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny Szkoły Filozoficznej",
+                "type": "uczelnia",
+                "description": "Przemyśl"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Przemyśl"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny",
+                "type": "uczelnia",
+                "description": "Lwów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Mathiae Sarbievii carmina posthuma",
+                "type": "dzieło",
+                "description": "wydane w 1876 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "M. Tulliusza Cicerona tłómaczenie Arata",
+                "type": "dzieło",
+                "description": "wydane w 1883 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Fasti Sarbieviani",
+                "type": "dzieło",
+                "description": "wydane w 1886 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Wykład ewangelii św. Mateusza w 90 homiliach",
+                "type": "dzieło",
+                "description": "przekład św. Jana Chryzostoma, wydane w 1886 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "O języku greckim pisarzy bizantyńskich",
+                "type": "dzieło",
+                "description": "wydane w 1890 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Diplomata statutaria confraternitatis Stauropigianae Leopoliensis 1586–1593",
+                "type": "dzieło",
+                "description": "wydane pośmiertnie w 1894 roku"
+            }
+        }
+    ]
+}

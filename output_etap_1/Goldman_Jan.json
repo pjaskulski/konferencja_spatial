@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "romanista",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1907-05-12",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1942-00-00",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Lea Goldman",
+                "type": "osoba",
+                "description": "z domu Bader."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "lektor języka francuskiego",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "z rąk hitlerowców",
+                "type": "przyczyna",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel prywatny",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "właściciel firmy wydawniczej",
+                "type": "zawód",
+                "description": "specjalizującej się w wydawnictwie słowników oraz samouczków języków nowożytnych."
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": ""
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "uczelnia wyższa",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": ""
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miasto",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": ""
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "miasto",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Brno Morawskie",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "rozprawa doktorska",
+                "type": "osiągnięcie",
+                "description": "ważny przyczynek do zbadania narodzin naukowej filologii romańskiej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "La philologie romane en Pologne",
+                "type": "dzieło",
+                "description": "obszerna bibliografia rozumowana filologii romańskiej w Polsce."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Wędkiewicz",
+                "type": "osoba",
+                "description": "promotor rozprawy doktorskiej Jana Goldmana."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista, urodzony w 1907, zmarł w 1942."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "IV Gimnazjum Realne im. H. Sienkiewicza",
+                "type": "instytucja",
+                "description": "szkoła, w której Jan Goldman uzyskał świadectwo dojrzałości."
+            }
+        }
+    ]
+}

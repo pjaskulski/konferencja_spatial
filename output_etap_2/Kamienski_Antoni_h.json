@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kamieński",
+                "type": "osoba",
+                "description": "burgrabia krzemieniecki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Barbara z Kuczabskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Franciszka Czarnocka",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stanisław Kamieński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Juliusz Kamieński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Ludwiszcze",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie krzemienieckim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1862-11-08",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Liceum Wołyńskie",
+                "type": "uczelnia",
+                "description": "szkoła w Krzemieńcu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podsędek sądu",
+                "type": "urząd",
+                "description": "w Starym Konstantynowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kurator gimnazjum",
+                "type": "urząd",
+                "description": "w Równem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Kołki",
+                "type": "miejscowość",
+                "description": "wieś w powiecie starokonstantynowskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Feliks Czacki",
+                "type": "osoba",
+                "description": "bratanek Tadeusza Czackiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "K. Kaczkowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "K. Sienkiewicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "A. Słowikowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Kamieński",
+                "type": "osoba",
+                "description": "działacz kulturalny na Wołyniu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tadeusz Czacki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Feliks Czacki",
+                "type": "osoba",
+                "description": "bratanek Tadeusza Czackiego"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Tadeusz Czacki",
+                "type": "osoba",
+                "description": null
+            }
+        }
+    ]
+}

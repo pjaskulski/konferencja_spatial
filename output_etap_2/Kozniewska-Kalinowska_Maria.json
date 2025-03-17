@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1875-08-25",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1968-07-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "cmentarz Powązkowski",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Koźniewski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Józefa z Jasiobędzkich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Wacław Kalinowski",
+                "type": "osoba",
+                "description": "zm. 1944"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Académie Vitty",
+                "type": "uczelnia",
+                "description": "Paryż"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Académie Colarossi",
+                "type": "uczelnia",
+                "description": "Paryż"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Union Internationale des Beaux-Arts et des Lettres",
+                "type": "organizacja",
+                "description": "Paryż"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Towarzystwo Zachęty Sztuk Pięknych",
+                "type": "organizacja",
+                "description": "Warszawa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Polskie Towarzystwo Artystyczne",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Związek Polskich Artystów Plastyków",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ludomir Benedyktowicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Pankiewicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "A. de la Gandara",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Luc Olivier-Merson",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Olga Boznańska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "medal brązowy za Portret panny Mili H.",
+                "type": "osiągnięcie",
+                "description": "Salon 1930 r. w Towarzystwie Zachęty Sztuk Pięknych w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka matematyki i rysunku",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "pierwszy medal za akt",
+                "type": "osiągnięcie",
+                "description": "Académie Colarossi, 1903"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska-Kalinowska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wystawa w Royal Academy",
+                "type": "wydarzenie",
+                "description": "Londyn, 1905"
+            }
+        }
+    ]
+}

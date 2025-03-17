@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1904-04-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1943-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kubliczew",
+                "type": "miejscowość",
+                "description": "miasteczko w guberni witebskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Bolesław",
+                "type": "osoba",
+                "description": "ojciec Bolesława Gramza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Adela z Erdmanów",
+                "type": "osoba",
+                "description": "matka Bolesława Gramza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Gimnazjum Św. Katarzyny",
+                "type": "instytucja",
+                "description": "szkoła w Petersburgu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Seminarium Duchowne w Wilnie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wydział Teologiczny Uniwersytetu Stefana Batorego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wikariusz",
+                "type": "zawód",
+                "description": "stanowisko w Grodnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prefekt",
+                "type": "zawód",
+                "description": "stanowisko w Święcianach"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "walki 6. pułku piechoty I. Dywizji",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "zamordowanie przez «własowców»",
+                "type": "przyczyna śmierci",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyświęcenie na kapłana",
+                "type": "wydarzenie",
+                "description": "4 kwietnia 1931 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kapelan i sanitariusz",
+                "type": "urząd",
+                "description": "stanowisko w obozie niemieckim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "tajny kapelan wojskowy",
+                "type": "urząd",
+                "description": "stanowisko w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "pracownik tajnej prasy polskiej",
+                "type": "urząd",
+                "description": "stanowisko w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie przez gestapo",
+                "type": "wydarzenie",
+                "description": "7 czerwca 1943 roku"
+            }
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda kijowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda nowogrodzki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Lew Borysowicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Wasyl Gliński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1522-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "hasNiece"
+            },
+            "object": {
+                "name": "Helena Glińska",
+                "type": "osoba",
+                "description": "późniejsza małżonka w. ks. Wasyla"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dworzanin królewski",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "namiestnik przełomski i ożski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży ziemski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "marszałek hospodarski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "majątki w Kijowszczyźnie",
+                "type": "własność",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny"
+            }
+        }
+    ]
+}

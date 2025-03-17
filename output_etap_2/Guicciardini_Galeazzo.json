@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "budowniczy",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1557-07-31",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "brat Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Brat Guicciardini Galeazzo, który miał dokończyć jego pracę po śmierci."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Sebastian Montelupi",
+                "type": "osoba",
+                "description": "Osoba, dla której Guicciardini Galeazzo prowadził prace budowlane."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "zamek w Melsztynie",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym miał pracować Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "zamek wawelski",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "dwór Rabsztyn",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "dzwonnica zygmuntowska",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "dom Montelupich",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "dom Gutteterów",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "dom wikariuszy zamkowych",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Spytek Jordan z Melsztyna",
+                "type": "osoba",
+                "description": "Osoba, która miała wypłacić Guicciardini Galeazzo sumę na budowę zamku w Melsztynie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Pilecki z Pilicy",
+                "type": "osoba",
+                "description": "Osoba, która miała dług wobec Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Barbara Kmitowa",
+                "type": "osoba",
+                "description": "Osoba, która miała dług wobec Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Florencja",
+                "type": "miejscowość",
+                "description": "Miasto we Włoszech, z którego pochodził Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "Miasto, w którym Guicciardini Galeazzo prowadził działalność budowlaną i gdzie znajduje się jego nagrobek."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "krużganki dominikanów w Krakowie",
+                "type": "miejsce",
+                "description": "Miejsce pochówku Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "owns"
+            },
+            "object": {
+                "name": "cegielnia koło Krakowa",
+                "type": "przedsiębiorstwo",
+                "description": "Cegielnia należąca do Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "owns"
+            },
+            "object": {
+                "name": "stajnia z 13 końmi",
+                "type": "przedsiębiorstwo",
+                "description": "Stajnia należąca do Guicciardini Galeazzo."
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy"
+            },
+            "predicate": {
+                "name": "residence"
+            },
+            "object": {
+                "name": "kamienica «książęca» w Rynku",
+                "type": "budynek",
+                "description": "Miejsce zamieszkania Guicciardini Galeazzo w Krakowie."
+            }
+        }
+    ]
+}

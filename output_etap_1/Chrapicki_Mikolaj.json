@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1514-02-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kościół pofranciszkański w Lubawie",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "biskup chełmiński",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "fundacja klasztoru franciszkańskiego w Lubawie",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "fundacje dla Lubawy, katedry chełmińskiej oraz klasztoru w Kartuzach",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "konsekracja kościołów w Byszwałdzie i Lembargu",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Watzelrode",
+                "type": "osoba",
+                "description": "biskup, protektor Mikołaja Chrapickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Olbracht",
+                "type": "osoba",
+                "description": "król, który nominował Mikołaja Chrapickiego na biskupa chełmińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Aleksander Jagiellończyk",
+                "type": "osoba",
+                "description": "król, który pozwolił Mikołajowi Chrapickiemu wziąć w zastaw miasto Radzyń"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zygmunt I Stary",
+                "type": "osoba",
+                "description": "król, który zastrzegł Mikołajowi Chrapickiemu dożywocie dochody zamków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kanonik warmiński",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "biskup chełmiński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Koloński",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Radzyń",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Chełmno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "zamek starogrodzki",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński, toruńczyk"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "zamek papowski",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            }
+        }
+    ]
+}

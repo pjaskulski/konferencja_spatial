@@ -1,0 +1,319 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1372-00-00",
+                "type": "data",
+                "description": "Data urodzenia jest przybliżona."
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1419-00-00",
+                "type": "data",
+                "description": "Data śmierci jest przybliżona, między 1418 a 1419 rokiem."
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Piotr z Kurdwanowa i Stobnicy",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Florian z Kurdwanowa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Jakub z Kurdwanowa",
+                "type": "osoba",
+                "description": "biskup płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik poznański",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik krakowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kustosz poznański",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik krakowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik poznański",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonik płocki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziekania kurzelowska",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rektor kościoła św. Wawrzyńca w Kazimierzu",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonia kruszwicka",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kustodia poznańska",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kanonia krakowska",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Wysz",
+                "type": "osoba",
+                "description": "biskup krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Andrzej Łaskarzyc",
+                "type": "osoba",
+                "description": "biskup poznański"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wojciech Jastrzębiec",
+                "type": "osoba",
+                "description": "biskup poznański"
+            }
+        }
+    ]
+}

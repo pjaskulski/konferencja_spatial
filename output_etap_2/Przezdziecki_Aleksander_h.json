@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "stolnik upicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna Eleonora ze Skopów",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Antoni Przezdziecki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Felicjanna z Chreptowiczów",
+                "type": "osoba",
+                "description": "podkomorzanka nowogrodzka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Konstancja Aleksandra z Kamińskich",
+                "type": "osoba",
+                "description": "córka Krzysztofa, sędziego orszańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan inflancki",
+                "type": "urząd",
+                "description": "od 24 XI 1726"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży mozyrski",
+                "type": "urząd",
+                "description": "co najmniej od 1694"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "deputat na Trybunał W. Ks. Lit.",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "miecznik litewski",
+                "type": "urząd",
+                "description": "na przełomie 1708/9"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarz poselstwa do Rosji",
+                "type": "urząd",
+                "description": "w 1703 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Michał Wiśniowiecki",
+                "type": "osoba",
+                "description": "późniejszy kanclerz wielki litewski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Radziwiłłowie",
+                "type": "osoba",
+                "description": "rodzina, z którą Aleksander Przezdziecki zaczął się wiązać w latach trzydziestych XVIII wieku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1734-10-24",
+                "type": "data",
+                "description": "przybliżona data śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1724-00-00",
+                "type": "data",
+                "description": "data śmierci podczas zajazdu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1727-12-00",
+                "type": "data",
+                "description": "data śmierci przez ścięcie we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miejsce śmierci przez ścięcie"
+            }
+        }
+    ]
+}

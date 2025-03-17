@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": "Pełniony przez Mikołaja w latach 1319–20, 1327, 1329–30."
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasFatherInLaw"
+            },
+            "object": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Mikołaja, opiekun jego dzieci po jego śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan Rusin",
+                "type": "osoba",
+                "description": "syn Mikołaja, żonaty z córką kuśnierza Wilusza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Anna Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, pozostała panną"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Helena Rusin",
+                "type": "osoba",
+                "description": "żona Mikołaja, córka Mikołaja z Zawichostu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1330-12-20",
+                "type": "data",
+                "description": "Data ostatniej wzmianki o Mikołaju, po której brak dalszych informacji."
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Tyczek Snel",
+                "type": "osoba",
+                "description": "mąż Gertrudy Rusin"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Elżbieta Snel",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka, wyszła za mąż za Stanisława Pensatora"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Snel",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka, wyszła za mąż za Stanisława Pensatora"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Stanisław Pensator",
+                "type": "osoba",
+                "description": "mąż Elżbiety Snel"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "placeOfActivity"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": "król Polski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kościół Najśw. Marii Panny w Krakowie",
+                "type": "obiekt sakralny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "Ziemia Święta",
+                "type": "miejscowość",
+                "description": "Miejsce, gdzie Mikołaj mógł zginąć podczas pielgrzymki."
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330"
+            },
+            "predicate": {
+                "name": "hasChild"
+            },
+            "object": {
+                "name": "Nieznane dzieci Rusina Mikołaja",
+                "type": "osoba",
+                "description": "Dwoje dzieci Mikołaja, których imiona nie są znane."
+            }
+        }
+    ]
+}

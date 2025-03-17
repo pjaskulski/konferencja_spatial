@@ -1,0 +1,379 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Tuchola",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1906-01-21",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Stutthof",
+                "type": "miejscowość",
+                "description": "obóz koncentracyjny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1944-07-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Franciszek Lesikowski",
+                "type": "osoba",
+                "description": "ojciec Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Władysława Lesikowska",
+                "type": "osoba",
+                "description": "matka Stanisława Lesikowskiego, z domu Głomska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Stefania Szefler",
+                "type": "osoba",
+                "description": "żona Stanisława Lesikowskiego, pseud. Jaskółka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefania Szefler",
+                "type": "osoba",
+                "description": "żona Stanisława Lesikowskiego, pseud. Jaskółka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Jan Szalewski",
+                "type": "osoba",
+                "description": "drugi mąż Stefanii Szefler, pseud. Soból"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Teresa Lesikowska",
+                "type": "osoba",
+                "description": "córka Stanisława Lesikowskiego i Stefanii Szefler, ur. 1933"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Bernadetta Lesikowska",
+                "type": "osoba",
+                "description": "córka Stanisława Lesikowskiego i Stefanii Szefler, ur. 1939"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Armia Krajowa",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "powieszenie",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Stanisława Lesikowskiego w obozie koncentracyjnym Stutthof"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Grunwaldu III klasy",
+                "type": "odznaczenie",
+                "description": "odznaczenie przyznane Stanisławowi Lesikowskiemu pośmiertnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Seminarium Nauczycielskie w Tucholi",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Bydgoszcz",
+                "type": "miejscowość",
+                "description": "miejsce kursów artystyczno-malarskich Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "66 pułk piechoty w Grudziądzu",
+                "type": "instytucja",
+                "description": "miejsce służby wojskowej Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kościerzyna",
+                "type": "miejscowość",
+                "description": "miejsce pracy Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Radogoszcz",
+                "type": "miejscowość",
+                "description": "miejsce ukończenia kursu optycznego przez Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Gdynia",
+                "type": "miejscowość",
+                "description": "miejsce otwarcia gabinetu optycznego przez Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Ćwiczenia wojskowe w maju 1939 roku",
+                "type": "wydarzenie",
+                "description": "zaangażowanie Stanisława Lesikowskiego w działania wojskowe"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Kampania wrześniowa 1939 roku",
+                "type": "wydarzenie",
+                "description": "zaangażowanie Stanisława Lesikowskiego w działania wojenne"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Wywiezienie do Generalnej Guberni",
+                "type": "wydarzenie",
+                "description": "przymusowe przesiedlenie Stanisława Lesikowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Aresztowanie przez gestapo 18 kwietnia 1944 roku",
+                "type": "wydarzenie",
+                "description": "zatrzymanie Stanisława Lesikowskiego przez władze okupacyjne"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Przewiezienie do obozu koncentracyjnego w Stutthofie",
+                "type": "wydarzenie",
+                "description": "uwięzienie Stanisława Lesikowskiego w obozie koncentracyjnym"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lesikowski",
+                "type": "osoba",
+                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Zamordowanie 15 lipca 1944 roku",
+                "type": "wydarzenie",
+                "description": "śmierć Stanisława Lesikowskiego w obozie koncentracyjnym"
+            }
+        }
+    ]
+}

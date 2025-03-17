@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Teklinowo",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-01-15",
+                "type": "data",
+                "description": "data śmierci Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Rossa",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "mąż Julii Kazimiery Maciejewiczowej, powstaniec z 1863 roku"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Rossa",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Edwarda Maciejewicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "mąż Julii Kazimiery Maciejewiczowej, powstaniec z 1863 roku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1899-00-00",
+                "type": "data",
+                "description": "data śmierci Edwarda Maciejewicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "mąż Julii Kazimiery Maciejewiczowej, powstaniec z 1863 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "pensja Hryniewska",
+                "type": "instytucja",
+                "description": "szkoła ukończona przez Julię Kazimierę Maciejewiczową w Rydze"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Dorpat",
+                "type": "miejscowość",
+                "description": "miejsce uzyskania dyplomu nauczycielskiego przez Julię Kazimierę Maciejewiczową"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Bolesław Świda",
+                "type": "osoba",
+                "description": "kuzyn Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "internat dla Polek",
+                "type": "instytucja",
+                "description": "internat założony przez Julię Kazimierę Maciejewiczową w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szkoła Handlowa",
+                "type": "instytucja",
+                "description": "szkoła założona przez Julię Kazimierę Maciejewiczową w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie",
+                "type": "instytucja",
+                "description": "organizacja, której członkiem zarządu była Julia Kazimiera Maciejewiczowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Stowarzyszenie Nauczycielstwa Polskiego",
+                "type": "instytucja",
+                "description": "organizacja, której Julia Kazimiera Maciejewiczowa przekazała zezwolenie na prowadzenie zbiorowego nauczania"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Gimnazjum im. Elizy Orzeszkowej",
+                "type": "instytucja",
+                "description": "gimnazjum, w którym Julia Kazimiera Maciejewiczowa uczyła języka niemieckiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Liceum im. Filomatów",
+                "type": "instytucja",
+                "description": "liceum, w którym Julia Kazimiera Maciejewiczowa uczyła robót ręcznych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Kawalerski Orderu Polonia Restituta",
+                "type": "osiągnięcie",
+                "description": "odznaczenie przyznane Julii Kazimierze Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Pracy Obywatelskiej Kobiet",
+                "type": "instytucja",
+                "description": "organizacja, w której Julia Kazimiera Maciejewiczowa działała aktywnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania i działalności Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bolesław Świda",
+                "type": "osoba",
+                "description": "kuzyn Julii Kazimiery Maciejewiczowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stefania Świda",
+                "type": "osoba",
+                "description": "uczennica Julii Kazimiery Maciejewiczowej, współzałożycielka internatu dla Polek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "mąż Julii Kazimiery Maciejewiczowej, powstaniec z 1863 roku"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie",
+                "description": "powstanie z 1863 roku, w którym brał udział Edward Maciejewicz"
+            }
+        }
+    ]
+}

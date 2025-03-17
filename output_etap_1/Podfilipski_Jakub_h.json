@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kamieniecki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1518-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jakub Podfilipski (syn)",
+                "type": "osoba",
+                "description": "syn Jakuba Podfilipskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Mikołaj Jazłowiecki",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, mąż Ewy Podfilipskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Podfilipie",
+                "type": "miejscowość",
+                "description": "dziedziczne miasteczko Jakuba Podfilipskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "stolnik kamieniecki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "uzyskanie prawa magdeburskiego dla Podfilipia",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uzyskał prawo magdeburskie dla swojego dziedzicznego miasteczka Podfilipie w ziemi kamienieckiej w 1510 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "otrzymanie konsensu królewskiego na wykupienie wsi Holeniszczów",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski otrzymał konsens królewski na wykupienie wsi Holeniszczów w powiecie kamienieckim z rąk Katarzyny i Barbary Czartowskich w 1511 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "porozumienie w Czerwonym",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski jako komisarz królewski zawarł porozumienie w Czerwonym 12 lipca 1510 roku dotyczące wymiaru sprawiedliwości i warunków współżycia na pograniczu polsko-mołdawskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "obrady sejmu piotrkowskiego",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uczestniczył w obradach sejmu piotrkowskiego w 1511 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "spór dotyczący prawa użytkowania łąk pod Kamieńcem",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski wszedł w skład zespołu orzekającego w sporze dotyczącym prawa użytkowania łąk pod Kamieńcem w 1513 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przebywanie w Wilnie latem 1517 roku",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski przebywał w Wilnie latem 1517 roku, gdzie Zygmunt I wydał mandat dotyczący zawieszenia postępowania sądowego przeciwko niemu."
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "spór o dokumenty dotyczące Podfilipia",
+                "type": "wydarzenie",
+                "description": "Wiktoryn Podfilipski pozywał Ewę Podfilipską o dokumenty dotyczące Podfilipia i innych dóbr w 1532 roku."
+            }
+        }
+    ]
+}

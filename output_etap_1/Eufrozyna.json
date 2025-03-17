@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "księżna",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1229-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1292-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę opolski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Ziemowit",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Mszczuj II",
+                "type": "osoba",
+                "description": "książę pomorski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kujawy",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mszczuj II",
+                "type": "osoba",
+                "description": "książę pomorski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "dwór Eufrozyny i Mszczuja II",
+                "type": "miejsce",
+                "description": "dwór matki i ojczyma Władysława Łokietka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "unieważnienie małżeństwa z Mszczujem II",
+                "type": "wydarzenie",
+                "description": "unieważnienie małżeństwa 13 maja 1288 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mszczuj II",
+                "type": "osoba",
+                "description": "książę pomorski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "unieważnienie małżeństwa z Eufrozyną",
+                "type": "wydarzenie",
+                "description": "unieważnienie małżeństwa 13 maja 1288 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę kujawski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1267-12-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "śmierć Kazimierza",
+                "type": "wydarzenie",
+                "description": "śmierć męża Eufrozyny, Kazimierza, 14 grudnia 1267 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zabieganie o spadek po Mszczuju",
+                "type": "wydarzenie",
+                "description": "Eufrozyna zabiegała o przekazanie synom spadku po Mszczuju II"
+            }
+        }
+    ]
+}

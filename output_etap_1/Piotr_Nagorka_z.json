@@ -1,0 +1,244 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kanonik",
+                "type": "zawód",
+                "description": "kanonik poznański i płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "poseł",
+                "type": "zawód",
+                "description": "poseł Kazimierza Wielkiego do Awinionu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1361-12-31",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Awinion",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Bogusław",
+                "type": "osoba",
+                "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Mroczka z Kisielewa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": "król Polski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Grąbiec",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kisielewo",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "diecezja płocka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "diecezja poznańska",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "poselstwo do Awinionu",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Imisław Wroński",
+                "type": "osoba",
+                "description": "elekt płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Jura",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan z Buska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka z Grąbca",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "pełnienie funkcji poselskich",
+                "type": "zdarzenie",
+                "description": null
+            }
+        }
+    ]
+}

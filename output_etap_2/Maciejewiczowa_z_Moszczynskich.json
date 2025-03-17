@@ -1,0 +1,349 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-01-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Teklinowo",
+                "type": "miejscowość",
+                "description": "w powiecie orszańskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "powstaniec z 1863 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "organizatorka szkolnictwa polskiego",
+                "type": "zawód",
+                "description": "w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Pensja Hryniewska",
+                "type": "uczelnia",
+                "description": "w Rydze"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Dorpat"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń",
+                "type": "organizacja",
+                "description": "w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Związek Pracy Obywatelskiej Kobiet",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Kawalerski Orderu Polonia Restituta",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Bolesław Świda",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stefania Świda",
+                "type": "osoba",
+                "description": "uczennica Julii Kazimiery Maciejewiczowej z Moszczyńskich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Julia Rodziewicz",
+                "type": "osoba",
+                "description": "prezeska Stowarzyszenia Nauczycielstwa Polskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Kościałkowski",
+                "type": "osoba",
+                "description": "dyrektor męskiej szkoły"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Gimnazjum im. Elizy Orzeszkowej",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Liceum im. Filomatów",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Internat dla Polek",
+                "type": "instytucja",
+                "description": "internat dla Polek uczących się w szkołach średnich w Wilnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Szkoła Handlowa dla dziewcząt-chrześcijanek",
+                "type": "instytucja",
+                "description": "sześcioklasowa szkoła założona w 1907 roku, przekształcona w siedmioklasową w 1913 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Kazimiera Maciejewiczowa z Moszczyńskich",
+                "type": "osoba",
+                "description": "nauczycielka, organizatorka szkolnictwa polskiego w Wilnie"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Rossa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Edward Maciejewicz",
+                "type": "osoba",
+                "description": "powstaniec z 1863 r."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie historyczne",
+                "description": "powstanie z 1863 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julia Rodziewicz",
+                "type": "osoba",
+                "description": "prezeska Stowarzyszenia Nauczycielstwa Polskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prezeska",
+                "type": "urząd",
+                "description": "Stowarzyszenie Nauczycielstwa Polskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Kościałkowski",
+                "type": "osoba",
+                "description": "dyrektor męskiej szkoły"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dyrektor męskiej szkoły",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

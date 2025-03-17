@@ -1,0 +1,319 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rostoka",
+                "type": "miejscowość",
+                "description": "wieś w obwodzie krasnostawskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Zagrzeb",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1847",
+                "type": "data",
+                "description": "rok śmierci Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef",
+                "type": "osoba",
+                "description": "rolnik i duchowny grekokatolicki, ojciec Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "miejsce studiów Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "podporucznik",
+                "type": "stopień wojskowy",
+                "description": "stopień wojskowy Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "emigrant",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "powstaniec",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Czas",
+                "type": "czasopismo",
+                "description": "czasopismo, z którym współpracował Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Demokrata Polski",
+                "type": "czasopismo",
+                "description": "czasopismo, z którym współpracował Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "organizacja",
+                "description": "organizacja, do której należał Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komisja Centralna Polaków w dep. des Landes",
+                "type": "organizacja",
+                "description": "organizacja, z którą był związany Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komisja Korespondencyjna",
+                "type": "organizacja",
+                "description": "organizacja, z którą był związany Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Pismo TDP",
+                "type": "czasopismo",
+                "description": "publikacja, z którą był związany Józef Słowicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Środki rewolucyjne",
+                "type": "dzieło",
+                "description": "rozprawa Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "instytucja",
+                "description": "Lublin"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "bitwy pod Rudkami, Tykocinem, Ostrołęką, obrona Warszawy",
+                "type": "wydarzenie",
+                "description": "bitwy, w których uczestniczył Józef Słowicki podczas powstania listopadowego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sekretarz Komisji Centralnej Polaków w dep. des Landes",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek Centralizacji TDP",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "ekspedytor parowozów",
+                "type": "zawód",
+                "description": "praca Józefa Słowickiego w lokomotywowni w Cherbourgu"
+            }
+        }
+    ]
+}

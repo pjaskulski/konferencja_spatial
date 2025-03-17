@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1919-10-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1967-12-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "wypadek samochodowy",
+                "type": "zdarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kunicki",
+                "type": "osoba",
+                "description": "ślusarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Józefa Kunicka",
+                "type": "osoba",
+                "description": "z Winklerów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Zofia Chromy",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Partia Robotnicza",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polska Zjednoczona Partia Robotnicza",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "artykuły na tematy artyleryjskie",
+                "type": "dzieło",
+                "description": "zamieszczone w 'Przeglądzie Artyleryjskim' i 'Przeglądzie Wojsk Lądowych'"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Komandorski Orderu Odrodzenia Polski",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Walecznych",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia Medyczno-Weterynaryjna we Lwowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego w Moskwie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Międzynarodowa Komisja Nadzoru i Kontroli w Korei",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Główny Inspektorat Szkolenia Min. Obrony Narodowej",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kunicki Tadeusz",
+                "type": "osoba",
+                "description": "generał brygady W. P."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "budowniczy",
+                "type": "zawód",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hans Gotland",
+                "type": "osoba",
+                "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starszy cechu",
+                "type": "urząd",
+                "description": "starszy cechu w Toruniu w latach 1389–1409"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "mistrz Jakub",
+                "type": "osoba",
+                "description": "osoba, u której Jan Gotland młodszy pracował przy wznoszeniu parteru kościoła Św. Jana"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół Św. Jana",
+                "type": "instytucja",
+                "description": "miejsce, gdzie Jan Gotland młodszy zbudował górną część wieży"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół Św. Wawrzyńca",
+                "type": "instytucja",
+                "description": "miejsce, gdzie Jan Gotland młodszy wzniósł zakrystię"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "brama miejska mostowa",
+                "type": "instytucja",
+                "description": "brama miejska zbudowana przez Jana Gotlanda młodszego w 1432 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół OO. Franciszkanów w Braniewie",
+                "type": "instytucja",
+                "description": "miejsce, gdzie Jan Gotland młodszy zbudował sklepienia i kaplicę"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "około 1380",
+                "type": "data",
+                "description": "przybliżona data urodzenia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gotland młodszy",
+                "type": "osoba",
+                "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "po 1445",
+                "type": "data",
+                "description": "przybliżona data śmierci"
+            }
+        }
+    ]
+}

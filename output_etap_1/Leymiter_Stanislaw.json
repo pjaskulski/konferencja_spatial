@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1462-01-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "cmentarz mariacki",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "ojciec Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "matka Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dom przy ul. Brackiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "kram na rynku krakowskim",
+                "type": "nieruchomość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "ścięcie",
+                "type": "przyczyna śmierci",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jan Tesznar",
+                "type": "osoba",
+                "description": "brat Zofii Leymiterowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Jan Wierzynek",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową"
+            }
+        },
+        {
+            "subject": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Wincenty Beck",
+                "type": "osoba",
+                "description": "mąż Barbary"
+            }
+        },
+        {
+            "subject": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Jan Tretkop",
+                "type": "osoba",
+                "description": "mąż Benigny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": "ławnik w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podwójci",
+                "type": "urząd",
+                "description": "podwójci w ławie krakowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zainteresowania prawnicze",
+                "type": "osiągnięcie",
+                "description": "książki prawnicze wśród pozostałych po nim rzeczy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "własność",
+                "description": "dom odziedziczony po rodzicach Stanisława Leymitera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Tesznar",
+                "type": "osoba",
+                "description": "ojciec Zofii Leymiterowej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "instytucja",
+                "description": "uczelnia, której wychowankiem był Mikołaj Leymiter"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kolegium artystów",
+                "type": "instytucja",
+                "description": "instytucja, której członkiem był Mikołaj Leymiter"
+            }
+        }
+    ]
+}

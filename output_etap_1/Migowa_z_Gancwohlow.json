@@ -1,0 +1,619 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "powieściopisarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Będzin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "19-05",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef Kazimierz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna Maria z Kempińskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "I Prywatna Średnia Szkoła Żeńska w Krakowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1942",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1919",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Filaretów",
+                "type": "organizacja",
+                "description": "młodzieżowy niepodległościowy związek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Strzelecki",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Ilustrowany Kurier Codzienny",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Goniec Krakowski",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Nowa Reforma",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Nowości Ilustrowane",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kurier Czerwony",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kino",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Świat",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kurier Poranny",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Światowid",
+                "type": "instytucja",
+                "description": "czasopismo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Wydawnictwo Ibis",
+                "type": "instytucja",
+                "description": "wydawnictwo"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Człowiek z mostu",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Gwiazda i hrabia małżonek",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Małżeństwo gwiazdy",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Twarze pod szminką",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Wysokie C",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kariera Władki Brzozkówny",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Lady Władka",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Rozeszły się ich drogi",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kobieta płaci...",
+                "type": "dzieło",
+                "description": "trylogia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Szczęście przychodzi, kiedy chce",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Moi rodzice rozwodzą się",
+                "type": "dzieło",
+                "description": "powieść"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Śpiewnik wojenny",
+                "type": "dzieło",
+                "description": "antologia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "hasAlias"
+            },
+            "object": {
+                "name": "M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "type": "pseudonim",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze",
+                "type": "wydarzenie",
+                "description": "działalność społeczna w 1915 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie i osadzenie w więzieniu na ul. Gęsiej",
+                "type": "wydarzenie",
+                "description": "aresztowanie w maju 1942 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda",
+                "type": "instytucja",
+                "description": "krakowskie czasopisma"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "prowadzenie jadłodajni na Nowym Świecie w Warszawie",
+                "type": "wydarzenie",
+                "description": "działalność podczas wojny 1939-45"
+            }
+        }
+    ]
+}

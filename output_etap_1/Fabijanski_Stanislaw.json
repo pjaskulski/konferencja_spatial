@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "artysta malarz i rzeźbiarz",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1865",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1947-02-13",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "artysta malarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Lucyna Odrowąż Sypniewska",
+                "type": "osoba",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych w Krakowie",
+                "type": "instytucja",
+                "description": "Meisterschuli"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia w Monachium",
+                "type": "instytucja",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "pierwsza nagroda za wykonanie afisza na otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie",
+                "type": "osiągnięcie",
+                "description": "1902"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "srebrny medal za obraz Chrystus na krzyżu na wystawie w warszawskiej Zachęcie",
+                "type": "osiągnięcie",
+                "description": "1928"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Marconi",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Starkowski",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Szynalewski",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jabłoński",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Łuszczkiewicz",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Cynk",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Loeffler",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Matejko",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wagner",
+                "type": "osoba",
+                "description": "nauczyciel Stanisława Fabijańskiego w Akademii w Monachium"
+            }
+        }
+    ]
+}

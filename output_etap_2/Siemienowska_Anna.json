@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Wiktor Siemienowski",
+                "type": "osoba",
+                "description": "ojciec Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Pelagia Siemienowska",
+                "type": "osoba",
+                "description": "matka Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Albertyn",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Cmentarz Komunalny Północny",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Państwowy Zarząd Wodny w Łucku",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej przed drugą wojną światową"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zentral Handelsgesellschaft Ost w Łucku",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej od 1 I 1942 do 30 I 1944"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Walki Zbrojnej – Armia Krajowa",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Anna Siemienowska od 1 IX 1941 do marca 1944"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Centralne Biuro Studiów Budownictwa Wodnego «Hydroprojekt»",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej po powrocie do kraju"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komisja Historii Kobiet w Walce o Niepodległość Towarzystwa Miłośników Historii w Warszawie",
+                "type": "organizacja",
+                "description": "organizacja, w której działała Anna Siemienowska w latach 1980–89"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Brojakowa",
+                "type": "osoba",
+                "description": "siostra Anny Siemienowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Inspektorat Rejonowy AK Łuck",
+                "type": "organizacja",
+                "description": "jednostka, w której Anna Siemienowska pełniła funkcje szefa łączności wewnętrznej i szefa kancelarii"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "NKWD",
+                "type": "organizacja",
+                "description": "instytucja, która aresztowała Annę Siemienowską"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Trybunał Kijowskiego Okręgu Wojskowego",
+                "type": "organizacja",
+                "description": "instytucja, która skazała Annę Siemienowską na 15 lat obozu pracy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej"
+            },
+            "predicate": {
+                "name": "placeOfImprisonment"
+            },
+            "object": {
+                "name": "Republika Autonomiczna Komi",
+                "type": "miejscowość",
+                "description": "miejsce, do którego Anna Siemienowska została wywieziona po skazaniu na obóz pracy"
+            }
+        }
+    ]
+}

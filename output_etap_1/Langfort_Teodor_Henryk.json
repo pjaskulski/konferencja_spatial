@@ -1,0 +1,244 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kartograf",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "oficer regimentu",
+                "type": "zawód",
+                "description": "w batalionie Skarbu Kor."
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "szlachcic",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kapitan",
+                "type": "urząd",
+                "description": "z kompanią"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "major",
+                "type": "urząd",
+                "description": "w regimencie pieszym 16"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Warta",
+                "type": "obiekt hydrologiczny",
+                "description": "od Sieradza do wsi Siemiątki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Narew",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Biebrza",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Wisła",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Liwiec",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Wkra",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komisja Skarbowa",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kwatermistrz",
+                "type": "stanowisko",
+                "description": "w regimencie w batalionie Skarbu Kor."
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "nobilitacja",
+                "type": "wydarzenie",
+                "description": "otrzymanie tytułu szlacheckiego w 1791 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "rzeka Pilica",
+                "type": "obiekt hydrologiczny",
+                "description": null
+            }
+        }
+    ]
+}

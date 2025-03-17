@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "ksiądz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "paulin",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1836-04-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Czechy",
+                "type": "miejscowość",
+                "description": "wieś pod Zduńską Wolą"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1913-06-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Aleksander Federowicz",
+                "type": "osoba",
+                "description": "ojciec Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Aniela Wilczyńska",
+                "type": "osoba",
+                "description": "matka Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Wieluń",
+                "type": "miejscowość",
+                "description": "miejsce ukończenia szkoły powiatowej przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Częstochowa",
+                "type": "miejscowość",
+                "description": "miejsce wstąpienia do zakonu paulinów przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": "miejsce otrzymania święceń kapłańskich przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Leśniów",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia obowiązków kaznodziei przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Skałka",
+                "type": "miejscowość",
+                "description": "miejsce pełnienia funkcji przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Nagy-Levard",
+                "type": "miejscowość",
+                "description": "miejsce otwarcia nowego klasztoru oo. paulinów przez Ignacego Federowicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "klasztor św. Krzyża",
+                "type": "miejscowość",
+                "description": "miejsce założenia klasztoru przez Ignacego Federowicza na Węgrzech"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "prokurator klasztoru i magister nowicjatu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "przeor i administrator parafii",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza na Skałce w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kustosz generalny zakonu",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Ignacego Federowicza w całej monarchii austriackiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "zakon paulinów",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kościół na Skałce",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor oo. paulinów w Nagy-Levard",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "klasztor św. Krzyża",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pogrzeb J. Długosza",
+                "type": "wydarzenie",
+                "description": "uroczysty pogrzeb J. Długosza, w którym uczestniczył Ignacy Federowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "restauracja kościoła na Skałce",
+                "type": "wydarzenie",
+                "description": "restauracja kościoła na Skałce, w której uczestniczył Ignacy Federowicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "odnowiciel kościoła na Skałce",
+                "type": "osiągnięcie",
+                "description": "dzięki jego pracom nazwano go odnowicielem kościoła na Skałce"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "K. Knaus",
+                "type": "osoba",
+                "description": "architekt, pod jego kierunkiem wnętrze kościoła otrzymało piękną polichromię"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "A. Mikołajewski",
+                "type": "osoba",
+                "description": "wykonał polichromię według projektu Niedzielskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Niedzielski",
+                "type": "osoba",
+                "description": "autor projektu polichromii wykonanej przez A. Mikołajewskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tola Certowiczówna",
+                "type": "osoba",
+                "description": "artystka rzeźbiarka, darczyńca brązowych orłów odlewanych w Paryżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Łepkowski",
+                "type": "osoba",
+                "description": "konserwator, zaangażowany w urządzenie Grobów Zasłużonych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Federowicz",
+                "type": "osoba",
+                "description": "ks., paulin, znany jako o. Ambroży"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "ks. bp Dunajewski",
+                "type": "osoba",
+                "description": "biskup, oddał pod straż i opiekę Groby Zasłużonych Ignacemu Federowiczowi"
+            }
+        }
+    ]
+}

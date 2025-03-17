@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "uczony",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wójt i naczelny sędzia karaimski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "medyk",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Del Medigo",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "lekarz i doradca królewski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "włości w okolicy Trok",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1666-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "stary cmentarz karaimski w Trokach",
+                "type": "miejsce",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Troki",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Kazimierz",
+                "type": "osoba",
+                "description": "król"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Radziwiłłowie",
+                "type": "rodzina",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "modlitewnik karaimski",
+                "type": "dzieło",
+                "description": "zawiera hymny i pieśni religijne Ezry ben Nisana z Trok"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "księgozbiór medyczny",
+                "type": "własność",
+                "description": "bogaty księgozbiór medyczny Ezry ben Nisana z Trok, który spłonął w pożarze w 1655 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ezra ben Nisan z Trok",
+                "type": "osoba",
+                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "uzdrowienie córki Jana Kazimierza",
+                "type": "osiągnięcie",
+                "description": "uzdrowienie córki Jana Kazimierza, co przyczyniło się do uzyskania tytułu lekarza i doradcy królewskiego"
+            }
+        }
+    ]
+}

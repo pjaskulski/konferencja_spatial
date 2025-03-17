@@ -1,0 +1,664 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Zakład Zdrojowy w Rymanowie",
+                "type": "instytucja",
+                "description": "uzdrowisko z cennymi solankami jodo-bromowymi i szczawami alkalicznymi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "parlament austriacki",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działacz społeczny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Oleszyce",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Rymanów Zdrój",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "cmentarz w Rymanowie",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Potocki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna z Działyńskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Róża z Wodzickich",
+                "type": "osoba",
+                "description": "pierwsza żona Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Maria z Szajerów",
+                "type": "osoba",
+                "description": "druga żona Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Aleksander Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z pierwszego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Teresa Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z pierwszego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Jadwiga Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z pierwszego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Ignacy Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Zofia Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Maria Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasGrandson"
+            },
+            "object": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "lawina na stokach Noszaka w Hindukuszu",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "archeolog",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "taternik i alpinista",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zarząd Główny Klubu Wysokogórskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "Koło Krakowskie Klubu Wysokogórskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Politechnika Lwowska",
+                "type": "instytucja",
+                "description": "miejsce studiów Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Truskawiec",
+                "type": "miejscowość",
+                "description": "uzdrowisko zarządzane przez Jana Nepomucena Potockiego w latach 1892-1894"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polskie Towarzystwo Balneologiczne",
+                "type": "instytucja",
+                "description": "instytucja, której prezesem był Jan Nepomucen Potocki w latach 1907-1909"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Krajowy Związek Zdrojowisk i Uzdrowisk",
+                "type": "instytucja",
+                "description": "instytucja, której prezesem był Jan Nepomucen Potocki od 1910 do 1916, a później prezesem honorowym"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny",
+                "type": "instytucja",
+                "description": "instytucja, której prezesem oddziału w Zakopanem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Rada powiatowa w Sanoku",
+                "type": "instytucja",
+                "description": "instytucja, której członkiem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "«Sokół» w Rymanowie",
+                "type": "instytucja",
+                "description": "instytucja, której prezesem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kasa Zaliczkowa i Kółko Rolnicze",
+                "type": "instytucja",
+                "description": "instytucje, których prezesem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Ochotnicza straż pożarna",
+                "type": "instytucja",
+                "description": "instytucja, której opiekunem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Wojewódzka liga drogowa",
+                "type": "instytucja",
+                "description": "instytucja, której opiekunem był Jan Nepomucen Potocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Organizacje społeczne w Rymanowie i okolicy",
+                "type": "instytucja",
+                "description": "instytucje wspierane przez Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Wolski",
+                "type": "osoba",
+                "description": "proboszcz Rymanowa, współpracownik Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ignacy Bielecki",
+                "type": "osoba",
+                "description": "lekarz praktykujący w Rymanowie, współpracownik Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bazyli Maściuch",
+                "type": "osoba",
+                "description": "biskup greckokatolicki Łemkowszczyzny, gość Jana Nepomucena Potockiego w Rymanowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Krzyż Oficerski Orderu Polonia Restituta",
+                "type": "osiągnięcie",
+                "description": "odznaczenie otrzymane przez Jana Nepomucena Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Instytut Historii Kultury Materialnej PAN w Krakowie",
+                "type": "instytucja",
+                "description": "instytucja, w której pracował Jerzy Potocki jako pracownik naukowy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "badanie kultury celtyckiej w Polsce",
+                "type": "zawód",
+                "description": "działalność naukowa Jerzego Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Jerzego Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1966-09-04",
+                "type": "data",
+                "description": "data śmierci Jerzego Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "stoki Noszaka w Hindukuszu",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Jerzego Potockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, taternik i alpinista"
+            }
+        }
+    ]
+}

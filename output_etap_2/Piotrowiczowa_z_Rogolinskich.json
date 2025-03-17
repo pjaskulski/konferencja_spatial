@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie historyczne",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Ansberta z Badeńskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "ciosy bagnetów i pik kozackich",
+                "type": "przyczyna śmierci",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "dateOfBurial"
+            },
+            "object": {
+                "name": "1863-02-28",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Radogoszcz (Dobra?)",
+                "type": "miejscowość",
+                "description": "pod Łodzią"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "we wsi Chocianowice"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dobra w okolicach Łęczycy",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powstanie listopadowe",
+                "type": "wydarzenie historyczne",
+                "description": "1831 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Sawicki i Józef Dworzaczek",
+                "type": "osoby",
+                "description": "dowódcy partii powstańczej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "ulica imienia Marii Piotrowiczowej",
+                "type": "osiągnięcie",
+                "description": "w Łodzi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "rozbicie oddziału powstańczego pod Dobrą",
+                "type": "wydarzenie",
+                "description": "24 lutego 1863"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "szpital",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wydanie zakazu przyjmowania kobiet do służby liniowej",
+                "type": "wydarzenie",
+                "description": "16 kwietnia 1863"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Jana Patruusa z Koła"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1538-00-00",
+                "type": "data",
+                "description": "zmarł w pierwszej połowie roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Melchior i Michael Lotterowie",
+                "type": "osoba",
+                "description": "firma drukarska z Lipska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Latalski",
+                "type": "osoba",
+                "description": "biskup, zleceniodawca druku w 1533 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Norymberga",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "placeOfResidence"
+            },
+            "object": {
+                "name": "Koło",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "placeOfResidence"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "córki Jana Patruusa z Koła",
+                "type": "osoba",
+                "description": null
+            }
+        }
+    ]
+}

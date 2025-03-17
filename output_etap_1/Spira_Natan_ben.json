@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1577-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rabin",
+                "type": "urząd",
+                "description": "rabin w Grodnie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce urodzenia Spiry Natana ben Samsona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Grodno",
+                "type": "miejscowość",
+                "description": "miejsce śmierci i pochówku Spiry Natana ben Samsona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Grodno",
+                "type": "miejscowość",
+                "description": "miejsce śmierci i pochówku Spiry Natana ben Samsona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Salomon",
+                "type": "osoba",
+                "description": "syn Spiry Natana ben Samsona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Salomon",
+                "type": "osoba",
+                "description": "syn Spiry Natana ben Samsona"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Natan Nata Spira",
+                "type": "osoba",
+                "description": "wnuk Spiry Natana ben Samsona"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Dawid Gans",
+                "type": "osoba",
+                "description": "astronom i matematyk z Pragi, spokrewniony ze Spirą Natanem ben Samsonem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Mevo še‘arim",
+                "type": "dzieło",
+                "description": "Wprowadzenie do „Bram”; komentarz do 'machzoru', modlitewnika I. Durana 'Ša’are Dura'."
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Imre ha-šefer",
+                "type": "dzieło",
+                "description": "Piękne słowa; glosy do klasycznego komentarza do Pięcioksięgu Mojżesza, autorstwa Rasziego i Eliasza ben Abrahama Mizrachi."
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "komentarze do Biblii i Talmudu",
+                "type": "dzieło",
+                "description": "Komentarze do Biblii i Talmudu wydawane pod nazwiskiem Spiry Natana ben Samsona."
+            }
+        },
+        {
+            "subject": {
+                "name": "Spira Natan ben Samson",
+                "type": "osoba",
+                "description": "rabin grodzieński, pisarz homiletyczny, kabalista"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "hymny świąteczne",
+                "type": "dzieło",
+                "description": "Hymny świąteczne wydawane w Krakowie w 1608 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "przodkowie Spiry Natana ben Samsona",
+                "type": "osoba",
+                "description": "Przodkowie Spiry Natana ben Samsona pochodzili z Niemiec."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Spira",
+                "type": "miejscowość",
+                "description": "Miasto w Niemczech, od którego nazwisko wywodzi się rodzina Spiry Natana ben Samsona."
+            }
+        },
+        {
+            "subject": {
+                "name": "przodkowie Spiry Natana ben Samsona",
+                "type": "osoba",
+                "description": "Przodkowie Spiry Natana ben Samsona pochodzili z Niemiec."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pogromy w 1435 roku",
+                "type": "wydarzenie",
+                "description": "Pogromy, które spowodowały emigrację przodków Spiry Natana ben Samsona z Niemiec do Czech, a następnie do Polski."
+            }
+        }
+    ]
+}

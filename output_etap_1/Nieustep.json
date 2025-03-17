@@ -1,0 +1,109 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda krakowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan sandomierski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1278-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bolesław Wstydliwy",
+                "type": "osoba",
+                "description": "książę krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "bitwa pod Bogucinem",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Paweł z Przemankowa",
+                "type": "osoba",
+                "description": "biskup krakowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Nieustęp",
+                "type": "osoba",
+                "description": "wojewoda krakowski, kasztelan sandomierski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław opolski",
+                "type": "osoba",
+                "description": null
+            }
+        }
+    ]
+}

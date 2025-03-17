@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "kanonik poznański i płocki",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "poseł Kazimierza Wielkiego do Awinionu",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1361-12-31",
+                "type": "data",
+                "description": "Data przybliżona, zmarł niedługo przed 31 XII 1361."
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Awinion",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Bogusław",
+                "type": "osoba",
+                "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Mroczka z Kisielewa",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Imisław Wroński",
+                "type": "osoba",
+                "description": "elektor płocki popierany przez króla"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Innocenty VI",
+                "type": "osoba",
+                "description": "papież"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bogusław",
+                "type": "osoba",
+                "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziedzic Grąbca i Kisielewa",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Imisław Wroński",
+                "type": "osoba",
+                "description": "elektor płocki popierany przez króla"
+            }
+        },
+        {
+            "subject": {
+                "name": "Innocenty VI",
+                "type": "osoba",
+                "description": "papież"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bernard",
+                "type": "osoba",
+                "description": "dominikanin, który otrzymał prowizję na biskupstwo płockie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "religiousAffiliation"
+            },
+            "object": {
+                "name": "diecezja płocka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "firstMention"
+            },
+            "object": {
+                "name": "1359",
+                "type": "data",
+                "description": "Pierwsza wzmianka o Piotrze Nagórce."
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Jura",
+                "type": "osoba",
+                "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan z Buska",
+                "type": "osoba",
+                "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Mroczka z Kisielewa",
+                "type": "osoba",
+                "description": "brat Piotra Nagórki"
+            }
+        }
+    ]
+}

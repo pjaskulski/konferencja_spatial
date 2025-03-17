@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1848-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1920-10-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Zaklików",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie lubelskim, w Królestwie Polskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jordan Dąbrowski",
+                "type": "osoba",
+                "description": "obywatel ziemski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Weronika z Paszkowskich",
+                "type": "osoba",
+                "description": "obywatelka ziemska."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Wiktor Dąbrowski",
+                "type": "osoba",
+                "description": "literat."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": "rejent w Odessie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "członek sądu wojskowego",
+                "type": "urząd",
+                "description": "członek sądu wojskowego w Odessie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Komitet Polski i Towarzystwo Pomocy Ofiarom Wojny",
+                "type": "instytucja",
+                "description": "organizacje, z którymi był związany Adam Dąbrowski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "rozstrzelanie przez bolszewików",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Adama Dąbrowskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Brześć Litewski",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w korpusie kadetów."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Petersburg",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w akademii jurydycznej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "sędzia śledczy",
+                "type": "zawód",
+                "description": "zawód wykonywany przez Adama Dąbrowskiego przed objęciem stanowiska rejenta."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Berdyczów",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Żytomierz",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wierny",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Tyflis",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Korejwa",
+                "type": "osoba",
+                "description": "generał, z którym Adam Dąbrowski współpracował jako członek sądu wojskowego w Odessie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "kamienica",
+                "type": "przedmiot",
+                "description": "kamienica wartości 120.000 rubli przekazana w testamencie siostrom i synowi."
+            }
+        }
+    ]
+}

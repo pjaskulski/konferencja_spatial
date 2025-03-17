@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1818-10-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1885-12-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Leon Radziwiłł",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "satyryk",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pieśniarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rysownik",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Petersburg",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Wańkowiczówna",
+                "type": "osoba",
+                "description": "żona Artura Bartelsa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "nieznana",
+                "type": "osoba",
+                "description": "matka Artura Bartelsa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "karykaturzysta",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dziennikarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dramaturg",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "malarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "piosenki i satyry",
+                "type": "dzieło",
+                "description": "utwory Artura Bartelsa publikowane po jego śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "utwory sceniczne",
+                "type": "dzieło",
+                "description": "farsy Artura Bartelsa, które cieszyły się wielkim powodzeniem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "artykuły o treści myśliwskiej",
+                "type": "dzieło",
+                "description": "artykuły Artura Bartelsa publikowane w \"Łowcu\""
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Tydzień poleski",
+                "type": "dzieło",
+                "description": "poemat Artura Bartelsa publikowany w \"Łowcu\""
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "rysunki",
+                "type": "dzieło",
+                "description": "rysunki Artura Bartelsa publikowane w \"Albumie wileńskiem\""
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "rodzina Wańkowiczów",
+                "type": "osoba",
+                "description": "rodzina związana z Arturem Bartelsem przez jego żonę"
+            }
+        }
+    ]
+}

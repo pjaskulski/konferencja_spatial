@@ -1,0 +1,319 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Frysztak",
+                "type": "miejscowość",
+                "description": "w pow. jasielskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Katowice",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1927-11-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Kliszewski",
+                "type": "osoba",
+                "description": "aktor i śpiewak"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "H. Majeranowska",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Lamperi",
+                "type": "osoba",
+                "description": "nauczyciel śpiewu Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Lwowski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Polski w Katowicach",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr prowincjonalny Henryka Lasockiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr polsko-ruski J. Biberowicza",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Własny zespół teatralny w Krośnie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Nowy w Warszawie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Śląski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "śpiewaczka operetkowa i operowa",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "nauka śpiewu u H. Majeranowskiej, M. Szlezygierowej i Lamperiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pobyt w Krakowie",
+                "type": "wydarzenie",
+                "description": "reżyserowanie \"Jasia i Małgosi\" i dawanie lekcji śpiewu w 1920 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1920-00-00",
+                "type": "data",
+                "description": "rok pobytu w Krakowie, reżyserowanie \"Jasia i Małgosi\" i dawanie lekcji śpiewu"
+            }
+        },
+        {
+            "subject": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lamperi",
+                "type": "osoba",
+                "description": "nauczyciel śpiewu Karoliny Kliszewskiej"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel śpiewu",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "biskup kruszwicki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "biskup kujawski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1187-00-00",
+                "type": "data",
+                "description": "Data śmierci Onolfa jest przybliżona, katalog wolborski podaje rok 1190."
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Włocławek",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "hasSuccessor"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "następca Onolfa jako biskup"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dziekan kapituły",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "konsekracja tumu pod Łęczycą",
+                "type": "wydarzenie",
+                "description": "wydarzenie z 1161 roku, w którym uczestniczył Onolf jako biskup kruszwicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "zjazd łęczycki",
+                "type": "wydarzenie",
+                "description": "wydarzenie z 1180 roku, w którym uczestniczył Onolf jako biskup kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "katedra romańska we Włocławku",
+                "type": "obiekt architektoniczny",
+                "description": "niezachowana katedra romańska, z którą związany był Onolf"
+            }
+        },
+        {
+            "subject": {
+                "name": "Onolf",
+                "type": "osoba",
+                "description": "biskup kruszwicki, potem kujawski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "szpital Św. Gotarda",
+                "type": "instytucja",
+                "description": "szpital nad Wisłą naprzeciw Włocławka, z którym związany był Onolf"
+            }
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "śpiewaczka operetkowa i operowa",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Frysztak",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie jasielskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Katowice",
+                "type": "miejscowość",
+                "description": "miasto na Śląsku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1927-11-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Kliszewski",
+                "type": "osoba",
+                "description": "aktor i śpiewak"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "H. Majeranowska, M. Szlezygierowa i Lamperi",
+                "type": "osoba",
+                "description": "nauczyciele śpiewu Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Lwowski",
+                "type": "instytucja",
+                "description": "główna scena występów Karoliny Kliszewskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr Polski w Katowicach",
+                "type": "instytucja",
+                "description": "instytucja, z którą była związana Karolina Kliszewska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska stawiała pierwsze kroki na scenie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "występ w operetce „Mikado”",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w operetce A. Sulivana „Mikado” w teatrze lwowskim w 1892 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "występ w teatrze «Nowym» w Warszawie",
+                "type": "wydarzenie",
+                "description": "występ Karoliny Kliszewskiej w roli Elizy w „O chlebie i wodzie” E. Jakobsona w 1893 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+                "type": "instytucja",
+                "description": "teatr objazdowy, w którym Karolina Kliszewska grała w latach 1895–6"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "śpiewaczka operetkowa i operowa"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miasto, gdzie Karolina Kliszewska reżyserowała „Jasia i Małgosię” i dawała lekcje śpiewu w 1920 roku"
+            }
+        }
+    ]
+}

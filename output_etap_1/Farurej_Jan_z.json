@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, zmarł w 1429 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, zmarł w 1430 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Zawisza",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1453-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, zmarł w 1429 roku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1429-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, zmarł w 1430 roku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1430-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan sieradzki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "bitwa pod Grunwaldem",
+                "type": "wydarzenie",
+                "description": "bitwa, w której Farurej Jan z Garbowa brał udział w 1410 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "turniej w Budzie",
+                "type": "wydarzenie",
+                "description": "turniej, w którym Farurej Jan z Garbowa brał udział w 1412 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "konfederacja korczyńska",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Farurej Jan z Garbowa brał udział w 1438 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "osoba, u której Farurej Jan z Garbowa służył"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław III",
+                "type": "osoba",
+                "description": "osoba, na rzecz której działał Farurej Jan z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Głowacz z Oleśnicy",
+                "type": "osoba",
+                "description": "osoba, z którą Farurej Jan z Garbowa dokonywał transakcji majątkowych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "walka w Bośni",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Farurej Jan z Garbowa brał udział w 1408 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przywilej jedlneński",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Farurej Jan z Garbowa świadkował w 1430 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyniesienie Władysława III na tron węgierski",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Farurej Jan z Garbowa brał czynny udział w 1440 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "400 grzywien na wsi Osobnica",
+                "type": "majątek",
+                "description": "zapisany majątek przez króla Władysława III za zasługi Farureja Jana z Garbowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka, ojciec Zawiszy, Piotra i Stefana"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wyprawa warneńska",
+                "type": "wydarzenie",
+                "description": "wydarzenie, w którym Farurej Jan z Garbowa dokonywał transakcji majątkowych z Janem Głowaczem z Oleśnicy"
+            }
+        }
+    ]
+}

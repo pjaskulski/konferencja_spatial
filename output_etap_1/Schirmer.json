@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wójt lubelski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Małgorzata",
+                "type": "osoba",
+                "description": "żona Wawrzyńca Schirmera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Wawrzyńca Schirmera"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "syn Wawrzyńca Schirmera, wójt lubelski przed 1415 rokiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "siostra Wawrzyńca Schirmera",
+                "type": "osoba",
+                "description": "siostra Wawrzyńca Schirmera, przez którą był spokrewniony z Wierzynkami"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Wierzynkowie",
+                "type": "osoba",
+                "description": "krewni Wawrzyńca Schirmera przez jego siostrę"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "dziedziczne wójtostwo w Lublinie",
+                "type": "majątek",
+                "description": "majątek wykupiony przez Wawrzyńca Schirmera od Zygmunta Wierzynka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1413-09-05",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wójt w Gródku",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "domy we Lwowie i Sandomierzu",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "kaplica św. Zofii na zamku lubelskim",
+                "type": "osiągnięcie",
+                "description": "ufundowana przez Wawrzyńca Schirmera przed 1406 rokiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "sołectwo w Konopnicy i folwark w Brunowicach",
+                "type": "majątek",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Sandomierz",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Konopnica",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Brunowice",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wawrzyniec Schirmer",
+                "type": "osoba",
+                "description": "wójt lubelski, zmarł ok. 1413"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": null
+            }
+        }
+    ]
+}

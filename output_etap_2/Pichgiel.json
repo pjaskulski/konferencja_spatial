@@ -1,0 +1,304 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1700-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku",
+                "type": "miejsce",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Barbara Biettin",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Johan Pichgiel",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Daniel Pichgiel",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Emanuel Pichgiel",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1684-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1724-05-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "warsztat rodziców",
+                "type": "instytucja",
+                "description": "miejsce nauki Christiana Pichgiela młodszego w latach 1689–1704"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "egzamin mistrzowski",
+                "type": "wydarzenie",
+                "description": "zdany 10 I 1716"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Matthias Pichel",
+                "type": "osoba",
+                "description": "stryj Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Hieronim Edel",
+                "type": "osoba",
+                "description": "nauczyciel Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starszy cechu",
+                "type": "urząd",
+                "description": "pełniony przez Christiana Pichgiela starszego w latach 1692 i 1697"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zastępca starszego cechu",
+                "type": "urząd",
+                "description": "pełniony przez Christiana Pichgiela starszego w latach 1691, 1696 i 1700"
+            }
+        },
+        {
+            "subject": {
+                "name": "Emanuel Pichgiel",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, czeladnik"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "czeladnik",
+                "type": "zawód",
+                "description": "zawód Emanuela Pichgiela"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański"
+            },
+            "predicate": {
+                "name": "hasCousin"
+            },
+            "object": {
+                "name": "Matthias Pichgiel młodszy",
+                "type": "osoba",
+                "description": "kuzyn Christiana Pichgiela starszego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": "zawód Christiana Pichgiela młodszego"
+            }
+        }
+    ]
+}

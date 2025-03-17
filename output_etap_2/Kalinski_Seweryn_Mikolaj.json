@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kaliński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Elżbieta z Oborskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jakub Kaliński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Marianna Wiktoria z Białynia Białyńska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Konstanty Kaliński",
+                "type": "osoba",
+                "description": "podkomorzy bracławski (1703)"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "rotmistrz królewski",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta bracławski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1663-00-00",
+                "type": "data",
+                "description": "Data śmierci jest przybliżona, ponieważ nie jest znana dokładna data."
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Aleksander Koniecpolski",
+                "type": "osoba",
+                "description": "chorąży koronny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Wiktoria z Białynia Białyńska",
+                "type": "osoba",
+                "description": null
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Andrzej Gołyński",
+                "type": "osoba",
+                "description": "drugi mąż Marianny Wiktorii z Białynia Białyńskiej po śmierci Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasProperty"
+            },
+            "object": {
+                "name": "Niedźwica",
+                "type": "miejscowość",
+                "description": "wieś w powiecie latyczowskim otrzymana przez Seweryna Mikołaja Kalińskiego za zasługi w walkach na Ukrainie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasProperty"
+            },
+            "object": {
+                "name": "Hołodki",
+                "type": "miejscowość",
+                "description": "wieś należąca do starostwa barskiego, trzymana w dożywotniej dzierżawie przez Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasProperty"
+            },
+            "object": {
+                "name": "Pustomyty",
+                "type": "miejscowość",
+                "description": "miejscowość wykupiona przez Seweryna Mikołaja Kalińskiego w 1649 roku od matki Marianny Wiktorii z Białynia Białyńskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "pułkownik",
+                "type": "zawód",
+                "description": "stopień wojskowy otrzymany przez Seweryna Mikołaja Kalińskiego w nagrodę za przejście na stronę Szwedów"
+            }
+        }
+    ]
+}

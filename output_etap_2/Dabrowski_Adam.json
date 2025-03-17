@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1848-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1920-10-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Zaklików",
+                "type": "miejscowość",
+                "description": "pow. lubelskim, w Królestwie Polskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jordan Dąbrowski",
+                "type": "osoba",
+                "description": "obywatel ziemski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Weronika Dąbrowska",
+                "type": "osoba",
+                "description": "z domu Paszkowska, obywatelka ziemska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Wiktor Dąbrowski",
+                "type": "osoba",
+                "description": "literat"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": "w Odessie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "sędzia śledczy",
+                "type": "zawód",
+                "description": "w Berdyczowie i Żytomierzu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "członek sądu wojskowego",
+                "type": "zawód",
+                "description": "w Odessie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "generał-lejtnant",
+                "type": "stopień wojskowy",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "korpus kadetów",
+                "type": "uczelnia",
+                "description": "w Brześciu Litewskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "akademia jurydyczna",
+                "type": "uczelnia",
+                "description": "w Petersburgu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Komitet Polski",
+                "type": "organizacja",
+                "description": "utworzony w 1914 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Piotrogradzkie Towarzystwo Pomocy Ofiarom Wojny",
+                "type": "organizacja",
+                "description": "utworzone w 1915 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Piotr Korejwa",
+                "type": "osoba",
+                "description": "generał, współpracownik w sądzie wojskowym w Odessie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ebiełow",
+                "type": "osoba",
+                "description": "generał gubernator, osoba, z którą interweniował Adam Dąbrowski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "kamienica",
+                "type": "własność",
+                "description": "wartości 120.000 rubli, przekazana w testamencie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie pod zarzutem kontrrewolucji",
+                "type": "wydarzenie",
+                "description": "przez bolszewików, miesiąc w więzieniu czrezwyczajki, rozstrzelany 9 X 1920"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "skarb rządu polskiego",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Oddział Pomocy Jeńcom Cywilnym i Wojskowym",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Weronika Dąbrowska",
+                "type": "osoba",
+                "description": "z domu Paszkowska, obywatelka ziemska"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Paszkowski",
+                "type": "osoba",
+                "description": "ojciec Weroniki Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "przytułek przy ul. Belwederskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ebiełow",
+                "type": "osoba",
+                "description": "generał gubernator, osoba, z którą interweniował Adam Dąbrowski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "generał gubernator",
+                "type": "urząd",
+                "description": null
+            }
+        }
+    ]
+}

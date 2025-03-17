@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Rostoka",
+                "type": "miejscowość",
+                "description": "wieś w obwodzie krasnostawskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Zagrzeb",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1847",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Józef",
+                "type": "osoba",
+                "description": "rolnik i duchowny grekokatolicki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Powstanie listopadowe",
+                "type": "wydarzenie",
+                "description": "powstanie 1830/31 r."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "emigrant",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1803",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podporucznik w 16. pułku piechoty liniowej",
+                "type": "stanowisko",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie przez policję austriacką w Galicji",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "śmierć w więzieniu",
+                "type": "przyczyna śmierci",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Lew Borysowicz",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Wasyl Gliński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda kijowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wojewoda nowogrodzki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1522-00-00",
+                "type": "data",
+                "description": "Iwan Gliński zmarł przed 1522 rokiem."
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dworzanin królewski",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "marszałek hospodarski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "chorąży ziemski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "namiestnik przełomski i ożski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
+            },
+            "predicate": {
+                "name": "hasSignificantFigure"
+            },
+            "object": {
+                "name": "Aleksander Jagiellończyk",
+                "type": "osoba",
+                "description": "wielki książę litewski"
+            }
+        }
+    ]
+}

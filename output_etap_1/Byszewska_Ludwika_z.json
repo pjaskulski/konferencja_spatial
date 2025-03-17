@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Antoni Gintowt",
+                "type": "osoba",
+                "description": "Ojciec Ludwiki Byszewskiej, miecznik bełski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "Szambelan dworu i pułkownik, później generał-major wojsk koronnych."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "Szambelan dworu i pułkownik, później generał-major wojsk koronnych."
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "dateOfMarriage"
+            },
+            "object": {
+                "name": "1774-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "Szambelan dworu i pułkownik, później generał-major wojsk koronnych."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1792-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "O edukacji fizycznej i moralnej płci żeńskiej",
+                "type": "dzieło",
+                "description": "Traktat ogłoszony drukiem w 1789 roku, przełożony z francuskiego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Franciszek Karpiński",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Joachim Gintowt",
+                "type": "osoba",
+                "description": "Sekretarz Komisji Edukacji Narodowej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Stanisław August",
+                "type": "osoba",
+                "description": "Król Polski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Kanclerz Sapieha",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Biskup Massalski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Śniadecki",
+                "type": "osoba",
+                "description": "Wysłannik Szkoły Głównej."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tomasz Aleksandrowicz",
+                "type": "osoba",
+                "description": "Wojewoda podlaski."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Sievers",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Repnin",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Rudka i Mierzwica",
+                "type": "miejscowość",
+                "description": "Wsie podlaskie, które Józef Byszewski otrzymał przywilejem królewskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Fajsławice",
+                "type": "miejscowość",
+                "description": "Dobra w województwie lubelskim, które Ludwika Byszewska otrzymała po rozwodzie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "wsie w województwie krakowskim",
+                "type": "miejscowość",
+                "description": "Wsie niegdyś zakonne, które Ludwika Byszewska otrzymała po rozwodzie."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "proces o królewszczyznę Lachowicze",
+                "type": "wydarzenie",
+                "description": "Proces majątkowy dotyczący królewszczyzny Lachowicze w województwie nowogródzkim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "proces z Tomaszem Aleksandrowiczem",
+                "type": "wydarzenie",
+                "description": "Proces o królewszczyzny Rudkę i Mierzwicę, który zakończył się w 1798 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "sprawa z Szkołą Główną krakowską",
+                "type": "wydarzenie",
+                "description": "Sprawa o dzierżawę dóbr w opactwie miechowskim."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "Ludwika z Gintowtów-Dziewiałtowskich, h. Trąby, urodzona ok. 1758 roku."
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "folwark Lisa",
+                "type": "miejscowość",
+                "description": "Folwark pod Brańskiem, gdzie Ludwika Byszewska osiadła po wyjeździe z Warszawy."
+            }
+        }
+    ]
+}

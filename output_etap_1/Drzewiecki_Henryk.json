@@ -1,0 +1,424 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "artysta śpiewak",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "doktor praw",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "rozprawy w zakresie historii notariatu w Polsce",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Wyszków nad Bugiem",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1937-10-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Radom",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Petersburg",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Konserwatorium w Petersburgu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Gabel",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Cotogni",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Barbaccini",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "debiut w 1899 roku",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Livorno",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Modena",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wenecja",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "pierwszy tenor liryczny opery we Lwowie",
+                "type": "stanowisko",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tadeusz Pawlikowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "prapremiery oper Erazma Dłuskiego i Henryka Skirmunta",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "występy w operach różnych kompozytorów",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "ustąpienie ze sceny przed wybuchem pierwszej wojny światowej",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia okręgowy w Radomiu",
+                "type": "stanowisko",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "zawód rejentalny",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "O izbach notarialnych",
+                "type": "dzieło",
+                "description": "rozprawa prawniczo-historyczna wydana w 1927 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Studia i materiały do dziejów notariatu w Polsce",
+                "type": "dzieło",
+                "description": "rozprawa prawniczo-historyczna wydana w 1928 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Zarys dziejów notariatu w Polsce",
+                "type": "dzieło",
+                "description": "rozprawa prawniczo-historyczna wydana w 1929 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1873-00-00",
+                "type": "data",
+                "description": null
+            }
+        }
+    ]
+}

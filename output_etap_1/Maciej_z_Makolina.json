@@ -1,0 +1,394 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "sekretarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1498-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1576-12-30",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kolegiata w Pułtusku",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "zapewne Hukleja, tj. Ukleja, wójt w Mąkolinie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna z Kośnińskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "wójt knyszyński"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "doktor obojga praw, późniejszy opat płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Filip",
+                "type": "osoba",
+                "description": "kanonik pułtuski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zygmunt",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Królowa Bona",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Zygmunt August",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Kaleczyce",
+                "type": "miejscowość",
+                "description": "majętność w powiecie lidzkim w W. Ks. Lit."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Mąkolin",
+                "type": "miejscowość",
+                "description": "wieś biskupów płockich w ziemi wyszogrodzkiej na Mazowszu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Pułtusk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "herb Kotwicz",
+                "type": "tytuł szlachecki",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "prebendy w Koronie i na Litwie",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "nobilitacja na sejmie 25 I 1533",
+                "type": "osiągnięcie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "socialStatus"
+            },
+            "object": {
+                "name": "plebejusz",
+                "type": "status społeczny",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "hasEducation"
+            },
+            "object": {
+                "name": "wyższe wykształcenie",
+                "type": "edukacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "dwór ostatnich książąt mazowieckich",
+                "type": "miejsce",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Andrzej Krzycki",
+                "type": "osoba",
+                "description": "biskup płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "herb Kotwicz Krzyckich",
+                "type": "herb",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Biskup Dantyszek",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz (ok. 1498–1576), sekretarz królowej Bony i Zygmunta Augusta"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "nagrobek w katedrze płockiej",
+                "type": "dzieło",
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "starosta bracławski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rotmistrz królewski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kaliński",
+                "type": "osoba",
+                "description": "ojciec Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Elżbieta z Oborskich",
+                "type": "osoba",
+                "description": "matka Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Jakub Kaliński",
+                "type": "osoba",
+                "description": "młodszy brat Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Marianna Wiktoria z Białynia Białyńska",
+                "type": "osoba",
+                "description": "żona Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Konstanty Kaliński",
+                "type": "osoba",
+                "description": "syn Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1663-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Kaliński",
+                "type": "osoba",
+                "description": "syn Seweryna Mikołaja Kalińskiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "podkomorzy bracławski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dowódca chorągwi pancernej",
+                "type": "zawód",
+                "description": "dowódca chorągwi pancernej w pułku chorążego koronnego Aleksandra Koniecpolskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "objęcie stanowiska starosty bracławskiego",
+                "type": "wydarzenie",
+                "description": "objęcie stanowiska starosty bracławskiego w 1653 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Niedźwica",
+                "type": "miejscowość",
+                "description": "wieś w powiecie latyczowskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Pustomyty",
+                "type": "miejscowość",
+                "description": "wieś wykupiona od matki żony Seweryna Mikołaja Kalińskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "hasAssets"
+            },
+            "object": {
+                "name": "Hołodki",
+                "type": "miejscowość",
+                "description": "wieś należąca do starostwa barskiego, trzymana w dożywotniej dzierżawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przejście na stronę Szwedów",
+                "type": "wydarzenie",
+                "description": "przejście na stronę Szwedów i złożenie przysięgi na wierność Karolowi Gustawowi w 1655 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "pułkownik",
+                "type": "zawód",
+                "description": "stanowisko otrzymane w nagrodę za przejście na stronę Szwedów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przejście do Stefana Czarnieckiego",
+                "type": "wydarzenie",
+                "description": "przejście ze swoimi chorągwiami do Stefana Czarnieckiego w 1656 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "ukaranie za służbę u Szwedów",
+                "type": "wydarzenie",
+                "description": "ukaranie odsądzeniem od żołdu za trzy kwartały za służbę u Szwedów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Kaliński",
+                "type": "osoba",
+                "description": "syn Seweryna Mikołaja Kalińskiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "pełnienie funkcji podkomorzego bracławskiego",
+                "type": "wydarzenie",
+                "description": "pełnienie funkcji podkomorzego bracławskiego w 1703 roku"
+            }
+        }
+    ]
+}

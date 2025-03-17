@@ -1,0 +1,379 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kotiużany",
+                "type": "miejscowość",
+                "description": "na Podolu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1931-12-30",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Henryk Dzierżek",
+                "type": "osoba",
+                "description": "ojciec Natalii Dzierżek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Maria z Piątkowskich Nieczuja-Dzierżków",
+                "type": "osoba",
+                "description": "matka Natalii Dzierżek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Henryk Piątkowski",
+                "type": "osoba",
+                "description": "artysta malarz, wuj Natalii Dzierżek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych",
+                "type": "uczelnia",
+                "description": "w Odessie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "Sokoły",
+                "type": "organizacja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "Deportacja do Archangielska",
+                "type": "wydarzenie",
+                "description": "aresztowanie i deportacja w 1895 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Mariusz Zaruski",
+                "type": "osoba",
+                "description": "współwięzień Natalii Dzierżek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Teresa z Wołowskich Prażmowska",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "Nagroda na konkursie »Gazety Świątecznej«",
+                "type": "osiągnięcie",
+                "description": "za utwór Bartłomiej Słomka. Gawęda w 1900 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Jerzy Orwicz",
+                "type": "pseudonim",
+                "description": "pseudonim literacki Natalii Dzierżek"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "literatka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "artystka-malarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działaczka społeczna",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka rysunku",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "redaktorka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Żywot wodza narodu (T. Kościuszki)",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kurier Warszawski",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kronika Rolnicza",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Deportacja do Archangielska",
+                "type": "wydarzenie",
+                "description": "aresztowanie i deportacja w 1895 roku"
+            },
+            "predicate": {
+                "name": "dateOfEvent"
+            },
+            "object": {
+                "name": "1895-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Piątkowski",
+                "type": "osoba",
+                "description": "artysta malarz, wuj Natalii Dzierżek"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "artysta malarz",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
+            }
+        }
+    ]
+}

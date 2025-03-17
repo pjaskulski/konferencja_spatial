@@ -1,0 +1,334 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Cmentarz Powązkowski",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Koźniewski",
+                "type": "osoba",
+                "description": "ojciec Marii Koźniewskiej–Kalinowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Józefa z Jasiobędzkich",
+                "type": "osoba",
+                "description": "matka Marii Koźniewskiej–Kalinowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Wacław Kalinowski",
+                "type": "osoba",
+                "description": "mąż Marii Koźniewskiej–Kalinowskiej, zmarł w 1944 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Ludomir Benedyktowicz",
+                "type": "osoba",
+                "description": "nauczyciel rysunku Marii Koźniewskiej–Kalinowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Józef Pankiewicz",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Marii Koźniewskiej–Kalinowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Académie Vitty i Académie Colarossi",
+                "type": "instytucja",
+                "description": "miejsca studiów Marii Koźniewskiej–Kalinowskiej w Paryżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "A. de la Gandara i Luc Olivier-Merson",
+                "type": "osoba",
+                "description": "nauczyciele Marii Koźniewskiej–Kalinowskiej w Paryżu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Olga Boznańska",
+                "type": "osoba",
+                "description": "przyjaciółka Marii Koźniewskiej–Kalinowskiej, udzielała jej wskazówek artystycznych"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Union Internationale des Beaux-Arts et des Lettres w Paryżu",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Tow. Zachęty Sztuk Pięknych w Warszawie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Polskie Tow. Artystyczne",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Polskich Artystów Plastyków",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1875-08-25",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1968-07-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka matematyki i rysunku",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "pierwszy medal za akt w Académie Colarossi",
+                "type": "osiągnięcie",
+                "description": "otrzymany w 1903 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "medal brązowy za Portret panny Mili H.",
+                "type": "osiągnięcie",
+                "description": "otrzymany na Salonie w Tow. Zachęty Sztuk Pięknych w Warszawie w 1930 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Koźniewska–Kalinowska",
+                "type": "osoba",
+                "description": "malarka, portrecistka, członkini Union Internationale des Beaux-Arts et des Lettres w Paryżu, Tow. Zachęty Sztuk Pięknych w Warszawie, Polskiego Tow. Artystycznego i Związku Polskich Artystów Plastyków."
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Muzeum Narodowe w Warszawie",
+                "type": "instytucja",
+                "description": null
+            }
+        }
+    ]
+}

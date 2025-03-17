@@ -1,0 +1,214 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1637",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1598",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Akademia Krakowska",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kustosz kolegiaty św. Małgorzaty",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "wikariusz",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wojciech Łopacki",
+                "type": "osoba",
+                "description": "rajca miejski i balwierz, odszczepieniec"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kamionka Wielka",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej",
+                "type": "osiągnięcie",
+                "description": "stworzone w 1631 roku, oparte o kapitał wieczysty 1000 złp"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "osoba",
+                "type": "typ",
+                "description": null
+            }
+        }
+    ]
+}

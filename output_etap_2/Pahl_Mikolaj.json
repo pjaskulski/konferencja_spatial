@@ -1,0 +1,274 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1595-04-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1649-08-21",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "obywatel gdański"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna von Domfsdorff",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasStepfather"
+            },
+            "object": {
+                "name": "Konstanty Ferber",
+                "type": "osoba",
+                "description": "burmistrz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Anna von Thielen",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Konstanty Pahl",
+                "type": "osoba",
+                "description": "burmistrz gdański w l. 1687–91"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "dyplom nobilitacyjny",
+                "type": "osiągnięcie",
+                "description": "otrzymany od cesarza Ferdynanda II"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Toruń"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "rajca",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "sędzia",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Pahl",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "inspektor kancelarii i archiwum",
+                "type": "urząd",
+                "description": "funkcja dożywotnia"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Pahl",
+                "type": "osoba",
+                "description": "burmistrz gdański w l. 1687–91"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": "burmistrz gdański w l. 1687–91"
+            }
+        }
+    ]
+}

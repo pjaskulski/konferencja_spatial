@@ -1,0 +1,454 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "gubernator księstwa słuckiego i kopylskiego",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "drukarnia słucka",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Stanisław Kłokocki",
+                "type": "osoba",
+                "description": "sędzia ziemi zawkrzeńskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Mazowsze",
+                "type": "miejscowość",
+                "description": "region, z którego pochodził Kazimierz Krzysztof Kłokocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "Orlean",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "znajomość wielu języków",
+                "type": "osiągnięcie",
+                "description": "łacina, greka, niemiecki, francuski, turecki, tatarski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Ferdynand",
+                "type": "osoba",
+                "description": "królewicz, biskup płocki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "bitwa pod Batohem",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "bitwa pod Modlinem",
+                "type": "wydarzenie",
+                "description": "bitwa przeciwko Szwedom"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bogusław Radziwiłł",
+                "type": "osoba",
+                "description": "ojciec Ludwiki Karoliny"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ludwika Karolina Radziwiłł",
+                "type": "osoba",
+                "description": "córka Bogusława Radziwiłła"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "opór przeciwko Iwanowi Chowańskiemu",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "poseł na sejm",
+                "type": "urząd",
+                "description": "poseł na sejm w 1677 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "pułkownik JKM",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Starzynki",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1684-10-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Słuck",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "dateOfBurial"
+            },
+            "object": {
+                "name": "1685-02-20",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Jan Hieronim Kłokocki",
+                "type": "osoba",
+                "description": "chorąży rzeczycki, później jezuita"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Regina Teofila Mirska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "bibliotekarz nacji germańskiej",
+                "type": "zawód",
+                "description": "funkcja pełniona w Orleanie w 1645 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "dworzanin",
+                "type": "zawód",
+                "description": "dworzanin królewicza Karola Ferdynanda, biskupa płockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "zarządca fortecy w Słucku",
+                "type": "zawód",
+                "description": "zarządca fortecy w Słucku od 1660 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "stolnik płocki",
+                "type": "zawód",
+                "description": "stolnik płocki w 1665 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "opiekun i ekonom dóbr Ludwiki Karoliny Radziwiłł",
+                "type": "zawód",
+                "description": "jeden z 12 opiekunów i jeden z 3 ekonomów dóbr Ludwiki Karoliny Radziwiłł na Litwie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Monarchia turecka, Żywot Mahometa, Opisanie Alkoranu",
+                "type": "dzieło",
+                "description": "dzieła tłumaczone przez Kazimierza Krzysztofa Kłokockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zbigniew Morsztyn",
+                "type": "osoba",
+                "description": "wybitny poeta ariański, przyjaciel Kazimierza Krzysztofa Kłokockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "religiousAffiliation"
+            },
+            "object": {
+                "name": "katolicyzm",
+                "type": "wyznanie",
+                "description": "przynależność religijna Kazimierza Krzysztofa Kłokockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "zapalony bibliofil",
+                "type": "osiągnięcie",
+                "description": "pasja do książek i literatury Kazimierza Krzysztofa Kłokockiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Krzysztof Kłokocki",
+                "type": "osoba",
+                "description": "gubernator księstwa słuckiego i kopylskiego, organizator drukarni słuckiej"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Słuck, Brańczyce, Starzynki, Rumoka",
+                "type": "miejscowość",
+                "description": "miejsca związane z Kazimierzem Krzysztofem Kłokockim"
+            }
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako syn Mikołaja, kasztelana sieradzkiego., Z kontekstu wynika, że Mikołaj jest ojcem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako brat Zawiszy Czarnego., Z kontekstu wynika, że Zawisza Czarny jest bratem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako brat Piotra Kruczka., Z kontekstu wynika, że Piotr Kruczek jest bratem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Zawisza",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Z kontekstu wynika, że Zawisza jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Z kontekstu wynika, że Piotr jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa jest wymieniony jako ojciec Zawiszy, Piotra i Stefana., Z kontekstu wynika, że Stefan jest synem Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1453-00-00",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Farurej Jan z Garbowa zmarł w 1453 roku., Data śmierci jest podana w tekście jako rok 1453.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": "rycerz polski z XV wieku"
+            },
+            "reasoning": "Farurej Jan z Garbowa był rycerzem polskim w XV wieku., Z kontekstu wynika, że jego zawód to rycerz.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "reasoning": "Farurej Jan z Garbowa był bratem Zawiszy Czarnego, który był znanym rycerzem., Zawisza Czarny jest wymieniony jako brat Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "reasoning": "Farurej Jan z Garbowa był bratem Piotra Kruczka, który był znanym rycerzem., Piotr Kruczek jest wymieniony jako brat Farureja Jana z Garbowa.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "osoba, u której Farurej Jan z Garbowa służył"
+            },
+            "reasoning": "Farurej Jan z Garbowa był w służbie u Zygmunta Luksemburskiego, co jest wyraźnie zaznaczone w tekście., Zygmunt Luksemburski jest wymieniony jako osoba, u której Farurej Jan z Garbowa służył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "bitwa pod Grunwaldem",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w bitwie pod Grunwaldem jako jedno z osiągnięć Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa brał udział w bitwie pod Grunwaldem, co jest wyraźnie zaznaczone w tekście., Bitwa pod Grunwaldem jest historycznym wydarzeniem, w którym uczestniczył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "turniej w Budzie",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w turnieju w Budzie w 1412 roku jako jedno z osiągnięć Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa uczestniczył w turnieju w Budzie w 1412 roku, co jest wyraźnie zaznaczone w tekście., Turniej w Budzie jest historycznym wydarzeniem, w którym uczestniczył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "konfederacja korczyńska",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w konfederacji korczyńskiej w 1438 roku jako jedno z osiągnięć Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa brał udział w konfederacji korczyńskiej w 1438 roku, co jest wyraźnie zaznaczone w tekście., Konfederacja korczyńska jest historycznym wydarzeniem, w którym uczestniczył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "wyniesienie Władysława III na tron węgierski",
+                "type": "wydarzenie",
+                "description": "zaangażowanie w wyniesienie Władysława III na tron węgierski w 1440 roku jako jedno z osiągnięć Farureja Jana z Garbowa"
+            },
+            "reasoning": "Farurej Jan z Garbowa był zaangażowany w wyniesienie Władysława III na tron węgierski w 1440 roku, co jest wyraźnie zaznaczone w tekście., Wyniesienie Władysława III na tron węgierski jest historycznym wydarzeniem, w którym uczestniczył.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Jan Głowacz z Oleśnicy",
+                "type": "osoba",
+                "description": "osoba, z którą Farurej Jan z Garbowa dokonywał transakcji majątkowych"
+            },
+            "reasoning": "Farurej Jan z Garbowa współpracował z Janem Głowaczem z Oleśnicy, co jest wyraźnie zaznaczone w tekście., Jan Głowacz z Oleśnicy jest wymieniony jako osoba, z którą Farurej Jan z Garbowa dokonywał transakcji majątkowych.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan sieradzki",
+                "type": "urząd",
+                "description": null
+            },
+            "reasoning": "Mikołaj jest wymieniony jako kasztelan sieradzki w tekście., Funkcja kasztelana jest urzędem, co pozwala na zidentyfikowanie relacji positionHeld.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": "znany rycerz polski"
+            },
+            "reasoning": "Zawisza Czarny jest wymieniony jako brat Farureja Jana z Garbowa w tekście., Relacja braterska jest już zidentyfikowana w istniejących relacjach, więc nie ma potrzeby jej ponownego dodawania.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski"
+            },
+            "reasoning": "Piotr Kruczek jest wymieniony jako brat Zawiszy Czarnego w tekście., Zawisza Czarny jest już zidentyfikowany jako brat Farureja Jana z Garbowa., Zatem Piotr Kruczek jest również bratem Zawiszy Czarnego.",
+            "result": true
+        }
+    ]
+}

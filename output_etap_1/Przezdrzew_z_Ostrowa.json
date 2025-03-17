@@ -1,0 +1,154 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kruszwicki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Gerward",
+                "type": "osoba",
+                "description": "brat Przezdrzewa z Ostrowa, biskup kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "hasNephew"
+            },
+            "object": {
+                "name": "Maciej z Gołańczy",
+                "type": "osoba",
+                "description": "wuj Przezdrzewa z Ostrowa, biskup kujawski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Maciej z Ostrowa",
+                "type": "osoba",
+                "description": "sędzia brzeski kujawski, ojciec Przezdrzewa z Ostrowa"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1341-00-00/1344-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan z Ostrowa",
+                "type": "osoba",
+                "description": "starszy brat Przezdrzewa z Ostrowa, poprzedni kasztelan kruszwicki"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "kasztelan kruszwicki",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": "król Polski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Świecie",
+                "type": "miejscowość",
+                "description": "miejscowość na Pomorzu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Pomorze",
+                "type": "region geograficzny",
+                "description": "region geograficzny w Polsce"
+            }
+        },
+        {
+            "subject": {
+                "name": "Przezdrzew z Ostrowa",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki, brat Gerwarda, wuj Macieja z Gołańczy, syn sędziego brzeskiego kujawskiego Macieja z Ostrowa"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "proces polsko-krzyżacki z 1339 roku",
+                "type": "wydarzenie",
+                "description": "proces, w którym Przezdrzew z Ostrowa był świadkiem"
+            }
+        }
+    ]
+}

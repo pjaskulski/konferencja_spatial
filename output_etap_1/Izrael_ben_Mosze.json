@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "matematyk",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Zamość",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Brody",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Necach Israel",
+                "type": "dzieło",
+                "description": "pierwsze dzieło popularnonaukowe z zakresu matematyki i astronomii w kulturze polskich Żydów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Mojżesz Mendelsohn",
+                "type": "osoba",
+                "description": "późniejszy ideolog oświecenia Żydów niemieckich"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Lessing",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Nicolai",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "causeOfDeath"
+            },
+            "object": {
+                "name": "choroba melancholii",
+                "type": "przyczyna śmierci",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1700-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1772-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "gmina zamojska",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Berlin",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Polska",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Salomon Majmon",
+                "type": "osoba",
+                "description": "współczesny Izraelowi ben Mosze"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk"
+            }
+        }
+    ]
+}

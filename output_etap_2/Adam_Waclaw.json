@@ -1,0 +1,480 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława"
+            },
+            "reasoning": "Adam Wacław jest wymieniony jako syn Wacława Adama i Katarzyny Sydonji., Wacław Adam jest wymieniony jako ojciec Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Katarzyna Sydonja",
+                "type": "osoba",
+                "description": "księżniczka saska, matka Adama Wacława"
+            },
+            "reasoning": "Adam Wacław jest wymieniony jako syn Wacława Adama i Katarzyny Sydonji., Katarzyna Sydonja jest wymieniona jako matka Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasWife"
+            },
+            "object": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "córka księcia kurlandzkiego"
+            },
+            "reasoning": "Adam Wacław jest wymieniony jako mąż Elżbiety, córki księcia kurlandzkiego Kettlera., Elżbieta jest wymieniona jako żona Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Fryderyk Wilhelm",
+                "type": "osoba",
+                "description": "ostatni cieszyński Piast męski"
+            },
+            "reasoning": "Adam Wacław jest wymieniony jako ojciec Fryderyka Wilhelma., Fryderyk Wilhelm jest wymieniony jako syn Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasDaughter"
+            },
+            "object": {
+                "name": "Elżbieta Lukrecja",
+                "type": "osoba",
+                "description": "ostatnia Piastówna"
+            },
+            "reasoning": "Adam Wacław jest wymieniony jako ojciec Elżbiety Lukrecji., Elżbieta Lukrecja jest wymieniona jako córka Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1574-12-12",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Adam Wacław urodził się 12 grudnia 1574 roku., Data urodzenia Adama Wacława to 1574-12-12.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1617-07-13",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Adam Wacław zmarł 13 lipca 1617 roku w Cieszynie na Brandysie., Data śmierci Adama Wacława to 1617-07-13.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "dateOfBurial"
+            },
+            "object": {
+                "name": "1618-04-04",
+                "type": "data",
+                "description": null
+            },
+            "reasoning": "Adam Wacław został pochowany 4 kwietnia 1618 roku w kościele dominikanów cieszyńskich., Data pochówku Adama Wacława to 1618-04-04.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "kościół dominikanów cieszyńskich",
+                "type": "obiekt fizjograficzny",
+                "description": null
+            },
+            "reasoning": "Adam Wacław został pochowany w kościele dominikanów cieszyńskich., Miejsce pochówku Adama Wacława to kościół dominikanów cieszyńskich.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "książę cieszyński",
+                "type": "urząd",
+                "description": null
+            },
+            "reasoning": "Adam Wacław był księciem cieszyńskim., Jego tytuł wskazuje na pełnioną funkcję władcy w Księstwie Cieszyńskim.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "książę górnogłogowski",
+                "type": "urząd",
+                "description": null
+            },
+            "reasoning": "Adam Wacław był księciem górnogłogowskim, choć tego księstwa już nie posiadał., Jego tytuł wskazuje na pełnioną funkcję władcy w Księstwie Górnogłogowskim.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "wojskowy",
+                "type": "zawód",
+                "description": null
+            },
+            "reasoning": "Adam Wacław wstąpił do służby w wojsku cesarskim., Jego działalność wojskowa wskazuje na zawód związany z wojskiem.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank"
+            },
+            "object": {
+                "name": "dowódca oddziału jazdy",
+                "type": "stopień wojskowy",
+                "description": null
+            },
+            "reasoning": "Adam Wacław był dowódcą oddziału jazdy w wojsku cesarskim., Jego stanowisko w wojsku wskazuje na stopień wojskowy.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "religiousAffiliation"
+            },
+            "object": {
+                "name": "katolicyzm",
+                "type": "religia",
+                "description": null
+            },
+            "reasoning": "Adam Wacław przeszedł na katolicyzm w 1610 roku., Zmiana wyznania wskazuje na przynależność religijną.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kalwaria Zebrzydowska",
+                "type": "instytucja",
+                "description": null
+            },
+            "reasoning": "Adam Wacław zorganizował pielgrzymkę do Kalwarii Zebrzydowskiej w 1614 roku., Jego działalność religijna wskazuje na związki z Kalwarią Zebrzydowską.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "relatedOrganisation"
+            },
+            "object": {
+                "name": "dominikanie cieszyńscy",
+                "type": "organizacja",
+                "description": null
+            },
+            "reasoning": "Adam Wacław zwrócił kościół i klasztor dominikanom cieszyńskim., Jego działalność religijna wskazuje na związki z dominikanami cieszyńskimi.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "dwór elektora saskiego",
+                "type": "instytucja",
+                "description": null
+            },
+            "reasoning": "Adam Wacław był związany z dworem elektora saskiego przez 8 lat., Jego edukacja i wychowanie wskazują na związki z dworem elektora saskiego.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Mikołaj Zebrzydowski",
+                "type": "osoba",
+                "description": "wojewoda, fundator Kalwarii Zebrzydowskiej"
+            },
+            "reasoning": "Adam Wacław był związany z wojewodą Mikołajem Zebrzydowskim podczas pielgrzymki do Kalwarii Zebrzydowskiej., Jego działalność religijna wskazuje na związki z Mikołajem Zebrzydowskim.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Fryderyk Kazimierz",
+                "type": "osoba",
+                "description": "brat przyrodni Adama Wacława"
+            },
+            "reasoning": "Adam Wacław był synem Wacława Adama i Katarzyny Sydonji, co wskazuje na relację rodzinną., Katarzyna Sydonja była drugą żoną Wacława Adama, co oznacza, że Adam Wacław miał przyrodniego brata., Fryderyk Kazimierz jest wymieniony jako brat przyrodni Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Cieszyn na Brandysie",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Adama Wacława"
+            },
+            "reasoning": "Adam Wacław zmarł w Cieszynie na Brandysie, co wskazuje na miejsce śmierci., Cieszyn na Brandysie jest wymieniony jako miejsce, gdzie Adam Wacław umarł.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "dwór elektora saskiego"
+            },
+            "reasoning": "Adam Wacław był wychowywany na dworze elektora saskiego przez 8 lat., Dwór elektora saskiego jest wymieniony jako miejsce wychowania Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem"
+            },
+            "reasoning": "Adam Wacław miał przyjacielski stosunek do poddanych, zwłaszcza mieszczan cieszyńskich., Mieszczanie cieszyńscy są wymienieni jako grupa, z którą Adam Wacław miał bliskie relacje.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem"
+            },
+            "reasoning": "Adam Wacław zaciągał długi, a jego poddani, rycerstwo i miasta byli ręczycielami jego zobowiązań., Rycerstwo i miasta są wymienione jako grupy, które były zaangażowane w spłacanie długów Adama Wacława.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława"
+            },
+            "reasoning": "Wacław Adam jest wymieniony jako ojciec Adama Wacława w tekście., Relacja między Adamem Wacławem a Wacławem Adamem to 'hasFather'.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "córka księcia kurlandzkiego"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "książę kurlandzki",
+                "type": "osoba",
+                "description": "ojciec Elżbiety Kettler"
+            },
+            "reasoning": "Z tekstu wynika, że Elżbieta Kettler jest córką księcia kurlandzkiego., Relacja ta wskazuje na ojcostwo, gdzie ojcem jest książę kurlandzki.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Zebrzydowski",
+                "type": "osoba",
+                "description": "wojewoda, fundator Kalwarii Zebrzydowskiej"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Kalwaria Zebrzydowska",
+                "type": "instytucja",
+                "description": null
+            },
+            "reasoning": "Mikołaj Zebrzydowski jest opisany jako fundator Kalwarii Zebrzydowskiej., Kalwaria Zebrzydowska jest już zidentyfikowana jako instytucja związana z Adamem Wacławem., Zatem Mikołaj Zebrzydowski ma relację z Kalwarią Zebrzydowską jako jej fundator.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem"
+            },
+            "reasoning": "Z tekstu wynika, że 'mieszczanie cieszyńscy' to grupa społeczna związana z Adamem Wacławem., Relacja ta została już zidentyfikowana w poprzednich analizach.",
+            "result": true
+        },
+        {
+            "subject": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem"
+            },
+            "reasoning": "Z tekstu wynika, że 'rycerstwo i miasta' to grupy społeczne związane z Adamem Wacławem., Relacja ta została już wcześniej zidentyfikowana i nie ma potrzeby jej ponownego dodawania.",
+            "result": true
+        }
+    ]
+}

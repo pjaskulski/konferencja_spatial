@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1866-12-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1913-12-27",
+                "type": "data",
+                "description": "Data przybliżona, zmarła kilka dni po pogrzebie męża."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "cmentarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Marianna Wiśniewska",
+                "type": "osoba",
+                "description": "z domu Matusiewicz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "Tomasz Szczygielski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "szkoła sztuk pięknych w Rouen",
+                "type": "instytucja",
+                "description": "Francja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "szkoła sztuk pięknych w Paryżu",
+                "type": "instytucja",
+                "description": "Francja"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "krawiec",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "prowadzenie filii wiedeńskiej farbiarni i pralni chemicznej",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "urzędnik pocztowy",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "František Hovorka",
+                "type": "osoba",
+                "description": "redaktor"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Irma Raichova",
+                "type": "osoba",
+                "description": "primadonna opery praskiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Bogucka",
+                "type": "osoba",
+                "description": "primadonna opery praskiej"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1843",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Wiśniewska",
+                "type": "osoba",
+                "description": "z domu Matusiewicz"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1846",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Jadwiga Wiśniewska",
+                "type": "osoba",
+                "description": "ur. 1873"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasSister"
+            },
+            "object": {
+                "name": "Maryla Wiśniewska",
+                "type": "osoba",
+                "description": "ur. 1875"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Włodzimierz Wiśniewski",
+                "type": "osoba",
+                "description": "1874–1911"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasBrother"
+            },
+            "object": {
+                "name": "Tadeusz Wiśniewski",
+                "type": "osoba",
+                "description": "1876–1882"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Kwiaty",
+                "type": "dzieło",
+                "description": "obraz wystawiony w TZSP w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "kompozycje dekoracyjne",
+                "type": "dzieło",
+                "description": "pokazane we Lwowie, za które otrzymała wielki srebrny medal"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "obrazy",
+                "type": "dzieło",
+                "description": "wystawione w TPSP w Krakowie w 1897 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "prowadzenie kursów rysunków, malarstwa i modelowania w glinie",
+                "type": "zawód",
+                "description": "w latach 1903–1906"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "lwowska Rada Szkolna Okręgowa",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Związek Czeskich Kobiet",
+                "type": "instytucja",
+                "description": "Ustředni Spolek Českych Žen"
+            }
+        }
+    ]
+}

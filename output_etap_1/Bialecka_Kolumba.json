@@ -1,0 +1,289 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1838-08-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1887-03-18",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Jaśniszcze",
+                "type": "miejscowość",
+                "description": "miejscowość koło Podkamienia w powiecie brodzkim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Franciszek Białecki",
+                "type": "osoba",
+                "description": "dziedzic wioski Jaśniszcze"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Anna Ernestyna z Radziejowskich",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "klasztor Sacré Coeur we Lwowie",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "zgromadzenie ss. dominikanek III Zakonu regularnego w Polsce",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Nancy",
+                "type": "miejscowość",
+                "description": "miejscowość w Lotaryngii"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wielowieś",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Bieliny",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Tyczyn",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Rawa Ruska",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wincenty Jandel",
+                "type": "osoba",
+                "description": "generał zakonu oo. dominikanów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "złożenie ślubów zakonnych",
+                "type": "wydarzenie",
+                "description": "złożenie ślubów zakonnych w 1859 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie habitu dominikanek życia czynnego",
+                "type": "wydarzenie",
+                "description": "przyjęcie habitu dominikanek życia czynnego w 1858 roku w Nancy"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "założenie pierwszego macierzystego domu zakonnego",
+                "type": "wydarzenie",
+                "description": "założenie pierwszego macierzystego domu zakonnego w Wielowsi w 1861 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Bielinach",
+                "type": "wydarzenie",
+                "description": "przyjęcie fundacji klasztoru w Bielinach w 1870 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Tyczynie",
+                "type": "wydarzenie",
+                "description": "przyjęcie fundacji klasztoru w Tyczynie w 1878 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "przyjęcie fundacji klasztoru w Rawie Ruskiej",
+                "type": "wydarzenie",
+                "description": "przyjęcie fundacji klasztoru w Rawie Ruskiej w 1885 roku"
+            }
+        }
+    ]
+}

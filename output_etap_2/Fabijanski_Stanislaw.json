@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1865",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1947-02-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "również artysta malarz"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Lucyna Odrowąż Sypniewska",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Marconi",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Starkowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych",
+                "type": "uczelnia",
+                "description": "Kraków"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Matejko",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity"
+            },
+            "object": {
+                "name": "Akademia",
+                "type": "uczelnia",
+                "description": "Monachium"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Wagner",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "pierwsza nagroda za wykonanie afisza",
+                "type": "osiągnięcie",
+                "description": "otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie, 1902"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "srebrny medal za obraz Chrystus na krzyżu",
+                "type": "osiągnięcie",
+                "description": "wystawa w warszawskiej Zachęcie, 1928"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "U schyłku dnia",
+                "type": "dzieło",
+                "description": "obraz wystawiony w Salonie Jesiennym w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie, 1906"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Widok na Wawel od strony Wisły",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum Narodowym w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Stragan pomarańcz",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum w Irkucku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Pogrom",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Wiatrak z autoportretem przy sztaludze",
+                "type": "dzieło",
+                "description": "obraz malowany w Przecławiu w 1889 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Centaur",
+                "type": "dzieło",
+                "description": "obraz malowany w 1931 roku, kompozycja fantastyczna w rodzaju Boecklina"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Racławice",
+                "type": "dzieło",
+                "description": "wielki obraz, nie skończony"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "projekt na sarkofag Anny Jasińskiej",
+                "type": "dzieło",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz"
+            },
+            "predicate": {
+                "name": "isAuthorOf"
+            },
+            "object": {
+                "name": "Źródło",
+                "type": "dzieło",
+                "description": "majolika, przedstawia polipa dźwigającego muszlę, nad którą unosi się na fali morskiej postać kobiety i mężczyzny, wykonana w 1904 roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "również artysta malarz"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "artysta malarz",
+                "type": "zawód",
+                "description": null
+            }
+        }
+    ]
+}

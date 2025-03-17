@@ -1,0 +1,454 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasHusband"
+            },
+            "object": {
+                "name": "Jarosław Dąbrowski",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Dubienka",
+                "type": "miejscowość",
+                "description": "w Lubelskiem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1909-02-11",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1843-09-10",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "pensja Teresy Brzezińskiej",
+                "type": "instytucja",
+                "description": "w Warszawie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasSon"
+            },
+            "object": {
+                "name": "synowie Pelagii Dąbrowskiej",
+                "type": "osoba",
+                "description": "trzech synów"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "gimnazjum Królowej Jadwigi",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "komuna paryska",
+                "type": "wydarzenie",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "Centralny Komitet Narodowy",
+                "type": "instytucja",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Jasło",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Anglia",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Aradatow",
+                "type": "miejscowość",
+                "description": "gubernia niżnienowogrodzka"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasMother"
+            },
+            "object": {
+                "name": "Pelagia z Piotrowskich",
+                "type": "osoba",
+                "description": "matka Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Michał Zgliczyński",
+                "type": "osoba",
+                "description": "ojciec Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasAunt"
+            },
+            "object": {
+                "name": "Waleria Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasAunt"
+            },
+            "object": {
+                "name": "Ignacja Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Cytadela warszawska",
+                "type": "miejscowość",
+                "description": "miejsce ślubu Pelagii Dąbrowskiej z Jarosławem Dąbrowskim"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "zesłanie do Aradatowa",
+                "type": "wydarzenie",
+                "description": "zesłanie Pelagii Dąbrowskiej do Aradatowa w guberni niżnienowogrodzkiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "wykradzenie z Aradatowa",
+                "type": "wydarzenie",
+                "description": "wykradzenie Pelagii Dąbrowskiej z Aradatowa przez Jarosława Dąbrowskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "pierwsze gimnazjum żeńskie założone przez Trzaskowskiego",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej jako ochmistrzyni"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "stowarzyszenia krakowskie",
+                "type": "instytucja",
+                "description": "miejsca działalności Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "hasUncle"
+            },
+            "object": {
+                "name": "Piotr Falkenhagen-Zaleski",
+                "type": "osoba",
+                "description": "wuj Pelagii Dąbrowskiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "placeOfBurial"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "X pawilon",
+                "type": "obiekt fizjograficzny",
+                "description": "miejsce osadzenia Pelagii Dąbrowskiej po aresztowaniu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "szkoła św. Andrzeja ss. felicjanek",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej w Krakowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka"
+            },
+            "predicate": {
+                "name": "relatedInstitution"
+            },
+            "object": {
+                "name": "instytucja Serwatowskiej i Krynickiej",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej"
+            }
+        }
+    ]
+}

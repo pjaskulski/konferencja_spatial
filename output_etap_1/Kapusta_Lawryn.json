@@ -1,0 +1,229 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "dyplomata",
+                "type": "zawód",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "setnik czehryński",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "positionHeld"
+            },
+            "object": {
+                "name": "setnik subotowski",
+                "type": "urząd",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Iwan Fomin",
+                "type": "osoba",
+                "description": "poseł moskiewski"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "misja do Moskwy",
+                "type": "wydarzenie",
+                "description": "misja dyplomatyczna mająca na celu uzyskanie pomocy rosyjskiej przeciwko Rzeczypospolitej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "rozmowy w Perejasławiu",
+                "type": "wydarzenie",
+                "description": "rozmowy między Chmielnickim a Buturlinem"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "powitanie Piotra Parcewicza",
+                "type": "wydarzenie",
+                "description": "powitanie posła cesarskiego Piotra Parcewicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "misja do sułtana tureckiego",
+                "type": "wydarzenie",
+                "description": "misja dyplomatyczna mająca na celu podżeganie sułtana przeciw Polsce i cesarzowi"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "śmierć Bohdana Chmielnickiego",
+                "type": "wydarzenie",
+                "description": "śmierć hetmana Bohdana Chmielnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "ugoda cudnowska",
+                "type": "wydarzenie",
+                "description": "ugoda zawarta z Polakami jako jeden z kilku przedstawicieli góry kozackiej"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bohdan Chmielnicki",
+                "type": "osoba",
+                "description": "hetman kozacki"
+            },
+            "predicate": {
+                "name": "instanceOf"
+            },
+            "object": {
+                "name": "osoba",
+                "type": "osoba",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Bohdan Chmielnicki",
+                "type": "osoba",
+                "description": "hetman kozacki"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "aresztowanie Fedorowicza",
+                "type": "wydarzenie",
+                "description": "aresztowanie Fedorowicza oskarżonego o przywłaszczenie rzeczy Tymosza Chmielnickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "hasAchievement"
+            },
+            "object": {
+                "name": "niepiśmienność",
+                "type": "cecha",
+                "description": "niepiśmienność Kapusty Ławryna"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+            },
+            "predicate": {
+                "name": "nobleTitle"
+            },
+            "object": {
+                "name": "szlachta",
+                "type": "tytuł szlachecki",
+                "description": "pochodzenia szlacheckiego, jednakże z rodem kniaziów Kapustów nic nie mający wspólnego"
+            }
+        }
+    ]
+}

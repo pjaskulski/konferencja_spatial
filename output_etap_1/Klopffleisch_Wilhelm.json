@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "działacz rewolucyjny",
+                "type": "zawód",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfBirth"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "dateOfDeath"
+            },
+            "object": {
+                "name": "1856",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasFather"
+            },
+            "object": {
+                "name": "Jan Klopffleisch",
+                "type": "osoba",
+                "description": "właściciel browaru na Nowym Świecie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfDeath"
+            },
+            "object": {
+                "name": "Nerczyński Zawód",
+                "type": "miejscowość",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantEvent"
+            },
+            "object": {
+                "name": "skazanie na katorgę",
+                "type": "wydarzenie",
+                "description": "Wyrok 12 lat katorgi obniżony do 4 lat przez Paskiewicza"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasAlias"
+            },
+            "object": {
+                "name": "Sas",
+                "type": "osoba",
+                "description": "pseudonim Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "dateOfBirth"
+            },
+            "object": {
+                "name": "1826",
+                "type": "data",
+                "description": "przybliżona data urodzenia Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "placeOfStudy"
+            },
+            "object": {
+                "name": "gimnazjum",
+                "type": "instytucja",
+                "description": "miejsce ukończenia edukacji przez Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "hasOccupation"
+            },
+            "object": {
+                "name": "pracownik techniczny",
+                "type": "zawód",
+                "description": "zawód wykonywany przez Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "fabryka maszyn na Solcu",
+                "type": "miejscowość",
+                "description": "miejsce związane z działalnością Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantLocality"
+            },
+            "object": {
+                "name": "Wrocław",
+                "type": "miejscowość",
+                "description": "miejsce delegacji Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Narcyz Tchórzewski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Romuald Świerzbiński",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Henryk Krajewski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Władysław Dzwonkowski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Karol Libelt",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Antonina Lissowska",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "A. Skimborowiczowa",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Józef Wysocki",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Natalis Sulerzyski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ignacy Łyskowski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Ludwik Bulewski",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "działacz rewolucyjny warszawski, sybirak"
+            },
+            "predicate": {
+                "name": "significantFigure"
+            },
+            "object": {
+                "name": "Paweł Darasz",
+                "type": "osoba",
+                "description": "współpracownik Wilhelma Klopffleisch"
+            }
+        }
+    ]
+}
