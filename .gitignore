@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env_wikihum
 .venv
 env/
 venv/
@@ -174,3 +175,10 @@ cython_debug/
 articles/
 conference/
 data/*.txt
+prezentacja/
+archive/
+szulc/
+Rossi_Piotr/
+prompts/
+xlsx/
+prezentacja/
