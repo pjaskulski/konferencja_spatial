@@ -8,14 +8,14 @@ While computer usage has become commonplace in the humanities, historical data o
 
 ## Pliki
 
-data - katalog na dane, biogramy postaci historycznych w formacje txt
-output_etap_1 - pliki json z wynikami pierwszego przetwarzania
-output_etap_2 - pliki json z wynikami prztwarzania po poprawkach listy właściwości
-output_identification - pliki json po przeprowadzonej procedurze identyfikacji
-src - kod źródłówy skryptów
-test_output - wyniki testów różnych modeli LLM, testów powtarzalności wyników
-test_prompt - testowe prompty
-test_validation - wyniki testów automatycznej walidacji "trójek" przez inny model
+ - data - katalog na dane, biogramy postaci historycznych w formacje txt
+ - output_etap_1 - pliki json z wynikami pierwszego przetwarzania
+ - output_etap_2 - pliki json z wynikami prztwarzania po poprawkach listy właściwości
+ - output_identification - pliki json po przeprowadzonej procedurze identyfikacji
+ - src - kod źródłówy skryptów
+ - test_output - wyniki testów różnych modeli LLM, testów powtarzalności wyników
+ - test_prompt - testowe prompty
+ - test_validation - wyniki testów automatycznej walidacji "trójek" przez inny model
 
 ## Bibliografia
 
