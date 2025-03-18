@@ -76,3 +76,6 @@ https://ceur-ws.org/Vol-3724/short2.pdf
 17. Daniel Garijo, María Poveda-Villalón, Elvira Amador-Domínguez, ZiYuan Wang, Raúl García-Castro and Oscar Corcho "LLMs for Ontology Engineering: A landscape of Tasks and Benchmarking challenges"
 https://dgarijo.com/papers/iswc_llm.pdf
 
+18. Cameron R. Wolfe, Using LLMs for Evaluation. LLM-as-a-Judge and other scalable additions to human quality ratings...
+https://cameronrwolfe.substack.com/p/llm-as-a-judge
+
