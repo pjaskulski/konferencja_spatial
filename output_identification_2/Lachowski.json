@@ -1,0 +1,471 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "dziedzic części Mękarzowa, Wilkowa i Raszkowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Maria Anna Lubieniecka",
+                "type": "osoba",
+                "description": "h. Rola",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Zofia Gucci",
+                "type": "osoba",
+                "description": "gorliwa socynianka, pochodząca z osiadłej w Polsce rodziny włoskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "minister ariański",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "organizator zboru wygnańczego",
+                "type": "zawód",
+                "description": "w Koloszwarze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1691-08-06",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "główny kościół unitariański w Koloszwarze",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Koloszwar",
+                "type": "miejscowość",
+                "description": "obecnie Cluj",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "dziedzic części Mękarzowa, Wilkowa i Raszkowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mękarzów",
+                "type": "miejscowość",
+                "description": "ówczesny powiat lelowski",
+                "wikihum": "Q54516"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "dziedzic części Mękarzowa, Wilkowa i Raszkowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wilków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q87289"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "dziedzic części Mękarzowa, Wilkowa i Raszkowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Raszków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q71013"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hieronim Moskorzowski",
+                "type": "osoba",
+                "description": "teolog socyniański",
+                "wikihum": "Q162973"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "teolog socyniański",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Hieronim Moskorzowski",
+                "type": "osoba",
+                "description": "teolog socyniański",
+                "wikihum": "Q162973"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Dawid Łachowski",
+                "type": "osoba",
+                "description": "dziedzic części Mękarzowa, Wilkowa i Raszkowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kolegium Unitariańskie",
+                "type": "instytucja",
+                "description": "w Koloszwarze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jerzy Niemirycz",
+                "type": "osoba",
+                "description": "współwyznawca Andrzeja Łachowskiego",
+                "wikihum": "Q163579"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Marcin Ruar",
+                "type": "osoba",
+                "description": "osoba, której Andrzej Łachowski był pomocnikiem w Gdańsku",
+                "wikihum": "Q168851"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Seweryn Morsztyn",
+                "type": "osoba",
+                "description": "osoba, której Andrzej Łachowski pomagał w opiece nad współwyznawcami",
+                "wikihum": "Q162932"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Teofil Morsztyn",
+                "type": "osoba",
+                "description": "osoba, której Andrzej Łachowski pomagał w opiece nad współwyznawcami",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Mękarzów",
+                "type": "miejscowość",
+                "description": "ówczesny powiat lelowski",
+                "wikihum": "Q54516"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "nauczyciel dzieci Jerzego Niemirycza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lusławice nad Dunajcem",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "okupowany przez Szwedów w 1657 roku",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rożnów",
+                "type": "miejscowość",
+                "description": "miejsce rozmów między socynianami a katolikami w marcu 1660 roku",
+                "wikihum": "Q72327"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kluczbork",
+                "type": "miejscowość",
+                "description": "miejsce synodu ariańskiego 17 czerwca 1661 roku",
+                "wikihum": "Q42826"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Łachowski",
+                "type": "osoba",
+                "description": "minister ariański i organizator zboru wygnańczego w Koloszwarze",
+                "wikihum": "Q160588"
+            },
+            "predicate": {
+                "name": "isOwnerOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom w śródmieściu Koloszwaru",
+                "type": "obiekt fizyczny",
+                "description": "dom przy ul. Belsö Monostor, dziś ul. 30. Decembrie nr 13, zamieniony na zbór",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

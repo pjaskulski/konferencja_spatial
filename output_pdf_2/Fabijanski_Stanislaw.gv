@@ -1,0 +1,247 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)"	[color=black,
+		label="Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)"];
+	"Erazm Rudolf
+[Q152460]
+<osoba>
+(również artysta malarz)"	[color=black,
+		label="Erazm Rudolf
+[Q152460]
+<osoba>
+(również artysta malarz)"];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Erazm Rudolf
+[Q152460]
+<osoba>
+(również artysta malarz)"	[color=green,
+		label="hasFather [P92]"];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> 1865	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "1947-02-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Lucyna Odrowąż Sypniewska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Marconi
+[Q161506]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Starkowski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Szkoła Sztuk Pięknych
+[NEW]
+<uczelnia>
+(Kraków)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Matejko
+[Q161719]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Akademia
+[NEW]
+<uczelnia>
+(Monachium)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Wagner
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "pierwsza nagroda za wykonanie afisza
+[NEW]
+<osiągnięcie>
+(otwarcie dorocznej
+wystawy w Towarzystwie
+Przyjaciół Sztuk Pięknych
+\
+w Krakowie, 1902)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "srebrny medal za obraz Chrystus na krzyżu
+[NEW]
+<osiągnięcie>
+(wystawa w warszawskiej
+Zachęcie, 1928)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "U schyłku dnia
+[NEW]
+<dzieło>
+(obraz wystawiony w
+Salonie Jesiennym w
+Towarzystwie Przyjaciół
+Sztuk Pięknych w
+Krakowie, 1906)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Widok na Wawel od strony Wisły
+[NEW]
+<dzieło>
+(obraz znajdujący się w
+Muzeum Narodowym w
+Krakowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Stragan pomarańcz
+[NEW]
+<dzieło>
+(obraz znajdujący się w
+Muzeum w Irkucku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Pogrom
+[NEW]
+<dzieło>
+(obraz znajdujący się w
+Muzeum we Lwowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Wiatrak z autoportretem przy sztaludze
+[NEW]
+<dzieło>
+(obraz malowany w
+Przecławiu w 1889 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Centaur
+[NEW]
+<dzieło>
+(obraz malowany w 1931
+roku, kompozycja
+fantastyczna w rodzaju
+Boecklina)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Racławice
+[NEW]
+<dzieło>
+(wielki obraz, nie
+skończony)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "projekt na sarkofag Anny Jasińskiej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(art. malarz i rzeźbiarz)" -> "Źródło
+[NEW]
+<dzieło>
+(majolika, przedstawia
+polipa dźwigającego
+muszlę, nad którą unosi
+się na fali morskiej
+postać \
+kobiety i
+mężczyzny, wykonana w
+1904 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Erazm Rudolf
+[Q152460]
+<osoba>
+(również artysta malarz)" -> "artysta malarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

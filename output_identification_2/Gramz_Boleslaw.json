@@ -1,0 +1,311 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1904-04-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1943-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kubliczew",
+                "type": "miejscowość",
+                "description": "miasteczko w guberni witebskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Bolesław Gramz (ojciec)",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Adela z Erdmanów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum Św. Katarzyny",
+                "type": "uczelnia",
+                "description": "w Petersburgu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Wilno",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Seminarium Duchowne",
+                "type": "uczelnia",
+                "description": "Wilno",
+                "wikihum": "NEW",
+                "wikidata": "Q33418903"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Stefana Batorego",
+                "type": "uczelnia",
+                "description": "Wydział Teologiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "wikariusz",
+                "type": "zawód",
+                "description": "Grodno",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Fundusz Kultury Narodowej",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "prefekt",
+                "type": "zawód",
+                "description": "Święciany",
+                "wikihum": "NEW",
+                "wikidata": "Q784415"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kapelan",
+                "type": "zawód",
+                "description": "6. pułk piechoty I. Dywizji",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "proboszcz",
+                "type": "zawód",
+                "description": "Idołta",
+                "wikihum": "NEW",
+                "wikidata": "Q11827268"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gestapo",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "własowcy",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bolesław Gramz",
+                "type": "osoba",
+                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji",
+                "wikihum": "Q154127"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "morderstwo przez własowców",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

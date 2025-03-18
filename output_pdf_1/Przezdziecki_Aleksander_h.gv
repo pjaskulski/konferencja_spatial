@@ -1,0 +1,727 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)"	[color=black,
+		label="Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(stolnik upicki)"	[color=black,
+		label="Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(stolnik upicki)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(stolnik upicki)"	[color=green,
+		label="hasFather [P92]"];
+	"Anna Eleonora ze Skopów
+[NEW]
+<osoba>"	[color=black,
+		label="Anna Eleonora ze Skopów
+[NEW]
+<osoba>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Anna Eleonora ze Skopów
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Felicjanna z Chreptowiczów
+[NEW]
+<osoba>
+(podkomorzanka nowogrodzka)"	[color=black,
+		label="Felicjanna z Chreptowiczów
+[NEW]
+<osoba>
+(podkomorzanka nowogrodzka)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Felicjanna z Chreptowiczów
+[NEW]
+<osoba>
+(podkomorzanka nowogrodzka)"	[color=green,
+		label="hasWife [P94]"];
+	"Konstancja Aleksandra z Kamińskich
+[NEW]
+<osoba>
+(córka Krzysztofa,
+sędziego orszańskiego)"	[color=black,
+		label="Konstancja Aleksandra z Kamińskich
+[NEW]
+<osoba>
+(córka Krzysztofa,
+sędziego orszańskiego)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Konstancja Aleksandra z Kamińskich
+[NEW]
+<osoba>
+(córka Krzysztofa,
+sędziego orszańskiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"	[color=black,
+		label="Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"	[color=green,
+		label="hasSon [P153]"];
+	"Antoni Przezdziecki
+[NEW]
+<osoba>"	[color=black,
+		label="Antoni Przezdziecki
+[NEW]
+<osoba>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Antoni Przezdziecki
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Sporządzenie testamentu w Wilnie
+[NEW]
+<wydarzenie>
+(Sporządzenie testamentu w
+Wilnie 29 września 1732
+roku.)"	[color=black,
+		label="Sporządzenie testamentu w Wilnie
+[NEW]
+<wydarzenie>
+(Sporządzenie testamentu w
+Wilnie 29 września 1732
+roku.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Sporządzenie testamentu w Wilnie
+[NEW]
+<wydarzenie>
+(Sporządzenie testamentu w
+Wilnie 29 września 1732
+roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Elekcja Stanisława Leszczyńskiego
+[NEW]
+<wydarzenie>
+(Elekcja Stanisława
+Leszczyńskiego 11
+września 1733 roku.)"	[color=black,
+		label="Elekcja Stanisława Leszczyńskiego
+[NEW]
+<wydarzenie>
+(Elekcja Stanisława
+Leszczyńskiego 11
+września 1733 roku.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Elekcja Stanisława Leszczyńskiego
+[NEW]
+<wydarzenie>
+(Elekcja Stanisława
+Leszczyńskiego 11
+września 1733 roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"kasztelan inflancki
+[NEW]
+<urząd>
+(Mianowany 24 listopada
+1726 roku.)"	[color=black,
+		label="kasztelan inflancki
+[NEW]
+<urząd>
+(Mianowany 24 listopada
+1726 roku.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "kasztelan inflancki
+[NEW]
+<urząd>
+(Mianowany 24 listopada
+1726 roku.)"	[color=green,
+		label="positionHeld [P101]"];
+	"chorąży mozyrski
+[NEW]
+<urząd>
+(Pełnił urząd co najmniej
+od 1694 roku.)"	[color=black,
+		label="chorąży mozyrski
+[NEW]
+<urząd>
+(Pełnił urząd co najmniej
+od 1694 roku.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "chorąży mozyrski
+[NEW]
+<urząd>
+(Pełnił urząd co najmniej
+od 1694 roku.)"	[color=green,
+		label="positionHeld [P101]"];
+	"deputat na Trybunał Wielkiego Księstwa Litewskiego
+[NEW]
+<urząd>"	[color=black,
+		label="deputat na Trybunał Wielkiego Księstwa Litewskiego
+[NEW]
+<urząd>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "deputat na Trybunał Wielkiego Księstwa Litewskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"sekretarz poselstwa do Rosji
+[NEW]
+<urząd>
+(Wyznaczony przez radę
+senatu w 1703 roku.)"	[color=black,
+		label="sekretarz poselstwa do Rosji
+[NEW]
+<urząd>
+(Wyznaczony przez radę
+senatu w 1703 roku.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "sekretarz poselstwa do Rosji
+[NEW]
+<urząd>
+(Wyznaczony przez radę
+senatu w 1703 roku.)"	[color=green,
+		label="positionHeld [P101]"];
+	"starostwo hrabowskie
+[NEW]
+<majątek>"	[color=black,
+		label="starostwo hrabowskie
+[NEW]
+<majątek>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "starostwo hrabowskie
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]"];
+	"Biesiady w województwie mińskim
+[NEW]
+<majątek>"	[color=black,
+		label="Biesiady w województwie mińskim
+[NEW]
+<majątek>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Biesiady w województwie mińskim
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]"];
+	"znaczne dobra zasławskie i Włodawa
+[NEW]
+<majątek>
+(Posiadane w zastawie.)"	[color=black,
+		label="znaczne dobra zasławskie i Włodawa
+[NEW]
+<majątek>
+(Posiadane w zastawie.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "znaczne dobra zasławskie i Włodawa
+[NEW]
+<majątek>
+(Posiadane w zastawie.)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Elekcja Augusta II
+[NEW]
+<wydarzenie>
+(Elekcja Augusta II w 1697
+roku, w której Aleksander
+Przezdziecki
+prawdopodobnie
+uczestniczył.)"	[color=black,
+		label="Elekcja Augusta II
+[NEW]
+<wydarzenie>
+(Elekcja Augusta II w 1697
+roku, w której Aleksander
+Przezdziecki
+prawdopodobnie
+uczestniczył.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Elekcja Augusta II
+[NEW]
+<wydarzenie>
+(Elekcja Augusta II w 1697
+roku, w której Aleksander
+Przezdziecki
+prawdopodobnie
+uczestniczył.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Walki wewnętrzne na Litwie
+[NEW]
+<wydarzenie>
+(Walki wewnętrzne na
+Litwie w 1700 roku, w
+których Aleksander
+Przezdziecki brał \
+udział.)"	[color=black,
+		label="Walki wewnętrzne na Litwie
+[NEW]
+<wydarzenie>
+(Walki wewnętrzne na
+Litwie w 1700 roku, w
+których Aleksander
+Przezdziecki brał \
+udział.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Walki wewnętrzne na Litwie
+[NEW]
+<wydarzenie>
+(Walki wewnętrzne na
+Litwie w 1700 roku, w
+których Aleksander
+Przezdziecki brał \
+udział.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Rokowania z Piotrem I
+[NEW]
+<wydarzenie>
+(Rokowania z Piotrem I o
+zawarcie traktatu
+narewskiego.)"	[color=black,
+		label="Rokowania z Piotrem I
+[NEW]
+<wydarzenie>
+(Rokowania z Piotrem I o
+zawarcie traktatu
+narewskiego.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Rokowania z Piotrem I
+[NEW]
+<wydarzenie>
+(Rokowania z Piotrem I o
+zawarcie traktatu
+narewskiego.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Wysłanie do Saksonii
+[NEW]
+<wydarzenie>
+(Wysłanie do Saksonii z
+oświadczeniem od wojska
+litewskiego o przejściu
+na stronę Stanisława
+\
+Leszczyńskiego.)"	[color=black,
+		label="Wysłanie do Saksonii
+[NEW]
+<wydarzenie>
+(Wysłanie do Saksonii z
+oświadczeniem od wojska
+litewskiego o przejściu
+na stronę Stanisława
+\
+Leszczyńskiego.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Wysłanie do Saksonii
+[NEW]
+<wydarzenie>
+(Wysłanie do Saksonii z
+oświadczeniem od wojska
+litewskiego o przejściu
+na stronę Stanisława
+\
+Leszczyńskiego.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Michał Wiśniowiecki
+[NEW]
+<osoba>
+(późniejszy kanclerz
+wielki litewski.)"	[color=black,
+		label="Michał Wiśniowiecki
+[NEW]
+<osoba>
+(późniejszy kanclerz
+wielki litewski.)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Michał Wiśniowiecki
+[NEW]
+<osoba>
+(późniejszy kanclerz
+wielki litewski.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wilno
+[Q143061]
+<miejscowość>"	[color=black,
+		label="Wilno
+[Q143061]
+<miejscowość>"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)"	[color=black,
+		label="Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)"	[color=green,
+		label="hasSon [P153]"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki, syn
+Krzysztofa
+Przezdzieckiego i Anny
+Eleonory ze Skopów.)" -> "1734-10-24"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(stolnik upicki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna Eleonora ze Skopów
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Felicjanna z Chreptowiczów
+[NEW]
+<osoba>
+(podkomorzanka nowogrodzka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstancja Aleksandra z Kamińskich
+[NEW]
+<osoba>
+(córka Krzysztofa,
+sędziego orszańskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)" -> "1724-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Antoni Przezdziecki
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sporządzenie testamentu w Wilnie
+[NEW]
+<wydarzenie>
+(Sporządzenie testamentu w
+Wilnie 29 września 1732
+roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Elekcja Stanisława Leszczyńskiego
+[NEW]
+<wydarzenie>
+(Elekcja Stanisława
+Leszczyńskiego 11
+września 1733 roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kasztelan inflancki
+[NEW]
+<urząd>
+(Mianowany 24 listopada
+1726 roku.)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"chorąży mozyrski
+[NEW]
+<urząd>
+(Pełnił urząd co najmniej
+od 1694 roku.)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"deputat na Trybunał Wielkiego Księstwa Litewskiego
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sekretarz poselstwa do Rosji
+[NEW]
+<urząd>
+(Wyznaczony przez radę
+senatu w 1703 roku.)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"starostwo hrabowskie
+[NEW]
+<majątek>" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Biesiady w województwie mińskim
+[NEW]
+<majątek>" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"znaczne dobra zasławskie i Włodawa
+[NEW]
+<majątek>
+(Posiadane w zastawie.)" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Elekcja Augusta II
+[NEW]
+<wydarzenie>
+(Elekcja Augusta II w 1697
+roku, w której Aleksander
+Przezdziecki
+prawdopodobnie
+uczestniczył.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Walki wewnętrzne na Litwie
+[NEW]
+<wydarzenie>
+(Walki wewnętrzne na
+Litwie w 1700 roku, w
+których Aleksander
+Przezdziecki brał \
+udział.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rokowania z Piotrem I
+[NEW]
+<wydarzenie>
+(Rokowania z Piotrem I o
+zawarcie traktatu
+narewskiego.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wysłanie do Saksonii
+[NEW]
+<wydarzenie>
+(Wysłanie do Saksonii z
+oświadczeniem od wojska
+litewskiego o przejściu
+na stronę Stanisława
+\
+Leszczyńskiego.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Michał Wiśniowiecki
+[NEW]
+<osoba>
+(późniejszy kanclerz
+wielki litewski.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wilno
+[Q143061]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lwów
+[Q144390]
+<miejscowość>"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(osoba o krewkim
+temperamencie)" -> "1727-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Lwów
+[Q144390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

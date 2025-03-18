@@ -1,0 +1,545 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)"	[color=black,
+		label="Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)"];
+	"kupiec
+[NEW]
+<zawód>"	[color=black,
+		label="kupiec
+[NEW]
+<zawód>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "kupiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>"	[color=black,
+		label="Gdańsk
+[Q31993]
+<miejscowość>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"	[color=green,
+		label="hasFather [P92]"];
+	"Barbara Niżyńska
+[NEW]
+<osoba>"	[color=black,
+		label="Barbara Niżyńska
+[NEW]
+<osoba>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Barbara Niżyńska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Dorota
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"	[color=black,
+		label="Dorota
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Dorota
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"	[color=green,
+		label="hasWife [P94]"];
+	"Małgorzata
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"	[color=black,
+		label="Małgorzata
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Małgorzata
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"	[color=green,
+		label="hasWife [P94]"];
+	"Paweł (II)
+[NEW]
+<osoba>
+(rajca gdański, zmarły w
+1585 roku)"	[color=black,
+		label="Paweł (II)
+[NEW]
+<osoba>
+(rajca gdański, zmarły w
+1585 roku)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Paweł (II)
+[NEW]
+<osoba>
+(rajca gdański, zmarły w
+1585 roku)"	[color=green,
+		label="hasSon [P153]"];
+	"Grzegorz
+[Q154402]
+<osoba>"	[color=black,
+		label="Grzegorz
+[Q154402]
+<osoba>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Grzegorz
+[Q154402]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Jerzy
+[Q156198]
+<osoba>"	[color=black,
+		label="Jerzy
+[Q156198]
+<osoba>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jerzy
+[Q156198]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"	[color=green,
+		label="hasSon [P153]"];
+	"szlachectwo Rzeszy
+[NEW]
+<tytuł>
+(nadane przez cesarza
+Karola V)"	[color=black,
+		label="szlachectwo Rzeszy
+[NEW]
+<tytuł>
+(nadane przez cesarza
+Karola V)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "szlachectwo Rzeszy
+[NEW]
+<tytuł>
+(nadane przez cesarza
+Karola V)"	[color=green,
+		label="nobleTitle [NEW]"];
+	"szpital miejski «Packenhaus»
+[NEW]
+<instytucja>"	[color=black,
+		label="szpital miejski «Packenhaus»
+[NEW]
+<instytucja>"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "szpital miejski «Packenhaus»
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"kontrakt z księciem Albrechtem pruskim
+[NEW]
+<wydarzenie>
+(dotyczył wyłącznego prawa
+do wybierania bursztynu)"	[color=black,
+		label="kontrakt z księciem Albrechtem pruskim
+[NEW]
+<wydarzenie>
+(dotyczył wyłącznego prawa
+do wybierania bursztynu)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "kontrakt z księciem Albrechtem pruskim
+[NEW]
+<wydarzenie>
+(dotyczył wyłącznego prawa
+do wybierania bursztynu)"	[color=green,
+		label="significantEvent [NEW]"];
+	"przybycie do Gdańska
+[NEW]
+<wydarzenie>
+(przybycie do Gdańska w
+1519 roku)"	[color=black,
+		label="przybycie do Gdańska
+[NEW]
+<wydarzenie>
+(przybycie do Gdańska w
+1519 roku)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "przybycie do Gdańska
+[NEW]
+<wydarzenie>
+(przybycie do Gdańska w
+1519 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"poselstwo do Krakowa
+[NEW]
+<wydarzenie>
+(członek poselstwa
+wysłanego przez gdańską
+Radę Miejską do Krakowa w
+1525 roku)"	[color=black,
+		label="poselstwo do Krakowa
+[NEW]
+<wydarzenie>
+(członek poselstwa
+wysłanego przez gdańską
+Radę Miejską do Krakowa w
+1525 roku)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "poselstwo do Krakowa
+[NEW]
+<wydarzenie>
+(członek poselstwa
+wysłanego przez gdańską
+Radę Miejską do Krakowa w
+1525 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Królewiec
+[NEW]
+<miejscowość>
+(nowa siedziba firmy
+bursztynowej po śmierci
+Pawła Koene-Jaskiego)"	[color=black,
+		label="Królewiec
+[NEW]
+<miejscowość>
+(nowa siedziba firmy
+bursztynowej po śmierci
+Pawła Koene-Jaskiego)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Królewiec
+[NEW]
+<miejscowość>
+(nowa siedziba firmy
+bursztynowej po śmierci
+Pawła Koene-Jaskiego)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "1564-07-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"kupiec
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Gdańsk
+[Q31993]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Barbara Niżyńska
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dorota
+[NEW]
+<osoba>
+(córka Michała Rosenberga)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Małgorzata
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paweł (II)
+[NEW]
+<osoba>
+(rajca gdański, zmarły w
+1585 roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Grzegorz
+[Q154402]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy
+[Q156198]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wittenberga
+[Q146885]
+<miejscowość>"	[color=black,
+		label="Wittenberga
+[Q146885]
+<miejscowość>"];
+	"Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "Wittenberga
+[Q146885]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"radca sądowy
+[NEW]
+<urząd>"	[color=black,
+		label="radca sądowy
+[NEW]
+<urząd>"];
+	"Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "radca sądowy
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"bogaty księgozbiór
+[NEW]
+<przedmiot>
+(przeszedł na własność
+biblioteki Rady Miejskiej
+w Gdańsku)"	[color=black,
+		label="bogaty księgozbiór
+[NEW]
+<przedmiot>
+(przeszedł na własność
+biblioteki Rady Miejskiej
+w Gdańsku)"];
+	"Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "bogaty księgozbiór
+[NEW]
+<przedmiot>
+(przeszedł na własność
+biblioteki Rady Miejskiej
+w Gdańsku)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Jan
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wittenberga
+[Q146885]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"radca sądowy
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"bogaty księgozbiór
+[NEW]
+<przedmiot>
+(przeszedł na własność
+biblioteki Rady Miejskiej
+w Gdańsku)" -> "przedmiot
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"szlachectwo Rzeszy
+[NEW]
+<tytuł>
+(nadane przez cesarza
+Karola V)" -> "tytuł
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"szpital miejski «Packenhaus»
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kontrakt z księciem Albrechtem pruskim
+[NEW]
+<wydarzenie>
+(dotyczył wyłącznego prawa
+do wybierania bursztynu)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przybycie do Gdańska
+[NEW]
+<wydarzenie>
+(przybycie do Gdańska w
+1519 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"poselstwo do Krakowa
+[NEW]
+<wydarzenie>
+(członek poselstwa
+wysłanego przez gdańską
+Radę Miejską do Krakowa w
+1525 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Królewiec
+[NEW]
+<miejscowość>
+(nowa siedziba firmy
+bursztynowej po śmierci
+Pawła Koene-Jaskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

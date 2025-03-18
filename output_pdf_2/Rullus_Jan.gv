@@ -1,0 +1,310 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)"	[color=black,
+		label="Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)"];
+	"nieznana z imienia matka Rullusa Jana
+[NEW]
+<osoba>
+(pochodziła z Legnicy)"	[color=black,
+		label="nieznana z imienia matka Rullusa Jana
+[NEW]
+<osoba>
+(pochodziła z Legnicy)"];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "nieznana z imienia matka Rullusa Jana
+[NEW]
+<osoba>
+(pochodziła z Legnicy)"	[color=green,
+		label="hasMother [P93]"];
+	"rodzina alzacka z Wissemburga
+[NEW]
+<osoba>
+(pochodzenie rodziny
+Rullusa Jana)"	[color=black,
+		label="rodzina alzacka z Wissemburga
+[NEW]
+<osoba>
+(pochodzenie rodziny
+Rullusa Jana)"];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "rodzina alzacka z Wissemburga
+[NEW]
+<osoba>
+(pochodzenie rodziny
+Rullusa Jana)"	[color=green,
+		label="hasRelative [NEW]"];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "1532-06-00
+(Zmarł w czerwcu 1532.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wrocław
+[Q89424]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Sebastian Puschel
+[NEW]
+<osoba>"	[color=green,
+		label="hasCousin [P99]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "uniwersytet wiedeński
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Kraków)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "rektor gimnazjum
+[NEW]
+<urząd>
+(przy kościele Św. Marii
+Magdaleny we Wrocławiu)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "bibliofil
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "humanista
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "pedagog
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Leonard Cox
+[Q150813]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Erazm z Rotterdamu
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Andrzej Trzecieski starszy
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Antoninus
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Anzelm Ephorinus
+[Q152371]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jost Ludwik Decjusz
+[Q151367]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Klemens Borek
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Maciej Przybyło
+[Q167160]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Lang
+[Q159765]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jerzy Werner
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Andrzej Schroeter
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Wencki
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wawrzyniec Just
+[Q156376]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Akademia Lubrańskiego
+[NEW]
+<instytucja>
+(Poznań)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Rada Miejska Wrocławia
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Rullus Jan
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<obiekt fizyczny>
+(kolekcja książek i
+rękopisów)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"nieznana z imienia matka Rullusa Jana
+[NEW]
+<osoba>
+(pochodziła z Legnicy)" -> "Legnica
+[Q48846]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"rodzina alzacka z Wissemburga
+[NEW]
+<osoba>
+(pochodzenie rodziny
+Rullusa Jana)" -> "rodzina alzacka z Wissemburga
+[NEW]
+<osoba>
+(pochodzenie rodziny
+Rullusa Jana)"	[color=green,
+		label="hasRelative [NEW]"];
+}

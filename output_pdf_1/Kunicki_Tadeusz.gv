@@ -1,0 +1,386 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)"	[color=black,
+		label="Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)"];
+	"Lwów
+[Q144390]
+<miejscowość>"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"wypadek samochodowy
+[NEW]
+<zdarzenie>"	[color=black,
+		label="wypadek samochodowy
+[NEW]
+<zdarzenie>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "wypadek samochodowy
+[NEW]
+<zdarzenie>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Stanisław Kunicki
+[Q159475]
+<osoba>
+(ślusarz)"	[color=black,
+		label="Stanisław Kunicki
+[Q159475]
+<osoba>
+(ślusarz)"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Stanisław Kunicki
+[Q159475]
+<osoba>
+(ślusarz)"	[color=green,
+		label="hasFather [P92]"];
+	"Józefa Kunicka
+[NEW]
+<osoba>
+(z Winklerów)"	[color=black,
+		label="Józefa Kunicka
+[NEW]
+<osoba>
+(z Winklerów)"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Józefa Kunicka
+[NEW]
+<osoba>
+(z Winklerów)"	[color=green,
+		label="hasMother [P93]"];
+	"Zofia Chromy
+[NEW]
+<osoba>"	[color=black,
+		label="Zofia Chromy
+[NEW]
+<osoba>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Zofia Chromy
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]"];
+	"Polska Partia Robotnicza
+[NEW]
+<instytucja>"	[color=black,
+		label="Polska Partia Robotnicza
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Polska Partia Robotnicza
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Polska Zjednoczona Partia Robotnicza
+[NEW]
+<instytucja>"	[color=black,
+		label="Polska Zjednoczona Partia Robotnicza
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Polska Zjednoczona Partia Robotnicza
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"artykuły na tematy artyleryjskie
+[NEW]
+<dzieło>
+(zamieszczone w
+'Przeglądzie
+Artyleryjskim' i
+'Przeglądzie Wojsk
+Lądowych')"	[color=black,
+		label="artykuły na tematy artyleryjskie
+[NEW]
+<dzieło>
+(zamieszczone w
+'Przeglądzie
+Artyleryjskim' i
+'Przeglądzie Wojsk
+Lądowych')"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "artykuły na tematy artyleryjskie
+[NEW]
+<dzieło>
+(zamieszczone w
+'Przeglądzie
+Artyleryjskim' i
+'Przeglądzie Wojsk
+Lądowych')"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Krzyż Komandorski Orderu Odrodzenia Polski
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="Krzyż Komandorski Orderu Odrodzenia Polski
+[NEW]
+<osiągnięcie>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Krzyż Komandorski Orderu Odrodzenia Polski
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Krzyż Walecznych
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="Krzyż Walecznych
+[NEW]
+<osiągnięcie>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Krzyż Walecznych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Akademia Medyczno-Weterynaryjna we Lwowie
+[NEW]
+<instytucja>"	[color=black,
+		label="Akademia Medyczno-Weterynaryjna we Lwowie
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Medyczno-Weterynaryjna we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Akademia Sztabu Generalnego w Moskwie
+[NEW]
+<instytucja>"	[color=black,
+		label="Akademia Sztabu Generalnego w Moskwie
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Sztabu Generalnego w Moskwie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Międzynarodowa Komisja Nadzoru i Kontroli w Korei
+[NEW]
+<instytucja>"	[color=black,
+		label="Międzynarodowa Komisja Nadzoru i Kontroli w Korei
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Międzynarodowa Komisja Nadzoru i Kontroli w Korei
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Główny Inspektorat Szkolenia Min. Obrony Narodowej
+[NEW]
+<instytucja>"	[color=black,
+		label="Główny Inspektorat Szkolenia Min. Obrony Narodowej
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Główny Inspektorat Szkolenia Min. Obrony Narodowej
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wojskowa Akademia Polityczna im. F. Dzierżyńskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Wojskowa Akademia Polityczna im. F. Dzierżyńskiego
+[NEW]
+<instytucja>"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "1919-10-22"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "1967-12-19"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Lwów
+[Q144390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wypadek samochodowy
+[NEW]
+<zdarzenie>" -> "zdarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Stanisław Kunicki
+[Q159475]
+<osoba>
+(ślusarz)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józefa Kunicka
+[NEW]
+<osoba>
+(z Winklerów)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia Chromy
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polska Partia Robotnicza
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polska Zjednoczona Partia Robotnicza
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"artykuły na tematy artyleryjskie
+[NEW]
+<dzieło>
+(zamieszczone w
+'Przeglądzie
+Artyleryjskim' i
+'Przeglądzie Wojsk
+Lądowych')" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Krzyż Komandorski Orderu Odrodzenia Polski
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzyż Walecznych
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Akademia Medyczno-Weterynaryjna we Lwowie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Akademia Sztabu Generalnego w Moskwie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Międzynarodowa Komisja Nadzoru i Kontroli w Korei
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Główny Inspektorat Szkolenia Min. Obrony Narodowej
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wojskowa Akademia Polityczna im. F. Dzierżyńskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

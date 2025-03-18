@@ -1,0 +1,166 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)"	[color=black,
+		label="Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)"];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "śpiewaczka operetkowa i operowa
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Frysztak
+[NEW]
+<miejscowość>
+(miejscowość w powiecie
+jasielskim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Katowice
+[Q41461]
+<miejscowość>
+(miasto na Śląsku)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "1927-11-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Antoni Kliszewski
+[Q157365]
+<osoba>
+(aktor i śpiewak)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "H. Majeranowska, M. Szlezygierowa i Lamperi
+[NEW]
+<osoba>
+(nauczyciele śpiewu
+Karoliny Kliszewskiej)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Teatr Lwowski
+[NEW]
+<instytucja>
+(główna scena występów
+Karoliny Kliszewskiej)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Teatr Polski w Katowicach
+[NEW]
+<instytucja>
+(instytucja, z którą była
+związana Karolina
+Kliszewska)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Lwów
+[Q144390]
+<miejscowość>
+(miasto, gdzie Karolina
+Kliszewska stawiała
+pierwsze kroki na scenie)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "występ w operetce „Mikado”
+[NEW]
+<wydarzenie>
+(występ Karoliny
+Kliszewskiej w operetce
+A. Sulivana „Mikado” w
+teatrze \
+lwowskim w 1892
+roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "występ w teatrze «Nowym» w Warszawie
+[NEW]
+<wydarzenie>
+(występ Karoliny
+Kliszewskiej w roli Elizy
+w „O chlebie i wodzie” \
+E.
+Jakobsona w 1893 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Teatr objazdowy A. Lelewicza i H. Lasockiego
+[NEW]
+<instytucja>
+(teatr objazdowy, w którym
+Karolina Kliszewska grała
+w latach \
+1895–6)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(śpiewaczka operetkowa i
+operowa)" -> "Kraków
+[Q46043]
+<miejscowość>
+(miasto, gdzie Karolina
+Kliszewska reżyserowała
+„Jasia i Małgosię” i
+dawała lekcje śpiewu \
+w
+1920 roku)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+}

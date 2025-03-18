@@ -1,0 +1,442 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)"	[color=black,
+		label="Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)"];
+	"Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"	[color=black,
+		label="Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"	[color=green,
+		label="hasFather [P92]"];
+	"Róża z Laków
+[NEW]
+<osoba>"	[color=black,
+		label="Róża z Laków
+[NEW]
+<osoba>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Róża z Laków
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"	[color=black,
+		label="Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"	[color=green,
+		label="hasBrother [P97]"];
+	"Beit Jakow
+[NEW]
+<organizacja>
+(żeńskie szkolnictwo
+żydowskie)"	[color=black,
+		label="Beit Jakow
+[NEW]
+<organizacja>
+(żeńskie szkolnictwo
+żydowskie)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Beit Jakow
+[NEW]
+<organizacja>
+(żeńskie szkolnictwo
+żydowskie)"	[color=green,
+		label="relatedOrganisation [NEW]"];
+	"D. M. Flesch
+[NEW]
+<osoba>
+(neo-orthodox rabbi in
+Vienna)"	[color=black,
+		label="D. M. Flesch
+[NEW]
+<osoba>
+(neo-orthodox rabbi in
+Vienna)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "D. M. Flesch
+[NEW]
+<osoba>
+(neo-orthodox rabbi in
+Vienna)"	[color=green,
+		label="significantFigure [P100]"];
+	"S. R. Hirsch
+[NEW]
+<osoba>
+(founder of the neo-
+orthodox movement)"	[color=black,
+		label="S. R. Hirsch
+[NEW]
+<osoba>
+(founder of the neo-
+orthodox movement)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "S. R. Hirsch
+[NEW]
+<osoba>
+(founder of the neo-
+orthodox movement)"	[color=green,
+		label="significantFigure [P100]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "działaczka oświatowa
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "1935-03-01"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Izaak Landau
+[NEW]
+<osoba>
+(rabin)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=4];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Benot Agudat Israel
+[NEW]
+<organizacja>
+(Córki Związku Izraela)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "rak żołądka
+[NEW]
+<choroba>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Der kojech fun hejlikn szabes
+[NEW]
+<dzieło>
+(sztuka dla dzieci
+opublikowana w 1922 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Chane un ir zibn zin
+[NEW]
+<dzieło>
+(sztuka dla dzieci
+opublikowana w 1929 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Ester un Achaszwejrosz
+[NEW]
+<dzieło>
+(sztuka dla dzieci
+opublikowana w 1930 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Gizamlte szriftn
+[NEW]
+<dzieło>
+(zbiór artykułów
+opublikowany w 1933 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Cu wos darf men Bejs Jakew szulen
+[NEW]
+<dzieło>
+(broszura opublikowana w
+1933 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Bajs Jakow
+[NEW]
+<organizacja>
+(łódzkie czasopismo
+związane z Beit Jakow)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kolegium Nauczycielskie Keren Hatora
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Mojżesz Deutscher
+[NEW]
+<osoba>
+(senator)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "seminarium nauczycielskie w Krakowie
+[NEW]
+<instytucja>
+(założone w 1925 roku z
+internatem)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "1883-07-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "krawcowa
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)" -> "1927-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)" -> "Tarnopol
+[Q143814]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Róża z Laków
+[NEW]
+<osoba>" -> "1937-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)" -> "sędzia rabinacki
+[NEW]
+<urząd>
+(w Krakowie w latach
+1935–1939)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Beit Jakow
+[NEW]
+<organizacja>
+(żeńskie szkolnictwo
+żydowskie)" -> "Agudat Israel
+[NEW]
+<organizacja>
+(Związek Izraela)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Beit Jakow
+[NEW]
+<organizacja>
+(żeńskie szkolnictwo
+żydowskie)" -> "Keren Hatora
+[NEW]
+<organizacja>
+(Fundusz Wychowania
+Religijnego)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"D. M. Flesch
+[NEW]
+<osoba>
+(neo-orthodox rabbi in
+Vienna)" -> "neo-orthodox rabbi
+[NEW]
+<urząd>
+(in Vienna)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"S. R. Hirsch
+[NEW]
+<osoba>
+(founder of the neo-
+orthodox movement)" -> "founder of the neo-orthodox movement
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

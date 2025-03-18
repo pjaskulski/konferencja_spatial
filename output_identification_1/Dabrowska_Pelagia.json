@@ -1,0 +1,996 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Jarosław Dąbrowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151316"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jarosław Dąbrowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151316"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Dubienka",
+                "type": "miejscowość",
+                "description": "w Lubelskiem",
+                "wikihum": "Q29633"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dubienka",
+                "type": "miejscowość",
+                "description": "w Lubelskiem",
+                "wikihum": "Q29633"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1909-02-11",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1843-09-10",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pensja Teresy Brzezińskiej",
+                "type": "instytucja",
+                "description": "w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pensja Teresy Brzezińskiej",
+                "type": "instytucja",
+                "description": "w Warszawie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "synowie Pelagii Dąbrowskiej",
+                "type": "osoba",
+                "description": "trzech synów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "synowie Pelagii Dąbrowskiej",
+                "type": "osoba",
+                "description": "trzech synów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gimnazjum Królowej Jadwigi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "gimnazjum Królowej Jadwigi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "komuna paryska",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "komuna paryska",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Centralny Komitet Narodowy",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Centralny Komitet Narodowy",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Jasło",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q38482"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jasło",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q38482"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Anglia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q117039"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anglia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q117039"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q97863"
+            }
+        },
+        {
+            "subject": {
+                "name": "Francja",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q97863"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Aradatow",
+                "type": "miejscowość",
+                "description": "gubernia niżnienowogrodzka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aradatow",
+                "type": "miejscowość",
+                "description": "gubernia niżnienowogrodzka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Pelagia z Piotrowskich",
+                "type": "osoba",
+                "description": "matka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia z Piotrowskich",
+                "type": "osoba",
+                "description": "matka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Michał Zgliczyński",
+                "type": "osoba",
+                "description": "ojciec Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Michał Zgliczyński",
+                "type": "osoba",
+                "description": "ojciec Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasAunt",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Waleria Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Waleria Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasAunt",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Ignacja Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacja Piotrowska",
+                "type": "osoba",
+                "description": "ciotka Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Cytadela warszawska",
+                "type": "miejscowość",
+                "description": "miejsce ślubu Pelagii Dąbrowskiej z Jarosławem Dąbrowskim",
+                "wikihum": "NEW",
+                "wikidata": "Q206212",
+                "nominatim": 164342059,
+                "nominatim_name": "Cytadela Warszawska, Wybrzeże Gdyńskie, Cytadela, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-532, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cytadela warszawska",
+                "type": "miejscowość",
+                "description": "miejsce ślubu Pelagii Dąbrowskiej z Jarosławem Dąbrowskim",
+                "wikihum": "NEW",
+                "wikidata": "Q206212",
+                "nominatim": 164342059,
+                "nominatim_name": "Cytadela Warszawska, Wybrzeże Gdyńskie, Cytadela, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-532, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zesłanie do Aradatowa",
+                "type": "wydarzenie",
+                "description": "zesłanie Pelagii Dąbrowskiej do Aradatowa w guberni niżnienowogrodzkiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zesłanie do Aradatowa",
+                "type": "wydarzenie",
+                "description": "zesłanie Pelagii Dąbrowskiej do Aradatowa w guberni niżnienowogrodzkiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wykradzenie z Aradatowa",
+                "type": "wydarzenie",
+                "description": "wykradzenie Pelagii Dąbrowskiej z Aradatowa przez Jarosława Dąbrowskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wykradzenie z Aradatowa",
+                "type": "wydarzenie",
+                "description": "wykradzenie Pelagii Dąbrowskiej z Aradatowa przez Jarosława Dąbrowskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pierwsze gimnazjum żeńskie założone przez Trzaskowskiego",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej jako ochmistrzyni",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pierwsze gimnazjum żeńskie założone przez Trzaskowskiego",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej jako ochmistrzyni",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "stowarzyszenia krakowskie",
+                "type": "instytucja",
+                "description": "miejsca działalności Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "stowarzyszenia krakowskie",
+                "type": "instytucja",
+                "description": "miejsca działalności Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasUncle",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Piotr Falkenhagen-Zaleski",
+                "type": "osoba",
+                "description": "wuj Pelagii Dąbrowskiej",
+                "wikihum": "Q152486"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Falkenhagen-Zaleski",
+                "type": "osoba",
+                "description": "wuj Pelagii Dąbrowskiej",
+                "wikihum": "Q152486"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "[placeOfBurial]"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "X pawilon",
+                "type": "obiekt fizjograficzny",
+                "description": "miejsce osadzenia Pelagii Dąbrowskiej po aresztowaniu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "X pawilon",
+                "type": "obiekt fizjograficzny",
+                "description": "miejsce osadzenia Pelagii Dąbrowskiej po aresztowaniu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q51"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szkoła św. Andrzeja ss. felicjanek",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "szkoła św. Andrzeja ss. felicjanek",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "instytucja Serwatowskiej i Krynickiej",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "instytucja Serwatowskiej i Krynickiej",
+                "type": "instytucja",
+                "description": "miejsce pracy Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

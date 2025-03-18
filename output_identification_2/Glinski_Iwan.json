@@ -1,0 +1,221 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Lew Borysowicz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny",
+                "wikihum": "Q153475"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Wasyl Gliński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q153476"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda kijowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda nowogrodzki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q108587475"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1522-00-00",
+                "type": "data",
+                "description": "Iwan Gliński zmarł przed 1522 rokiem."
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "dworzanin królewski",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "marszałek hospodarski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q121335323"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "chorąży ziemski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "namiestnik przełomski i ożski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Michał Gliński",
+                "type": "osoba",
+                "description": "marszałek nadworny",
+                "wikihum": "Q153475"
+            }
+        },
+        {
+            "subject": {
+                "name": "Iwan Gliński",
+                "type": "osoba",
+                "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj",
+                "wikihum": "Q153470"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Aleksander Jagiellończyk",
+                "type": "osoba",
+                "description": "wielki książę litewski",
+                "wikihum": "Q148333"
+            }
+        }
+    ]
+}

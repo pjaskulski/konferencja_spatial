@@ -1,0 +1,633 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))"	[color=black,
+		label="Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))"];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(ubożejący szlachcic,
+dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"	[color=black,
+		label="Dawid Łachowski
+[NEW]
+<osoba>
+(ubożejący szlachcic,
+dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Dawid Łachowski
+[NEW]
+<osoba>
+(ubożejący szlachcic,
+dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"	[color=green,
+		label="hasFather [P92]"];
+	"Maria Anna Lubieniecka
+[NEW]
+<osoba>
+(pochodząca z rodu
+Lubienieckich h. Rola)"	[color=black,
+		label="Maria Anna Lubieniecka
+[NEW]
+<osoba>
+(pochodząca z rodu
+Lubienieckich h. Rola)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Maria Anna Lubieniecka
+[NEW]
+<osoba>
+(pochodząca z rodu
+Lubienieckich h. Rola)"	[color=green,
+		label="hasMother [P93]"];
+	"Zofia Gucci
+[NEW]
+<osoba>
+(gorliwa socynianka,
+pochodząca z osiadłej w
+Polsce rodziny włoskiej)"	[color=black,
+		label="Zofia Gucci
+[NEW]
+<osoba>
+(gorliwa socynianka,
+pochodząca z osiadłej w
+Polsce rodziny włoskiej)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Zofia Gucci
+[NEW]
+<osoba>
+(gorliwa socynianka,
+pochodząca z osiadłej w
+Polsce rodziny włoskiej)"	[color=green,
+		label="hasWife [P94]"];
+	"Koloszwar
+[NEW]
+<miejscowość>
+(miejsce działalności
+Andrzeja Łachowskiego)"	[color=black,
+		label="Koloszwar
+[NEW]
+<miejscowość>
+(miejsce działalności
+Andrzeja Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Koloszwar
+[NEW]
+<miejscowość>
+(miejsce działalności
+Andrzeja Łachowskiego)"	[color=green,
+		label="significantLocality [NEW]"];
+	"minister ariański
+[NEW]
+<zawód>"	[color=black,
+		label="minister ariański
+[NEW]
+<zawód>"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "minister ariański
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Kolegium Unitariańskie w Koloszwarze
+[NEW]
+<instytucja>
+(miejsce pracy Andrzeja
+Łachowskiego)"	[color=black,
+		label="Kolegium Unitariańskie w Koloszwarze
+[NEW]
+<instytucja>
+(miejsce pracy Andrzeja
+Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Kolegium Unitariańskie w Koloszwarze
+[NEW]
+<instytucja>
+(miejsce pracy Andrzeja
+Łachowskiego)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"bracia polscy
+[NEW]
+<instytucja>
+(grupa religijna, z którą
+był związany Andrzej
+Łachowski)"	[color=black,
+		label="bracia polscy
+[NEW]
+<instytucja>
+(grupa religijna, z którą
+był związany Andrzej
+Łachowski)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "bracia polscy
+[NEW]
+<instytucja>
+(grupa religijna, z którą
+był związany Andrzej
+Łachowski)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański,
+spokrewniony z rodziną
+Łachowskich)"	[color=black,
+		label="Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański,
+spokrewniony z rodziną
+Łachowskich)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański,
+spokrewniony z rodziną
+Łachowskich)"	[color=green,
+		label="significantFigure [P100]"];
+	"Mękarzów
+[Q54516]
+<miejscowość>
+(miejsce narodzin Andrzeja
+Łachowskiego)"	[color=black,
+		label="Mękarzów
+[Q54516]
+<miejscowość>
+(miejsce narodzin Andrzeja
+Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Mękarzów
+[Q54516]
+<miejscowość>
+(miejsce narodzin Andrzeja
+Łachowskiego)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"główny kościół unitariański w Koloszwarze
+[NEW]
+<miejscowość>
+(miejsce pochówku Andrzeja
+Łachowskiego)"	[color=black,
+		label="główny kościół unitariański w Koloszwarze
+[NEW]
+<miejscowość>
+(miejsce pochówku Andrzeja
+Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "główny kościół unitariański w Koloszwarze
+[NEW]
+<miejscowość>
+(miejsce pochówku Andrzeja
+Łachowskiego)"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"nauczyciel
+[NEW]
+<zawód>
+(preceptor dzieci Jerzego
+Niemirycza)"	[color=black,
+		label="nauczyciel
+[NEW]
+<zawód>
+(preceptor dzieci Jerzego
+Niemirycza)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "nauczyciel
+[NEW]
+<zawód>
+(preceptor dzieci Jerzego
+Niemirycza)"	[color=green,
+		label="hasOccupation [P106]"];
+	"Jerzy Niemirycz
+[Q163579]
+<osoba>
+(osoba, której dzieci były
+nauczane przez Andrzeja
+Łachowskiego)"	[color=black,
+		label="Jerzy Niemirycz
+[Q163579]
+<osoba>
+(osoba, której dzieci były
+nauczane przez Andrzeja
+Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Jerzy Niemirycz
+[Q163579]
+<osoba>
+(osoba, której dzieci były
+nauczane przez Andrzeja
+Łachowskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Marcin Ruar
+[Q168851]
+<osoba>
+(osoba, której Andrzej
+Łachowski był pomocnikiem
+w Gdańsku)"	[color=black,
+		label="Marcin Ruar
+[Q168851]
+<osoba>
+(osoba, której Andrzej
+Łachowski był pomocnikiem
+w Gdańsku)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Marcin Ruar
+[Q168851]
+<osoba>
+(osoba, której Andrzej
+Łachowski był pomocnikiem
+w Gdańsku)"	[color=green,
+		label="significantFigure [P100]"];
+	"Seweryn Morsztyn
+[Q162932]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"	[color=black,
+		label="Seweryn Morsztyn
+[Q162932]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Seweryn Morsztyn
+[Q162932]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"	[color=green,
+		label="significantFigure [P100]"];
+	"Teofil Morsztyn
+[NEW]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"	[color=black,
+		label="Teofil Morsztyn
+[NEW]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Teofil Morsztyn
+[NEW]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)"	[color=green,
+		label="significantFigure [P100]"];
+	"Piotr Taszycki
+[NEW]
+<osoba>
+(osoba, która
+współpracowała z
+Andrzejem Łachowskim)"	[color=black,
+		label="Piotr Taszycki
+[NEW]
+<osoba>
+(osoba, która
+współpracowała z
+Andrzejem Łachowskim)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Piotr Taszycki
+[NEW]
+<osoba>
+(osoba, która
+współpracowała z
+Andrzejem Łachowskim)"	[color=green,
+		label="significantFigure [P100]"];
+	"A. Węgierski
+[NEW]
+<osoba>
+(osoba, do której książki
+Andrzej Łachowski
+spisywał protokół)"	[color=black,
+		label="A. Węgierski
+[NEW]
+<osoba>
+(osoba, do której książki
+Andrzej Łachowski
+spisywał protokół)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "A. Węgierski
+[NEW]
+<osoba>
+(osoba, do której książki
+Andrzej Łachowski
+spisywał protokół)"	[color=green,
+		label="significantFigure [P100]"];
+	"Christianismi restitutio
+[NEW]
+<dzieło>
+(dzieło skopiowane przez
+Andrzeja Łachowskiego)"	[color=black,
+		label="Christianismi restitutio
+[NEW]
+<dzieło>
+(dzieło skopiowane przez
+Andrzeja Łachowskiego)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "Christianismi restitutio
+[NEW]
+<dzieło>
+(dzieło skopiowane przez
+Andrzeja Łachowskiego)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "1627-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze
+(Cluj))" -> "1691-08-06"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(ubożejący szlachcic,
+dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria Anna Lubieniecka
+[NEW]
+<osoba>
+(pochodząca z rodu
+Lubienieckich h. Rola)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia Gucci
+[NEW]
+<osoba>
+(gorliwa socynianka,
+pochodząca z osiadłej w
+Polsce rodziny włoskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Koloszwar
+[NEW]
+<miejscowość>
+(miejsce działalności
+Andrzeja Łachowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"minister ariański
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kolegium Unitariańskie w Koloszwarze
+[NEW]
+<instytucja>
+(miejsce pracy Andrzeja
+Łachowskiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bracia polscy
+[NEW]
+<instytucja>
+(grupa religijna, z którą
+był związany Andrzej
+Łachowski)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański,
+spokrewniony z rodziną
+Łachowskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mękarzów
+[Q54516]
+<miejscowość>
+(miejsce narodzin Andrzeja
+Łachowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"główny kościół unitariański w Koloszwarze
+[NEW]
+<miejscowość>
+(miejsce pochówku Andrzeja
+Łachowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nauczyciel
+[NEW]
+<zawód>
+(preceptor dzieci Jerzego
+Niemirycza)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Niemirycz
+[Q163579]
+<osoba>
+(osoba, której dzieci były
+nauczane przez Andrzeja
+Łachowskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Marcin Ruar
+[Q168851]
+<osoba>
+(osoba, której Andrzej
+Łachowski był pomocnikiem
+w Gdańsku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Seweryn Morsztyn
+[Q162932]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Teofil Morsztyn
+[NEW]
+<osoba>
+(osoba, przy której boku
+Andrzej Łachowski
+opiekował się
+współwyznawcami)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr Taszycki
+[NEW]
+<osoba>
+(osoba, która
+współpracowała z
+Andrzejem Łachowskim)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"A. Węgierski
+[NEW]
+<osoba>
+(osoba, do której książki
+Andrzej Łachowski
+spisywał protokół)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Christianismi restitutio
+[NEW]
+<dzieło>
+(dzieło skopiowane przez
+Andrzeja Łachowskiego)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

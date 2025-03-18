@@ -1,0 +1,236 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "uczelnia",
+                "description": "Wydział Filozoficzny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "doktor filozofii",
+                "type": "osiągnięcie",
+                "description": "w zakresie filologii romańskiej i angielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1942-00-00",
+                "type": "data",
+                "description": "zginął z rąk hitlerowców"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1907-05-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Lea Goldman",
+                "type": "osoba",
+                "description": "z domu Bader",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "IV Gimnazjum Realne im. H. Sienkiewicza",
+                "type": "uczelnia",
+                "description": "Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Paryż",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Goldman",
+                "type": "osoba",
+                "description": "romanista",
+                "wikihum": "Q153698"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "lektor języka francuskiego",
+                "type": "zawód",
+                "description": "Lwów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel prywatny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Goldman",
+                "type": "osoba",
+                "description": "nauczyciel prywatny, później właściciel firmy wydawniczej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "właściciel firmy wydawniczej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

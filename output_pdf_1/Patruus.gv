@@ -1,0 +1,351 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)"	[color=black,
+		label="Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)"];
+	"introligator
+[NEW]
+<zawód>"	[color=black,
+		label="introligator
+[NEW]
+<zawód>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "introligator
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Norymberga
+[Q146877]
+<miejscowość>"	[color=black,
+		label="Norymberga
+[Q146877]
+<miejscowość>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "Norymberga
+[Q146877]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Poznań
+[Q68589]
+<miejscowość>"	[color=black,
+		label="Poznań
+[Q68589]
+<miejscowość>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "Poznań
+[Q68589]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Jan
+[NEW]
+<osoba>
+(syn Jana Patruusa z Koła)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(syn Jana Patruusa z Koła)"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "Jan
+[NEW]
+<osoba>
+(syn Jana Patruusa z Koła)"	[color=green,
+		label="hasSon [P153]"];
+	"firma drukarska Melchiora i Michaela Lotterów
+[NEW]
+<instytucja>
+(firma drukarska w Lipsku)"	[color=black,
+		label="firma drukarska Melchiora i Michaela Lotterów
+[NEW]
+<instytucja>
+(firma drukarska w Lipsku)"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "firma drukarska Melchiora i Michaela Lotterów
+[NEW]
+<instytucja>
+(firma drukarska w Lipsku)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Jan Latalski
+[Q159843]
+<osoba>
+(biskup)"	[color=black,
+		label="Jan Latalski
+[Q159843]
+<osoba>
+(biskup)"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "Jan Latalski
+[Q159843]
+<osoba>
+(biskup)"	[color=green,
+		label="significantFigure [P100]"];
+	"przedmieście św. Marcin
+[NEW]
+<miejscowość>
+(część Poznania)"	[color=black,
+		label="przedmieście św. Marcin
+[NEW]
+<miejscowość>
+(część Poznania)"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "przedmieście św. Marcin
+[NEW]
+<miejscowość>
+(część Poznania)"	[color=green,
+		label="significantLocality [NEW]"];
+	"kapituła poznańska
+[NEW]
+<instytucja>"	[color=black,
+		label="kapituła poznańska
+[NEW]
+<instytucja>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "kapituła poznańska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"dominikanie przy kościele Św. Katarzyny w Poznaniu
+[NEW]
+<instytucja>"	[color=black,
+		label="dominikanie przy kościele Św. Katarzyny w Poznaniu
+[NEW]
+<instytucja>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "dominikanie przy kościele Św. Katarzyny w Poznaniu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"córki Jana Patruusa z Koła
+[NEW]
+<osoba>
+(córki Jana Patruusa z
+Koła)"	[color=black,
+		label="córki Jana Patruusa z Koła
+[NEW]
+<osoba>
+(córki Jana Patruusa z
+Koła)"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "córki Jana Patruusa z Koła
+[NEW]
+<osoba>
+(córki Jana Patruusa z
+Koła)"	[color=green,
+		label="hasDaughter [P154]"];
+	"drukowanie książek na zlecenie biskupa Jana Latalskiego
+[NEW]
+<wydarzenie>"	[color=black,
+		label="drukowanie książek na zlecenie biskupa Jana Latalskiego
+[NEW]
+<wydarzenie>"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "drukowanie książek na zlecenie biskupa Jana Latalskiego
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "1538-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Jan Patruus z Koła
+[Q165054]
+<osoba>
+(introligator, księgarz i
+nakładca)" -> "Chwaliszewo
+[Q25152]
+<miejscowość>
+(miasteczko kapituły
+poznańskiej)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"introligator
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"księgarz
+[NEW]
+<zawód>"	[color=black,
+		label="księgarz
+[NEW]
+<zawód>"];
+	"księgarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"nakładca
+[NEW]
+<zawód>"	[color=black,
+		label="nakładca
+[NEW]
+<zawód>"];
+	"nakładca
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=2];
+	"Norymberga
+[Q146877]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Poznań
+[Q68589]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Patruus z Koła
+[NEW]
+<Q165054>
+(introligator, księgarz i
+nakładca)"	[color=black,
+		label="Jan Patruus z Koła
+[NEW]
+<Q165054>
+(introligator, księgarz i
+nakładca)"];
+	"Jan Patruus z Koła
+[NEW]
+<Q165054>
+(introligator, księgarz i
+nakładca)" -> "Poznań
+[Q68589]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Jan
+[NEW]
+<osoba>
+(syn Jana Patruusa z Koła)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"firma drukarska Melchiora i Michaela Lotterów
+[NEW]
+<instytucja>
+(firma drukarska w Lipsku)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Latalski
+[Q159843]
+<osoba>
+(biskup)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przedmieście św. Marcin
+[NEW]
+<miejscowość>
+(część Poznania)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Chwaliszewo
+[NEW]
+<miejscowość>
+(miasteczko kapituły
+poznańskiej)"	[color=black,
+		label="Chwaliszewo
+[NEW]
+<miejscowość>
+(miasteczko kapituły
+poznańskiej)"];
+	"Chwaliszewo
+[NEW]
+<miejscowość>
+(miasteczko kapituły
+poznańskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kapituła poznańska
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dominikanie przy kościele Św. Katarzyny w Poznaniu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"córki Jana Patruusa z Koła
+[NEW]
+<osoba>
+(córki Jana Patruusa z
+Koła)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"drukowanie książek na zlecenie biskupa Jana Latalskiego
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

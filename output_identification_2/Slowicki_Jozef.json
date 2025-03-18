@@ -1,0 +1,385 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Rostoka",
+                "type": "miejscowość",
+                "description": "wieś w obwodzie krasnostawskim",
+                "wikihum": "NEW",
+                "wikidata": "Q2861",
+                "nominatim": 136057655,
+                "nominatim_name": "Rostock, Mecklenburg-Vorpommern, Deutschland"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Zagrzeb",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Józefa Słowickiego",
+                "wikihum": "Q146556"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1847",
+                "type": "data",
+                "description": "rok śmierci Józefa Słowickiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Józef",
+                "type": "osoba",
+                "description": "rolnik i duchowny grekokatolicki, ojciec Józefa Słowickiego",
+                "wikihum": "Q4654"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Warszawski",
+                "type": "instytucja",
+                "description": "miejsce studiów Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "podporucznik",
+                "type": "stopień wojskowy",
+                "description": "stopień wojskowy Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "emigrant",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego",
+                "wikihum": "NEW",
+                "wikidata": "Q4989857"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "powstaniec",
+                "type": "zawód",
+                "description": "zawód Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Czas",
+                "type": "czasopismo",
+                "description": "czasopismo, z którym współpracował Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Demokrata Polski",
+                "type": "czasopismo",
+                "description": "czasopismo, z którym współpracował Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "organizacja",
+                "description": "organizacja, do której należał Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Centralna Polaków w dep. des Landes",
+                "type": "organizacja",
+                "description": "organizacja, z którą był związany Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Korespondencyjna",
+                "type": "organizacja",
+                "description": "organizacja, z którą był związany Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pismo TDP",
+                "type": "czasopismo",
+                "description": "publikacja, z którą był związany Józef Słowicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Środki rewolucyjne",
+                "type": "dzieło",
+                "description": "rozprawa Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "instytucja",
+                "description": "Lublin",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "bitwy pod Rudkami, Tykocinem, Ostrołęką, obrona Warszawy",
+                "type": "wydarzenie",
+                "description": "bitwy, w których uczestniczył Józef Słowicki podczas powstania listopadowego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarz Komisji Centralnej Polaków w dep. des Landes",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "członek Centralizacji TDP",
+                "type": "urząd",
+                "description": "funkcja pełniona przez Józefa Słowickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Słowicki",
+                "type": "osoba",
+                "description": "powstaniec 1830/31 r., emigrant, publicysta",
+                "wikihum": "Q171351"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "ekspedytor parowozów",
+                "type": "zawód",
+                "description": "praca Józefa Słowickiego w lokomotywowni w Cherbourgu",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

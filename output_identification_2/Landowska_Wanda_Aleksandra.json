@@ -1,0 +1,331 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1879-07-05",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1959-08-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lakeville",
+                "type": "miejscowość",
+                "description": "w stanie Connecticut",
+                "wikihum": "NEW",
+                "wikidata": "Q983776",
+                "nominatim": 346498577,
+                "nominatim_name": "Lakeville, Dakota County, Minnesota, 55044, United States"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Marian Lautenberg",
+                "type": "osoba",
+                "description": "adwokat",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Ewelina Lautenberg",
+                "type": "osoba",
+                "description": "filolog, założycielka pierwszej w Warszawie szkoły języków obcych",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "religiousAffiliation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "katolicyzm",
+                "type": "religia",
+                "description": "przeszła z wyznania mojżeszowego",
+                "wikihum": "NEW",
+                "wikidata": "Q11737446"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Konserwatorium Warszawskie",
+                "type": "instytucja",
+                "description": "Warszawa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "instytucja",
+                "description": "Berlin",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "H. Lew",
+                "type": "osoba",
+                "description": "pisarz i znawca folkloru hebrajskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "profesor gry klawesynowej",
+                "type": "zawód",
+                "description": "Królewska Wyższa Szkoła Muzyczna w Berlinie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "École de Musique Ancienne",
+                "type": "instytucja",
+                "description": "szkoła muzyki dawnej w Saint-Leu la Forêt",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "doktor muzyki honoris causa",
+                "type": "tytuł",
+                "description": "Uniwersytet w Hartford",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Schola Cantorum",
+                "type": "instytucja",
+                "description": "Paryż",
+                "wikihum": "NEW",
+                "wikidata": "Q30918044"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona instytucja",
+                "type": "instytucja",
+                "description": "Bazylea",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "około 15 rozpraw dotyczących wykonawstwa muzyki dawnej",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "La musique ancienne",
+                "type": "dzieło",
+                "description": "1909",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wanda Landowska",
+                "type": "osoba",
+                "description": "klawesynistka, pedagog, kompozytorka, publicystka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "liczne kompozycje, w tym miniatury fortepianowe i utwory na orkiestrę smyczkową",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

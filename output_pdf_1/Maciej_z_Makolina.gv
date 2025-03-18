@@ -1,0 +1,660 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)"	[color=black,
+		label="Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)"];
+	"sekretarz
+[NEW]
+<zawód>"	[color=black,
+		label="sekretarz
+[NEW]
+<zawód>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "sekretarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"kolegiata w Pułtusku
+[NEW]
+<miejscowość>"	[color=black,
+		label="kolegiata w Pułtusku
+[NEW]
+<miejscowość>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "kolegiata w Pułtusku
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Stanisław
+[NEW]
+<osoba>
+(zapewne Hukleja, tj.
+Ukleja, wójt w Mąkolinie)"	[color=black,
+		label="Stanisław
+[NEW]
+<osoba>
+(zapewne Hukleja, tj.
+Ukleja, wójt w Mąkolinie)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Stanisław
+[NEW]
+<osoba>
+(zapewne Hukleja, tj.
+Ukleja, wójt w Mąkolinie)"	[color=green,
+		label="hasFather [P92]"];
+	"Anna z Kośnińskich
+[NEW]
+<osoba>"	[color=black,
+		label="Anna z Kośnińskich
+[NEW]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Anna z Kośnińskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(wójt knyszyński)"	[color=black,
+		label="Mikołaj
+[NEW]
+<osoba>
+(wójt knyszyński)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Mikołaj
+[NEW]
+<osoba>
+(wójt knyszyński)"	[color=green,
+		label="hasBrother [P97]"];
+	"Paweł
+[Q165102]
+<osoba>
+(doktor obojga praw,
+późniejszy opat płocki)"	[color=black,
+		label="Paweł
+[Q165102]
+<osoba>
+(doktor obojga praw,
+późniejszy opat płocki)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Paweł
+[Q165102]
+<osoba>
+(doktor obojga praw,
+późniejszy opat płocki)"	[color=green,
+		label="hasBrother [P97]"];
+	"Filip
+[NEW]
+<osoba>
+(kanonik pułtuski)"	[color=black,
+		label="Filip
+[NEW]
+<osoba>
+(kanonik pułtuski)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Filip
+[NEW]
+<osoba>
+(kanonik pułtuski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jan
+[Q155676]
+<osoba>"	[color=black,
+		label="Jan
+[Q155676]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Jan
+[Q155676]
+<osoba>"	[color=green,
+		label="hasBrother [P97]"];
+	"Zygmunt
+[Q3009]
+<osoba>"	[color=black,
+		label="Zygmunt
+[Q3009]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Zygmunt
+[Q3009]
+<osoba>"	[color=green,
+		label="hasBrother [P97]"];
+	"Królowa Bona
+[NEW]
+<osoba>"	[color=black,
+		label="Królowa Bona
+[NEW]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Królowa Bona
+[NEW]
+<osoba>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Zygmunt August
+[Q167928]
+<osoba>"	[color=black,
+		label="Zygmunt August
+[Q167928]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Zygmunt August
+[Q167928]
+<osoba>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kaleczyce
+[Q145345]
+<miejscowość>
+(majętność w powiecie
+lidzkim w W. Ks. Lit.)"	[color=black,
+		label="Kaleczyce
+[Q145345]
+<miejscowość>
+(majętność w powiecie
+lidzkim w W. Ks. Lit.)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Kaleczyce
+[Q145345]
+<miejscowość>
+(majętność w powiecie
+lidzkim w W. Ks. Lit.)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Mąkolin
+[Q54369]
+<miejscowość>
+(wieś biskupów płockich w
+ziemi wyszogrodzkiej na
+Mazowszu)"	[color=black,
+		label="Mąkolin
+[Q54369]
+<miejscowość>
+(wieś biskupów płockich w
+ziemi wyszogrodzkiej na
+Mazowszu)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Mąkolin
+[Q54369]
+<miejscowość>
+(wieś biskupów płockich w
+ziemi wyszogrodzkiej na
+Mazowszu)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Pułtusk
+[Q70119]
+<miejscowość>"	[color=black,
+		label="Pułtusk
+[Q70119]
+<miejscowość>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Pułtusk
+[Q70119]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"herb Kotwicz
+[NEW]
+<tytuł szlachecki>"	[color=black,
+		label="herb Kotwicz
+[NEW]
+<tytuł szlachecki>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "herb Kotwicz
+[NEW]
+<tytuł szlachecki>"	[color=green,
+		label="nobleTitle [NEW]"];
+	"prebendy w Koronie i na Litwie
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="prebendy w Koronie i na Litwie
+[NEW]
+<osiągnięcie>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "prebendy w Koronie i na Litwie
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"nobilitacja na sejmie 25 I 1533
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="nobilitacja na sejmie 25 I 1533
+[NEW]
+<osiągnięcie>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "nobilitacja na sejmie 25 I 1533
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"plebejusz
+[NEW]
+<status społeczny>"	[color=black,
+		label="plebejusz
+[NEW]
+<status społeczny>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "plebejusz
+[NEW]
+<status społeczny>"	[color=green,
+		label="socialStatus [NEW]"];
+	"wyższe wykształcenie
+[NEW]
+<edukacja>"	[color=black,
+		label="wyższe wykształcenie
+[NEW]
+<edukacja>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "wyższe wykształcenie
+[NEW]
+<edukacja>"	[color=green,
+		label="hasEducation [NEW]"];
+	"dwór ostatnich książąt mazowieckich
+[NEW]
+<miejsce>"	[color=black,
+		label="dwór ostatnich książąt mazowieckich
+[NEW]
+<miejsce>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "dwór ostatnich książąt mazowieckich
+[NEW]
+<miejsce>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Andrzej Krzycki
+[Q159193]
+<osoba>
+(biskup płocki)"	[color=black,
+		label="Andrzej Krzycki
+[Q159193]
+<osoba>
+(biskup płocki)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Andrzej Krzycki
+[Q159193]
+<osoba>
+(biskup płocki)"	[color=green,
+		label="significantFigure [P100]"];
+	"herb Kotwicz Krzyckich
+[NEW]
+<herb>"	[color=black,
+		label="herb Kotwicz Krzyckich
+[NEW]
+<herb>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "herb Kotwicz Krzyckich
+[NEW]
+<herb>"	[color=green,
+		label="nobleTitle [NEW]"];
+	"Biskup Dantyszek
+[NEW]
+<osoba>"	[color=black,
+		label="Biskup Dantyszek
+[NEW]
+<osoba>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "Biskup Dantyszek
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"nagrobek w katedrze płockiej
+[NEW]
+<dzieło>"	[color=black,
+		label="nagrobek w katedrze płockiej
+[NEW]
+<dzieło>"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "nagrobek w katedrze płockiej
+[NEW]
+<dzieło>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "1498-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz (ok. 1498–1576),
+sekretarz królowej Bony i
+Zygmunta \
+Augusta)" -> "1576-12-30"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"sekretarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kolegiata w Pułtusku
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław
+[NEW]
+<osoba>
+(zapewne Hukleja, tj.
+Ukleja, wójt w Mąkolinie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna z Kośnińskich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(wójt knyszyński)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paweł
+[Q165102]
+<osoba>
+(doktor obojga praw,
+późniejszy opat płocki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Filip
+[NEW]
+<osoba>
+(kanonik pułtuski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan
+[Q155676]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zygmunt
+[Q3009]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Królowa Bona
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zygmunt August
+[Q167928]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kaleczyce
+[Q145345]
+<miejscowość>
+(majętność w powiecie
+lidzkim w W. Ks. Lit.)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mąkolin
+[Q54369]
+<miejscowość>
+(wieś biskupów płockich w
+ziemi wyszogrodzkiej na
+Mazowszu)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pułtusk
+[Q70119]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"herb Kotwicz
+[NEW]
+<tytuł szlachecki>" -> "tytuł szlachecki
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"prebendy w Koronie i na Litwie
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nobilitacja na sejmie 25 I 1533
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"plebejusz
+[NEW]
+<status społeczny>" -> "status społeczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"wyższe wykształcenie
+[NEW]
+<edukacja>" -> "edukacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"dwór ostatnich książąt mazowieckich
+[NEW]
+<miejsce>" -> "miejsce
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Andrzej Krzycki
+[Q159193]
+<osoba>
+(biskup płocki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"herb Kotwicz Krzyckich
+[NEW]
+<herb>" -> "herb
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Biskup Dantyszek
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nagrobek w katedrze płockiej
+[NEW]
+<dzieło>" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

@@ -1,0 +1,1051 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1660",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stefan Dyjakiewicz",
+                "type": "osoba",
+                "description": "Dziedzic folwarku Pułnuszki pod Dubinkami.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan Dyjakiewicz",
+                "type": "osoba",
+                "description": "Dziedzic folwarku Pułnuszki pod Dubinkami.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Apolonia Falęcka",
+                "type": "osoba",
+                "description": "Matka Gabriela Dyjakiewicza, z domu Falęcka h. Leszczyc.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Apolonia Falęcka",
+                "type": "osoba",
+                "description": "Matka Gabriela Dyjakiewicza, z domu Falęcka h. Leszczyc.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna Niewierska",
+                "type": "osoba",
+                "description": "Żona Gabriela Dyjakiewicza, córka ks. Marcina Niewierskiego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Niewierska",
+                "type": "osoba",
+                "description": "Żona Gabriela Dyjakiewicza, córka ks. Marcina Niewierskiego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Berlin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q181990"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Berlin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q181990"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Frankfurt nad Odrą",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146859"
+            }
+        },
+        {
+            "subject": {
+                "name": "Frankfurt nad Odrą",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146859"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146796"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De cautelis contiliandae Dei gratia universalis et particularis deque schismate Evangelicorum",
+                "type": "dzieło",
+                "description": "Dzieło ogłoszone przez Marcina Dyjakiewicza w 1712 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "De cautelis contiliandae Dei gratia universalis et particularis deque schismate Evangelicorum",
+                "type": "dzieło",
+                "description": "Dzieło ogłoszone przez Marcina Dyjakiewicza w 1712 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q72328"
+            }
+        },
+        {
+            "subject": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q72328"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konrektor gimnazjum słuckiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "konrektor gimnazjum słuckiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "diakon",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3706489"
+            }
+        },
+        {
+            "subject": {
+                "name": "diakon",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3706489"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kaznodzieja",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11738548"
+            }
+        },
+        {
+            "subject": {
+                "name": "kaznodzieja",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11738548"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "minister zboru w Węgrowie",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "minister zboru w Węgrowie",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zejmy",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Gabriel Dyjakiewicz pracował jako duchowny.",
+                "wikihum": "Q143287"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zejmy",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Gabriel Dyjakiewicz pracował jako duchowny.",
+                "wikihum": "Q143287"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Węgrów",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Gabriel Dyjakiewicz pełnił funkcję ministra zboru.",
+                "wikihum": "Q86065"
+            }
+        },
+        {
+            "subject": {
+                "name": "Węgrów",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Gabriel Dyjakiewicz pełnił funkcję ministra zboru.",
+                "wikihum": "Q86065"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konrektor gimnazjum słuckiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "diakon",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q3706489"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kaznodzieja",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11738548"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rektor gimnazjum w Kiejdanach",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rektor gimnazjum w Kiejdanach",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kiejdany",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Marcin Dyjakiewicz pełnił funkcję rektora gimnazjum.",
+                "wikihum": "Q143264"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kiejdany",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Marcin Dyjakiewicz pełnił funkcję rektora gimnazjum.",
+                "wikihum": "Q143264"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Słuck",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Marcin Dyjakiewicz pełnił funkcję konrektora gimnazjum.",
+                "wikihum": "Q144168"
+            }
+        },
+        {
+            "subject": {
+                "name": "Słuck",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie Marcin Dyjakiewicz pełnił funkcję konrektora gimnazjum.",
+                "wikihum": "Q144168"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ekskomunika",
+                "type": "wydarzenie",
+                "description": "Ekskomunika Gabriela Dyjakiewicza (syna) z Kościoła w 1724 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q49822"
+            }
+        },
+        {
+            "subject": {
+                "name": "ekskomunika",
+                "type": "wydarzenie",
+                "description": "Ekskomunika Gabriela Dyjakiewicza (syna) z Kościoła w 1724 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q49822"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Raisa Mirska Kłobocka",
+                "type": "osoba",
+                "description": "Chorążyna mińska, fundatorka stypendium dla Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Raisa Mirska Kłobocka",
+                "type": "osoba",
+                "description": "Chorążyna mińska, fundatorka stypendium dla Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Memoriale prac, pielgrzymstwa i zabaw w tej śmiertelności żywota ziemskiego",
+                "type": "dzieło",
+                "description": "Pamiętnik Gabriela Dyjakiewicza obejmujący lata 1660-1718.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Memoriale prac, pielgrzymstwa i zabaw w tej śmiertelności żywota ziemskiego",
+                "type": "dzieło",
+                "description": "Pamiętnik Gabriela Dyjakiewicza obejmujący lata 1660-1718.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konsenior podlaski",
+                "type": "urząd",
+                "description": "Stanowisko kościelne objęte przez Gabriela Dyjakiewicza w 1694 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "konsenior podlaski",
+                "type": "urząd",
+                "description": "Stanowisko kościelne objęte przez Gabriela Dyjakiewicza w 1694 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Węgrów",
+                "type": "miejscowość",
+                "description": "Miejscowość, gdzie urodził się Marcin Dyjakiewicz.",
+                "wikihum": "Q86065"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Pierworodny syn Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1671-10-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Drugi syn Gabriela Dyjakiewicza, nałogowiec zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1699",
+                "type": "data",
+                "description": null
+            }
+        }
+    ]
+}

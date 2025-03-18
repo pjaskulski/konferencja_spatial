@@ -1,0 +1,220 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)"	[color=black,
+		label="Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)"];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> 1783	[color=green,
+		label="startOfMilitaryService [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "oberfajerwerker
+[NEW]
+<stopień wojskowy>
+(starszy ogniomistrz)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "podporucznik rzeczywisty
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "porucznik artylerii
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Legiony Dąbrowskiego
+[NEW]
+<organizacja>"	[color=green,
+		label="expelledFrom [NEW]"];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Legiony Dąbrowskiego
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganization [NEW]"];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "kapitan III klasy
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Korpus weteranów i inwalidów
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganization [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "6 pułk jazdy galicyjsko-francuskiej
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganization [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "15 pułk ułanów
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganization [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Wojciech Bartosz Głowacki
+[NEW]
+<osoba>
+(bohater spod Racławic)"	[color=green,
+		label="mistakenIdentityWith [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Wołoszczyzna
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfResidence [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Włochy
+[Q87834]
+<miejscowość>"	[color=green,
+		label="destination [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "korsarze algierscy
+[NEW]
+<organizacja>"	[color=green,
+		label="capturedBy [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "interwencja francuska
+[NEW]
+<wydarzenie>"	[color=green,
+		label="liberatedBy [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "1797-12-01
+(Data lądowania w porcie
+Liworno.)"	[color=green,
+		label="arrivalDate [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Legiony Dąbrowskiego
+[NEW]
+<organizacja>
+(Data dołączenia do
+Legionów Dąbrowskiego
+1797-12-05)"	[color=green,
+		label="joinedOrganization [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "artyleria legionowa
+[NEW]
+<organizacja>
+(Data przydzielenia
+1798-02-06)"	[color=green,
+		label="assignedTo [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Rzym
+[Q147390]
+<miejscowość>"	[color=green,
+		label="stationedAt [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "obrona twierdzy Mantui
+[NEW]
+<wydarzenie>
+(Kampania 1799 roku)"	[color=green,
+		label="distinguishedIn [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Leoben i Graz
+[NEW]
+<miejscowość>
+(Miejsca niewoli
+austriackiej po
+kapitulacji twierdzy
+Mantui)"	[color=green,
+		label="imprisonedAt [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "porucznik artylerii
+[NEW]
+<stopień wojskowy>
+(Awans po powrocie z
+niewoli)"	[color=green,
+		label="promotedTo [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "zerwanie szlif kapitanowi Szubertowi
+[NEW]
+<wydarzenie>
+(Przyczyna wydalenia z
+Legionów)"	[color=green,
+		label="causeOfExpulsion [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan W.P.)" -> "Korpus weteranów i inwalidów
+[NEW]
+<organizacja>
+(Data przeniesienia
+1811-12-09)"	[color=green,
+		label="transferredTo [NEW]",
+		minlen=2];
+}

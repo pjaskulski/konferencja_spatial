@@ -1,0 +1,162 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)"	[color=black,
+		label="Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)"];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"	[color=black,
+		label="Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"	[color=green,
+		label="hasFather [P92]"];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "budowniczy
+[NEW]
+<zawód>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "mistrz Jakub
+[NEW]
+<osoba>
+(osoba, u której Jan
+Gotland młodszy pracował
+przy wznoszeniu parteru
+kościoła Św. Jana)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "kościół Św. Jana
+[NEW]
+<instytucja>
+(miejsce, gdzie Jan
+Gotland młodszy zbudował
+górną część wieży)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "kościół Św. Wawrzyńca
+[NEW]
+<instytucja>
+(miejsce, gdzie Jan
+Gotland młodszy wzniósł
+zakrystię)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "brama miejska mostowa
+[NEW]
+<instytucja>
+(brama miejska zbudowana
+przez Jana Gotlanda
+młodszego w 1432 roku)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "kościół OO. Franciszkanów w Braniewie
+[NEW]
+<instytucja>
+(miejsce, gdzie Jan
+Gotland młodszy zbudował
+sklepienia i kaplicę)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "około 1380
+(przybliżona data
+urodzenia)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Jan Gotland młodszy
+[NEW]
+<osoba>
+(budowniczy toruński,
+czynny w Toruniu i
+Braniewie)" -> "po 1445
+(przybliżona data śmierci)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)" -> "starszy cechu
+[NEW]
+<urząd>
+(starszy cechu w Toruniu w
+latach 1389–1409)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

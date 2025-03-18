@@ -1,0 +1,405 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy: Lida, Wanda,
+Gruba Ceśka)"	[color=black,
+		label="Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy: Lida, Wanda,
+Gruba Ceśka)"];
+	"działaczka komunistyczna
+[NEW]
+<zawód>"	[color=black,
+		label="działaczka komunistyczna
+[NEW]
+<zawód>"];
+	"działaczka komunistyczna
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Łódź
+[Q52081]
+<miejscowość>"	[color=black,
+		label="Łódź
+[Q52081]
+<miejscowość>"];
+	"Łódź
+[Q52081]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Eliasz Grynberg
+[NEW]
+<osoba>
+(urzędnik w zakładach I.
+K. Poznańskiego)"	[color=black,
+		label="Eliasz Grynberg
+[NEW]
+<osoba>
+(urzędnik w zakładach I.
+K. Poznańskiego)"];
+	"Eliasz Grynberg
+[NEW]
+<osoba>
+(urzędnik w zakładach I.
+K. Poznańskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Barbara
+[Q3049]
+<osoba>"	[color=black,
+		label="Barbara
+[Q3049]
+<osoba>"];
+	"Barbara
+[Q3049]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)"	[color=black,
+		label="Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)"];
+	"Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)" -> "aresztowanie i skazanie w 1937 roku
+[NEW]
+<wydarzenie>
+(aresztowanie i skazanie
+Antoniego Markowskiego
+vel Franciszka
+Szczepowskiego \
+w 1937
+roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)" -> "pośmiertna rehabilitacja
+[NEW]
+<wydarzenie>
+(rehabilitacja Antoniego
+Markowskiego vel
+Franciszka Szczepowskiego
+po śmierci)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Komunistyczna Partia Robotnicza Polski
+[NEW]
+<instytucja>"	[color=black,
+		label="Komunistyczna Partia Robotnicza Polski
+[NEW]
+<instytucja>"];
+	"Komunistyczna Partia Robotnicza Polski
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Międzynarodówka Komunistyczna
+[NEW]
+<instytucja>"	[color=black,
+		label="Międzynarodówka Komunistyczna
+[NEW]
+<instytucja>"];
+	"Międzynarodówka Komunistyczna
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"komunistyczny uniwersytet im. J. M. Swierdłowa
+[NEW]
+<instytucja>
+(miejsce studiów Cecylii
+Orłowskiej w Moskwie)"	[color=black,
+		label="komunistyczny uniwersytet im. J. M. Swierdłowa
+[NEW]
+<instytucja>
+(miejsce studiów Cecylii
+Orłowskiej w Moskwie)"];
+	"komunistyczny uniwersytet im. J. M. Swierdłowa
+[NEW]
+<instytucja>
+(miejsce studiów Cecylii
+Orłowskiej w Moskwie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gimnazjum im. E. Orzeszkowej w Łodzi
+[NEW]
+<instytucja>
+(szkoła, do której
+uczęszczała Cecylia
+Orłowska)"	[color=black,
+		label="Gimnazjum im. E. Orzeszkowej w Łodzi
+[NEW]
+<instytucja>
+(szkoła, do której
+uczęszczała Cecylia
+Orłowska)"];
+	"Gimnazjum im. E. Orzeszkowej w Łodzi
+[NEW]
+<instytucja>
+(szkoła, do której
+uczęszczała Cecylia
+Orłowska)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Związek Młodzieży Komunistycznej
+[NEW]
+<organizacja>
+(organizacja, do której
+należała Cecylia Orłowska)"	[color=black,
+		label="Związek Młodzieży Komunistycznej
+[NEW]
+<organizacja>
+(organizacja, do której
+należała Cecylia Orłowska)"];
+	"Związek Młodzieży Komunistycznej
+[NEW]
+<organizacja>
+(organizacja, do której
+należała Cecylia Orłowska)" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"aresztowanie i skazanie w 1937 roku
+[NEW]
+<wydarzenie>
+(aresztowanie i skazanie
+Cecylii Orłowskiej w 1937
+roku)"	[color=black,
+		label="aresztowanie i skazanie w 1937 roku
+[NEW]
+<wydarzenie>
+(aresztowanie i skazanie
+Cecylii Orłowskiej w 1937
+roku)"];
+	"aresztowanie i skazanie w 1937 roku
+[NEW]
+<wydarzenie>
+(aresztowanie i skazanie
+Cecylii Orłowskiej w 1937
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pośmiertna rehabilitacja
+[NEW]
+<wydarzenie>
+(rehabilitacja Cecylii
+Orłowskiej po śmierci)"	[color=black,
+		label="pośmiertna rehabilitacja
+[NEW]
+<wydarzenie>
+(rehabilitacja Cecylii
+Orłowskiej po śmierci)"];
+	"pośmiertna rehabilitacja
+[NEW]
+<wydarzenie>
+(rehabilitacja Cecylii
+Orłowskiej po śmierci)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "działaczka komunistyczna
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Łódź
+[Q52081]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Eliasz Grynberg
+[NEW]
+<osoba>
+(urzędnik w zakładach I.
+K. Poznańskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Barbara
+[Q3049]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Antoni Markowski vel Franciszek Szczepowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+również skazany w 1937
+roku)"	[color=green,
+		label="hasHusband [P94]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Komunistyczna Partia Robotnicza Polski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Międzynarodówka Komunistyczna
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "komunistyczny uniwersytet im. J. M. Swierdłowa
+[NEW]
+<instytucja>
+(miejsce studiów Cecylii
+Orłowskiej w Moskwie)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Gimnazjum im. E. Orzeszkowej w Łodzi
+[NEW]
+<instytucja>
+(szkoła, do której
+uczęszczała Cecylia
+Orłowska)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "Związek Młodzieży Komunistycznej
+[NEW]
+<organizacja>
+(organizacja, do której
+należała Cecylia Orłowska)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "aresztowanie i skazanie w 1937 roku
+[NEW]
+<wydarzenie>
+(aresztowanie i skazanie
+Cecylii Orłowskiej w 1937
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "pośmiertna rehabilitacja
+[NEW]
+<wydarzenie>
+(rehabilitacja Cecylii
+Orłowskiej po śmierci)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "1906-02-26"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Cecylia Orłowska
+[Q164373]
+<osoba>
+(działaczka komunistyczna,
+pseudonimy":" Lida, Wanda,
+Gruba Ceśka)" -> "1937-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+}

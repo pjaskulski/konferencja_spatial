@@ -1,0 +1,202 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wojewoda poznański",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Dobrogosta z Dzwonowa w latach 1308-1318.",
+                "wikihum": "NEW",
+                "wikidata": "Q9377087"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1321-04-16",
+                "type": "data",
+                "description": "Data śmierci Dobrogosta z Dzwonowa."
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "nieznany z imienia syn Dobrogosta z Dzwonowa",
+                "type": "osoba",
+                "description": "Syn Dobrogosta z Dzwonowa, który razem z nim ściągnął klątwę.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Dzierżykraj",
+                "type": "osoba",
+                "description": "Syn Dobrogosta z Dzwonowa, uczestniczył w zaspokajaniu pretensji kościoła poznańskiego.",
+                "wikihum": "Q152188"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "wdowa po Dobrogostu z Dzwonowa",
+                "type": "osoba",
+                "description": "Żona Dobrogosta z Dzwonowa, zaspokoiła pretensje kościoła poznańskiego po jego śmierci.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół poznański",
+                "type": "instytucja",
+                "description": "Instytucja, której Dobrogost z Dzwonowa wyrządził szkody, ściągając klątwę na siebie i syna.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ziemia nie poświęcona",
+                "type": "miejsce",
+                "description": "Miejsce pochówku Dobrogosta z Dzwonowa i jego syna z powodu klątwy.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "memberOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ród Nałęczów",
+                "type": "organizacja",
+                "description": "Potężny ród w Wielkopolsce, do którego należał Dobrogost z Dzwonowa.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Łokietek",
+                "type": "osoba",
+                "description": "Król Polski, którego interesy wspierał Dobrogost z Dzwonowa.",
+                "wikihum": "Q151316"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieznana, prawdopodobnie związana z klątwą",
+                "type": "przyczyna",
+                "description": "Przyczyna śmierci Dobrogosta z Dzwonowa, sugerowana jako niezwykła i prawdopodobnie związana z klątwą.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dobrogost z Dzwonowa",
+                "type": "osoba",
+                "description": "wojewoda poznański w latach 1308-1318",
+                "wikihum": "Q151607"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Janusz z Bibersteinu",
+                "type": "osoba",
+                "description": "Dowódca wojsk głogowskich, pokonany przez Dobrogosta z Dzwonowa pod Kłeckiem.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

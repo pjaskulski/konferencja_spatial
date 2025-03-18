@@ -1,0 +1,158 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)"	[color=black,
+		label="Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)"];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "wojewoda poznański
+[NEW]
+<urząd>
+(Urząd pełniony przez
+Dobrogosta z Dzwonowa w
+latach 1308-1318.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "1321-04-16
+(Data śmierci Dobrogosta z
+Dzwonowa.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "nieznany z imienia syn Dobrogosta z Dzwonowa
+[NEW]
+<osoba>
+(Syn Dobrogosta z
+Dzwonowa, który razem z
+nim ściągnął klątwę.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "Dzierżykraj
+[Q152188]
+<osoba>
+(Syn Dobrogosta z
+Dzwonowa, uczestniczył w
+zaspokajaniu pretensji
+kościoła poznańskiego.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "wdowa po Dobrogostu z Dzwonowa
+[NEW]
+<osoba>
+(Żona Dobrogosta z
+Dzwonowa, zaspokoiła
+pretensje kościoła
+poznańskiego po jego
+\
+śmierci.)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "kościół poznański
+[NEW]
+<instytucja>
+(Instytucja, której
+Dobrogost z Dzwonowa
+wyrządził szkody,
+ściągając klątwę na
+\
+siebie i syna.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "ziemia nie poświęcona
+[NEW]
+<miejsce>
+(Miejsce pochówku
+Dobrogosta z Dzwonowa i
+jego syna z powodu
+klątwy.)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "ród Nałęczów
+[NEW]
+<organizacja>
+(Potężny ród w
+Wielkopolsce, do którego
+należał Dobrogost z
+Dzwonowa.)"	[color=green,
+		label="memberOf [NEW]",
+		minlen=4];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "Łokietek
+[Q151316]
+<osoba>
+(Król Polski, którego
+interesy wspierał
+Dobrogost z Dzwonowa.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "nieznana, prawdopodobnie związana z klątwą
+[NEW]
+<przyczyna>
+(Przyczyna śmierci
+Dobrogosta z Dzwonowa,
+sugerowana jako niezwykła
+\
+i prawdopodobnie związana
+z klątwą.)"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Dobrogost z Dzwonowa
+[Q151607]
+<osoba>
+(wojewoda poznański w
+latach 1308-1318)" -> "Janusz z Bibersteinu
+[NEW]
+<osoba>
+(Dowódca wojsk
+głogowskich, pokonany
+przez Dobrogosta z
+Dzwonowa pod Kłeckiem.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+}

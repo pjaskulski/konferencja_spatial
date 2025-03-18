@@ -1,0 +1,417 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kotiużany",
+                "type": "miejscowość",
+                "description": "na Podolu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1931-12-30",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Henryk Dzierżek",
+                "type": "osoba",
+                "description": "ojciec Natalii Dzierżek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Maria z Piątkowskich Nieczuja-Dzierżków",
+                "type": "osoba",
+                "description": "matka Natalii Dzierżek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasUncle",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Henryk Piątkowski",
+                "type": "osoba",
+                "description": "artysta malarz, wuj Natalii Dzierżek",
+                "wikihum": "Q165460"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych",
+                "type": "uczelnia",
+                "description": "w Odessie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Sokoły",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Mariusz Zaruski",
+                "type": "osoba",
+                "description": "współwięzień Natalii Dzierżek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku",
+                "wikihum": "Q153030"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Teresa z Wołowskich Prażmowska",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda na konkursie »Gazety Świątecznej«",
+                "type": "osiągnięcie",
+                "description": "za utwór Bartłomiej Słomka. Gawęda w 1900 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Jerzy Orwicz",
+                "type": "pseudonim",
+                "description": "pseudonim literacki Natalii Dzierżek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "literatka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "artystka-malarka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "działaczka społeczna",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczycielka rysunku",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "redaktorka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Żywot wodza narodu (T. Kościuszki)",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kurier Warszawski",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Natalia Dzierżek",
+                "type": "osoba",
+                "description": "literatka, artystka-malarka, działaczka społeczna",
+                "wikihum": "Q152179"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kronika Rolnicza",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Piątkowski",
+                "type": "osoba",
+                "description": "artysta malarz, wuj Natalii Dzierżek",
+                "wikihum": "Q165460"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "artysta malarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku",
+                "wikihum": "Q153030"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tadeusz Gałecki",
+                "type": "osoba",
+                "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku",
+                "wikihum": "Q153030"
+            }
+        }
+    ]
+}

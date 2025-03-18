@@ -1,0 +1,538 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)"	[color=black,
+		label="Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)"];
+	"Wilno
+[Q143061]
+<miejscowość>"	[color=black,
+		label="Wilno
+[Q143061]
+<miejscowość>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Leon Radziwiłł
+[NEW]
+<osoba>"	[color=black,
+		label="Leon Radziwiłł
+[NEW]
+<osoba>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Leon Radziwiłł
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"satyryk
+[NEW]
+<zawód>"	[color=black,
+		label="satyryk
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "satyryk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"pieśniarz
+[NEW]
+<zawód>"	[color=black,
+		label="pieśniarz
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "pieśniarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"rysownik
+[NEW]
+<zawód>"	[color=black,
+		label="rysownik
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "rysownik
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Petersburg
+[Q147038]
+<miejscowość>"	[color=black,
+		label="Petersburg
+[Q147038]
+<miejscowość>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Petersburg
+[Q147038]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Paryż
+[Q146696]
+<miejscowość>"	[color=black,
+		label="Paryż
+[Q146696]
+<miejscowość>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"	[color=black,
+		label="Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"	[color=green,
+		label="hasWife [P94]"];
+	"nieznana
+[NEW]
+<osoba>
+(matka Artura Bartelsa)"	[color=black,
+		label="nieznana
+[NEW]
+<osoba>
+(matka Artura Bartelsa)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "nieznana
+[NEW]
+<osoba>
+(matka Artura Bartelsa)"	[color=green,
+		label="hasMother [P93]"];
+	"karykaturzysta
+[NEW]
+<zawód>"	[color=black,
+		label="karykaturzysta
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "karykaturzysta
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"dziennikarz
+[NEW]
+<zawód>"	[color=black,
+		label="dziennikarz
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "dziennikarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"dramaturg
+[NEW]
+<zawód>"	[color=black,
+		label="dramaturg
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "dramaturg
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"malarz
+[NEW]
+<zawód>"	[color=black,
+		label="malarz
+[NEW]
+<zawód>"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "malarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"piosenki i satyry
+[NEW]
+<dzieło>
+(utwory Artura Bartelsa
+publikowane po jego
+śmierci)"	[color=black,
+		label="piosenki i satyry
+[NEW]
+<dzieło>
+(utwory Artura Bartelsa
+publikowane po jego
+śmierci)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "piosenki i satyry
+[NEW]
+<dzieło>
+(utwory Artura Bartelsa
+publikowane po jego
+śmierci)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"utwory sceniczne
+[NEW]
+<dzieło>
+(farsy Artura Bartelsa,
+które cieszyły się
+wielkim powodzeniem)"	[color=black,
+		label="utwory sceniczne
+[NEW]
+<dzieło>
+(farsy Artura Bartelsa,
+które cieszyły się
+wielkim powodzeniem)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "utwory sceniczne
+[NEW]
+<dzieło>
+(farsy Artura Bartelsa,
+które cieszyły się
+wielkim powodzeniem)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"artykuły o treści myśliwskiej
+[NEW]
+<dzieło>
+(artykuły Artura Bartelsa
+publikowane w \"Łowcu\")"	[color=black,
+		label="artykuły o treści myśliwskiej
+[NEW]
+<dzieło>
+(artykuły Artura Bartelsa
+publikowane w \"Łowcu\")"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "artykuły o treści myśliwskiej
+[NEW]
+<dzieło>
+(artykuły Artura Bartelsa
+publikowane w \"Łowcu\")"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Tydzień poleski
+[NEW]
+<dzieło>
+(poemat Artura Bartelsa
+publikowany w \"Łowcu\")"	[color=black,
+		label="Tydzień poleski
+[NEW]
+<dzieło>
+(poemat Artura Bartelsa
+publikowany w \"Łowcu\")"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Tydzień poleski
+[NEW]
+<dzieło>
+(poemat Artura Bartelsa
+publikowany w \"Łowcu\")"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"rysunki
+[NEW]
+<dzieło>
+(rysunki Artura Bartelsa
+publikowane w \"Albumie
+wileńskiem\")"	[color=black,
+		label="rysunki
+[NEW]
+<dzieło>
+(rysunki Artura Bartelsa
+publikowane w \"Albumie
+wileńskiem\")"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "rysunki
+[NEW]
+<dzieło>
+(rysunki Artura Bartelsa
+publikowane w \"Albumie
+wileńskiem\")"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"rodzina Wańkowiczów
+[NEW]
+<osoba>
+(rodzina związana z
+Arturem Bartelsem przez
+jego żonę)"	[color=black,
+		label="rodzina Wańkowiczów
+[NEW]
+<osoba>
+(rodzina związana z
+Arturem Bartelsem przez
+jego żonę)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "rodzina Wańkowiczów
+[NEW]
+<osoba>
+(rodzina związana z
+Arturem Bartelsem przez
+jego żonę)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "1818-10-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "1885-12-23"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Wilno
+[Q143061]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Leon Radziwiłł
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"satyryk
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pieśniarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rysownik
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Petersburg
+[Q147038]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paryż
+[Q146696]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nieznana
+[NEW]
+<osoba>
+(matka Artura Bartelsa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"karykaturzysta
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dziennikarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dramaturg
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"malarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"piosenki i satyry
+[NEW]
+<dzieło>
+(utwory Artura Bartelsa
+publikowane po jego
+śmierci)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"utwory sceniczne
+[NEW]
+<dzieło>
+(farsy Artura Bartelsa,
+które cieszyły się
+wielkim powodzeniem)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"artykuły o treści myśliwskiej
+[NEW]
+<dzieło>
+(artykuły Artura Bartelsa
+publikowane w \"Łowcu\")" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tydzień poleski
+[NEW]
+<dzieło>
+(poemat Artura Bartelsa
+publikowany w \"Łowcu\")" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rysunki
+[NEW]
+<dzieło>
+(rysunki Artura Bartelsa
+publikowane w \"Albumie
+wileńskiem\")" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rodzina Wańkowiczów
+[NEW]
+<osoba>
+(rodzina związana z
+Arturem Bartelsem przez
+jego żonę)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

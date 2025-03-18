@@ -1,0 +1,357 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)"	[color=black,
+		label="Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)"];
+	"Towarzystwo Dobroczynności św. Wincentego a Paulo
+[NEW]
+<instytucja>
+(organizacja charytatywna
+we Lwowie)"	[color=black,
+		label="Towarzystwo Dobroczynności św. Wincentego a Paulo
+[NEW]
+<instytucja>
+(organizacja charytatywna
+we Lwowie)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Towarzystwo Dobroczynności św. Wincentego a Paulo
+[NEW]
+<instytucja>
+(organizacja charytatywna
+we Lwowie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Leon Sapieha
+[Q169732]
+<osoba>
+(mąż Jadwigi Sapieżyny z
+Zamoyskich)"	[color=black,
+		label="Leon Sapieha
+[Q169732]
+<osoba>
+(mąż Jadwigi Sapieżyny z
+Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Leon Sapieha
+[Q169732]
+<osoba>
+(mąż Jadwigi Sapieżyny z
+Zamoyskich)"	[color=green,
+		label="hasHusband [P94]"];
+	"Adam Kazimierz Czartoryski
+[Q151024]
+<osoba>
+(dziadek Jadwigi Sapieżyny
+z Zamoyskich)"	[color=black,
+		label="Adam Kazimierz Czartoryski
+[Q151024]
+<osoba>
+(dziadek Jadwigi Sapieżyny
+z Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Adam Kazimierz Czartoryski
+[Q151024]
+<osoba>
+(dziadek Jadwigi Sapieżyny
+z Zamoyskich)"	[color=green,
+		label="hasGrandfather [P91]"];
+	"Stanisław Zamoyski
+[NEW]
+<osoba>
+(ojciec Jadwigi Sapieżyny
+z Zamoyskich, prezes
+Senatu Królestwa
+Kongresowego)"	[color=black,
+		label="Stanisław Zamoyski
+[NEW]
+<osoba>
+(ojciec Jadwigi Sapieżyny
+z Zamoyskich, prezes
+Senatu Królestwa
+Kongresowego)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Stanisław Zamoyski
+[NEW]
+<osoba>
+(ojciec Jadwigi Sapieżyny
+z Zamoyskich, prezes
+Senatu Królestwa
+Kongresowego)"	[color=green,
+		label="hasFather [P92]"];
+	"Zofia z Czartoryskich
+[NEW]
+<osoba>
+(matka Jadwigi Sapieżyny z
+Zamoyskich)"	[color=black,
+		label="Zofia z Czartoryskich
+[NEW]
+<osoba>
+(matka Jadwigi Sapieżyny z
+Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Zofia z Czartoryskich
+[NEW]
+<osoba>
+(matka Jadwigi Sapieżyny z
+Zamoyskich)"	[color=green,
+		label="hasMother [P93]"];
+	"Celina Działyńska
+[NEW]
+<osoba>
+(siostra Jadwigi Sapieżyny
+z Zamoyskich)"	[color=black,
+		label="Celina Działyńska
+[NEW]
+<osoba>
+(siostra Jadwigi Sapieżyny
+z Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Celina Działyńska
+[NEW]
+<osoba>
+(siostra Jadwigi Sapieżyny
+z Zamoyskich)"	[color=green,
+		label="hasSister [P97]"];
+	"Adam Sapieha
+[Q169682]
+<osoba>
+(syn Jadwigi Sapieżyny z
+Zamoyskich)"	[color=black,
+		label="Adam Sapieha
+[Q169682]
+<osoba>
+(syn Jadwigi Sapieżyny z
+Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Adam Sapieha
+[Q169682]
+<osoba>
+(syn Jadwigi Sapieżyny z
+Zamoyskich)"	[color=green,
+		label="hasSon [P153]"];
+	"Krasiczyn
+[Q46092]
+<miejscowość>
+(miejsce pochówku Jadwigi
+Sapieżyny z Zamoyskich)"	[color=black,
+		label="Krasiczyn
+[Q46092]
+<miejscowość>
+(miejsce pochówku Jadwigi
+Sapieżyny z Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Krasiczyn
+[Q46092]
+<miejscowość>
+(miejsce pochówku Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Władysław Zamoyski
+[NEW]
+<osoba>
+(brat Jadwigi Sapieżyny z
+Zamoyskich)"	[color=black,
+		label="Władysław Zamoyski
+[NEW]
+<osoba>
+(brat Jadwigi Sapieżyny z
+Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Władysław Zamoyski
+[NEW]
+<osoba>
+(brat Jadwigi Sapieżyny z
+Zamoyskich)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jadwiga
+[NEW]
+<osoba>
+(synowa Jadwigi Sapieżyny
+z Zamoyskich)"	[color=black,
+		label="Jadwiga
+[NEW]
+<osoba>
+(synowa Jadwigi Sapieżyny
+z Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Jadwiga
+[NEW]
+<osoba>
+(synowa Jadwigi Sapieżyny
+z Zamoyskich)"	[color=green,
+		label="hasDaughterInLaw [NEW]"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "1890-03-29"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "1806-07-09"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[Q169756]
+<osoba>
+(filantropka, żona Leona
+Sapiehy)" -> "Podzamcze
+[Q67269]
+<miejscowość>
+(miejsce urodzenia Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Towarzystwo Dobroczynności św. Wincentego a Paulo
+[NEW]
+<instytucja>
+(organizacja charytatywna
+we Lwowie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Leon Sapieha
+[Q169732]
+<osoba>
+(mąż Jadwigi Sapieżyny z
+Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Adam Kazimierz Czartoryski
+[Q151024]
+<osoba>
+(dziadek Jadwigi Sapieżyny
+z Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Zamoyski
+[NEW]
+<osoba>
+(ojciec Jadwigi Sapieżyny
+z Zamoyskich, prezes
+Senatu Królestwa
+Kongresowego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia z Czartoryskich
+[NEW]
+<osoba>
+(matka Jadwigi Sapieżyny z
+Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Celina Działyńska
+[NEW]
+<osoba>
+(siostra Jadwigi Sapieżyny
+z Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Adam Sapieha
+[Q169682]
+<osoba>
+(syn Jadwigi Sapieżyny z
+Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krasiczyn
+[Q46092]
+<miejscowość>
+(miejsce pochówku Jadwigi
+Sapieżyny z Zamoyskich)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Podzamcze
+[Q130881]
+<miejscowość>
+(miejsce urodzenia Jadwigi
+Sapieżyny z Zamoyskich)"	[color=black,
+		label="Podzamcze
+[Q130881]
+<miejscowość>
+(miejsce urodzenia Jadwigi
+Sapieżyny z Zamoyskich)"];
+	"Podzamcze
+[Q130881]
+<miejscowość>
+(miejsce urodzenia Jadwigi
+Sapieżyny z Zamoyskich)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Władysław Zamoyski
+[NEW]
+<osoba>
+(brat Jadwigi Sapieżyny z
+Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jadwiga
+[NEW]
+<osoba>
+(synowa Jadwigi Sapieżyny
+z Zamoyskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

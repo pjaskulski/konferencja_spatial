@@ -1,0 +1,202 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)"	[color=black,
+		label="Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)"];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "1875-08-25"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "1968-07-26"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "cmentarz Powązkowski
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Jan Koźniewski
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Józefa z Jasiobędzkich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Wacław Kalinowski
+[NEW]
+<osoba>
+(zm. 1944)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "malarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Académie Vitty
+[NEW]
+<uczelnia>
+(Paryż)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Académie Colarossi
+[NEW]
+<uczelnia>
+(Paryż)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Union Internationale des Beaux-Arts et des Lettres
+[NEW]
+<organizacja>
+(Paryż)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Towarzystwo Zachęty Sztuk Pięknych
+[NEW]
+<organizacja>
+(Warszawa)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=3];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Polskie Towarzystwo Artystyczne
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Związek Polskich Artystów Plastyków
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Ludomir Benedyktowicz
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Józef Pankiewicz
+[Q164889]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "A. de la Gandara
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Luc Olivier-Merson
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "Olga Boznańska
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "medal brązowy za Portret panny Mili H.
+[NEW]
+<osiągnięcie>
+(Salon 1930 r. w
+Towarzystwie Zachęty
+Sztuk Pięknych w
+Warszawie)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "nauczycielka matematyki i rysunku
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Maria Koźniewska-Kalinowska
+[Q158716]
+<osoba>
+(malarka)" -> "pierwszy medal za akt
+[NEW]
+<osiągnięcie>
+(Académie Colarossi, 1903)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+}

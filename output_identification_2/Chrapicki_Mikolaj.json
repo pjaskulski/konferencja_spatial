@@ -1,0 +1,543 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik warmiński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "biskup chełmiński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1514-02-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół pofranciszkański w Lubawie",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Łukasz Watzenrode",
+                "type": "osoba",
+                "description": "biskup warmiński",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor franciszkański w Lubawie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor w Kartuzach",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "katedra chełmińska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół w Byszwałdzie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół w Lembargu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Koloński",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Toruń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q83578"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lubawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q50270"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Chełmno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q24272"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Radzyń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q70798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zamek starogrodzki",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zamek papowski",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Konopacki",
+                "type": "osoba",
+                "description": "administrator biskupstwa chełmińskiego",
+                "wikihum": "Q157927"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kanonik warmiński od 5 września 1488",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "biskup chełmiński",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "fundator klasztoru franciszkańskiego w Lubawie",
+                "type": "zawód",
+                "description": "1502 rok",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "fundator klasztoru w Kartuzach",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "konsekracja kościoła w Byszwałdzie",
+                "type": "zawód",
+                "description": "1500 rok",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "konsekracja kościoła w Lembargu",
+                "type": "zawód",
+                "description": "1507 rok",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Olbracht",
+                "type": "osoba",
+                "description": "król Polski",
+                "wikihum": "Q155672"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Aleksander Jagiellończyk",
+                "type": "osoba",
+                "description": "król Polski",
+                "wikihum": "Q148333"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Zygmunt I Stary",
+                "type": "osoba",
+                "description": "król Polski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Chrapicki",
+                "type": "osoba",
+                "description": "kanonik warmiński, biskup chełmiński",
+                "wikihum": "Q150578"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Juliusz II",
+                "type": "osoba",
+                "description": "papież",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Konopacki",
+                "type": "osoba",
+                "description": "administrator biskupstwa chełmińskiego",
+                "wikihum": "Q157927"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "administrator biskupstwa chełmińskiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

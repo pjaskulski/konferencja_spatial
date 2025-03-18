@@ -1,0 +1,653 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=black,
+		label="Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"];
+	"burmistrz
+[NEW]
+<zawód>"	[color=black,
+		label="burmistrz
+[NEW]
+<zawód>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burmistrz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"burgrabia królewski
+[NEW]
+<urząd>"	[color=black,
+		label="burgrabia królewski
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burgrabia królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>"	[color=black,
+		label="Gdańsk
+[Q31993]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(obywatel gdański)"	[color=black,
+		label="Mikołaj
+[NEW]
+<osoba>
+(obywatel gdański)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Mikołaj
+[NEW]
+<osoba>
+(obywatel gdański)"	[color=green,
+		label="hasFather [P92]"];
+	"Anna von Domfsdorff
+[NEW]
+<osoba>"	[color=black,
+		label="Anna von Domfsdorff
+[NEW]
+<osoba>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Anna von Domfsdorff
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Konstanty Ferber
+[Q152564]
+<osoba>
+(burmistrz)"	[color=black,
+		label="Konstanty Ferber
+[Q152564]
+<osoba>
+(burmistrz)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstanty Ferber
+[Q152564]
+<osoba>
+(burmistrz)"	[color=green,
+		label="hasStepfather [NEW]"];
+	"Anna von Thielen
+[NEW]
+<osoba>"	[color=black,
+		label="Anna von Thielen
+[NEW]
+<osoba>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Anna von Thielen
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]"];
+	"Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w
+latach 1687–91)"	[color=black,
+		label="Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w
+latach 1687–91)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w
+latach 1687–91)"	[color=green,
+		label="hasSon [P153]"];
+	"Gimnazjum
+[NEW]
+<instytucja>"	[color=black,
+		label="Gimnazjum
+[NEW]
+<instytucja>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gimnazjum
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Toruń
+[Q83578]
+<miejscowość>"	[color=black,
+		label="Toruń
+[Q83578]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Lipsk
+[Q49963]
+<miejscowość>"	[color=black,
+		label="Lipsk
+[Q49963]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Lipsk
+[Q49963]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Wittenberga
+[Q146885]
+<miejscowość>"	[color=black,
+		label="Wittenberga
+[Q146885]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Wittenberga
+[Q146885]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Giessen
+[NEW]
+<miejscowość>"	[color=black,
+		label="Giessen
+[NEW]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Giessen
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Lejda
+[Q146796]
+<miejscowość>"	[color=black,
+		label="Lejda
+[Q146796]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Lejda
+[Q146796]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"dyplom nobilitacyjny
+[NEW]
+<osiągnięcie>
+(otrzymany od cesarza
+Ferdynanda II)"	[color=black,
+		label="dyplom nobilitacyjny
+[NEW]
+<osiągnięcie>
+(otrzymany od cesarza
+Ferdynanda II)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "dyplom nobilitacyjny
+[NEW]
+<osiągnięcie>
+(otrzymany od cesarza
+Ferdynanda II)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Hel
+[Q36255]
+<miejscowość>"	[color=black,
+		label="Hel
+[Q36255]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Hel
+[Q36255]
+<miejscowość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"Wyżyny
+[Q90579]
+<miejscowość>"	[color=black,
+		label="Wyżyny
+[Q90579]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Wyżyny
+[Q90579]
+<miejscowość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"Mierzeja i Szkarpawa
+[NEW]
+<miejscowość>"	[color=black,
+		label="Mierzeja i Szkarpawa
+[NEW]
+<miejscowość>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Mierzeja i Szkarpawa
+[NEW]
+<miejscowość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"ławnik
+[NEW]
+<urząd>"	[color=black,
+		label="ławnik
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "ławnik
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"rajca
+[NEW]
+<urząd>"	[color=black,
+		label="rajca
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "rajca
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"sędzia
+[NEW]
+<urząd>"	[color=black,
+		label="sędzia
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sędzia
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"inspektor kancelarii i archiwum
+[NEW]
+<urząd>
+(funkcja dożywotnia)"	[color=black,
+		label="inspektor kancelarii i archiwum
+[NEW]
+<urząd>
+(funkcja dożywotnia)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "inspektor kancelarii i archiwum
+[NEW]
+<urząd>
+(funkcja dożywotnia)"	[color=green,
+		label="positionHeld [P101]"];
+	"prezydent
+[NEW]
+<urząd>"	[color=black,
+		label="prezydent
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "prezydent
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"wiceprezydent
+[NEW]
+<urząd>"	[color=black,
+		label="wiceprezydent
+[NEW]
+<urząd>"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "wiceprezydent
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"sejmik w Malborku
+[NEW]
+<wydarzenie>
+(sierpień 1637)"	[color=black,
+		label="sejmik w Malborku
+[NEW]
+<wydarzenie>
+(sierpień 1637)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sejmik w Malborku
+[NEW]
+<wydarzenie>
+(sierpień 1637)"	[color=green,
+		label="significantEvent [NEW]"];
+	"sejmik w Grudziądzu
+[NEW]
+<wydarzenie>
+(luty 1638)"	[color=black,
+		label="sejmik w Grudziądzu
+[NEW]
+<wydarzenie>
+(luty 1638)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sejmik w Grudziądzu
+[NEW]
+<wydarzenie>
+(luty 1638)"	[color=green,
+		label="significantEvent [NEW]"];
+	"sejmik w Toruniu
+[NEW]
+<wydarzenie>
+(styczeń 1640)"	[color=black,
+		label="sejmik w Toruniu
+[NEW]
+<wydarzenie>
+(styczeń 1640)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sejmik w Toruniu
+[NEW]
+<wydarzenie>
+(styczeń 1640)"	[color=green,
+		label="significantEvent [NEW]"];
+	"układ wielkich miast z rycerstwem
+[NEW]
+<wydarzenie>
+(2 października 1637)"	[color=black,
+		label="układ wielkich miast z rycerstwem
+[NEW]
+<wydarzenie>
+(2 października 1637)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "układ wielkich miast z rycerstwem
+[NEW]
+<wydarzenie>
+(2 października 1637)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1595-04-12"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1649-08-21"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"burmistrz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"burgrabia królewski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(obywatel gdański)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna von Domfsdorff
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstanty Ferber
+[Q152564]
+<osoba>
+(burmistrz)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna von Thielen
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w
+latach 1687–91)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gimnazjum
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Toruń
+[Q83578]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lipsk
+[Q49963]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wittenberga
+[Q146885]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Giessen
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lejda
+[Q146796]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dyplom nobilitacyjny
+[NEW]
+<osiągnięcie>
+(otrzymany od cesarza
+Ferdynanda II)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Hel
+[Q36255]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wyżyny
+[Q90579]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mierzeja i Szkarpawa
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ławnik
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rajca
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sędzia
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"inspektor kancelarii i archiwum
+[NEW]
+<urząd>
+(funkcja dożywotnia)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"prezydent
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wiceprezydent
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sejmik w Malborku
+[NEW]
+<wydarzenie>
+(sierpień 1637)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sejmik w Grudziądzu
+[NEW]
+<wydarzenie>
+(luty 1638)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sejmik w Toruniu
+[NEW]
+<wydarzenie>
+(styczeń 1640)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"układ wielkich miast z rycerstwem
+[NEW]
+<wydarzenie>
+(2 października 1637)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

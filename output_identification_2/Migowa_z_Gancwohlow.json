@@ -1,0 +1,433 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Józef Kazimierz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q167474"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna Maria z Kempińskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Będzin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q18735"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "I Prywatna Średnia Szkoła Żeńska w Krakowie",
+                "type": "instytucja",
+                "description": "szkoła ukończona przez Marię Jadwigę Migową",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": "uczelnia, na której Maria Jadwiga Migowa studiowała polonistykę i romanistykę",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Związek Filaretów",
+                "type": "organizacja",
+                "description": "młodzieżowa organizacja niepodległościowa, do której należała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Związek Strzelecki",
+                "type": "organizacja",
+                "description": "organizacja niepodległościowa, do której należała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce, gdzie Maria Jadwiga Migowa prowadziła kuchnię dla rannych legionistów i uchodźców z Małopolski",
+                "wikihum": "Q68721"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Ilustrowany Kurier Codzienny",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Goniec Krakowski",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Nowa Reforma",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Nowości Ilustrowane",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kurier Czerwony",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kino",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Świat",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kurier Poranny",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Światowid",
+                "type": "instytucja",
+                "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW",
+                "wikidata": "Q30918672"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wydawnictwo Ibis",
+                "type": "instytucja",
+                "description": "wydawnictwo, z którym współpracowała Maria Jadwiga Migowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Jan Miga",
+                "type": "osoba",
+                "description": "dziennikarz, współpracownik krakowskich czasopism",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1890-05-19",
+                "type": "data",
+                "description": "Rok urodzenia jest niepewny, podany jako 1890 lub 1891."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1942-00-00",
+                "type": "data",
+                "description": "Dokładna data śmierci nie jest znana, ale jest to rok 1942."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfArrest",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1942-05-00",
+                "type": "data",
+                "description": "Dokładna data aresztowania nie jest znana, ale jest to maj 1942."
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "placeOfImprisonment",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dawne więzienie wojskowe na ul. Gęsiej",
+                "type": "miejsce",
+                "description": "Miejsce osadzenia Marii Jadwigi Migowej po aresztowaniu.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Jadwiga Migowa",
+                "type": "osoba",
+                "description": "dziennikarka, powieściopisarka, pseudonimy: M. J. M., mig., mjm., J. Mig., Kamil Norden",
+                "wikihum": "Q162299"
+            },
+            "predicate": {
+                "name": "dateOfDeportation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1942-07-22",
+                "type": "data",
+                "description": "Data wywiezienia Marii Jadwigi Migowej, prawdopodobnie od razu na śmierć."
+            }
+        }
+    ]
+}

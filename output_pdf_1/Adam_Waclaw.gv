@@ -1,0 +1,253 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)"	[color=black,
+		label="Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)"];
+	"Katarzyna Sydonja
+[NEW]
+<osoba>
+(księżniczka saska)"	[color=black,
+		label="Katarzyna Sydonja
+[NEW]
+<osoba>
+(księżniczka saska)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Katarzyna Sydonja
+[NEW]
+<osoba>
+(księżniczka saska)"	[color=green,
+		label="hasMother [P93]"];
+	"Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"	[color=black,
+		label="Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"	[color=green,
+		label="hasWife [P94]"];
+	"nieznane dzieci Adama Wacława
+[NEW]
+<osoba>
+(trójka dzieci Adama
+Wacława, nie wymieniona z
+imienia)"	[color=black,
+		label="nieznane dzieci Adama Wacława
+[NEW]
+<osoba>
+(trójka dzieci Adama
+Wacława, nie wymieniona z
+imienia)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "nieznane dzieci Adama Wacława
+[NEW]
+<osoba>
+(trójka dzieci Adama
+Wacława, nie wymieniona z
+imienia)"	[color=green,
+		label="hasChild [NEW]"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Wacław Adam
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "1574-12-12"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "1617-07-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Cieszyn
+[Q25595]
+<miejscowość>
+(na Brandysie)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "kościół dominikanów cieszyńskich
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Fryderyk Wilhelm
+[Q152898]
+<osoba>
+(ostatni cieszyński Piast
+męski)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Elżbieta Lukrecja
+[NEW]
+<osoba>
+(ostatnia Piastówna)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "książę cieszyński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "książę górnogłogowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "dowódca oddziału jazdy
+[NEW]
+<zawód>
+(w wojsku cesarskim)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "najwyższy dowódca wojskowy
+[NEW]
+<zawód>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "radca cesarski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "wojna z Turkami na Węgrzech
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "walka między Habsburgami, Rudolfem II i Maciejem
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "katolicyzm
+[NEW]
+<religia>
+(przeszedł z
+protestantyzmu na
+katolicyzm w 1610 roku)"	[color=green,
+		label="religiousAffiliation [NEW]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "pielgrzymka ekspiacyjna do Kalwarii Zebrzydowskiej
+[NEW]
+<wydarzenie>
+(zorganizowana przez Adama
+Wacława w 1614 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Katarzyna Sydonja
+[NEW]
+<osoba>
+(księżniczka saska)" -> "Wacław Adam
+[NEW]
+<osoba>"	[color=green,
+		label="hasHusband [P94]"];
+	"Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)" -> "książę kurlandzki
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"nieznane dzieci Adama Wacława
+[NEW]
+<osoba>
+(trójka dzieci Adama
+Wacława, nie wymieniona z
+imienia)" -> "nieznane dzieci Adama Wacława
+[NEW]
+<osoba>
+(trójka dzieci Adama
+Wacława, nie wymieniona z
+imienia)"	[color=green,
+		label="hasChild [NEW]"];
+}

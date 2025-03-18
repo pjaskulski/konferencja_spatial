@@ -1,0 +1,847 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)"	[color=black,
+		label="Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)"];
+	"gubernator księstwa słuckiego i kopylskiego
+[NEW]
+<urząd>"	[color=black,
+		label="gubernator księstwa słuckiego i kopylskiego
+[NEW]
+<urząd>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "gubernator księstwa słuckiego i kopylskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"drukarnia słucka
+[NEW]
+<instytucja>"	[color=black,
+		label="drukarnia słucka
+[NEW]
+<instytucja>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "drukarnia słucka
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)"	[color=black,
+		label="Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)"	[color=green,
+		label="hasFather [P92]"];
+	"Mazowsze
+[Q54307]
+<miejscowość>
+(region, z którego
+pochodził Kazimierz
+Krzysztof Kłokocki)"	[color=black,
+		label="Mazowsze
+[Q54307]
+<miejscowość>
+(region, z którego
+pochodził Kazimierz
+Krzysztof Kłokocki)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Mazowsze
+[Q54307]
+<miejscowość>
+(region, z którego
+pochodził Kazimierz
+Krzysztof Kłokocki)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Orlean
+[Q146695]
+<miejscowość>"	[color=black,
+		label="Orlean
+[Q146695]
+<miejscowość>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Orlean
+[Q146695]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"znajomość wielu języków
+[NEW]
+<osiągnięcie>
+(łacina, greka, niemiecki,
+francuski, turecki,
+tatarski)"	[color=black,
+		label="znajomość wielu języków
+[NEW]
+<osiągnięcie>
+(łacina, greka, niemiecki,
+francuski, turecki,
+tatarski)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "znajomość wielu języków
+[NEW]
+<osiągnięcie>
+(łacina, greka, niemiecki,
+francuski, turecki,
+tatarski)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Karol Ferdynand
+[Q156780]
+<osoba>
+(królewicz, biskup płocki)"	[color=black,
+		label="Karol Ferdynand
+[Q156780]
+<osoba>
+(królewicz, biskup płocki)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Karol Ferdynand
+[Q156780]
+<osoba>
+(królewicz, biskup płocki)"	[color=green,
+		label="significantFigure [P100]"];
+	"bitwa pod Batohem
+[NEW]
+<wydarzenie>"	[color=black,
+		label="bitwa pod Batohem
+[NEW]
+<wydarzenie>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "bitwa pod Batohem
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"bitwa pod Modlinem
+[NEW]
+<wydarzenie>
+(bitwa przeciwko Szwedom)"	[color=black,
+		label="bitwa pod Modlinem
+[NEW]
+<wydarzenie>
+(bitwa przeciwko Szwedom)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "bitwa pod Modlinem
+[NEW]
+<wydarzenie>
+(bitwa przeciwko Szwedom)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Bogusław Radziwiłł
+[Q167677]
+<osoba>
+(ojciec Ludwiki Karoliny)"	[color=black,
+		label="Bogusław Radziwiłł
+[Q167677]
+<osoba>
+(ojciec Ludwiki Karoliny)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Bogusław Radziwiłł
+[Q167677]
+<osoba>
+(ojciec Ludwiki Karoliny)"	[color=green,
+		label="significantFigure [P100]"];
+	"Ludwika Karolina Radziwiłł
+[NEW]
+<osoba>
+(córka Bogusława
+Radziwiłła)"	[color=black,
+		label="Ludwika Karolina Radziwiłł
+[NEW]
+<osoba>
+(córka Bogusława
+Radziwiłła)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Ludwika Karolina Radziwiłł
+[NEW]
+<osoba>
+(córka Bogusława
+Radziwiłła)"	[color=green,
+		label="significantFigure [P100]"];
+	"opór przeciwko Iwanowi Chowańskiemu
+[NEW]
+<wydarzenie>"	[color=black,
+		label="opór przeciwko Iwanowi Chowańskiemu
+[NEW]
+<wydarzenie>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "opór przeciwko Iwanowi Chowańskiemu
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"poseł na sejm
+[NEW]
+<urząd>
+(poseł na sejm w 1677 roku)"	[color=black,
+		label="poseł na sejm
+[NEW]
+<urząd>
+(poseł na sejm w 1677 roku)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "poseł na sejm
+[NEW]
+<urząd>
+(poseł na sejm w 1677 roku)"	[color=green,
+		label="positionHeld [P101]"];
+	"pułkownik JKM
+[NEW]
+<urząd>"	[color=black,
+		label="pułkownik JKM
+[NEW]
+<urząd>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "pułkownik JKM
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Starzynki
+[Q18821]
+<miejscowość>"	[color=black,
+		label="Starzynki
+[Q18821]
+<miejscowość>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Starzynki
+[Q18821]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Słuck
+[Q144168]
+<miejscowość>"	[color=black,
+		label="Słuck
+[Q144168]
+<miejscowość>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Słuck
+[Q144168]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Jan Hieronim Kłokocki
+[NEW]
+<osoba>
+(chorąży rzeczycki,
+później jezuita)"	[color=black,
+		label="Jan Hieronim Kłokocki
+[NEW]
+<osoba>
+(chorąży rzeczycki,
+później jezuita)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Jan Hieronim Kłokocki
+[NEW]
+<osoba>
+(chorąży rzeczycki,
+później jezuita)"	[color=green,
+		label="hasSon [P153]"];
+	"Regina Teofila Mirska
+[NEW]
+<osoba>"	[color=black,
+		label="Regina Teofila Mirska
+[NEW]
+<osoba>"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Regina Teofila Mirska
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]"];
+	"bibliotekarz nacji germańskiej
+[NEW]
+<zawód>
+(funkcja pełniona w
+Orleanie w 1645 roku)"	[color=black,
+		label="bibliotekarz nacji germańskiej
+[NEW]
+<zawód>
+(funkcja pełniona w
+Orleanie w 1645 roku)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "bibliotekarz nacji germańskiej
+[NEW]
+<zawód>
+(funkcja pełniona w
+Orleanie w 1645 roku)"	[color=green,
+		label="positionHeld [P101]"];
+	"dworzanin
+[NEW]
+<zawód>
+(dworzanin królewicza
+Karola Ferdynanda,
+biskupa płockiego)"	[color=black,
+		label="dworzanin
+[NEW]
+<zawód>
+(dworzanin królewicza
+Karola Ferdynanda,
+biskupa płockiego)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "dworzanin
+[NEW]
+<zawód>
+(dworzanin królewicza
+Karola Ferdynanda,
+biskupa płockiego)"	[color=green,
+		label="positionHeld [P101]"];
+	"zarządca fortecy w Słucku
+[NEW]
+<zawód>
+(zarządca fortecy w Słucku
+od 1660 roku)"	[color=black,
+		label="zarządca fortecy w Słucku
+[NEW]
+<zawód>
+(zarządca fortecy w Słucku
+od 1660 roku)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "zarządca fortecy w Słucku
+[NEW]
+<zawód>
+(zarządca fortecy w Słucku
+od 1660 roku)"	[color=green,
+		label="positionHeld [P101]"];
+	"stolnik płocki
+[NEW]
+<zawód>
+(stolnik płocki w 1665
+roku)"	[color=black,
+		label="stolnik płocki
+[NEW]
+<zawód>
+(stolnik płocki w 1665
+roku)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "stolnik płocki
+[NEW]
+<zawód>
+(stolnik płocki w 1665
+roku)"	[color=green,
+		label="positionHeld [P101]"];
+	"opiekun i ekonom dóbr Ludwiki Karoliny Radziwiłł
+[NEW]
+<zawód>
+(jeden z 12 opiekunów i
+jeden z 3 ekonomów dóbr
+Ludwiki Karoliny
+\
+Radziwiłł na Litwie)"	[color=black,
+		label="opiekun i ekonom dóbr Ludwiki Karoliny Radziwiłł
+[NEW]
+<zawód>
+(jeden z 12 opiekunów i
+jeden z 3 ekonomów dóbr
+Ludwiki Karoliny
+\
+Radziwiłł na Litwie)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "opiekun i ekonom dóbr Ludwiki Karoliny Radziwiłł
+[NEW]
+<zawód>
+(jeden z 12 opiekunów i
+jeden z 3 ekonomów dóbr
+Ludwiki Karoliny
+\
+Radziwiłł na Litwie)"	[color=green,
+		label="positionHeld [P101]"];
+	"Monarchia turecka, Żywot Mahometa, Opisanie Alkoranu
+[NEW]
+<dzieło>
+(dzieła tłumaczone przez
+Kazimierza Krzysztofa
+Kłokockiego)"	[color=black,
+		label="Monarchia turecka, Żywot Mahometa, Opisanie Alkoranu
+[NEW]
+<dzieło>
+(dzieła tłumaczone przez
+Kazimierza Krzysztofa
+Kłokockiego)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Monarchia turecka, Żywot Mahometa, Opisanie Alkoranu
+[NEW]
+<dzieło>
+(dzieła tłumaczone przez
+Kazimierza Krzysztofa
+Kłokockiego)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Zbigniew Morsztyn
+[Q162940]
+<osoba>
+(wybitny poeta ariański,
+przyjaciel Kazimierza
+Krzysztofa Kłokockiego)"	[color=black,
+		label="Zbigniew Morsztyn
+[Q162940]
+<osoba>
+(wybitny poeta ariański,
+przyjaciel Kazimierza
+Krzysztofa Kłokockiego)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Zbigniew Morsztyn
+[Q162940]
+<osoba>
+(wybitny poeta ariański,
+przyjaciel Kazimierza
+Krzysztofa Kłokockiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"katolicyzm
+[NEW]
+<wyznanie>
+(przynależność religijna
+Kazimierza Krzysztofa
+Kłokockiego)"	[color=black,
+		label="katolicyzm
+[NEW]
+<wyznanie>
+(przynależność religijna
+Kazimierza Krzysztofa
+Kłokockiego)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "katolicyzm
+[NEW]
+<wyznanie>
+(przynależność religijna
+Kazimierza Krzysztofa
+Kłokockiego)"	[color=green,
+		label="religiousAffiliation [NEW]"];
+	"zapalony bibliofil
+[NEW]
+<osiągnięcie>
+(pasja do książek i
+literatury Kazimierza
+Krzysztofa Kłokockiego)"	[color=black,
+		label="zapalony bibliofil
+[NEW]
+<osiągnięcie>
+(pasja do książek i
+literatury Kazimierza
+Krzysztofa Kłokockiego)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "zapalony bibliofil
+[NEW]
+<osiągnięcie>
+(pasja do książek i
+literatury Kazimierza
+Krzysztofa Kłokockiego)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Słuck, Brańczyce, Starzynki, Rumoka
+[NEW]
+<miejscowość>
+(miejsca związane z
+Kazimierzem Krzysztofem
+Kłokockim)"	[color=black,
+		label="Słuck, Brańczyce, Starzynki, Rumoka
+[NEW]
+<miejscowość>
+(miejsca związane z
+Kazimierzem Krzysztofem
+Kłokockim)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Słuck, Brańczyce, Starzynki, Rumoka
+[NEW]
+<miejscowość>
+(miejsca związane z
+Kazimierzem Krzysztofem
+Kłokockim)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "1684-10-24"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "1685-02-20"	[color=green,
+		label="dateOfBurial [NEW]",
+		minlen=2];
+	"gubernator księstwa słuckiego i kopylskiego
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"drukarnia słucka
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mazowsze
+[Q54307]
+<miejscowość>
+(region, z którego
+pochodził Kazimierz
+Krzysztof Kłokocki)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Orlean
+[Q146695]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"znajomość wielu języków
+[NEW]
+<osiągnięcie>
+(łacina, greka, niemiecki,
+francuski, turecki,
+tatarski)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Karol Ferdynand
+[Q156780]
+<osoba>
+(królewicz, biskup płocki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bitwa pod Batohem
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bitwa pod Modlinem
+[NEW]
+<wydarzenie>
+(bitwa przeciwko Szwedom)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bogusław Radziwiłł
+[Q167677]
+<osoba>
+(ojciec Ludwiki Karoliny)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ludwika Karolina Radziwiłł
+[NEW]
+<osoba>
+(córka Bogusława
+Radziwiłła)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"opór przeciwko Iwanowi Chowańskiemu
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"poseł na sejm
+[NEW]
+<urząd>
+(poseł na sejm w 1677 roku)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pułkownik JKM
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Starzynki
+[Q18821]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Słuck
+[Q144168]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Hieronim Kłokocki
+[NEW]
+<osoba>
+(chorąży rzeczycki,
+później jezuita)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Regina Teofila Mirska
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bibliotekarz nacji germańskiej
+[NEW]
+<zawód>
+(funkcja pełniona w
+Orleanie w 1645 roku)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dworzanin
+[NEW]
+<zawód>
+(dworzanin królewicza
+Karola Ferdynanda,
+biskupa płockiego)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zarządca fortecy w Słucku
+[NEW]
+<zawód>
+(zarządca fortecy w Słucku
+od 1660 roku)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"stolnik płocki
+[NEW]
+<zawód>
+(stolnik płocki w 1665
+roku)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"opiekun i ekonom dóbr Ludwiki Karoliny Radziwiłł
+[NEW]
+<zawód>
+(jeden z 12 opiekunów i
+jeden z 3 ekonomów dóbr
+Ludwiki Karoliny
+\
+Radziwiłł na Litwie)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Monarchia turecka, Żywot Mahometa, Opisanie Alkoranu
+[NEW]
+<dzieło>
+(dzieła tłumaczone przez
+Kazimierza Krzysztofa
+Kłokockiego)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Zbigniew Morsztyn
+[Q162940]
+<osoba>
+(wybitny poeta ariański,
+przyjaciel Kazimierza
+Krzysztofa Kłokockiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"katolicyzm
+[NEW]
+<wyznanie>
+(przynależność religijna
+Kazimierza Krzysztofa
+Kłokockiego)" -> "wyznanie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"zapalony bibliofil
+[NEW]
+<osiągnięcie>
+(pasja do książek i
+literatury Kazimierza
+Krzysztofa Kłokockiego)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Słuck, Brańczyce, Starzynki, Rumoka
+[NEW]
+<miejscowość>
+(miejsca związane z
+Kazimierzem Krzysztofem
+Kłokockim)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

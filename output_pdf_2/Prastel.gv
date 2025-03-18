@@ -1,0 +1,217 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)"	[color=black,
+		label="Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)"];
+	"Tadeusz Kościuszko
+[NEW]
+<osoba>
+(Zetknął się z Franciszką
+Prastel i prosił ją o
+modlitwy w intencji
+powstania.)"	[color=black,
+		label="Tadeusz Kościuszko
+[NEW]
+<osoba>
+(Zetknął się z Franciszką
+Prastel i prosił ją o
+modlitwy w intencji
+powstania.)"];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "Tadeusz Kościuszko
+[NEW]
+<osoba>
+(Zetknął się z Franciszką
+Prastel i prosił ją o
+modlitwy w intencji
+powstania.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "przełożona Zgromadzenia Sióstr Prezentek w Krakowie
+[NEW]
+<urząd>
+(Funkcja pełniona przez
+Franciszkę Prastel od 16
+września \
+1781 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "kierowniczka szkoły Zgromadzenia Sióstr Prezentek w Krakowie
+[NEW]
+<urząd>
+(Funkcja pełniona przez
+Franciszkę Prastel od 16
+\
+września 1781 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "1808-07-06"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "cmentarz Rakowicki
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "Zgromadzenie Sióstr Prezentek w Krakowie
+[NEW]
+<instytucja>
+(Zgromadzenie, które
+nakładało na zakonnice
+obowiązek wychowywania \
+i
+kształcenia dziewcząt.)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "1763-05-21
+(Data wstąpienia
+Franciszki Prastel do
+Zgromadzenia Sióstr
+Prezentek w Krakowie.)"	[color=green,
+		label="dateOfJoining [NEW]",
+		minlen=1];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "kościół Św. Jana
+[NEW]
+<miejsce>
+(Kościół, który Franciszka
+Prastel odnowiła i
+wyposażyła.)"	[color=green,
+		label="relatedPlace [NEW]",
+		minlen=2];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "Kraków
+[Q46043]
+<miejscowość>
+(Miejsce, gdzie Franciszka
+Prastel była znana i
+szanowana.)"	[color=green,
+		label="relatedPlace [NEW]",
+		minlen=3];
+	"Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)" -> "Magdalena
+[NEW]
+<imię zakonne>
+(Imię zakonne Franciszki
+Prastel.)"	[color=green,
+		label="religiousName [NEW]",
+		minlen=4];
+	"Tadeusz Kościuszko
+[NEW]
+<osoba>
+(Zetknął się z Franciszką
+Prastel i prosił ją o
+modlitwy w intencji
+powstania.)" -> "Franciszka Prastel
+[NEW]
+<osoba>
+(Przełożona prezentek w
+Krakowie, znana jako
+matka sierot i doskonały
+organizator szkoły.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Walenty Pruski
+[NEW]
+<osoba>
+(Ks. kanonik, który
+zapisał Zgromadzeniu
+Sióstr Prezentek 40 000
+złp. na kształcenie i
+wychowanie \
+uczennic.)"	[color=black,
+		label="Walenty Pruski
+[NEW]
+<osoba>
+(Ks. kanonik, który
+zapisał Zgromadzeniu
+Sióstr Prezentek 40 000
+złp. na kształcenie i
+wychowanie \
+uczennic.)"];
+	"Walenty Pruski
+[NEW]
+<osoba>
+(Ks. kanonik, który
+zapisał Zgromadzeniu
+Sióstr Prezentek 40 000
+złp. na kształcenie i
+wychowanie \
+uczennic.)" -> "Zgromadzenie Sióstr Prezentek w Krakowie
+[NEW]
+<instytucja>
+(Zgromadzenie, które
+nakładało na zakonnice
+obowiązek wychowywania \
+i
+kształcenia dziewcząt.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+}

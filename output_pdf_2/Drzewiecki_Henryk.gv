@@ -1,0 +1,482 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)"	[color=black,
+		label="Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)"];
+	"Gabel
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=black,
+		label="Gabel
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Gabel
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Cotogni
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=black,
+		label="Cotogni
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Cotogni
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Barbacini
+[NEW]
+<osoba>
+(nauczyciel podczas
+debiutu)"	[color=black,
+		label="Barbacini
+[NEW]
+<osoba>
+(nauczyciel podczas
+debiutu)"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Barbacini
+[NEW]
+<osoba>
+(nauczyciel podczas
+debiutu)"	[color=green,
+		label="significantFigure [P100]"];
+	"Tadeusz Pawlikowski
+[NEW]
+<osoba>
+(dyrektor opery we Lwowie)"	[color=black,
+		label="Tadeusz Pawlikowski
+[NEW]
+<osoba>
+(dyrektor opery we Lwowie)"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Tadeusz Pawlikowski
+[NEW]
+<osoba>
+(dyrektor opery we Lwowie)"	[color=green,
+		label="significantFigure [P100]"];
+	"Erazm Dłuski
+[Q151549]
+<osoba>
+(kompozytor opery 'Urwasi')"	[color=black,
+		label="Erazm Dłuski
+[Q151549]
+<osoba>
+(kompozytor opery 'Urwasi')"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Erazm Dłuski
+[Q151549]
+<osoba>
+(kompozytor opery 'Urwasi')"	[color=green,
+		label="significantFigure [P100]"];
+	"Henryk Skirmunt
+[Q170995]
+<osoba>
+(kompozytor opery 'Pan
+Wołodyjowski')"	[color=black,
+		label="Henryk Skirmunt
+[Q170995]
+<osoba>
+(kompozytor opery 'Pan
+Wołodyjowski')"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Henryk Skirmunt
+[Q170995]
+<osoba>
+(kompozytor opery 'Pan
+Wołodyjowski')"	[color=green,
+		label="significantFigure [P100]"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Wyszków
+[Q90482]
+<miejscowość>
+(nad Bugiem)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "1937-10-04"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Radom)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Konserwatorium
+[NEW]
+<uczelnia>
+(Petersburg)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "pierwszy tenor liryczny
+[NEW]
+<zawód>
+(opera we Lwowie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "sędzia okręgowy
+[NEW]
+<zawód>
+(Radom)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "rejent
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "O izbach notarialnych
+[NEW]
+<dzieło>
+(1927)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Studia i materiały do dziejów notariatu w Polsce
+[NEW]
+<dzieło>
+(1928)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Zarys dziejów notariatu w Polsce
+[NEW]
+<dzieło>
+(1929)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> 1873	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Giacomo Puccini
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Georges Bizet
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Giuseppe Verdi
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Charles Gounod
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Jules Massenet
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Stanisław Moniuszko
+[Q162802]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Piotr Czajkowski
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Pietro Mascagni
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Vincenzo Bellini
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Richard Wagner
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Daniel Auber
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Anton Rubinstein
+[NEW]
+<osoba>
+(kompozytor oper)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Gabel
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)" -> "Gabel
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Cotogni
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)" -> "Cotogni
+[NEW]
+<osoba>
+(nauczyciel sztuki
+śpiewackiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Barbacini
+[NEW]
+<osoba>
+(nauczyciel podczas
+debiutu)" -> "Barbacini
+[NEW]
+<osoba>
+(nauczyciel podczas
+debiutu)"	[color=green,
+		label="significantFigure [P100]"];
+	"Tadeusz Pawlikowski
+[NEW]
+<osoba>
+(dyrektor opery we Lwowie)" -> "Tadeusz Pawlikowski
+[NEW]
+<osoba>
+(dyrektor opery we Lwowie)"	[color=green,
+		label="significantFigure [P100]"];
+	"Erazm Dłuski
+[Q151549]
+<osoba>
+(kompozytor opery 'Urwasi')" -> "Erazm Dłuski
+[Q151549]
+<osoba>
+(kompozytor opery 'Urwasi')"	[color=green,
+		label="significantFigure [P100]"];
+	"Henryk Skirmunt
+[Q170995]
+<osoba>
+(kompozytor opery 'Pan
+Wołodyjowski')" -> "Henryk Skirmunt
+[Q170995]
+<osoba>
+(kompozytor opery 'Pan
+Wołodyjowski')"	[color=green,
+		label="significantFigure [P100]"];
+}

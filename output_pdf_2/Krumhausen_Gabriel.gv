@@ -1,0 +1,170 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=black,
+		label="Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Joachim Krumhausen
+[NEW]
+<osoba>
+(ojciec Gabriela
+Krumhausena)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gertruda Schumann
+[NEW]
+<osoba>
+(matka Gabriela
+Krumhausena)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Stanisław Bornbach
+[NEW]
+<osoba>
+(pisarz miejski i
+kronikarz Gdańska)"	[color=green,
+		label="hasGrandfather [P91]",
+		minlen=3];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela
+Krumhausena, członek i
+kwatermistrz Kwartału
+Wysokiego)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burmistrz
+[NEW]
+<urząd>
+(pełniony przez Gabriela
+Krumhausena w Gdańsku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burgrabia królewski
+[NEW]
+<urząd>
+(pełniony przez Gabriela
+Krumhausena w Gdańsku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "uniwersytet w Strasburgu
+[NEW]
+<instytucja>
+(miejsce studiów
+prawniczych Gabriela
+Krumhausena)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1614-09-14"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1685-04-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1651-02-14"	[color=green,
+		label="dateOfMarriage [NEW]",
+		minlen=3];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Jan III Sobieski
+[Q155674]
+<osoba>
+(król Polski, z którym
+Gabriel Krumhausen
+prowadził tajne obrady w
+1677 roku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "urzędnik miejski
+[NEW]
+<zawód>
+(pełnił różnorodne funkcje
+administracyjne związane
+z miastem Gdańsk)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

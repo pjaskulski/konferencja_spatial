@@ -1,0 +1,210 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)"	[color=black,
+		label="Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)"];
+	"Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)"	[color=black,
+		label="Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)"];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)"	[color=green,
+		label="hasHusband [P94]"];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Eliasz Grynberg
+[NEW]
+<osoba>
+(ojciec Cecylii
+Orłowskiej, urzędnik w
+zakładach I. K.
+Poznańskiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Barbara
+[NEW]
+<osoba>
+(matka Cecylii Orłowskiej)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Łódź
+[Q52081]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "1906-02-26"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "1937-00-00"	[color=green,
+		label="dateOfDeath [P12]"];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "działaczka komunistyczna
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Komunistyczna Partia Robotnicza Polski
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Związek Młodzieży Komunistycznej
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "komunistyczny uniwersytet im. J. M. Swierdłowa
+[NEW]
+<instytucja>
+(Moskwa)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "Gimnazjum im. E. Orzeszkowej
+[NEW]
+<instytucja>
+(Łódź)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "1937-00-00
+(Data aresztowania Cecylii
+Orłowskiej.)"	[color=green,
+		label="dateOfArrest [NEW]",
+		minlen=2];
+	"Cecylia Orłowska
+[NEW]
+<osoba>
+(działaczka komunistyczna,
+właściwe nazwisko
+Grynberg, pseudonimy
+Lida, Wanda, Gruba Ceśka)" -> "rehabilitacja
+[NEW]
+<wydarzenie>
+(Pośmiertna rehabilitacja
+Cecylii Orłowskiej.)"	[color=green,
+		label="posthumouslyRehabilitated [NEW]",
+		minlen=3];
+	"Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)" -> "1937-00-00"	[color=green,
+		label="dateOfDeath [P12]"];
+	"Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)" -> "1937-00-00
+(Data aresztowania
+Antoniego Markowskiego.)"	[color=green,
+		label="dateOfArrest [NEW]",
+		minlen=1];
+	"Antoni Markowski
+[NEW]
+<osoba>
+(mąż Cecylii Orłowskiej,
+alternatywne nazwisko
+Franciszek Szczepowski)" -> "rehabilitacja
+[NEW]
+<wydarzenie>
+(Pośmiertna rehabilitacja
+Antoniego Markowskiego.)"	[color=green,
+		label="posthumouslyRehabilitated [NEW]",
+		minlen=2];
+}

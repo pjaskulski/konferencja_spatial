@@ -1,0 +1,122 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)"	[color=black,
+		label="Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> 1851	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "1933-1939
+(Zmarł prawdopodobnie w
+latach poprzedzających
+wybuch drugiej wojny
+światowej.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "II. Gimnazjum Miejskie
+[NEW]
+<uczelnia>
+(Warszawa)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Politechnika w Londynie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "inżynier
+[NEW]
+<zawód>
+(Pracował w Rumunii przy
+budowie kolei.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "zawiadowca warsztatów mechanicznych
+[NEW]
+<zawód>
+(Pracował w Turcji jako
+zawiadowca warsztatów
+mechanicznych w
+Adrianopolu.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "emigracyjny związek Białego Orła
+[NEW]
+<organizacja>
+(Anglia)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "towarzystwa geograficzne
+[NEW]
+<organizacja>
+(Paryż, Londyn, Amsterdam,
+Bruksela)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "gimnazjum we Wrocławiu
+[NEW]
+<uczelnia>
+(Wrocław)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Belgia, Francja, Anglia)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "pamiętnik i notatki z podróży
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+}

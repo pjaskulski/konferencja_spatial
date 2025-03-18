@@ -1,0 +1,170 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)"	[color=black,
+		label="Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"	[color=black,
+		label="Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"	[color=green,
+		label="hasHusband [P94]"];
+	"Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 r.)"	[color=black,
+		label="Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 r.)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 r.)"	[color=green,
+		label="hasFather [P92]"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "Ansberta z Badeńskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "ciosy bagnetów i pik kozackich
+[NEW]
+<przyczyna śmierci>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "1863-02-28"	[color=green,
+		label="dateOfBurial [NEW]",
+		minlen=3];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "Radogoszcz (Dobra?)
+[NEW]
+<miejscowość>
+(pod Łodzią)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "Józef Sawicki i Józef Dworzaczek
+[NEW]
+<osoby>
+(dowódcy partii
+powstańczej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "ulica imienia Marii Piotrowiczowej
+[NEW]
+<osiągnięcie>
+(w Łodzi)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)" -> "narodowa organizacja łódzka
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego)"	[color=green,
+		label="hasWife [P94]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "nauczyciel
+[NEW]
+<zawód>
+(we wsi Chocianowice)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "narodowa organizacja łódzka
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "szpital
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 r.)" -> "dobra w okolicach Łęczycy
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+}

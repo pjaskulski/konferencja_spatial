@@ -1,0 +1,272 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)"	[color=black,
+		label="Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)"];
+	"Henryk Dynowski
+[Q152059]
+<osoba>
+(profesor gimnazjum w
+Warszawie)"	[color=black,
+		label="Henryk Dynowski
+[Q152059]
+<osoba>
+(profesor gimnazjum w
+Warszawie)"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Henryk Dynowski
+[Q152059]
+<osoba>
+(profesor gimnazjum w
+Warszawie)"	[color=green,
+		label="hasFather [P92]"];
+	"Franciszka Dynowska
+[NEW]
+<osoba>
+(z domu Brudnicka)"	[color=black,
+		label="Franciszka Dynowska
+[NEW]
+<osoba>
+(z domu Brudnicka)"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Franciszka Dynowska
+[NEW]
+<osoba>
+(z domu Brudnicka)"	[color=green,
+		label="hasMother [P93]"];
+	"Karolina Stolzenwald
+[NEW]
+<osoba>
+(działaczka i filantropka
+warszawska)"	[color=black,
+		label="Karolina Stolzenwald
+[NEW]
+<osoba>
+(działaczka i filantropka
+warszawska)"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Karolina Stolzenwald
+[NEW]
+<osoba>
+(działaczka i filantropka
+warszawska)"	[color=green,
+		label="significantFigure [P100]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "1872-09-29"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "1938-05-03"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Jadwiga Dynowska
+[NEW]
+<osoba>
+(malarka)"	[color=green,
+		label="hasSister [P97]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Polski Słownik Biograficzny
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Stronnictwo Narodowe
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "wiceprzewodnicząca Narodowej Organizacji Kobiet
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "sekretarka redakcji 'Roku Polskiego'
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Hieronim Morsztyn i jego spuścizna literacka
+[NEW]
+<dzieło>
+(opublikowane w 1910 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Jan Franciszek Loredano i polski tłumacz anonim »Dianei«
+[NEW]
+<dzieło>
+(opublikowane w 1913 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Filip Nereusz Golański
+[NEW]
+<dzieło>
+(opublikowane w 1916 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Podręcznik do historii literatury polskiej
+[NEW]
+<dzieło>
+(opublikowane w 1921 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Korespondencja Józefa Ignacego Kraszewskiego i Leopolda Kronenberga
+[NEW]
+<dzieło>
+(opublikowane w 1929 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Polska w zwyczaju i obyczaju
+[NEW]
+<dzieło>
+(książka dla dzieci i
+młodzieży)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Dylu dylu na badylu
+[NEW]
+<dzieło>
+(zbiór wierszyków oparty o
+motywy ludowe)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "Skarbiec poezji polskiej
+[NEW]
+<dzieło>
+(antologia obrazków
+dramatycznych dla scen
+oświatowych, wydana w
+1937 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(urodzona w 1872 roku,
+zmarła w 1938 roku)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(uniwersytet latający)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Henryk Dynowski
+[Q152059]
+<osoba>
+(profesor gimnazjum w
+Warszawie)" -> "nauczyciel
+[NEW]
+<zawód>
+(profesor gimnazjum w
+Warszawie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Franciszka Dynowska
+[NEW]
+<osoba>
+(z domu Brudnicka)" -> "Brudnicka
+[NEW]
+<osoba>"	[color=green,
+		label="hasMaidenName [NEW]",
+		minlen=1];
+	"Karolina Stolzenwald
+[NEW]
+<osoba>
+(działaczka i filantropka
+warszawska)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]"];
+}

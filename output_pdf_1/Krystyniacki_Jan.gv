@@ -1,0 +1,547 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)"	[color=black,
+		label="Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)"];
+	"Leżajsk
+[Q49348]
+<miejscowość>"	[color=black,
+		label="Leżajsk
+[Q49348]
+<miejscowość>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Leżajsk
+[Q49348]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Lwów
+[Q144390]
+<miejscowość>"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz Łyczakowski
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz Łyczakowski
+[NEW]
+<miejscowość>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "cmentarz Łyczakowski
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Mateusz Krystyniacki
+[NEW]
+<osoba>
+(ojciec Jana
+Krystyniackiego)"	[color=black,
+		label="Mateusz Krystyniacki
+[NEW]
+<osoba>
+(ojciec Jana
+Krystyniackiego)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Mateusz Krystyniacki
+[NEW]
+<osoba>
+(ojciec Jana
+Krystyniackiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Katarzyna z Romańskich
+[NEW]
+<osoba>
+(matka Jana
+Krystyniackiego)"	[color=black,
+		label="Katarzyna z Romańskich
+[NEW]
+<osoba>
+(matka Jana
+Krystyniackiego)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Katarzyna z Romańskich
+[NEW]
+<osoba>
+(matka Jana
+Krystyniackiego)"	[color=green,
+		label="hasMother [P93]"];
+	"Teofila Felsztyńska
+[NEW]
+<osoba>
+(żona Jana Krystyniackiego)"	[color=black,
+		label="Teofila Felsztyńska
+[NEW]
+<osoba>
+(żona Jana Krystyniackiego)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Teofila Felsztyńska
+[NEW]
+<osoba>
+(żona Jana Krystyniackiego)"	[color=green,
+		label="hasWife [P94]"];
+	"syn Krystyniackiego
+[NEW]
+<osoba>
+(syn Jana Krystyniackiego)"	[color=black,
+		label="syn Krystyniackiego
+[NEW]
+<osoba>
+(syn Jana Krystyniackiego)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "syn Krystyniackiego
+[NEW]
+<osoba>
+(syn Jana Krystyniackiego)"	[color=green,
+		label="hasSon [P153]"];
+	"córka Krystyniackiego
+[NEW]
+<osoba>
+(córka Jana
+Krystyniackiego)"	[color=black,
+		label="córka Krystyniackiego
+[NEW]
+<osoba>
+(córka Jana
+Krystyniackiego)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "córka Krystyniackiego
+[NEW]
+<osoba>
+(córka Jana
+Krystyniackiego)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Towarzystwo Nauczycieli Szkół Wyższych
+[NEW]
+<instytucja>"	[color=black,
+		label="Towarzystwo Nauczycieli Szkół Wyższych
+[NEW]
+<instytucja>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Towarzystwo Nauczycieli Szkół Wyższych
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"dyrektor gimnazjum w Drohobyczu
+[NEW]
+<urząd>"	[color=black,
+		label="dyrektor gimnazjum w Drohobyczu
+[NEW]
+<urząd>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "dyrektor gimnazjum w Drohobyczu
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"profesor greki i łaciny w gimnazjum we Lwowie
+[NEW]
+<urząd>"	[color=black,
+		label="profesor greki i łaciny w gimnazjum we Lwowie
+[NEW]
+<urząd>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "profesor greki i łaciny w gimnazjum we Lwowie
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"nauczyciel w gimnazjum II
+[NEW]
+<urząd>"	[color=black,
+		label="nauczyciel w gimnazjum II
+[NEW]
+<urząd>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "nauczyciel w gimnazjum II
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"tłumacz
+[NEW]
+<zawód>"	[color=black,
+		label="tłumacz
+[NEW]
+<zawód>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "tłumacz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"pedagog
+[NEW]
+<zawód>"	[color=black,
+		label="pedagog
+[NEW]
+<zawód>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "pedagog
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"wydawca
+[NEW]
+<zawód>"	[color=black,
+		label="wydawca
+[NEW]
+<zawód>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "wydawca
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Wydział Filozoficzny Szkoły Filozoficznej w Przemyślu
+[NEW]
+<instytucja>"	[color=black,
+		label="Wydział Filozoficzny Szkoły Filozoficznej w Przemyślu
+[NEW]
+<instytucja>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Wydział Filozoficzny Szkoły Filozoficznej w Przemyślu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Seminarium w Przemyślu
+[NEW]
+<instytucja>"	[color=black,
+		label="Seminarium w Przemyślu
+[NEW]
+<instytucja>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Seminarium w Przemyślu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Wydział Filozoficzny we Lwowie
+[NEW]
+<instytucja>"	[color=black,
+		label="Wydział Filozoficzny we Lwowie
+[NEW]
+<instytucja>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Wydział Filozoficzny we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"honorowe obywatelstwo miasta Drohobycza
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="honorowe obywatelstwo miasta Drohobycza
+[NEW]
+<osiągnięcie>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "honorowe obywatelstwo miasta Drohobycza
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"obrona aresztowanych za udział w ruchu powstańczym
+[NEW]
+<wydarzenie>"	[color=black,
+		label="obrona aresztowanych za udział w ruchu powstańczym
+[NEW]
+<wydarzenie>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "obrona aresztowanych za udział w ruchu powstańczym
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Mathiae Sarbievii carmina posthuma, M. Tulliusza Cicerona tłómaczenie Arata, Fasti Sarbieviani, Wykład ewangelii św. Mateusza, \
+O języku greckim pisarzy bizantyńskich
+[NEW]
+<dzieło>"	[color=black,
+		label="Mathiae Sarbievii carmina posthuma, M. Tulliusza Cicerona tłómaczenie Arata, Fasti Sarbieviani, Wykład ewangelii św. Mateusza, \
+O języku greckim pisarzy bizantyńskich
+[NEW]
+<dzieło>"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Mathiae Sarbievii carmina posthuma, M. Tulliusza Cicerona tłómaczenie Arata, Fasti Sarbieviani, Wykład ewangelii św. Mateusza, \
+O języku greckim pisarzy bizantyńskich
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"przejście w stan spoczynku
+[NEW]
+<wydarzenie>
+(1891)"	[color=black,
+		label="przejście w stan spoczynku
+[NEW]
+<wydarzenie>
+(1891)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "przejście w stan spoczynku
+[NEW]
+<wydarzenie>
+(1891)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "1828-12-22"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "1893-03-23"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Leżajsk
+[Q49348]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lwów
+[Q144390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz Łyczakowski
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mateusz Krystyniacki
+[NEW]
+<osoba>
+(ojciec Jana
+Krystyniackiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Katarzyna z Romańskich
+[NEW]
+<osoba>
+(matka Jana
+Krystyniackiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Teofila Felsztyńska
+[NEW]
+<osoba>
+(żona Jana Krystyniackiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"syn Krystyniackiego
+[NEW]
+<osoba>
+(syn Jana Krystyniackiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"córka Krystyniackiego
+[NEW]
+<osoba>
+(córka Jana
+Krystyniackiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Towarzystwo Nauczycieli Szkół Wyższych
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dyrektor gimnazjum w Drohobyczu
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"profesor greki i łaciny w gimnazjum we Lwowie
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nauczyciel w gimnazjum II
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"tłumacz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pedagog
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wydawca
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wydział Filozoficzny Szkoły Filozoficznej w Przemyślu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Seminarium w Przemyślu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wydział Filozoficzny we Lwowie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"honorowe obywatelstwo miasta Drohobycza
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"obrona aresztowanych za udział w ruchu powstańczym
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mathiae Sarbievii carmina posthuma, M. Tulliusza Cicerona tłómaczenie Arata, Fasti Sarbieviani, Wykład ewangelii św. Mateusza, \
+O języku greckim pisarzy bizantyńskich
+[NEW]
+<dzieło>" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"przejście w stan spoczynku
+[NEW]
+<wydarzenie>
+(1891)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

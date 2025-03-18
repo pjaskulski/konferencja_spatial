@@ -1,0 +1,157 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)"	[color=black,
+		label="Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)"];
+	"Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"	[color=black,
+		label="Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"	[color=green,
+		label="hasWife [P94]"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "1859-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "1922-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Jaszczew
+[Q38581]
+<miejscowość>
+(koło Krosna)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Szpital św. Łazarza
+[NEW]
+<instytucja>
+(w Krakowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Klinika położniczo-ginekologiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "profesor nadzwyczajny
+[NEW]
+<stanowisko>
+(uzyskany w 1909 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Jerzy Braun
+[NEW]
+<osoba>
+(syn Stanisława Brauna,
+ur. 1893)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Zofia Braun
+[NEW]
+<osoba>
+(córka Stanisława Brauna,
+ur. 1895)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=2];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog, ur. w Jaszczwi
+koło Krosna, zmarł w
+Krakowie)" -> "Zakład położniczy przy ul. Dietlowskiej 95
+[NEW]
+<instytucja>
+(założony przez Stanisława
+Brauna)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)" -> "1863-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+}

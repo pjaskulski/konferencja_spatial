@@ -1,0 +1,253 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)"	[color=black,
+		label="Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)"];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "1838-08-23"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "1887-03-18"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Jaśniszcze
+[NEW]
+<miejscowość>
+(miejscowość koło
+Podkamienia w powiecie
+brodzkim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Franciszek Białecki
+[NEW]
+<osoba>
+(dziedzic wioski
+Jaśniszcze)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Anna Ernestyna z Radziejowskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "klasztor Sacré Coeur we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "zgromadzenie ss. dominikanek III Zakonu regularnego w Polsce
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Nancy
+[NEW]
+<miejscowość>
+(miejscowość w Lotaryngii)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Wielowieś
+[Q86557]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Bieliny
+[Q19358]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Tyczyn
+[Q84512]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Rawa Ruska
+[Q144482]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Wincenty Jandel
+[NEW]
+<osoba>
+(generał zakonu oo.
+dominikanów)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "złożenie ślubów zakonnych
+[NEW]
+<wydarzenie>
+(złożenie ślubów zakonnych
+w 1859 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "przyjęcie habitu dominikanek życia czynnego
+[NEW]
+<wydarzenie>
+(przyjęcie habitu
+dominikanek życia
+czynnego w 1858 roku w
+Nancy)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "założenie pierwszego macierzystego domu zakonnego
+[NEW]
+<wydarzenie>
+(założenie pierwszego
+macierzystego domu
+zakonnego w Wielowsi \
+w
+1861 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "przyjęcie fundacji klasztoru w Bielinach
+[NEW]
+<wydarzenie>
+(przyjęcie fundacji
+klasztoru w Bielinach w
+1870 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "przyjęcie fundacji klasztoru w Tyczynie
+[NEW]
+<wydarzenie>
+(przyjęcie fundacji
+klasztoru w Tyczynie w
+1878 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Kolumba Białecka
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "przyjęcie fundacji klasztoru w Rawie Ruskiej
+[NEW]
+<wydarzenie>
+(przyjęcie fundacji
+klasztoru w Rawie Ruskiej
+w 1885 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+}

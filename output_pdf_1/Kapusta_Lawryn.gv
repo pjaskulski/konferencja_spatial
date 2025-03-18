@@ -1,0 +1,206 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)"	[color=black,
+		label="Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)"];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "dyplomata
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "setnik czehryński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "setnik subotowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Iwan Fomin
+[NEW]
+<osoba>
+(poseł moskiewski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "misja do Moskwy
+[NEW]
+<wydarzenie>
+(misja dyplomatyczna
+mająca na celu uzyskanie
+pomocy rosyjskiej
+przeciwko
+Rzeczypospolitej)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "rozmowy w Perejasławiu
+[NEW]
+<wydarzenie>
+(rozmowy między
+Chmielnickim a Buturlinem)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "powitanie Piotra Parcewicza
+[NEW]
+<wydarzenie>
+(powitanie posła
+cesarskiego Piotra
+Parcewicza)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "misja do sułtana tureckiego
+[NEW]
+<wydarzenie>
+(misja dyplomatyczna
+mająca na celu podżeganie
+sułtana przeciw Polsce i
+cesarzowi)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "śmierć Bohdana Chmielnickiego
+[NEW]
+<wydarzenie>
+(śmierć hetmana Bohdana
+Chmielnickiego)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "ugoda cudnowska
+[NEW]
+<wydarzenie>
+(ugoda zawarta z Polakami
+jako jeden z kilku
+przedstawicieli góry
+kozackiej)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Bohdan Chmielnicki
+[NEW]
+<osoba>
+(hetman kozacki)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "aresztowanie Fedorowicza
+[NEW]
+<wydarzenie>
+(aresztowanie Fedorowicza
+oskarżonego o
+przywłaszczenie rzeczy
+Tymosza Chmielnickiego)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "niepiśmienność
+[NEW]
+<cecha>
+(niepiśmienność Kapusty
+Ławryna)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Ławryn Kapusta
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "szlachta
+[NEW]
+<tytuł szlachecki>
+(pochodzenia
+szlacheckiego, jednakże z
+rodem kniaziów Kapustów
+nic nie mający wspólnego)"	[color=green,
+		label="nobleTitle [NEW]",
+		minlen=2];
+}

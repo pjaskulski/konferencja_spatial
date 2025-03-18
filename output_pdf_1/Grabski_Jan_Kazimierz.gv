@@ -1,0 +1,327 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)"	[color=black,
+		label="Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)"];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "kasztelan nakielski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "1723-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Maciej Grabski
+[NEW]
+<osoba>
+(sędzia grodzki bydgoski i
+starosta kłecki.)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Marianna Mańkowska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Anna Konradzka
+[NEW]
+<osoba>
+(pierwsza żona Jana
+Kazimierza Grabskiego,
+wdowa po Wojciechu
+Wilczyńskim.)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Marianna Łakińska
+[NEW]
+<osoba>
+(druga żona Jana
+Kazimierza Grabskiego,
+wdowa po Zdzychowskim.)"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Maciej Grabski (syn)
+[NEW]
+<osoba>
+(syn Jana Kazimierza
+Grabskiego z pierwszego
+małżeństwa.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Franciszek Grabski
+[NEW]
+<osoba>
+(jezuita, syn Jana
+Kazimierza Grabskiego z
+pierwszego małżeństwa.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Stanisław Grabski
+[Q154095]
+<osoba>
+(dziekan fary
+gnieźnieńskiej, syn Jana
+Kazimierza Grabskiego z
+pierwszego małżeństwa.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Józef Grabski
+[NEW]
+<osoba>
+(syn Jana Kazimierza
+Grabskiego z drugiego
+małżeństwa.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Żelice, Michałkowice, Miasteczko, Brzostowo, części dóbr nowomiejskich
+[NEW]
+<miejscowości>
+(posiadłości Jana
+Kazimierza \
+Grabskiego.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "Prawdy powszechne albo dowolne nauki chrześcijańskiej filozofii
+[NEW]
+<dzieło>
+(przetłumaczone przez Jana
+Kazimierza Grabskiego.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "J. Morawski
+[NEW]
+<osoba>
+(autor pracy 'Palestra
+pietatis christianae',
+dedykowanej Janowi
+Kazimierzowi Grabskiemu.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "komisarz do sprawdzania rachunków poborowych
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego z sejmiku
+średzkiego \
+w 1688 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "deputat na trybunał koronny
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego z województwa
+poznańskiego \
+w latach
+1694 i 1695.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "sędzia grodzki nakielski
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego w 1695 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "poseł na sejm z województwa kaliskiego
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego w 1699 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "poseł na sejm lubelski
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego w 1703 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "konsyliarz konfederacji zawiązanej w Środzie
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego w 1703 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "sędzia surogator grodzki wałecki
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Jana Kazimierza
+Grabskiego pod koniec
+życia.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "konfederacja zawiązana w Środzie
+[NEW]
+<organizacja>
+(konfederacja zawiązana w
+Środzie pod laską Piotra
+Bronisza w 1703 roku.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, syn
+Macieja i Marianny
+Mańkowskiej, zmarł w 1723
+roku.)" -> "król Leszczyński
+[NEW]
+<osoba>
+(król, który nominował
+Jana Kazimierza
+Grabskiego na stanowisko
+kasztelana nakielskiego
+około \
+1708 roku.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+}

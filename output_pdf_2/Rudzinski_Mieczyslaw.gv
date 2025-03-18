@@ -1,0 +1,322 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)"	[color=black,
+		label="Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Uniwersytet w Moskwie
+[NEW]
+<instytucja>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Werki
+[Q148117]
+<miejscowość>
+(koło Wilna)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Dachau
+[NEW]
+<miejscowość>
+(obóz koncentracyjny)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "1940-11-14"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "1887-04-16"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Stanisław Rudziński
+[Q168958]
+<osoba>
+(ojciec Mieczysława
+Rudzińskiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Maria z Downarowiczów
+[NEW]
+<osoba>
+(matka Mieczysława
+Rudzińskiego)"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Polska Partia Socjalistyczna
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Zrzeszenie Prawników Socjalistów w Warszawie
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Liga Praw Człowieka i Obywatela
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Aleksander Lednicki
+[Q159887]
+<osoba>
+(osoba, z którą Mieczysław
+Rudziński współpracował w
+kancelarii)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "adwokat
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Okręgowa Rada Adwokacka
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Rada Konsultacyjna (Beirat)
+[NEW]
+<instytucja>
+(powołana przez
+niemieckiego komisarza
+dla reorganizacji
+adwokatury E. Wendorffa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Związek Polskiej Młodzieży Socjalistycznej
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "żołnierz
+[NEW]
+<zawód>
+(służba na froncie
+kaukaskim)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "dyplomata
+[NEW]
+<zawód>
+(praca w polskim
+przedstawicielstwie w
+Gruzji, Armenii i
+Azerbejdżanie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "Komitet Pomocy Ofiarom Wojny
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "członek Centralnego Sądu Partyjnego PPS
+[NEW]
+<urząd>
+(wybrany na XXII Kongresie
+PPS w 1931 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "członek Sądu Koleżeńskiego Zrzeszenia Prawników Socjalistów w Warszawie
+[NEW]
+<urząd>
+(wybrany na Walnym
+Zjeździe Zrzeszenia \
+w
+1935 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "rzecznik dyscyplinarny w Okręgowej Radzie Adwokackiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "zastępca rzecznika dyscyplinarnego w Prezydium Okręgowej Rady Adwokackiej w Warszawie
+[NEW]
+<urząd>
+(w początkach okupacji
+niemieckiej)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "gestapo
+[NEW]
+<organizacja>"	[color=green,
+		label="arrestedBy [NEW]",
+		minlen=3];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "obóz koncentracyjny Sachsenhausen
+[NEW]
+<miejsce>
+(przewieziony 3 maja 1940
+roku)"	[color=green,
+		label="imprisonedIn [NEW]",
+		minlen=4];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych,
+urodzony w 1887, zmarł w
+1940)" -> "obóz koncentracyjny Dachau
+[NEW]
+<miejsce>
+(przewieziony we wrześniu
+1940 roku)"	[color=green,
+		label="imprisonedIn [NEW]",
+		minlen=1];
+}

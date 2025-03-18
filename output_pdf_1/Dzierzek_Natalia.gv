@@ -1,0 +1,469 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)"	[color=black,
+		label="Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)"];
+	"literatka
+[NEW]
+<zawód>"	[color=black,
+		label="literatka
+[NEW]
+<zawód>"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "literatka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"artystka-malarz
+[NEW]
+<zawód>"	[color=black,
+		label="artystka-malarz
+[NEW]
+<zawód>"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "artystka-malarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"działaczka społeczna
+[NEW]
+<zawód>"	[color=black,
+		label="działaczka społeczna
+[NEW]
+<zawód>"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "działaczka społeczna
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Kotiużany
+[NEW]
+<miejscowość>
+(miejscowość na Podolu)"	[color=black,
+		label="Kotiużany
+[NEW]
+<miejscowość>
+(miejscowość na Podolu)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Kotiużany
+[NEW]
+<miejscowość>
+(miejscowość na Podolu)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Henryk Dzierżek
+[NEW]
+<osoba>
+(ojciec Natalii Dzierżek)"	[color=black,
+		label="Henryk Dzierżek
+[NEW]
+<osoba>
+(ojciec Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Henryk Dzierżek
+[NEW]
+<osoba>
+(ojciec Natalii Dzierżek)"	[color=green,
+		label="hasFather [P92]"];
+	"Maria z Piątkowskich Nieczuja-Dzierżków
+[NEW]
+<osoba>
+(matka Natalii Dzierżek)"	[color=black,
+		label="Maria z Piątkowskich Nieczuja-Dzierżków
+[NEW]
+<osoba>
+(matka Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Maria z Piątkowskich Nieczuja-Dzierżków
+[NEW]
+<osoba>
+(matka Natalii Dzierżek)"	[color=green,
+		label="hasMother [P93]"];
+	"Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wujek
+Natalii Dzierżek)"	[color=black,
+		label="Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wujek
+Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wujek
+Natalii Dzierżek)"	[color=green,
+		label="hasUncle [P99]"];
+	"Jerzy Orwicz
+[NEW]
+<pseudonim>
+(pseudonim literacki
+Natalii Dzierżek)"	[color=black,
+		label="Jerzy Orwicz
+[NEW]
+<pseudonim>
+(pseudonim literacki
+Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Jerzy Orwicz
+[NEW]
+<pseudonim>
+(pseudonim literacki
+Natalii Dzierżek)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Odessa
+[Q144065]
+<miejscowość>
+(miejscowość, gdzie
+Natalia Dzierżek
+mieszkała po utracie
+majątku)"	[color=black,
+		label="Odessa
+[Q144065]
+<miejscowość>
+(miejscowość, gdzie
+Natalia Dzierżek
+mieszkała po utracie
+majątku)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Odessa
+[Q144065]
+<miejscowość>
+(miejscowość, gdzie
+Natalia Dzierżek
+mieszkała po utracie
+majątku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Szkoła Sztuk Pięknych
+[NEW]
+<instytucja>
+(instytucja edukacyjna, do
+której uczęszczała
+Natalia Dzierżek)"	[color=black,
+		label="Szkoła Sztuk Pięknych
+[NEW]
+<instytucja>
+(instytucja edukacyjna, do
+której uczęszczała
+Natalia Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Szkoła Sztuk Pięknych
+[NEW]
+<instytucja>
+(instytucja edukacyjna, do
+której uczęszczała
+Natalia Dzierżek)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Mariusz Zaruski
+[NEW]
+<osoba>
+(osoba związana z Natalią
+Dzierżek w kontekście
+aresztowania i deportacji)"	[color=black,
+		label="Mariusz Zaruski
+[NEW]
+<osoba>
+(osoba związana z Natalią
+Dzierżek w kontekście
+aresztowania i deportacji)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Mariusz Zaruski
+[NEW]
+<osoba>
+(osoba związana z Natalią
+Dzierżek w kontekście
+aresztowania i deportacji)"	[color=green,
+		label="significantFigure [P100]"];
+	"Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"	[color=black,
+		label="Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"	[color=green,
+		label="significantFigure [P100]"];
+	"Teresa z Wołowskich Prażmowska
+[NEW]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"	[color=black,
+		label="Teresa z Wołowskich Prażmowska
+[NEW]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Teresa z Wołowskich Prażmowska
+[NEW]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)"	[color=green,
+		label="significantFigure [P100]"];
+	"nagroda za utwór 'Bartłomiej Słomka. Gawęda'
+[NEW]
+<osiągnięcie>
+(nagroda otrzymana na
+konkursie »Gazety
+Świątecznej« \
+w 1900 roku)"	[color=black,
+		label="nagroda za utwór 'Bartłomiej Słomka. Gawęda'
+[NEW]
+<osiągnięcie>
+(nagroda otrzymana na
+konkursie »Gazety
+Świątecznej« \
+w 1900 roku)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "nagroda za utwór 'Bartłomiej Słomka. Gawęda'
+[NEW]
+<osiągnięcie>
+(nagroda otrzymana na
+konkursie »Gazety
+Świątecznej« \
+w 1900 roku)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "1931-12-30"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "1861-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"literatka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"artystka-malarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"działaczka społeczna
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kotiużany
+[NEW]
+<miejscowość>
+(miejscowość na Podolu)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Henryk Dzierżek
+[NEW]
+<osoba>
+(ojciec Natalii Dzierżek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria z Piątkowskich Nieczuja-Dzierżków
+[NEW]
+<osoba>
+(matka Natalii Dzierżek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wujek
+Natalii Dzierżek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Orwicz
+[NEW]
+<pseudonim>
+(pseudonim literacki
+Natalii Dzierżek)" -> "pseudonim
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Odessa
+[Q144065]
+<miejscowość>
+(miejscowość, gdzie
+Natalia Dzierżek
+mieszkała po utracie
+majątku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szkoła Sztuk Pięknych
+[NEW]
+<instytucja>
+(instytucja edukacyjna, do
+której uczęszczała
+Natalia Dzierżek)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Mariusz Zaruski
+[NEW]
+<osoba>
+(osoba związana z Natalią
+Dzierżek w kontekście
+aresztowania i deportacji)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Teresa z Wołowskich Prażmowska
+[NEW]
+<osoba>
+(osoba, która miała wpływ
+na twórczość literacką
+Natalii Dzierżek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nagroda za utwór 'Bartłomiej Słomka. Gawęda'
+[NEW]
+<osiągnięcie>
+(nagroda otrzymana na
+konkursie »Gazety
+Świątecznej« \
+w 1900 roku)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

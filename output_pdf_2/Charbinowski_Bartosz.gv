@@ -1,0 +1,286 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)"	[color=black,
+		label="Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)"];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski)"	[color=black,
+		label="Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski)"	[color=green,
+		label="hasFather [P92]"];
+	"Piotr Charbinowski
+[NEW]
+<osoba>
+(podczaszy sandomierski,
+starosta podolski)"	[color=black,
+		label="Piotr Charbinowski
+[NEW]
+<osoba>
+(podczaszy sandomierski,
+starosta podolski)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Piotr Charbinowski
+[NEW]
+<osoba>
+(podczaszy sandomierski,
+starosta podolski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Stanisław Charbinowski
+[NEW]
+<osoba>
+(przedchorągiewny rycerz
+chorągwi małopolskiej)"	[color=black,
+		label="Stanisław Charbinowski
+[NEW]
+<osoba>
+(przedchorągiewny rycerz
+chorągwi małopolskiej)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Stanisław Charbinowski
+[NEW]
+<osoba>
+(przedchorągiewny rycerz
+chorągwi małopolskiej)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jan Charbinowski
+[NEW]
+<osoba>
+(podczaszy lwowski)"	[color=black,
+		label="Jan Charbinowski
+[NEW]
+<osoba>
+(podczaszy lwowski)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Jan Charbinowski
+[NEW]
+<osoba>
+(podczaszy lwowski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "podkomorzy sandomierski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "ochmistrz dworu królowej Anny
+[NEW]
+<urząd>
+(około 1414)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "bratanica Piotra Wysza
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=3];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Piotr Wysz
+[Q165804]
+<osoba>
+(biskup krakowski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Piotr Wysz
+[Q165804]
+<osoba>
+(biskup krakowski)"	[color=green,
+		label="relatedTo [NEW]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(Sulimczyk)"	[color=green,
+		label="significantFigure [P100]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(Sulimczyk)"	[color=green,
+		label="relatedTo [NEW]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Halszka
+[Q153966]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Anna
+[Q148450]
+<osoba>
+(królowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Wojciech Jastrzębiec
+[NEW]
+<osoba>
+(biskup, przeciwnik
+polityczny Bartosza
+Charbinowskiego)"	[color=green,
+		label="politicalOpponent [NEW]",
+		minlen=2];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "1421-03-04
+(Data śmierci Bartosza
+Charbinowskiego jest
+przybliżona, ponieważ
+zniknął z widowni po tej
+dacie.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski)" -> "cześnik krakowski
+[NEW]
+<urząd>
+(od 1365)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski)" -> "starosta lubelski
+[NEW]
+<urząd>
+(od 1383)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Piotr Charbinowski
+[NEW]
+<osoba>
+(podczaszy sandomierski,
+starosta podolski)" -> "podczaszy sandomierski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Piotr Charbinowski
+[NEW]
+<osoba>
+(podczaszy sandomierski,
+starosta podolski)" -> "starosta podolski
+[NEW]
+<urząd>
+(do 1411)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Stanisław Charbinowski
+[NEW]
+<osoba>
+(przedchorągiewny rycerz
+chorągwi małopolskiej)" -> "przedchorągiewny rycerz chorągwi małopolskiej
+[NEW]
+<urząd>
+(w bitwie pod Grunwaldem)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Stanisław Charbinowski
+[NEW]
+<osoba>
+(przedchorągiewny rycerz
+chorągwi małopolskiej)" -> "chorąży sandomierski
+[NEW]
+<urząd>
+(w 1433)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Charbinowski
+[NEW]
+<osoba>
+(podczaszy lwowski)" -> "podczaszy lwowski
+[NEW]
+<urząd>
+(w czwartym dziesiątku XV
+stulecia)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

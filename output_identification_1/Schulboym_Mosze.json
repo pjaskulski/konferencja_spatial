@@ -1,0 +1,974 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1830-04-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Jezierzany",
+                "type": "miejscowość",
+                "description": "miejscowość w Galicji",
+                "wikihum": "Q143703"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jezierzany",
+                "type": "miejscowość",
+                "description": "miejscowość w Galicji",
+                "wikihum": "Q143703"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1918-04-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Wiedeń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146507"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiedeń",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146507"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jeszaajahu (Izajasz)",
+                "type": "osoba",
+                "description": "ojciec Mosze Schulboyma",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jeszaajahu (Izajasz)",
+                "type": "osoba",
+                "description": "ojciec Mosze Schulboyma",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Debora z domu Aszkenazi",
+                "type": "osoba",
+                "description": "matka Mosze Schulboyma",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Debora z domu Aszkenazi",
+                "type": "osoba",
+                "description": "matka Mosze Schulboyma",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "jeden z głównych ośrodków Haskali w Galicji",
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "jeden z głównych ośrodków Haskali w Galicji",
+                "wikihum": "Q144390"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kołomyja",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako nauczyciela w szkole żydowskiej",
+                "wikihum": "Q144749"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kołomyja",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako nauczyciela w szkole żydowskiej",
+                "wikihum": "Q144749"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mikulince",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako nauczyciela",
+                "wikihum": "Q143748"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikulince",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako nauczyciela",
+                "wikihum": "Q143748"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tarnopol",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako inspektora nauki języka hebrajskiego",
+                "wikihum": "Q143814"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tarnopol",
+                "type": "miejscowość",
+                "description": "miejsce pracy Mosze Schulboyma jako inspektora nauki języka hebrajskiego",
+                "wikihum": "Q143814"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q20035479"
+            }
+        },
+        {
+            "subject": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q20035479"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "inspektor nauki języka hebrajskiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "inspektor nauki języka hebrajskiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Fundacja barona M. Hirscha",
+                "type": "instytucja",
+                "description": "fundacja związana z edukacją żydowską",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fundacja barona M. Hirscha",
+                "type": "instytucja",
+                "description": "fundacja związana z edukacją żydowską",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Drukarnia Michała Wolfa",
+                "type": "instytucja",
+                "description": "drukarnia we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Drukarnia Michała Wolfa",
+                "type": "instytucja",
+                "description": "drukarnia we Lwowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ocar hamilim haklali. Allgemeines vollständiges neuhebräisch-deutsches Wörterbuch",
+                "type": "dzieło",
+                "description": "słownik opublikowany w Lembergu w 1880 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ocar hamilim haklali. Allgemeines vollständiges neuhebräisch-deutsches Wörterbuch",
+                "type": "dzieło",
+                "description": "słownik opublikowany w Lembergu w 1880 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ocar hašemot",
+                "type": "dzieło",
+                "description": "słownik obejmujący onomastykę hebrajską od Biblii do końca XVIII wieku, opublikowany w Lembergu w 1881 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ocar hašemot",
+                "type": "dzieło",
+                "description": "słownik obejmujący onomastykę hebrajską od Biblii do końca XVIII wieku, opublikowany w Lembergu w 1881 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Milon germani-iwri. Neues, vollständiges deutsch-hebräisches Wörterbuch",
+                "type": "dzieło",
+                "description": "słownik opublikowany w Lembergu w 1881 roku, z drugim rozszerzonym wydaniem w 1904 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Milon germani-iwri. Neues, vollständiges deutsch-hebräisches Wörterbuch",
+                "type": "dzieło",
+                "description": "słownik opublikowany w Lembergu w 1881 roku, z drugim rozszerzonym wydaniem w 1904 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ocar lešon aramit",
+                "type": "dzieło",
+                "description": "słownik języka aramejskiego opublikowany w Lembergu w 1900 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ocar lešon aramit",
+                "type": "dzieło",
+                "description": "słownik języka aramejskiego opublikowany w Lembergu w 1900 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ocar haszoraszim",
+                "type": "dzieło",
+                "description": "pięciotomowe wydanie hebrajskiego słownika J. L. Ben-Zeewa, opublikowane we Lwowie w 1881 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ocar haszoraszim",
+                "type": "dzieło",
+                "description": "pięciotomowe wydanie hebrajskiego słownika J. L. Ben-Zeewa, opublikowane we Lwowie w 1881 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Etyka nikomachejska",
+                "type": "dzieło",
+                "description": "przekład na język hebrajski opublikowany we Lwowie w 1877 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Etyka nikomachejska",
+                "type": "dzieło",
+                "description": "przekład na język hebrajski opublikowany we Lwowie w 1877 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zbójcy",
+                "type": "dzieło",
+                "description": "niepełny przekład na język hebrajski opublikowany we Lwowie w 1881 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zbójcy",
+                "type": "dzieło",
+                "description": "niepełny przekład na język hebrajski opublikowany we Lwowie w 1881 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "pierwsza żona Mosze Schulboyma",
+                "type": "osoba",
+                "description": "pierwsza żona Mosze Schulboyma, której imię i nazwisko panieńskie nie są znane",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pierwsza żona Mosze Schulboyma",
+                "type": "osoba",
+                "description": "pierwsza żona Mosze Schulboyma, której imię i nazwisko panieńskie nie są znane",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "druga żona Mosze Schulboyma",
+                "type": "osoba",
+                "description": "druga żona Mosze Schulboyma, której imię i nazwisko panieńskie nie są znane",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "druga żona Mosze Schulboyma",
+                "type": "osoba",
+                "description": "druga żona Mosze Schulboyma, której imię i nazwisko panieńskie nie są znane",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "córka Mosze Schulboyma z drugiego małżeństwa",
+                "type": "osoba",
+                "description": "córka Mosze Schulboyma z drugiego małżeństwa, której imię nie jest znane",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "córka Mosze Schulboyma z drugiego małżeństwa",
+                "type": "osoba",
+                "description": "córka Mosze Schulboyma z drugiego małżeństwa, której imię nie jest znane",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przeniesienie się do Lwowa",
+                "type": "wydarzenie",
+                "description": "przeniesienie się Mosze Schulboyma do Lwowa w 1870 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przeniesienie się do Lwowa",
+                "type": "wydarzenie",
+                "description": "przeniesienie się Mosze Schulboyma do Lwowa w 1870 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "czasopisma 'Haet' i 'Kol Haet'",
+                "type": "dzieło",
+                "description": "krótkotrwałe czasopisma wydawane przez Mosze Schulboyma we Lwowie w latach 1871-1872",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "czasopisma 'Haet' i 'Kol Haet'",
+                "type": "dzieło",
+                "description": "krótkotrwałe czasopisma wydawane przez Mosze Schulboyma we Lwowie w latach 1871-1872",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przeżycie I wojny światowej w Tarnopolu",
+                "type": "wydarzenie",
+                "description": "przeżycie I wojny światowej przez Mosze Schulboyma w Tarnopolu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przeżycie I wojny światowej w Tarnopolu",
+                "type": "wydarzenie",
+                "description": "przeżycie I wojny światowej przez Mosze Schulboyma w Tarnopolu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "strata naukowej biblioteki",
+                "type": "wydarzenie",
+                "description": "strata naukowej biblioteki Mosze Schulboyma, która została spalona przez Kozaków podczas I wojny światowej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "strata naukowej biblioteki",
+                "type": "wydarzenie",
+                "description": "strata naukowej biblioteki Mosze Schulboyma, która została spalona przez Kozaków podczas I wojny światowej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mosze Schulboym",
+                "type": "osoba",
+                "description": "językoznawca, leksykograf, tłumacz",
+                "wikihum": "Q170121"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dołączenie do rodziny w Wiedniu",
+                "type": "wydarzenie",
+                "description": "dołączenie Mosze Schulboyma do rodziny w Wiedniu pod koniec 1917 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dołączenie do rodziny w Wiedniu",
+                "type": "wydarzenie",
+                "description": "dołączenie Mosze Schulboyma do rodziny w Wiedniu pod koniec 1917 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

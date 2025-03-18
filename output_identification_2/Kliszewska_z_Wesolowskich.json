@@ -1,0 +1,348 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Frysztak",
+                "type": "miejscowość",
+                "description": "w pow. jasielskim",
+                "wikihum": "NEW",
+                "wikidata": "Q498777",
+                "nominatim": 175865738,
+                "nominatim_name": "Frysztak, gmina Frysztak, powiat strzyżowski, województwo podkarpackie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Katowice",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q41461"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1927-11-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Antoni Kliszewski",
+                "type": "osoba",
+                "description": "aktor i śpiewak",
+                "wikihum": "Q157365"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "H. Majeranowska",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Lamperi",
+                "type": "osoba",
+                "description": "nauczyciel śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Lwowski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Polski w Katowicach",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr prowincjonalny Henryka Lasockiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr polsko-ruski J. Biberowicza",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Własny zespół teatralny w Krośnie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Nowy w Warszawie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Teatr Śląski",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "śpiewaczka operetkowa i operowa",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Kliszewska",
+                "type": "osoba",
+                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa",
+                "wikihum": "Q157364"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "nauka śpiewu u H. Majeranowskiej, M. Szlezygierowej i Lamperiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "M. Szlezygierowa",
+                "type": "osoba",
+                "description": "nauczycielka śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lamperi",
+                "type": "osoba",
+                "description": "nauczyciel śpiewu Karoliny Kliszewskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel śpiewu",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

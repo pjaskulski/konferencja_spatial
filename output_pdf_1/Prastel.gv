@@ -1,0 +1,206 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)"	[color=black,
+		label="Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)"];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Zgromadzenie Sióstr Prezentek w Krakowie
+[NEW]
+<instytucja>
+(Zgromadzenie zakonne
+zajmujące się
+wychowywaniem i
+kształceniem \
+dziewcząt.)"	[color=green,
+		label="positionHeld [P101]"];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Zgromadzenie Sióstr Prezentek w Krakowie
+[NEW]
+<instytucja>
+(Zgromadzenie zakonne
+zajmujące się
+wychowywaniem i
+kształceniem \
+dziewcząt.)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "1808-07-06"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Cmentarz Rakowicki
+[NEW]
+<miejscowość>
+(Miejsce pochówku
+Franciszki Prastel.)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=2];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Kościół Św. Jana w Krakowie
+[NEW]
+<miejscowość>
+(Kościół, który Franciszka
+Prastel odnowiła i
+wyposażyła.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Tadeusz Kościuszko
+[Q158423]
+<osoba>
+(Osoba, której Franciszka
+Prastel pomogła w
+uratowaniu osieroconej
+dziewczyny.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Walenty Pruski
+[NEW]
+<osoba>
+(Kanonik, który zapisał
+Zgromadzeniu 40 000 złp.
+na kształcenie i
+wychowanie uczennic.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "kierowniczka szkoły
+[NEW]
+<zawód>
+(Funkcja pełniona przez
+Franciszkę Prastel w
+Zgromadzeniu Sióstr
+Prezentek w Krakowie.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "wstąpienie do Zgromadzenia Sióstr Prezentek
+[NEW]
+<wydarzenie>
+(Wydarzenie, które miało
+miejsce 21 maja 1763
+roku, kiedy Franciszka
+\
+Prastel rozpoczęła swoją
+działalność w
+zgromadzeniu.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "matka sierot
+[NEW]
+<osiągnięcie>
+(Tytuł, pod którym była
+znana i szanowana w
+Krakowie.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "doskonały organizator szkoły
+[NEW]
+<osiągnięcie>
+(Tytuł, pod którym była
+znana i szanowana w
+Krakowie.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "Kraków
+[Q46043]
+<miejscowość>
+(Miejsce, gdzie Franciszka
+Prastel była powszechnie
+znana i szanowana.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "przekształcenie prywatnego zakładu wychowawczego na publiczną szkołę dla dziewcząt
+[NEW]
+<wydarzenie>
+(Wydarzenie, które \
+miało
+miejsce w 1801 roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Franciszka Prastel
+[Q166804]
+<osoba>
+(Przełożona prezentek w
+Krakowie, w zakonie
+Magdalena.)" -> "odwiedzenie przez Tadeusza Kościuszkę
+[NEW]
+<wydarzenie>
+(Wydarzenie, które miało
+miejsce 24 marca 1794
+roku, kiedy Tadeusz
+\
+Kościuszko odwiedził
+Franciszkę Prastel.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+}

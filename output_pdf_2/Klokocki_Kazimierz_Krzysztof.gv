@@ -1,0 +1,271 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)"	[color=black,
+		label="Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)"	[color=green,
+		label="hasFather [P92]"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Stanisław Kłokocki
+[NEW]
+<osoba>
+(sędzia ziemi
+zawkrzeńskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Regina Teofila Mirska
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Jan Hieronim Kłokocki
+[NEW]
+<osoba>
+(chorąży rzeczycki,
+później jezuita)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Orlean)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Starzynki
+[NEW]
+<miejscowość>
+(miejscowość w powiecie
+mińskim)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Słuck
+[Q144168]
+<miejscowość>
+(miasto na Białorusi)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "gubernator księstwa słuckiego i kopylskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "stolnik płocki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "pułkownik JKM
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "chorąży miński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "bibliotekarz nacji germańskiej
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "porucznik
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=3];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "tłumacz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Zbigniew Morsztyn
+[Q162940]
+<osoba>
+(wybitny poeta ariański)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Karol Ferdynand
+[Q156780]
+<osoba>
+(królewicz, biskup płocki)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Bogusław Radziwiłł
+[Q167677]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "Ludwika Karolina Radziwiłł
+[NEW]
+<osoba>
+(córka Bogusława
+Radziwiłła)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "dworzanin
+[NEW]
+<zawód>
+(dworzanin królewicza
+Karola Ferdynanda,
+biskupa płockiego)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "niewola tatarska
+[NEW]
+<zdarzenie>
+(Kazimierz Krzysztof
+Kłokocki dostał się do
+niewoli tatarskiej, z
+której wykupił go ojciec.)"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Kazimierz Krzysztof Kłokocki
+[Q157436]
+<osoba>
+(gubernator księstwa
+słuckiego i kopylskiego,
+organizator drukarni
+słuckiej)" -> "poseł na sejm
+[NEW]
+<urząd>
+(poseł na sejm w 1677 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+}

@@ -1,0 +1,446 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)"	[color=black,
+		label="Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)"];
+	"wójt lubelski
+[NEW]
+<urząd>"	[color=black,
+		label="wójt lubelski
+[NEW]
+<urząd>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "wójt lubelski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Jan
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Jan
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera)"	[color=green,
+		label="hasSon [P153]"];
+	"Mikołaj
+[Q174783]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"	[color=black,
+		label="Mikołaj
+[Q174783]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Mikołaj
+[Q174783]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"	[color=green,
+		label="hasSon [P153]"];
+	"siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(siostra Wawrzyńca
+Schirmera, przez którą
+był spokrewniony z
+Wierzynkami)"	[color=black,
+		label="siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(siostra Wawrzyńca
+Schirmera, przez którą
+był spokrewniony z
+Wierzynkami)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(siostra Wawrzyńca
+Schirmera, przez którą
+był spokrewniony z
+Wierzynkami)"	[color=green,
+		label="hasSister [P97]"];
+	"Wierzynkowie
+[NEW]
+<osoba>
+(krewni Wawrzyńca
+Schirmera przez jego
+siostrę)"	[color=black,
+		label="Wierzynkowie
+[NEW]
+<osoba>
+(krewni Wawrzyńca
+Schirmera przez jego
+siostrę)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Wierzynkowie
+[NEW]
+<osoba>
+(krewni Wawrzyńca
+Schirmera przez jego
+siostrę)"	[color=green,
+		label="hasCousin [P99]"];
+	"dziedziczne wójtostwo w Lublinie
+[NEW]
+<majątek>
+(majątek wykupiony przez
+Wawrzyńca Schirmera od
+Zygmunta Wierzynka)"	[color=black,
+		label="dziedziczne wójtostwo w Lublinie
+[NEW]
+<majątek>
+(majątek wykupiony przez
+Wawrzyńca Schirmera od
+Zygmunta Wierzynka)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "dziedziczne wójtostwo w Lublinie
+[NEW]
+<majątek>
+(majątek wykupiony przez
+Wawrzyńca Schirmera od
+Zygmunta Wierzynka)"	[color=green,
+		label="hasAssets [NEW]"];
+	"wójt w Gródku
+[NEW]
+<urząd>"	[color=black,
+		label="wójt w Gródku
+[NEW]
+<urząd>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "wójt w Gródku
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"domy we Lwowie i Sandomierzu
+[NEW]
+<majątek>"	[color=black,
+		label="domy we Lwowie i Sandomierzu
+[NEW]
+<majątek>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "domy we Lwowie i Sandomierzu
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]"];
+	"kaplica św. Zofii na zamku lubelskim
+[NEW]
+<osiągnięcie>
+(ufundowana przez
+Wawrzyńca Schirmera przed
+1406 rokiem)"	[color=black,
+		label="kaplica św. Zofii na zamku lubelskim
+[NEW]
+<osiągnięcie>
+(ufundowana przez
+Wawrzyńca Schirmera przed
+1406 rokiem)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "kaplica św. Zofii na zamku lubelskim
+[NEW]
+<osiągnięcie>
+(ufundowana przez
+Wawrzyńca Schirmera przed
+1406 rokiem)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"sołectwo w Konopnicy i folwark w Brunowicach
+[NEW]
+<majątek>"	[color=black,
+		label="sołectwo w Konopnicy i folwark w Brunowicach
+[NEW]
+<majątek>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "sołectwo w Konopnicy i folwark w Brunowicach
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]"];
+	"Lwów
+[Q144390]
+<miejscowość>"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Sandomierz
+[Q74149]
+<miejscowość>"	[color=black,
+		label="Sandomierz
+[Q74149]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Sandomierz
+[Q74149]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Konopnica
+[Q44267]
+<miejscowość>"	[color=black,
+		label="Konopnica
+[Q44267]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Konopnica
+[Q44267]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Brunowice
+[NEW]
+<miejscowość>"	[color=black,
+		label="Brunowice
+[NEW]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Brunowice
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Praga
+[Q146637]
+<miejscowość>"	[color=black,
+		label="Praga
+[Q146637]
+<miejscowość>"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Praga
+[Q146637]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Małgorzata
+[Q161355]
+<osoba>
+(żona Wawrzyńca Schirmera)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "1413-09-05"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"wójt lubelski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Małgorzata
+[NEW]
+<osoba>
+(żona Wawrzyńca Schirmera)"	[color=black,
+		label="Małgorzata
+[NEW]
+<osoba>
+(żona Wawrzyńca Schirmera)"];
+	"Małgorzata
+[NEW]
+<osoba>
+(żona Wawrzyńca Schirmera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Jan
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj
+[Q174783]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(siostra Wawrzyńca
+Schirmera, przez którą
+był spokrewniony z
+Wierzynkami)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wierzynkowie
+[NEW]
+<osoba>
+(krewni Wawrzyńca
+Schirmera przez jego
+siostrę)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dziedziczne wójtostwo w Lublinie
+[NEW]
+<majątek>
+(majątek wykupiony przez
+Wawrzyńca Schirmera od
+Zygmunta Wierzynka)" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wójt w Gródku
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"domy we Lwowie i Sandomierzu
+[NEW]
+<majątek>" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kaplica św. Zofii na zamku lubelskim
+[NEW]
+<osiągnięcie>
+(ufundowana przez
+Wawrzyńca Schirmera przed
+1406 rokiem)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"sołectwo w Konopnicy i folwark w Brunowicach
+[NEW]
+<majątek>" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lwów
+[Q144390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sandomierz
+[Q74149]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konopnica
+[Q44267]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Brunowice
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Praga
+[Q146637]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

@@ -1,0 +1,331 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)"	[color=black,
+		label="Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "artysta śpiewak
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "doktor praw
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "rozprawy w zakresie historii notariatu w Polsce
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Wyszków nad Bugiem
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "1937-10-04"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Radom
+[Q70543]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Petersburg
+[Q147038]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Konserwatorium w Petersburgu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Gabel
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Cotogni
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Barbaccini
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "debiut w 1899 roku
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Livorno
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Modena
+[Q56119]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Wenecja
+[Q147396]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "pierwszy tenor liryczny opery we Lwowie
+[NEW]
+<stanowisko>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Tadeusz Pawlikowski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "prapremiery oper Erazma Dłuskiego i Henryka Skirmunta
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "występy w operach różnych kompozytorów
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "ustąpienie ze sceny przed wybuchem pierwszej wojny światowej
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "sędzia okręgowy w Radomiu
+[NEW]
+<stanowisko>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "zawód rejentalny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "O izbach notarialnych
+[NEW]
+<dzieło>
+(rozprawa prawniczo-
+historyczna wydana w 1927
+roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Studia i materiały do dziejów notariatu w Polsce
+[NEW]
+<dzieło>
+(rozprawa prawniczo-
+historyczna wydana w 1928
+roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "Zarys dziejów notariatu w Polsce
+[NEW]
+<dzieło>
+(rozprawa prawniczo-
+historyczna wydana w 1929
+roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Henryk Drzewiecki
+[Q151878]
+<osoba>
+(artysta śpiewak, doktor
+praw, autor rozpraw w
+zakresie historii
+notariatu w Polsce)" -> "1873-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+}

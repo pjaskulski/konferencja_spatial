@@ -1,0 +1,404 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)"	[color=black,
+		label="Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)"];
+	"inżynier
+[NEW]
+<zawód>"	[color=black,
+		label="inżynier
+[NEW]
+<zawód>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "inżynier
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"kartograf
+[NEW]
+<zawód>"	[color=black,
+		label="kartograf
+[NEW]
+<zawód>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kartograf
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"oficer regimentu
+[NEW]
+<zawód>
+(w batalionie Skarbu Kor.)"	[color=black,
+		label="oficer regimentu
+[NEW]
+<zawód>
+(w batalionie Skarbu Kor.)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "oficer regimentu
+[NEW]
+<zawód>
+(w batalionie Skarbu Kor.)"	[color=green,
+		label="hasOccupation [P106]"];
+	"szlachcic
+[NEW]
+<tytuł szlachecki>"	[color=black,
+		label="szlachcic
+[NEW]
+<tytuł szlachecki>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "szlachcic
+[NEW]
+<tytuł szlachecki>"	[color=green,
+		label="nobleTitle [NEW]"];
+	"kapitan
+[NEW]
+<urząd>
+(z kompanią)"	[color=black,
+		label="kapitan
+[NEW]
+<urząd>
+(z kompanią)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kapitan
+[NEW]
+<urząd>
+(z kompanią)"	[color=green,
+		label="positionHeld [P101]"];
+	"major
+[NEW]
+<urząd>
+(w regimencie pieszym 16)"	[color=black,
+		label="major
+[NEW]
+<urząd>
+(w regimencie pieszym 16)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "major
+[NEW]
+<urząd>
+(w regimencie pieszym 16)"	[color=green,
+		label="positionHeld [P101]"];
+	"rzeka Warta
+[NEW]
+<obiekt hydrologiczny>
+(od Sieradza do wsi
+Siemiątki)"	[color=black,
+		label="rzeka Warta
+[NEW]
+<obiekt hydrologiczny>
+(od Sieradza do wsi
+Siemiątki)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Warta
+[NEW]
+<obiekt hydrologiczny>
+(od Sieradza do wsi
+Siemiątki)"	[color=green,
+		label="significantLocality [NEW]"];
+	"rzeka Narew
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Narew
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Narew
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"rzeka Biebrza
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Biebrza
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Biebrza
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"rzeka Wisła
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Wisła
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Wisła
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"rzeka Liwiec
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Liwiec
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Liwiec
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"rzeka Wkra
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Wkra
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Wkra
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Komisja Skarbowa
+[NEW]
+<instytucja>"	[color=black,
+		label="Komisja Skarbowa
+[NEW]
+<instytucja>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "Komisja Skarbowa
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"kwatermistrz
+[NEW]
+<stanowisko>
+(w regimencie w batalionie
+Skarbu Kor.)"	[color=black,
+		label="kwatermistrz
+[NEW]
+<stanowisko>
+(w regimencie w batalionie
+Skarbu Kor.)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kwatermistrz
+[NEW]
+<stanowisko>
+(w regimencie w batalionie
+Skarbu Kor.)"	[color=green,
+		label="positionHeld [P101]"];
+	"nobilitacja
+[NEW]
+<wydarzenie>
+(otrzymanie tytułu
+szlacheckiego w 1791 roku)"	[color=black,
+		label="nobilitacja
+[NEW]
+<wydarzenie>
+(otrzymanie tytułu
+szlacheckiego w 1791 roku)"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "nobilitacja
+[NEW]
+<wydarzenie>
+(otrzymanie tytułu
+szlacheckiego w 1791 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"rzeka Pilica
+[NEW]
+<obiekt hydrologiczny>"	[color=black,
+		label="rzeka Pilica
+[NEW]
+<obiekt hydrologiczny>"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "rzeka Pilica
+[NEW]
+<obiekt hydrologiczny>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Teodor Henryk Langfort
+[Q159782]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"inżynier
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kartograf
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"oficer regimentu
+[NEW]
+<zawód>
+(w batalionie Skarbu Kor.)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"szlachcic
+[NEW]
+<tytuł szlachecki>" -> "tytuł szlachecki
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kapitan
+[NEW]
+<urząd>
+(z kompanią)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"major
+[NEW]
+<urząd>
+(w regimencie pieszym 16)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Warta
+[NEW]
+<obiekt hydrologiczny>
+(od Sieradza do wsi
+Siemiątki)" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Narew
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Biebrza
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Wisła
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Liwiec
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rzeka Wkra
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Komisja Skarbowa
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kwatermistrz
+[NEW]
+<stanowisko>
+(w regimencie w batalionie
+Skarbu Kor.)" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"nobilitacja
+[NEW]
+<wydarzenie>
+(otrzymanie tytułu
+szlacheckiego w 1791 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"rzeka Pilica
+[NEW]
+<obiekt hydrologiczny>" -> "obiekt hydrologiczny
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

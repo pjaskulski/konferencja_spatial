@@ -1,0 +1,179 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)"	[color=black,
+		label="Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)"];
+	"Marianna Wiktoria z Białynia Białyńska
+[NEW]
+<osoba>"	[color=black,
+		label="Marianna Wiktoria z Białynia Białyńska
+[NEW]
+<osoba>"];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Marianna Wiktoria z Białynia Białyńska
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]"];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Stanisław Kaliński
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Elżbieta z Oborskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Jakub Kaliński
+[Q156522]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Konstanty Kaliński
+[NEW]
+<osoba>
+(podkomorzy bracławski
+(1703))"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "rotmistrz królewski
+[NEW]
+<zawód>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "starosta bracławski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "1663-00-00
+(Data śmierci jest
+przybliżona, ponieważ nie
+jest znana dokładna data.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Aleksander Koniecpolski
+[Q157898]
+<osoba>
+(chorąży koronny)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Niedźwica
+[NEW]
+<miejscowość>
+(wieś w powiecie
+latyczowskim otrzymana
+przez Seweryna Mikołaja
+Kalińskiego za zasługi w
+walkach \
+na Ukrainie)"	[color=green,
+		label="hasProperty [NEW]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Hołodki
+[NEW]
+<miejscowość>
+(wieś należąca do
+starostwa barskiego,
+trzymana w dożywotniej
+dzierżawie przez Seweryna
+Mikołaja \
+Kalińskiego)"	[color=green,
+		label="hasProperty [NEW]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Pustomyty
+[NEW]
+<miejscowość>
+(miejscowość wykupiona
+przez Seweryna Mikołaja
+Kalińskiego w 1649 roku
+od matki Marianny
+Wiktorii \
+z Białynia
+Białyńskiej)"	[color=green,
+		label="hasProperty [NEW]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "pułkownik
+[NEW]
+<zawód>
+(stopień wojskowy
+otrzymany przez Seweryna
+Mikołaja Kalińskiego w
+nagrodę za przejście na
+stronę \
+Szwedów)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=4];
+	"Marianna Wiktoria z Białynia Białyńska
+[NEW]
+<osoba>" -> "Andrzej Gołyński
+[NEW]
+<osoba>
+(drugi mąż Marianny
+Wiktorii z Białynia
+Białyńskiej po śmierci
+Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+}

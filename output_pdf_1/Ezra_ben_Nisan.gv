@@ -1,0 +1,187 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)"	[color=black,
+		label="Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)"];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "uczony
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "wójt i naczelny sędzia karaimski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "medyk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "Józef Del Medigo
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "lekarz i doradca królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "włości w okolicy Trok
+[NEW]
+<majątek>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "1666-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "stary cmentarz karaimski w Trokach
+[NEW]
+<miejsce>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "Troki
+[Q142829]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "Jan Kazimierz
+[Q155673]
+<osoba>
+(król)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "Radziwiłłowie
+[NEW]
+<rodzina>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "modlitewnik karaimski
+[NEW]
+<dzieło>
+(zawiera hymny i pieśni
+religijne Ezry ben Nisana
+z Trok)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "księgozbiór medyczny
+[NEW]
+<własność>
+(bogaty księgozbiór
+medyczny Ezry ben Nisana
+z Trok, który spłonął w
+pożarze w \
+1655 roku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Ezra ben Nisan z Trok
+[Q152452]
+<osoba>
+(uczony karaimski,
+matematyk i medyk
+nadworny Radziwiłłów oraz
+króla Jana Kazimierza)" -> "uzdrowienie córki Jana Kazimierza
+[NEW]
+<osiągnięcie>
+(uzdrowienie córki Jana
+Kazimierza, co
+przyczyniło się do
+uzyskania \
+tytułu lekarza
+i doradcy królewskiego)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+}

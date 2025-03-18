@@ -1,0 +1,171 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)"	[color=black,
+		label="Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "1577-00-00
+(Zmarł w 1577 roku.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Praga
+[Q146637]
+<miejscowość>
+(Prawdopodobne miejsce
+urodzenia Spiry Natana
+ben Samsona.)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Grodno
+[Q146051]
+<miejscowość>
+(Miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona.)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Grodno
+[Q146051]
+<miejscowość>
+(Miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona.)"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "rabin
+[NEW]
+<urząd>
+(Urząd pełniony w Grodnie.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Dawid Gans
+[NEW]
+<osoba>
+(astronom i matematyk z
+Pragi, krewny Spiry
+Natana ben Samsona.)"	[color=green,
+		label="hasRelative [NEW]",
+		minlen=4];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona, ojciec Natana
+Naty Spiry.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Mevo še‘arim
+[NEW]
+<dzieło>
+(Wprowadzenie do „Bram”,
+komentarz do modlitewnika
+I. Durana.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Imre ha-šefer
+[NEW]
+<dzieło>
+(Piękne słowa, glosy do
+klasycznego komentarza do
+Pięcioksięgu Mojżesza.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "hymny świąteczne
+[NEW]
+<dzieło>
+(Wydane w Krakowie w 1608
+roku.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "he-hasid
+[NEW]
+<osiągnięcie>
+(Przydomek nadany Spirze
+Natanowi ben Samsonowi z
+powodu jego wielkiej
+religijności.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie pochodzący z
+Niemiec, nazwisko wywodzi
+się od miasta Spira
+(Speier)\
+.)"	[color=black,
+		label="przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie pochodzący z
+Niemiec, nazwisko wywodzi
+się od miasta Spira
+(Speier)\
+.)"];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie pochodzący z
+Niemiec, nazwisko wywodzi
+się od miasta Spira
+(Speier)\
+.)" -> "Spira
+[Q146881]
+<miejscowość>
+(Miasto w Niemczech, od
+którego wywodzi się
+nazwisko przodków Spiry
+Natana ben Samsona.)"	[color=green,
+		label="placeOfOrigin [NEW]"];
+}

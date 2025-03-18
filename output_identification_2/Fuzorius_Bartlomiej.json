@@ -1,0 +1,308 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1637",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q60198"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Nowy Sącz",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q60198"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegiata nowosądecka",
+                "type": "instytucja",
+                "description": "miejsce pochówku Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Lwowczyk",
+                "type": "osoba",
+                "description": "ojciec Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1598",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Krakowska",
+                "type": "instytucja",
+                "description": "miejsce prawdopodobnego kształcenia Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wikariusz",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Fuzoriusa Bartłomieja od 1584 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kustosz kolegiaty św. Małgorzaty",
+                "type": "urząd",
+                "description": "stanowisko pełnione przez Fuzoriusa Bartłomieja od 1605 roku do jego śmierci",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kamionka Wielka",
+                "type": "miejscowość",
+                "description": "miejsce, gdzie Fuzorius Bartłomiej wybudował kościółek",
+                "wikihum": "Q40715"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej",
+                "type": "przedmiot",
+                "description": "stworzone w 1631 roku przez Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "bakałarz",
+                "type": "zawód",
+                "description": "posiadał stopień bakałarza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wojciech Łopacki",
+                "type": "osoba",
+                "description": "rajca miejski i balwierz, odszczepieniec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "balwierz",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wojciech Łopacki",
+                "type": "osoba",
+                "description": "rajca miejski i balwierz, odszczepieniec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rajca miejski",
+                "type": "urząd",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "dwóch stałych penitencjariuszów",
+                "type": "osoba",
+                "description": "ufundowani przez Fuzoriusa Bartłomieja w kolegiacie św. Małgorzaty",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Fuzorius Bartłomiej",
+                "type": "osoba",
+                "description": "kustosz i oficjał kolegiaty nowosądeckiej",
+                "wikihum": "Q152941"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Biblioteka Kapitulna we Lwowie",
+                "type": "instytucja",
+                "description": "miejsce przechowywania resztek biblioteki Fuzoriusa Bartłomieja",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

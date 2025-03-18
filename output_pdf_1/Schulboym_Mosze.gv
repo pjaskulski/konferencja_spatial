@@ -1,0 +1,354 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)"	[color=black,
+		label="Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)"];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "1830-04-19"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Jezierzany
+[Q143703]
+<miejscowość>
+(miejscowość w Galicji)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "1918-04-24"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Wiedeń
+[Q146507]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Jeszaajahu (Izajasz)
+[NEW]
+<osoba>
+(ojciec Mosze Schulboyma)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Debora z domu Aszkenazi
+[NEW]
+<osoba>
+(matka Mosze Schulboyma)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Lwów
+[Q144390]
+<miejscowość>
+(jeden z głównych ośrodków
+Haskali w Galicji)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Kołomyja
+[Q144749]
+<miejscowość>
+(miejsce pracy Mosze
+Schulboyma jako
+nauczyciela w szkole
+żydowskiej)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Mikulince
+[Q143748]
+<miejscowość>
+(miejsce pracy Mosze
+Schulboyma jako
+nauczyciela)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Tarnopol
+[Q143814]
+<miejscowość>
+(miejsce pracy Mosze
+Schulboyma jako
+inspektora nauki języka
+hebrajskiego)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "nauczyciel
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "inspektor nauki języka hebrajskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Fundacja barona M. Hirscha
+[NEW]
+<instytucja>
+(fundacja związana z
+edukacją żydowską)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Drukarnia Michała Wolfa
+[NEW]
+<instytucja>
+(drukarnia we Lwowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Ocar hamilim haklali. Allgemeines vollständiges neuhebräisch-deutsches Wörterbuch
+[NEW]
+<dzieło>
+(słownik opublikowany w
+Lembergu \
+w 1880 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Ocar hašemot
+[NEW]
+<dzieło>
+(słownik obejmujący
+onomastykę hebrajską od
+Biblii do końca XVIII
+wieku, opublikowany w
+Lembergu \
+w 1881 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Milon germani-iwri. Neues, vollständiges deutsch-hebräisches Wörterbuch
+[NEW]
+<dzieło>
+(słownik opublikowany w
+Lembergu w 1881 \
+roku, z
+drugim rozszerzonym
+wydaniem w 1904 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Ocar lešon aramit
+[NEW]
+<dzieło>
+(słownik języka
+aramejskiego opublikowany
+w Lembergu w 1900 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Ocar haszoraszim
+[NEW]
+<dzieło>
+(pięciotomowe wydanie
+hebrajskiego słownika J.
+L. Ben-Zeewa,
+opublikowane we Lwowie w
+1881 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Etyka nikomachejska
+[NEW]
+<dzieło>
+(przekład na język
+hebrajski opublikowany we
+Lwowie w 1877 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "Zbójcy
+[NEW]
+<dzieło>
+(niepełny przekład na
+język hebrajski
+opublikowany we Lwowie w
+1881 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "pierwsza żona Mosze Schulboyma
+[NEW]
+<osoba>
+(pierwsza żona Mosze
+Schulboyma, której imię i
+nazwisko panieńskie nie
+są znane)"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "druga żona Mosze Schulboyma
+[NEW]
+<osoba>
+(druga żona Mosze
+Schulboyma, której imię i
+nazwisko panieńskie nie
+są znane)"	[color=green,
+		label="hasWife [P94]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "córka Mosze Schulboyma z drugiego małżeństwa
+[NEW]
+<osoba>
+(córka Mosze Schulboyma z
+drugiego małżeństwa,
+której imię \
+nie jest
+znane)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "przeniesienie się do Lwowa
+[NEW]
+<wydarzenie>
+(przeniesienie się Mosze
+Schulboyma do Lwowa w
+1870 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "czasopisma 'Haet' i 'Kol Haet'
+[NEW]
+<dzieło>
+(krótkotrwałe czasopisma
+wydawane przez Mosze
+Schulboyma we Lwowie w
+latach 1871-1872)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "przeżycie I wojny światowej w Tarnopolu
+[NEW]
+<wydarzenie>
+(przeżycie I wojny
+światowej przez Mosze
+Schulboyma w Tarnopolu)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "strata naukowej biblioteki
+[NEW]
+<wydarzenie>
+(strata naukowej
+biblioteki Mosze
+Schulboyma, która została
+spalona przez Kozaków
+\
+podczas I wojny światowej)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Mosze Schulboym
+[Q170121]
+<osoba>
+(językoznawca,
+leksykograf, tłumacz)" -> "dołączenie do rodziny w Wiedniu
+[NEW]
+<wydarzenie>
+(dołączenie Mosze
+Schulboyma do rodziny w
+Wiedniu pod koniec 1917
+roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+}

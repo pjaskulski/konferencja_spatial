@@ -1,0 +1,677 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)"	[color=black,
+		label="Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)"];
+	"Opole
+[Q61484]
+<miejscowość>"	[color=black,
+		label="Opole
+[Q61484]
+<miejscowość>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Opole
+[Q61484]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Rumia
+[Q72903]
+<miejscowość>"	[color=black,
+		label="Rumia
+[Q72903]
+<miejscowość>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Rumia
+[Q72903]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz przykościelny w Rumi
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz przykościelny w Rumi
+[NEW]
+<miejscowość>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "cmentarz przykościelny w Rumi
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Augustyn Skiba
+[NEW]
+<osoba>
+(rybak, ojciec Antoniego
+Skiby)"	[color=black,
+		label="Augustyn Skiba
+[NEW]
+<osoba>
+(rybak, ojciec Antoniego
+Skiby)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Augustyn Skiba
+[NEW]
+<osoba>
+(rybak, ojciec Antoniego
+Skiby)"	[color=green,
+		label="hasFather [P92]"];
+	"Rozalia Skiba
+[NEW]
+<osoba>
+(matka Antoniego Skiby)"	[color=black,
+		label="Rozalia Skiba
+[NEW]
+<osoba>
+(matka Antoniego Skiby)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Rozalia Skiba
+[NEW]
+<osoba>
+(matka Antoniego Skiby)"	[color=green,
+		label="hasMother [P93]"];
+	"ksiądz
+[NEW]
+<zawód>"	[color=black,
+		label="ksiądz
+[NEW]
+<zawód>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "ksiądz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"poseł do pruskiego Zgromadzenia Narodowego w Berlinie
+[NEW]
+<urząd>"	[color=black,
+		label="poseł do pruskiego Zgromadzenia Narodowego w Berlinie
+[NEW]
+<urząd>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "poseł do pruskiego Zgromadzenia Narodowego w Berlinie
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"uniwersytet we Wrocławiu
+[NEW]
+<instytucja>"	[color=black,
+		label="uniwersytet we Wrocławiu
+[NEW]
+<instytucja>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "uniwersytet we Wrocławiu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"seminarium duchowne w Pelplinie
+[NEW]
+<instytucja>"	[color=black,
+		label="seminarium duchowne w Pelplinie
+[NEW]
+<instytucja>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "seminarium duchowne w Pelplinie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"proboszcz w Rumi
+[NEW]
+<urząd>"	[color=black,
+		label="proboszcz w Rumi
+[NEW]
+<urząd>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "proboszcz w Rumi
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"inspektor lokalny sześciu szkół katolickich w Rumi
+[NEW]
+<urząd>"	[color=black,
+		label="inspektor lokalny sześciu szkół katolickich w Rumi
+[NEW]
+<urząd>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "inspektor lokalny sześciu szkół katolickich w Rumi
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Bractwo Bożej Opatrzności w Rumi
+[NEW]
+<instytucja>
+(istniejące od 1730 roku,
+z nowym statutem od 1852
+roku)"	[color=black,
+		label="Bractwo Bożej Opatrzności w Rumi
+[NEW]
+<instytucja>
+(istniejące od 1730 roku,
+z nowym statutem od 1852
+roku)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Bractwo Bożej Opatrzności w Rumi
+[NEW]
+<instytucja>
+(istniejące od 1730 roku,
+z nowym statutem od 1852
+roku)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Bractwo Różańca Świętego przy kościele filialnym w Redzie
+[NEW]
+<instytucja>"	[color=black,
+		label="Bractwo Różańca Świętego przy kościele filialnym w Redzie
+[NEW]
+<instytucja>"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Bractwo Różańca Świętego przy kościele filialnym w Redzie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Liga Polska Narodowa
+[NEW]
+<instytucja>
+(założona w 1848 roku,
+kierowała wyborami w 1849
+roku)"	[color=black,
+		label="Liga Polska Narodowa
+[NEW]
+<instytucja>
+(założona w 1848 roku,
+kierowała wyborami w 1849
+roku)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Liga Polska Narodowa
+[NEW]
+<instytucja>
+(założona w 1848 roku,
+kierowała wyborami w 1849
+roku)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce pierwszej pracy
+duszpasterskiej Antoniego
+Skiby)"	[color=black,
+		label="Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce pierwszej pracy
+duszpasterskiej Antoniego
+Skiby)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce pierwszej pracy
+duszpasterskiej Antoniego
+Skiby)"	[color=green,
+		label="significantLocality [NEW]"];
+	"święcenia kapłańskie
+[NEW]
+<wydarzenie>
+(Antoni Skiba otrzymał
+święcenia kapłańskie 7
+marca 1839 roku.)"	[color=black,
+		label="święcenia kapłańskie
+[NEW]
+<wydarzenie>
+(Antoni Skiba otrzymał
+święcenia kapłańskie 7
+marca 1839 roku.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "święcenia kapłańskie
+[NEW]
+<wydarzenie>
+(Antoni Skiba otrzymał
+święcenia kapłańskie 7
+marca 1839 roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"założenie Ligi Polskiej Narodowej
+[NEW]
+<wydarzenie>
+(Antoni Skiba był
+współzałożycielem Ligi
+Polskiej Narodowej w 1848
+roku.)"	[color=black,
+		label="założenie Ligi Polskiej Narodowej
+[NEW]
+<wydarzenie>
+(Antoni Skiba był
+współzałożycielem Ligi
+Polskiej Narodowej w 1848
+roku.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "założenie Ligi Polskiej Narodowej
+[NEW]
+<wydarzenie>
+(Antoni Skiba był
+współzałożycielem Ligi
+Polskiej Narodowej w 1848
+roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"wybory do Zgromadzenia Narodowego w Berlinie
+[NEW]
+<wydarzenie>
+(Antoni Skiba został
+wybrany jako jeden z
+pięciu przedstawicieli
+\
+ludności polskiej Prus
+Zachodnich w 1848 roku.)"	[color=black,
+		label="wybory do Zgromadzenia Narodowego w Berlinie
+[NEW]
+<wydarzenie>
+(Antoni Skiba został
+wybrany jako jeden z
+pięciu przedstawicieli
+\
+ludności polskiej Prus
+Zachodnich w 1848 roku.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "wybory do Zgromadzenia Narodowego w Berlinie
+[NEW]
+<wydarzenie>
+(Antoni Skiba został
+wybrany jako jeden z
+pięciu przedstawicieli
+\
+ludności polskiej Prus
+Zachodnich w 1848 roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"podpisanie wniosku o pomoc rewolucji wiedeńskiej
+[NEW]
+<wydarzenie>
+(Antoni Skiba podpisał się
+pod wnioskiem posła F.
+Waldecka \
+dotyczącym
+udzielenia pomocy
+rewolucji wiedeńskiej.)"	[color=black,
+		label="podpisanie wniosku o pomoc rewolucji wiedeńskiej
+[NEW]
+<wydarzenie>
+(Antoni Skiba podpisał się
+pod wnioskiem posła F.
+Waldecka \
+dotyczącym
+udzielenia pomocy
+rewolucji wiedeńskiej.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "podpisanie wniosku o pomoc rewolucji wiedeńskiej
+[NEW]
+<wydarzenie>
+(Antoni Skiba podpisał się
+pod wnioskiem posła F.
+Waldecka \
+dotyczącym
+udzielenia pomocy
+rewolucji wiedeńskiej.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"złożenie podpisu pod memoriałem do króla
+[NEW]
+<wydarzenie>
+(Antoni Skiba złożył
+podpis pod memoriałem
+skierowanym do króla,
+\
+piętnującym gwałty rządu
+w walce z przeciwnikami
+politycznymi.)"	[color=black,
+		label="złożenie podpisu pod memoriałem do króla
+[NEW]
+<wydarzenie>
+(Antoni Skiba złożył
+podpis pod memoriałem
+skierowanym do króla,
+\
+piętnującym gwałty rządu
+w walce z przeciwnikami
+politycznymi.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "złożenie podpisu pod memoriałem do króla
+[NEW]
+<wydarzenie>
+(Antoni Skiba złożył
+podpis pod memoriałem
+skierowanym do króla,
+\
+piętnującym gwałty rządu
+w walce z przeciwnikami
+politycznymi.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"pierwsze posiedzenie sejmu pruskiego w 1849 roku
+[NEW]
+<wydarzenie>
+(Antoni Skiba brał udział
+w pierwszym posiedzeniu
+sejmu pruskiego, \
+które
+odbyło się 25 lutego 1849
+roku w mieszkaniu Macieja
+Mielżyńskiego.)"	[color=black,
+		label="pierwsze posiedzenie sejmu pruskiego w 1849 roku
+[NEW]
+<wydarzenie>
+(Antoni Skiba brał udział
+w pierwszym posiedzeniu
+sejmu pruskiego, \
+które
+odbyło się 25 lutego 1849
+roku w mieszkaniu Macieja
+Mielżyńskiego.)"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "pierwsze posiedzenie sejmu pruskiego w 1849 roku
+[NEW]
+<wydarzenie>
+(Antoni Skiba brał udział
+w pierwszym posiedzeniu
+sejmu pruskiego, \
+które
+odbyło się 25 lutego 1849
+roku w mieszkaniu Macieja
+Mielżyńskiego.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "1811-05-31"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "1863-01-14"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Antoni Skiba
+[Q170952]
+<osoba>
+(ksiądz, poseł polski do
+pruskiego Zgromadzenia
+Narodowego w Berlinie)" -> "Rumia
+[Q72903]
+<miejscowość>
+(miejsce pracy i śmierci
+Antoniego Skiby)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Opole
+[Q61484]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rumia
+[Q72903]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz przykościelny w Rumi
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Augustyn Skiba
+[NEW]
+<osoba>
+(rybak, ojciec Antoniego
+Skiby)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rozalia Skiba
+[NEW]
+<osoba>
+(matka Antoniego Skiby)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ksiądz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"poseł do pruskiego Zgromadzenia Narodowego w Berlinie
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"uniwersytet we Wrocławiu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"seminarium duchowne w Pelplinie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"proboszcz w Rumi
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"inspektor lokalny sześciu szkół katolickich w Rumi
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bractwo Bożej Opatrzności w Rumi
+[NEW]
+<instytucja>
+(istniejące od 1730 roku,
+z nowym statutem od 1852
+roku)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bractwo Różańca Świętego przy kościele filialnym w Redzie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Liga Polska Narodowa
+[NEW]
+<instytucja>
+(założona w 1848 roku,
+kierowała wyborami w 1849
+roku)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce pierwszej pracy
+duszpasterskiej Antoniego
+Skiby)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"święcenia kapłańskie
+[NEW]
+<wydarzenie>
+(Antoni Skiba otrzymał
+święcenia kapłańskie 7
+marca 1839 roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"założenie Ligi Polskiej Narodowej
+[NEW]
+<wydarzenie>
+(Antoni Skiba był
+współzałożycielem Ligi
+Polskiej Narodowej w 1848
+roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wybory do Zgromadzenia Narodowego w Berlinie
+[NEW]
+<wydarzenie>
+(Antoni Skiba został
+wybrany jako jeden z
+pięciu przedstawicieli
+\
+ludności polskiej Prus
+Zachodnich w 1848 roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"podpisanie wniosku o pomoc rewolucji wiedeńskiej
+[NEW]
+<wydarzenie>
+(Antoni Skiba podpisał się
+pod wnioskiem posła F.
+Waldecka \
+dotyczącym
+udzielenia pomocy
+rewolucji wiedeńskiej.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"złożenie podpisu pod memoriałem do króla
+[NEW]
+<wydarzenie>
+(Antoni Skiba złożył
+podpis pod memoriałem
+skierowanym do króla,
+\
+piętnującym gwałty rządu
+w walce z przeciwnikami
+politycznymi.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pierwsze posiedzenie sejmu pruskiego w 1849 roku
+[NEW]
+<wydarzenie>
+(Antoni Skiba brał udział
+w pierwszym posiedzeniu
+sejmu pruskiego, \
+które
+odbyło się 25 lutego 1849
+roku w mieszkaniu Macieja
+Mielżyńskiego.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

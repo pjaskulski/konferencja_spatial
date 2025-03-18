@@ -1,0 +1,899 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)"	[color=black,
+		label="Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)"];
+	"Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"	[color=black,
+		label="Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"	[color=green,
+		label="hasFather [P92]"];
+	"Kazimiera z Klimontowiczów
+[NEW]
+<osoba>
+(bojowniczka o prawo
+kobiet do wyższego
+wykształcenia)"	[color=black,
+		label="Kazimiera z Klimontowiczów
+[NEW]
+<osoba>
+(bojowniczka o prawo
+kobiet do wyższego
+wykształcenia)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kazimiera z Klimontowiczów
+[NEW]
+<osoba>
+(bojowniczka o prawo
+kobiet do wyższego
+wykształcenia)"	[color=green,
+		label="hasMother [P93]"];
+	"Kazimiera Rouppertowa
+[NEW]
+<osoba>"	[color=black,
+		label="Kazimiera Rouppertowa
+[NEW]
+<osoba>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kazimiera Rouppertowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]"];
+	"Jadwiga Demelowa
+[NEW]
+<osoba>"	[color=black,
+		label="Jadwiga Demelowa
+[NEW]
+<osoba>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Jadwiga Demelowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]"];
+	"Helena Jurgielewiczowa
+[NEW]
+<osoba>"	[color=black,
+		label="Helena Jurgielewiczowa
+[NEW]
+<osoba>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Helena Jurgielewiczowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Cmentarz Rakowicki
+[NEW]
+<miejscowość>"	[color=black,
+		label="Cmentarz Rakowicki
+[NEW]
+<miejscowość>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Cmentarz Rakowicki
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"	[color=black,
+		label="Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"	[color=green,
+		label="hasHusband [P94]"];
+	"Jerzy Mostowski
+[NEW]
+<osoba>
+(lekarz, późniejszy lekarz
+oddziałowy partyzancki)"	[color=black,
+		label="Jerzy Mostowski
+[NEW]
+<osoba>
+(lekarz, późniejszy lekarz
+oddziałowy partyzancki)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Jerzy Mostowski
+[NEW]
+<osoba>
+(lekarz, późniejszy lekarz
+oddziałowy partyzancki)"	[color=green,
+		label="hasSon [P153]"];
+	"Czesław Mostowski
+[NEW]
+<osoba>
+(prawnik)"	[color=black,
+		label="Czesław Mostowski
+[NEW]
+<osoba>
+(prawnik)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Czesław Mostowski
+[NEW]
+<osoba>
+(prawnik)"	[color=green,
+		label="hasSon [P153]"];
+	"lekarka
+[NEW]
+<zawód>"	[color=black,
+		label="lekarka
+[NEW]
+<zawód>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "lekarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"kierownik wytwórni szczepionek
+[NEW]
+<zawód>"	[color=black,
+		label="kierownik wytwórni szczepionek
+[NEW]
+<zawód>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "kierownik wytwórni szczepionek
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]"];
+	"Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Jagielloński
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Spójnia
+[NEW]
+<organizacja>
+(postępowa organizacja)"	[color=black,
+		label="Spójnia
+[NEW]
+<organizacja>
+(postępowa organizacja)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Spójnia
+[NEW]
+<organizacja>
+(postępowa organizacja)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Zakłady prof. O. Bujwida
+[NEW]
+<instytucja>
+(spółka rodzinna dla
+wyrobu surowic i
+szczepionek leczniczych w
+Krakowie)"	[color=black,
+		label="Zakłady prof. O. Bujwida
+[NEW]
+<instytucja>
+(spółka rodzinna dla
+wyrobu surowic i
+szczepionek leczniczych w
+Krakowie)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Zakłady prof. O. Bujwida
+[NEW]
+<instytucja>
+(spółka rodzinna dla
+wyrobu surowic i
+szczepionek leczniczych w
+Krakowie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Sanepid w Olsztynie
+[NEW]
+<instytucja>
+(Stacja Sanitarno-
+Epidemiologiczna w
+Olsztynie)"	[color=black,
+		label="Sanepid w Olsztynie
+[NEW]
+<instytucja>
+(Stacja Sanitarno-
+Epidemiologiczna w
+Olsztynie)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Sanepid w Olsztynie
+[NEW]
+<instytucja>
+(Stacja Sanitarno-
+Epidemiologiczna w
+Olsztynie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wojskowy szpital polowy w Zwierzyńcu
+[NEW]
+<instytucja>"	[color=black,
+		label="Wojskowy szpital polowy w Zwierzyńcu
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Wojskowy szpital polowy w Zwierzyńcu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Konspiracyjna obozowa służba zdrowia
+[NEW]
+<instytucja>"	[color=black,
+		label="Konspiracyjna obozowa służba zdrowia
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Konspiracyjna obozowa służba zdrowia
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Klinika chirurgiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Klinika chirurgiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Klinika chirurgiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Szpital w Drohobyczu
+[NEW]
+<instytucja>"	[color=black,
+		label="Szpital w Drohobyczu
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital w Drohobyczu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Szpital im. Dzieciątka Jezus w Warszawie
+[NEW]
+<instytucja>"	[color=black,
+		label="Szpital im. Dzieciątka Jezus w Warszawie
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital im. Dzieciątka Jezus w Warszawie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Szpital Bonifratrów w Krakowie
+[NEW]
+<instytucja>"	[color=black,
+		label="Szpital Bonifratrów w Krakowie
+[NEW]
+<instytucja>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital Bonifratrów w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Tajna produkcja i przerzut surowicy przeciwtężcowej
+[NEW]
+<wydarzenie>"	[color=black,
+		label="Tajna produkcja i przerzut surowicy przeciwtężcowej
+[NEW]
+<wydarzenie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Tajna produkcja i przerzut surowicy przeciwtężcowej
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Organizacja wojskowego szpitala polowego w Zwierzyńcu
+[NEW]
+<wydarzenie>"	[color=black,
+		label="Organizacja wojskowego szpitala polowego w Zwierzyńcu
+[NEW]
+<wydarzenie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Organizacja wojskowego szpitala polowego w Zwierzyńcu
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Pomoc lekarska dla podkarpackich oddziałów partyzanckich
+[NEW]
+<wydarzenie>"	[color=black,
+		label="Pomoc lekarska dla podkarpackich oddziałów partyzanckich
+[NEW]
+<wydarzenie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Pomoc lekarska dla podkarpackich oddziałów partyzanckich
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Przerzut szczepionek do obozów w Oświęcimiu, Pustkowie i Majdanku
+[NEW]
+<wydarzenie>"	[color=black,
+		label="Przerzut szczepionek do obozów w Oświęcimiu, Pustkowie i Majdanku
+[NEW]
+<wydarzenie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Przerzut szczepionek do obozów w Oświęcimiu, Pustkowie i Majdanku
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Zwiększenie produkcji szczepionek
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="Zwiększenie produkcji szczepionek
+[NEW]
+<osiągnięcie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Zwiększenie produkcji szczepionek
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Wprowadzenie własnych metod operacyjnych
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="Wprowadzenie własnych metod operacyjnych
+[NEW]
+<osiągnięcie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Wprowadzenie własnych metod operacyjnych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Publikacja prac naukowych
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="Publikacja prac naukowych
+[NEW]
+<osiągnięcie>"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Publikacja prac naukowych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Bronisław Kader
+[Q156447]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"	[color=black,
+		label="Bronisław Kader
+[Q156447]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Bronisław Kader
+[Q156447]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Maksymilian Rutkowski
+[NEW]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"	[color=black,
+		label="Maksymilian Rutkowski
+[NEW]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Maksymilian Rutkowski
+[NEW]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"K. Hładij
+[NEW]
+<osoba>
+(współpracownik Zofii
+Mostowskiej w Szpitalu
+Bonifratrów w Krakowie)"	[color=black,
+		label="K. Hładij
+[NEW]
+<osoba>
+(współpracownik Zofii
+Mostowskiej w Szpitalu
+Bonifratrów w Krakowie)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "K. Hładij
+[NEW]
+<osoba>
+(współpracownik Zofii
+Mostowskiej w Szpitalu
+Bonifratrów w Krakowie)"	[color=green,
+		label="significantFigure [P100]"];
+	"Gródek nad Dunajcem
+[Q35474]
+<miejscowość>
+(miejsce pobytu Zofii
+Mostowskiej u syna po
+upaństwowieniu wytwórni
+szczepionek \
+w 1951 roku)"	[color=black,
+		label="Gródek nad Dunajcem
+[Q35474]
+<miejscowość>
+(miejsce pobytu Zofii
+Mostowskiej u syna po
+upaństwowieniu wytwórni
+szczepionek \
+w 1951 roku)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Gródek nad Dunajcem
+[Q35474]
+<miejscowość>
+(miejsce pobytu Zofii
+Mostowskiej u syna po
+upaństwowieniu wytwórni
+szczepionek \
+w 1951 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Zamość
+[Q92484]
+<miejscowość>
+(miejsce związane z
+organizacją wojskowego
+szpitala polowego w
+Zwierzyńcu przez Zofię
+Mostowską \
+w 1939 roku)"	[color=black,
+		label="Zamość
+[Q92484]
+<miejscowość>
+(miejsce związane z
+organizacją wojskowego
+szpitala polowego w
+Zwierzyńcu przez Zofię
+Mostowską \
+w 1939 roku)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Zamość
+[Q92484]
+<miejscowość>
+(miejsce związane z
+organizacją wojskowego
+szpitala polowego w
+Zwierzyńcu przez Zofię
+Mostowską \
+w 1939 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "1890-06-17"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "1962-12-08"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimiera z Klimontowiczów
+[NEW]
+<osoba>
+(bojowniczka o prawo
+kobiet do wyższego
+wykształcenia)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimiera Rouppertowa
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jadwiga Demelowa
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Helena Jurgielewiczowa
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Cmentarz Rakowicki
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Mostowski
+[NEW]
+<osoba>
+(lekarz, późniejszy lekarz
+oddziałowy partyzancki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Czesław Mostowski
+[NEW]
+<osoba>
+(prawnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"lekarka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kierownik wytwórni szczepionek
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Jagielloński
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Spójnia
+[NEW]
+<organizacja>
+(postępowa organizacja)" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Zakłady prof. O. Bujwida
+[NEW]
+<instytucja>
+(spółka rodzinna dla
+wyrobu surowic i
+szczepionek leczniczych w
+Krakowie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sanepid w Olsztynie
+[NEW]
+<instytucja>
+(Stacja Sanitarno-
+Epidemiologiczna w
+Olsztynie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wojskowy szpital polowy w Zwierzyńcu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konspiracyjna obozowa służba zdrowia
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Klinika chirurgiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szpital w Drohobyczu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szpital im. Dzieciątka Jezus w Warszawie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szpital Bonifratrów w Krakowie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tajna produkcja i przerzut surowicy przeciwtężcowej
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Organizacja wojskowego szpitala polowego w Zwierzyńcu
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pomoc lekarska dla podkarpackich oddziałów partyzanckich
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Przerzut szczepionek do obozów w Oświęcimiu, Pustkowie i Majdanku
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zwiększenie produkcji szczepionek
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wprowadzenie własnych metod operacyjnych
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Publikacja prac naukowych
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bronisław Kader
+[Q156447]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maksymilian Rutkowski
+[NEW]
+<osoba>
+(asystentka Zofii
+Mostowskiej w klinice
+chirurgicznej
+Uniwersytetu
+Jagiellońskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"K. Hładij
+[NEW]
+<osoba>
+(współpracownik Zofii
+Mostowskiej w Szpitalu
+Bonifratrów w Krakowie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gródek nad Dunajcem
+[Q35474]
+<miejscowość>
+(miejsce pobytu Zofii
+Mostowskiej u syna po
+upaństwowieniu wytwórni
+szczepionek \
+w 1951 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zamość
+[Q92484]
+<miejscowość>
+(miejsce związane z
+organizacją wojskowego
+szpitala polowego w
+Zwierzyńcu przez Zofię
+Mostowską \
+w 1939 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

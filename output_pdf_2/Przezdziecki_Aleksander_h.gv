@@ -1,0 +1,205 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)"	[color=black,
+		label="Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)"];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"	[color=black,
+		label="Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)"	[color=green,
+		label="hasSon [P153]"];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(znany z zajazdów i
+rozbojów)"	[color=black,
+		label="Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(znany z zajazdów i
+rozbojów)"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(znany z zajazdów i
+rozbojów)"	[color=green,
+		label="hasSon [P153]"];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(stolnik upicki)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Anna Eleonora ze Skopów
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Antoni Przezdziecki
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Felicjanna z Chreptowiczów
+[NEW]
+<osoba>
+(podkomorzanka nowogrodzka)"	[color=green,
+		label="hasWife [P94]",
+		minlen=4];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Konstancja Aleksandra z Kamińskich
+[NEW]
+<osoba>
+(córka Krzysztofa,
+sędziego orszańskiego)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "kasztelan inflancki
+[NEW]
+<urząd>
+(od 24 XI 1726)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "chorąży mozyrski
+[NEW]
+<urząd>
+(co najmniej od 1694)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "deputat na Trybunał W. Ks. Lit.
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "miecznik litewski
+[NEW]
+<urząd>
+(na przełomie 1708/9)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "sekretarz poselstwa do Rosji
+[NEW]
+<urząd>
+(w 1703 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Michał Wiśniowiecki
+[NEW]
+<osoba>
+(późniejszy kanclerz
+wielki litewski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Radziwiłłowie
+[NEW]
+<osoba>
+(rodzina, z którą
+Aleksander Przezdziecki
+zaczął się wiązać w
+latach trzydziestych
+XVIII wieku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "1734-10-24
+(przybliżona data śmierci)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Aleksander Przezdziecki
+[Q167111]
+<osoba>
+(kasztelan inflancki)" -> "Wilno
+[Q143061]
+<miejscowość>
+(prawdopodobne miejsce
+śmierci)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Józef Przezdziecki
+[NEW]
+<osoba>
+(starosta hrabowski)" -> "1724-00-00
+(data śmierci podczas
+zajazdu)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(znany z zajazdów i
+rozbojów)" -> "1727-12-00
+(data śmierci przez
+ścięcie we Lwowie)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Krzysztof Przezdziecki
+[NEW]
+<osoba>
+(znany z zajazdów i
+rozbojów)" -> "Lwów
+[Q144390]
+<miejscowość>
+(miejsce śmierci przez
+ścięcie)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+}

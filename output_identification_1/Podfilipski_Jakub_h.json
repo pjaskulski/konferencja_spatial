@@ -1,0 +1,549 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q12129374"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "kasztelan kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q12129374"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1518-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jakub Podfilipski (syn)",
+                "type": "osoba",
+                "description": "syn Jakuba Podfilipskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski (syn)",
+                "type": "osoba",
+                "description": "syn Jakuba Podfilipskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Mikołaj Jazłowiecki",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, mąż Ewy Podfilipskiej",
+                "wikihum": "Q156120"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "córka Jakuba Podfilipskiego, żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Jazłowiecki",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, mąż Ewy Podfilipskiej",
+                "wikihum": "Q156120"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego",
+                "wikihum": "Q166163"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego",
+                "wikihum": "Q166163"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Podfilipie",
+                "type": "miejscowość",
+                "description": "dziedziczne miasteczko Jakuba Podfilipskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Podfilipie",
+                "type": "miejscowość",
+                "description": "dziedziczne miasteczko Jakuba Podfilipskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "stolnik kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q65720863"
+            }
+        },
+        {
+            "subject": {
+                "name": "stolnik kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q65720863"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "uzyskanie prawa magdeburskiego dla Podfilipia",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uzyskał prawo magdeburskie dla swojego dziedzicznego miasteczka Podfilipie w ziemi kamienieckiej w 1510 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "uzyskanie prawa magdeburskiego dla Podfilipia",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uzyskał prawo magdeburskie dla swojego dziedzicznego miasteczka Podfilipie w ziemi kamienieckiej w 1510 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "otrzymanie konsensu królewskiego na wykupienie wsi Holeniszczów",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski otrzymał konsens królewski na wykupienie wsi Holeniszczów w powiecie kamienieckim z rąk Katarzyny i Barbary Czartowskich w 1511 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "otrzymanie konsensu królewskiego na wykupienie wsi Holeniszczów",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski otrzymał konsens królewski na wykupienie wsi Holeniszczów w powiecie kamienieckim z rąk Katarzyny i Barbary Czartowskich w 1511 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "porozumienie w Czerwonym",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski jako komisarz królewski zawarł porozumienie w Czerwonym 12 lipca 1510 roku dotyczące wymiaru sprawiedliwości i warunków współżycia na pograniczu polsko-mołdawskim.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "porozumienie w Czerwonym",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski jako komisarz królewski zawarł porozumienie w Czerwonym 12 lipca 1510 roku dotyczące wymiaru sprawiedliwości i warunków współżycia na pograniczu polsko-mołdawskim.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "obrady sejmu piotrkowskiego",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uczestniczył w obradach sejmu piotrkowskiego w 1511 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "obrady sejmu piotrkowskiego",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski uczestniczył w obradach sejmu piotrkowskiego w 1511 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "spór dotyczący prawa użytkowania łąk pod Kamieńcem",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski wszedł w skład zespołu orzekającego w sporze dotyczącym prawa użytkowania łąk pod Kamieńcem w 1513 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "spór dotyczący prawa użytkowania łąk pod Kamieńcem",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski wszedł w skład zespołu orzekającego w sporze dotyczącym prawa użytkowania łąk pod Kamieńcem w 1513 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki, zm. ok. 1518",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przebywanie w Wilnie latem 1517 roku",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski przebywał w Wilnie latem 1517 roku, gdzie Zygmunt I wydał mandat dotyczący zawieszenia postępowania sądowego przeciwko niemu.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przebywanie w Wilnie latem 1517 roku",
+                "type": "wydarzenie",
+                "description": "Jakub Podfilipski przebywał w Wilnie latem 1517 roku, gdzie Zygmunt I wydał mandat dotyczący zawieszenia postępowania sądowego przeciwko niemu.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego",
+                "wikihum": "Q166163"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "spór o dokumenty dotyczące Podfilipia",
+                "type": "wydarzenie",
+                "description": "Wiktoryn Podfilipski pozywał Ewę Podfilipską o dokumenty dotyczące Podfilipia i innych dóbr w 1532 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki, brat Jakuba Podfilipskiego",
+                "wikihum": "Q166163"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "spór o dokumenty dotyczące Podfilipia",
+                "type": "wydarzenie",
+                "description": "Wiktoryn Podfilipski pozywał Ewę Podfilipską o dokumenty dotyczące Podfilipia i innych dóbr w 1532 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

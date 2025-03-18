@@ -1,0 +1,275 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "setnik",
+                "type": "zawód",
+                "description": "setnik czehryński i subotowski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "dyplomata",
+                "type": "zawód",
+                "description": "dyplomata kozacki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Bohdan Chmielnicki",
+                "type": "osoba",
+                "description": "hetman kozacki, przywódca powstania przeciwko Rzeczypospolitej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Fedorowicz",
+                "type": "osoba",
+                "description": "były dowódca załogi kozackiej w Suczawie, oskarżony o przywłaszczenie rzeczy poległego syna hetmańskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Iwan Fomin",
+                "type": "osoba",
+                "description": "poseł moskiewski oczekujący w Czehryniu na hetmana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Strieszniew i Briedichin",
+                "type": "osoba",
+                "description": "posłowie carscy przebywający na Ukrainie po Fominie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Repnin-Oboleński",
+                "type": "osoba",
+                "description": "poseł rosyjski do Polski, który przywiózł listy Jana Kazimierza do cara",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jerzy II Rakoczy",
+                "type": "osoba",
+                "description": "zaangażowany w łupieską wyprawę do Polski, w której udział brali Kozacy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Piotr Parcewicz",
+                "type": "osoba",
+                "description": "poseł cesarski, którego Kapusta Ławryn miał powitać w 1656 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Reniger",
+                "type": "osoba",
+                "description": "rezydent cesarski w Turcji, który relacjonował misję Kapusty Ławryna do sułtana tureckiego",
+                "wikihum": "Q168080"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Harasim Kapłoński",
+                "type": "osoba",
+                "description": "osoba, która podpisała akt ugody cudnowskiej w imieniu Kapusty Ławryna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "setnik czehryński",
+                "type": "urząd",
+                "description": "setnik czehryński w 1653 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "setnik subotowski",
+                "type": "urząd",
+                "description": "setnik subotowski w sierpniu 1653 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "ugoda perejasławska",
+                "type": "wydarzenie",
+                "description": "przygotowania dyplomatyczne do ugody perejasławskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q2089592"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kapusta Ławryn",
+                "type": "osoba",
+                "description": "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego",
+                "wikihum": "Q156691"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "sułtan turecki",
+                "type": "osoba",
+                "description": "sułtan turecki, do którego Kapusta Ławryn posłował w 1657 roku",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

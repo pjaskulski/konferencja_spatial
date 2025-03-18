@@ -1,0 +1,251 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)"	[color=black,
+		label="Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"	[color=black,
+		label="Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"	[color=green,
+		label="hasBrother [P97]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "1372-00-00
+(kanonik poznański i
+krakowski, kustosz
+poznański)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "1419-00-00
+(kanonik poznański i
+krakowski, kustosz
+poznański)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Piotr z Kurdwanowa i Stobnicy
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Florian z Kurdwanowa
+[Q152711]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Jakub z Kurdwanowa
+[NEW]
+<osoba>
+(biskup płocki)"	[color=green,
+		label="hasUncle [P99]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonik poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kustosz poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "dziekania kurzelowska
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "rektor kościoła św. Wawrzyńca w Kazimierzu
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonia kruszwicka
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kustodia poznańska
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonia krakowska
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Piotr Wysz
+[Q165804]
+<osoba>
+(biskup krakowski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Andrzej Łaskarzyc
+[NEW]
+<osoba>
+(biskup poznański)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Wojciech Jastrzębiec
+[NEW]
+<osoba>
+(biskup poznański)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "Uniwersytet Krakowski
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik płocki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+}

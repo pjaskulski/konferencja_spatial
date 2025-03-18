@@ -1,0 +1,813 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)"	[color=black,
+		label="Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)"];
+	"Krzeszowice
+[Q47136]
+<miejscowość>
+(miejscowość koło Krakowa)"	[color=black,
+		label="Krzeszowice
+[Q47136]
+<miejscowość>
+(miejscowość koło Krakowa)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Krzeszowice
+[Q47136]
+<miejscowość>
+(miejscowość koło Krakowa)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Edward Schnayder
+[Q4002]
+<osoba>
+(sędzia)"	[color=black,
+		label="Edward Schnayder
+[Q4002]
+<osoba>
+(sędzia)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Edward Schnayder
+[Q4002]
+<osoba>
+(sędzia)"	[color=green,
+		label="hasFather [P92]"];
+	"Felicja Schnayder
+[NEW]
+<osoba>
+(z domu Krzyszkowska)"	[color=black,
+		label="Felicja Schnayder
+[NEW]
+<osoba>
+(z domu Krzyszkowska)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Felicja Schnayder
+[NEW]
+<osoba>
+(z domu Krzyszkowska)"	[color=green,
+		label="hasMother [P93]"];
+	"Felicja Teresa Schnayder
+[NEW]
+<osoba>
+(z domu Kęszycka,
+historyczka i pedagog)"	[color=black,
+		label="Felicja Teresa Schnayder
+[NEW]
+<osoba>
+(z domu Kęszycka,
+historyczka i pedagog)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Felicja Teresa Schnayder
+[NEW]
+<osoba>
+(z domu Kęszycka,
+historyczka i pedagog)"	[color=green,
+		label="hasWife [P94]"];
+	"Janina Smorawińska
+[NEW]
+<osoba>
+(farmaceutka, zamężna
+Smorawińska)"	[color=black,
+		label="Janina Smorawińska
+[NEW]
+<osoba>
+(farmaceutka, zamężna
+Smorawińska)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Janina Smorawińska
+[NEW]
+<osoba>
+(farmaceutka, zamężna
+Smorawińska)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Uniwersytet Łódzki i Uniwersytet Wrocławski
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Łódzki i Uniwersytet Wrocławski
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Uniwersytet Łódzki i Uniwersytet Wrocławski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"filolog klasyczny
+[NEW]
+<zawód>"	[color=black,
+		label="filolog klasyczny
+[NEW]
+<zawód>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "filolog klasyczny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"ponad sto prac naukowych
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="ponad sto prac naukowych
+[NEW]
+<osiągnięcie>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "ponad sto prac naukowych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"badania nad grecką periegezą
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="badania nad grecką periegezą
+[NEW]
+<osiągnięcie>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "badania nad grecką periegezą
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta
+[NEW]
+<dzieło>
+(przekład wraz z Danielą
+Gromską)"	[color=black,
+		label="Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta
+[NEW]
+<dzieło>
+(przekład wraz z Danielą
+Gromską)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta
+[NEW]
+<dzieło>
+(przekład wraz z Danielą
+Gromską)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz Salwatorski
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz Salwatorski
+[NEW]
+<miejscowość>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "cmentarz Salwatorski
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Gimnazjum św. Jacka w Krakowie
+[NEW]
+<instytucja>"	[color=black,
+		label="Gimnazjum św. Jacka w Krakowie
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Gimnazjum św. Jacka w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Jagielloński
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Polskie Towarzystwo Filologiczne
+[NEW]
+<instytucja>"	[color=black,
+		label="Polskie Towarzystwo Filologiczne
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Polskie Towarzystwo Filologiczne
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Łódzkie Towarzystwo Naukowe
+[NEW]
+<instytucja>"	[color=black,
+		label="Łódzkie Towarzystwo Naukowe
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Łódzkie Towarzystwo Naukowe
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Komitet Nauk o Kulturze Antycznej PAN
+[NEW]
+<instytucja>"	[color=black,
+		label="Komitet Nauk o Kulturze Antycznej PAN
+[NEW]
+<instytucja>"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Komitet Nauk o Kulturze Antycznej PAN
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"De rerum natura apud tragicos Graecos descripta
+[NEW]
+<dzieło>
+(praca doktorska Jerzego
+Edwarda Schnaydera)"	[color=black,
+		label="De rerum natura apud tragicos Graecos descripta
+[NEW]
+<dzieło>
+(praca doktorska Jerzego
+Edwarda Schnaydera)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "De rerum natura apud tragicos Graecos descripta
+[NEW]
+<dzieło>
+(praca doktorska Jerzego
+Edwarda Schnaydera)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"De Heraclidis descriptione urbium Graecarum
+[NEW]
+<dzieło>
+(praca habilitacyjna
+Jerzego Edwarda
+Schnaydera)"	[color=black,
+		label="De Heraclidis descriptione urbium Graecarum
+[NEW]
+<dzieło>
+(praca habilitacyjna
+Jerzego Edwarda
+Schnaydera)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "De Heraclidis descriptione urbium Graecarum
+[NEW]
+<dzieło>
+(praca habilitacyjna
+Jerzego Edwarda
+Schnaydera)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"De periegetarum Graecorum reliquis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o greckiej
+periegezie)"	[color=black,
+		label="De periegetarum Graecorum reliquis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o greckiej
+periegezie)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "De periegetarum Graecorum reliquis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o greckiej
+periegezie)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"De itinerariis poematis Romanorum
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o poetyckich
+opisach podróży w
+literaturze \
+rzymskiej)"	[color=black,
+		label="De itinerariis poematis Romanorum
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o poetyckich
+opisach podróży w
+literaturze \
+rzymskiej)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "De itinerariis poematis Romanorum
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o poetyckich
+opisach podróży w
+literaturze \
+rzymskiej)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Soziologisches in den Werken des Theophrastos
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"	[color=black,
+		label="Soziologisches in den Werken des Theophrastos
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Soziologisches in den Werken des Theophrastos
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Studia nad Teofrastem
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"	[color=black,
+		label="Studia nad Teofrastem
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Studia nad Teofrastem
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Antologia listu antycznego
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"	[color=black,
+		label="Antologia listu antycznego
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Antologia listu antycznego
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Wybór pism Ksenofonta
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"	[color=black,
+		label="Wybór pism Ksenofonta
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Wybór pism Ksenofonta
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"De Verrinarum narrationibus quasi scaenae aptis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o kunszcie
+Cycerona)"	[color=black,
+		label="De Verrinarum narrationibus quasi scaenae aptis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o kunszcie
+Cycerona)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "De Verrinarum narrationibus quasi scaenae aptis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o kunszcie
+Cycerona)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"ślub z Felicją Teresą z Kęszyckich
+[NEW]
+<wydarzenie>
+(ślub Jerzego Edwarda
+Schnaydera z Felicją
+Teresą z Kęszyckich w
+Stęszewie \
+koło Poznania)"	[color=black,
+		label="ślub z Felicją Teresą z Kęszyckich
+[NEW]
+<wydarzenie>
+(ślub Jerzego Edwarda
+Schnaydera z Felicją
+Teresą z Kęszyckich w
+Stęszewie \
+koło Poznania)"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "ślub z Felicją Teresą z Kęszyckich
+[NEW]
+<wydarzenie>
+(ślub Jerzego Edwarda
+Schnaydera z Felicją
+Teresą z Kęszyckich w
+Stęszewie \
+koło Poznania)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "1974-07-27"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "Edward Schnayder
+[Q4002]
+<osoba>
+(geograf, pracownik B.
+Jag.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Jerzy Edward Schnayder
+[Q170045]
+<osoba>
+(filolog klasyczny,
+profesor Uniw. Łódz. i
+Uniw. Wrocł.)" -> "1891-08-06"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Krzeszowice
+[Q47136]
+<miejscowość>
+(miejscowość koło Krakowa)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Edward Schnayder
+[Q4002]
+<osoba>
+(sędzia)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Felicja Schnayder
+[NEW]
+<osoba>
+(z domu Krzyszkowska)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Felicja Teresa Schnayder
+[NEW]
+<osoba>
+(z domu Kęszycka,
+historyczka i pedagog)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Janina Smorawińska
+[NEW]
+<osoba>
+(farmaceutka, zamężna
+Smorawińska)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Łódzki i Uniwersytet Wrocławski
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"filolog klasyczny
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"ponad sto prac naukowych
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"badania nad grecką periegezą
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pisma filozoficzne i wybrane pisma przyrodnicze Teofrasta
+[NEW]
+<dzieło>
+(przekład wraz z Danielą
+Gromską)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz Salwatorski
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gimnazjum św. Jacka w Krakowie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Jagielloński
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polskie Towarzystwo Filologiczne
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Łódzkie Towarzystwo Naukowe
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Komitet Nauk o Kulturze Antycznej PAN
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"De rerum natura apud tragicos Graecos descripta
+[NEW]
+<dzieło>
+(praca doktorska Jerzego
+Edwarda Schnaydera)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"De Heraclidis descriptione urbium Graecarum
+[NEW]
+<dzieło>
+(praca habilitacyjna
+Jerzego Edwarda
+Schnaydera)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"De periegetarum Graecorum reliquis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o greckiej
+periegezie)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"De itinerariis poematis Romanorum
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o poetyckich
+opisach podróży w
+literaturze \
+rzymskiej)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Soziologisches in den Werken des Theophrastos
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Studia nad Teofrastem
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o twórczości
+Teofrasta)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antologia listu antycznego
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wybór pism Ksenofonta
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera w serii
+Biblioteka Narodowa)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"De Verrinarum narrationibus quasi scaenae aptis
+[NEW]
+<dzieło>
+(praca Jerzego Edwarda
+Schnaydera o kunszcie
+Cycerona)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ślub z Felicją Teresą z Kęszyckich
+[NEW]
+<wydarzenie>
+(ślub Jerzego Edwarda
+Schnaydera z Felicją
+Teresą z Kęszyckich w
+Stęszewie \
+koło Poznania)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

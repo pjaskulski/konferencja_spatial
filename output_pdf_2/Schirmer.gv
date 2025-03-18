@@ -1,0 +1,229 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)"	[color=black,
+		label="Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)"];
+	"Mikołaj Schirmer
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"	[color=black,
+		label="Mikołaj Schirmer
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Mikołaj Schirmer
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)"	[color=green,
+		label="hasSon [P153]"];
+	"Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)"	[color=black,
+		label="Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)"	[color=green,
+		label="hasRelative [NEW]"];
+	"Siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(spokrewniona z
+Wierzynkami)"	[color=black,
+		label="Siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(spokrewniona z
+Wierzynkami)"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(spokrewniona z
+Wierzynkami)"	[color=green,
+		label="hasSister [P97]"];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Jan Schirmer
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Małgorzata Schirmer
+[NEW]
+<osoba>
+(żona Wawrzyńca Schirmera)"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "wójt lubelski
+[NEW]
+<urząd>
+(urząd pełniony przez
+Wawrzyńca Schirmera)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "1413-09-05
+(zmarł przed 5 września
+1413 roku)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "dziedziczne wójtostwo w Lublinie
+[NEW]
+<własność>
+(majątek nabyty od
+Zygmunta Wierzynka przez
+Wawrzyńca Schirmera)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "sołectwo w Konopnicy i folwark w Brunowicach
+[NEW]
+<własność>
+(majątek objęty przez
+Wawrzyńca Schirmera)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "domy we Lwowie i Sandomierzu
+[NEW]
+<własność>
+(majątek posiadany przez
+Wawrzyńca Schirmera)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "kaplica św. Zofii na zamku lubelskim
+[NEW]
+<osiągnięcie>
+(fundacja Wawrzyńca
+Schirmera przed 1406
+rokiem)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)" -> "Lublin
+[Q50436]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Mikołaj Schirmer
+[NEW]
+<osoba>
+(syn Wawrzyńca Schirmera,
+wójt lubelski przed 1415
+rokiem)" -> "wójt lubelski
+[NEW]
+<urząd>
+(urząd pełniony przez
+Mikołaja Schirmera przed
+1415 rokiem)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)" -> "Wawrzyniec Schirmer
+[Q170000]
+<osoba>
+(wójt lubelski, zmarł ok.
+1413)"	[color=green,
+		label="hasUncle [P99]"];
+	"Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)" -> "Siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(spokrewniona z
+Wierzynkami)"	[color=green,
+		label="hasMother [P93]"];
+	"Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)" -> "dziedziczne wójtostwo w Lublinie
+[NEW]
+<własność>
+(majątek sprzedany
+Wawrzyńcowi Schirmerowi
+przez Zygmunta Wierzynka)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Siostra Wawrzyńca Schirmera
+[NEW]
+<osoba>
+(spokrewniona z
+Wierzynkami)" -> "Zygmunt Wierzynek
+[NEW]
+<osoba>
+(siostrzeniec Wawrzyńca
+Schirmera)"	[color=green,
+		label="hasRelative [NEW]"];
+}

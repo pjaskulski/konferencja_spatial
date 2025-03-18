@@ -1,0 +1,148 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Gryfii",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum Akademickie",
+                "type": "uczelnia",
+                "description": "Gdańsk",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "profesor fizyki i metafizyki",
+                "wikihum": "Q165059"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "uniwersytet w Królewcu",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Vestibulum Regni Poloniae",
+                "type": "dzieło",
+                "description": "krótki rys części gramatyki polskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Encomium Regni Poloniae",
+                "type": "dzieło",
+                "description": "opis Polski z wiadomościami o pochodzeniu Polaków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "prawdopodobnie urodzony z końcem w. XVI w Gryfii",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Chronicon dynastarum Regni Poloniae",
+                "type": "dzieło",
+                "description": "wierszowany utwór Klemensa Janickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "profesor fizyki i metafizyki",
+                "wikihum": "Q165059"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "profesor",
+                "type": "zawód",
+                "description": "fizyki i metafizyki",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

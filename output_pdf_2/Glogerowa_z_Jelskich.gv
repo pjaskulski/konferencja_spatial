@@ -1,0 +1,218 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)"	[color=black,
+		label="Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)"];
+	"Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta)"	[color=black,
+		label="Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta)"];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta)"	[color=green,
+		label="hasFather [P92]"];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)"	[color=black,
+		label="Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)"];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)"	[color=green,
+		label="hasHusband [P94]"];
+	"Adam Pług
+[NEW]
+<osoba>
+(Przyjaciel domu Glogerów,
+autor pośmiertnego
+wspomnienia o Aleksandrze
+Glogerowej z Jelskich)"	[color=black,
+		label="Adam Pług
+[NEW]
+<osoba>
+(Przyjaciel domu Glogerów,
+autor pośmiertnego
+wspomnienia o Aleksandrze
+Glogerowej z Jelskich)"];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "Adam Pług
+[NEW]
+<osoba>
+(Przyjaciel domu Glogerów,
+autor pośmiertnego
+wspomnienia o Aleksandrze
+Glogerowej z Jelskich)"	[color=green,
+		label="significantFigure [P100]"];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "pisarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "tłumaczka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "1860-07-00
+(Urodzona w połowie lipca.)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "1899-04-11"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "Tykocin
+[Q84517]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "Helena z Kałęczyńskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "pensja wizytek polskich
+[NEW]
+<uczelnia>
+(Wersal)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "dwór w Dudziczach
+[NEW]
+<obiekt fizjograficzny>
+(Gniazdo rodzinne Jelskich)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Aleksandra Glogerowa z Jelskich
+[NEW]
+<osoba>
+(Pisarka i tłumaczka)" -> "przekład pamiętników Michała Starzeńskiego
+[NEW]
+<dzieło>
+(Nie dokończony przekład
+pisanych po francusku
+pamiętników Michała
+\
+Starzeńskiego, starosty
+brańskiego w czasach
+Stan. Aug. Poniatowskiego)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta)" -> "Zamość
+[Q92486]
+<miejscowość>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta)" -> "publicysta
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)" -> "majątek Jeżewo
+[NEW]
+<obiekt fizjograficzny>
+(Majątek na Podlasiu)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)" -> "historyk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf)" -> "etnograf
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Adam Pług
+[NEW]
+<osoba>
+(Przyjaciel domu Glogerów,
+autor pośmiertnego
+wspomnienia o Aleksandrze
+Glogerowej z Jelskich)" -> "pośmiertne wspomnienie o Aleksandrze Glogerowej z Jelskich
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+}

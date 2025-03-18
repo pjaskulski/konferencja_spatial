@@ -1,0 +1,148 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)"	[color=black,
+		label="Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)"];
+	"Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"	[color=black,
+		label="Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"	[color=green,
+		label="hasWife [P94]"];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "1885-12-23"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Petersburg)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Leon Radziwiłł
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Ciocia Salusia
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Panna Marjanna
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Departament niższej Sekwany
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Goście
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Popas w Miłosnej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Łowiec
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Artur Bartels
+[Q148790]
+<osoba>
+(satyryk, pieśniarz,
+rysownik)" -> "Tydzień poleski
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)" -> "Wańkowiczówna
+[NEW]
+<osoba>
+(żona Artura Bartelsa)"	[color=green,
+		label="hasWife [P94]"];
+}

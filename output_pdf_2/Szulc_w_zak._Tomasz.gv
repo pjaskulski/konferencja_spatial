@@ -1,0 +1,194 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)"	[color=black,
+		label="Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)"];
+	"Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)"	[color=black,
+		label="Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)"];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)"	[color=green,
+		label="hasRelative [NEW]"];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Lubawa
+[Q179155]
+<miejscowość>
+(ziemia chełmińska)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "1705-00-00
+(jesień 1705)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Zakon Dominikanów
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=3];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "przeor
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "pisarz religijny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "studium zakonne
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "magister teologii
+[NEW]
+<osiągnięcie>
+(najwyższy stopień naukowy
+w zakonie)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Tomasz Szulc-Prątnicki
+[NEW]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici
+[NEW]
+<dzieło>
+(wydane w Gdańsku w latach
+1694-1695, \
+wydanie drugie
+w 1697)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)" -> "prepozyt i kanonik chełmiński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)" -> "archiprezbiter elbląski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)" -> "proboszcz lubawski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski,
+oficjał \
+i wizytator
+diecezji chełmińskiej)" -> "oficjał i wizytator diecezji chełmińskiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+}

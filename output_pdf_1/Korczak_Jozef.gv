@@ -1,0 +1,614 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)"	[color=black,
+		label="Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)"];
+	"działacz niepodległościowy
+[NEW]
+<zawód>"	[color=black,
+		label="działacz niepodległościowy
+[NEW]
+<zawód>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "działacz niepodległościowy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"poeta
+[NEW]
+<zawód>"	[color=black,
+		label="poeta
+[NEW]
+<zawód>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "poeta
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Dąbrówka
+[NEW]
+<miejscowość>
+(wieś w powiecie janowskim
+ziemi lubelskiej)"	[color=black,
+		label="Dąbrówka
+[NEW]
+<miejscowość>
+(wieś w powiecie janowskim
+ziemi lubelskiej)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Dąbrówka
+[NEW]
+<miejscowość>
+(wieś w powiecie janowskim
+ziemi lubelskiej)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Korczak
+[NEW]
+<osoba>
+(ojciec Józefa Korczaka)"	[color=black,
+		label="Jan Korczak
+[NEW]
+<osoba>
+(ojciec Józefa Korczaka)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Jan Korczak
+[NEW]
+<osoba>
+(ojciec Józefa Korczaka)"	[color=green,
+		label="hasFather [P92]"];
+	"Rozalia Korczak
+[NEW]
+<osoba>
+(matka Józefa Korczaka)"	[color=black,
+		label="Rozalia Korczak
+[NEW]
+<osoba>
+(matka Józefa Korczaka)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Rozalia Korczak
+[NEW]
+<osoba>
+(matka Józefa Korczaka)"	[color=green,
+		label="hasMother [P93]"];
+	"Siedlce
+[Q74692]
+<miejscowość>"	[color=black,
+		label="Siedlce
+[Q74692]
+<miejscowość>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Siedlce
+[Q74692]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Lublin
+[Q50436]
+<miejscowość>"	[color=black,
+		label="Lublin
+[Q50436]
+<miejscowość>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Lublin
+[Q50436]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Organizacja Młodzieży Narodowej
+[NEW]
+<instytucja>"	[color=black,
+		label="Organizacja Młodzieży Narodowej
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Organizacja Młodzieży Narodowej
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Związek Strzelecki
+[NEW]
+<instytucja>"	[color=black,
+		label="Związek Strzelecki
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Związek Strzelecki
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Oddział Lotny Wojsk Polskich
+[NEW]
+<instytucja>
+(detaszowany oddział I
+Brygady Legionów Polskich)"	[color=black,
+		label="Oddział Lotny Wojsk Polskich
+[NEW]
+<instytucja>
+(detaszowany oddział I
+Brygady Legionów Polskich)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Oddział Lotny Wojsk Polskich
+[NEW]
+<instytucja>
+(detaszowany oddział I
+Brygady Legionów Polskich)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Polska Organizacja Wojskowa
+[NEW]
+<instytucja>"	[color=black,
+		label="Polska Organizacja Wojskowa
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Polska Organizacja Wojskowa
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Polska Partia Socjalistyczna
+[NEW]
+<instytucja>"	[color=black,
+		label="Polska Partia Socjalistyczna
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Polska Partia Socjalistyczna
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Pogotowie Bojowe PPS
+[NEW]
+<instytucja>"	[color=black,
+		label="Pogotowie Bojowe PPS
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Pogotowie Bojowe PPS
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wojsko Polskie
+[NEW]
+<instytucja>"	[color=black,
+		label="Wojsko Polskie
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Wojsko Polskie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Milicja Ludowa
+[NEW]
+<instytucja>"	[color=black,
+		label="Milicja Ludowa
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Milicja Ludowa
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Ministerstwo Spraw Wojskowych
+[NEW]
+<instytucja>"	[color=black,
+		label="Ministerstwo Spraw Wojskowych
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Ministerstwo Spraw Wojskowych
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wolna Wszechnica Polska
+[NEW]
+<instytucja>"	[color=black,
+		label="Wolna Wszechnica Polska
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Wolna Wszechnica Polska
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"uniwersytet
+[NEW]
+<instytucja>"	[color=black,
+		label="uniwersytet
+[NEW]
+<instytucja>"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "uniwersytet
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Michniszki
+[NEW]
+<miejscowość>
+(w pobliżu Nowych Trok w
+ziemi wileńskiej)"	[color=black,
+		label="Michniszki
+[NEW]
+<miejscowość>
+(w pobliżu Nowych Trok w
+ziemi wileńskiej)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Michniszki
+[NEW]
+<miejscowość>
+(w pobliżu Nowych Trok w
+ziemi wileńskiej)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Order Virtuti Militari 5 kl.
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"	[color=black,
+		label="Order Virtuti Militari 5 kl.
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Order Virtuti Militari 5 kl.
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Krzyż Niepodległości z Mieczami
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"	[color=black,
+		label="Krzyż Niepodległości z Mieczami
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Krzyż Niepodległości z Mieczami
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Wskazania przyszłości
+[NEW]
+<dzieło>
+(broszura poświęcona
+sprawie wychowania
+żołnierza, wydana w 1921
+roku)"	[color=black,
+		label="Wskazania przyszłości
+[NEW]
+<dzieło>
+(broszura poświęcona
+sprawie wychowania
+żołnierza, wydana w 1921
+roku)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Wskazania przyszłości
+[NEW]
+<dzieło>
+(broszura poświęcona
+sprawie wychowania
+żołnierza, wydana w 1921
+roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Przed świtem
+[NEW]
+<dzieło>
+(zbiór wierszy uzupełniony
+przedmową A. Struga i
+życiorysem pióra T.
+Hołówki, wydany w 1922
+\
+roku)"	[color=black,
+		label="Przed świtem
+[NEW]
+<dzieło>
+(zbiór wierszy uzupełniony
+przedmową A. Struga i
+życiorysem pióra T.
+Hołówki, wydany w 1922
+\
+roku)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "Przed świtem
+[NEW]
+<dzieło>
+(zbiór wierszy uzupełniony
+przedmową A. Struga i
+życiorysem pióra T.
+Hołówki, wydany w 1922
+\
+roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "1891-01-09"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)" -> "1920-10-18"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"działacz niepodległościowy
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"poeta
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dąbrówka
+[NEW]
+<miejscowość>
+(wieś w powiecie janowskim
+ziemi lubelskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Korczak
+[NEW]
+<osoba>
+(ojciec Józefa Korczaka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rozalia Korczak
+[NEW]
+<osoba>
+(matka Józefa Korczaka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Siedlce
+[Q74692]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lublin
+[Q50436]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Organizacja Młodzieży Narodowej
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Związek Strzelecki
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Oddział Lotny Wojsk Polskich
+[NEW]
+<instytucja>
+(detaszowany oddział I
+Brygady Legionów Polskich)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polska Organizacja Wojskowa
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polska Partia Socjalistyczna
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pogotowie Bojowe PPS
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wojsko Polskie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Milicja Ludowa
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ministerstwo Spraw Wojskowych
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wolna Wszechnica Polska
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"uniwersytet
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Michniszki
+[NEW]
+<miejscowość>
+(w pobliżu Nowych Trok w
+ziemi wileńskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Order Virtuti Militari 5 kl.
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzyż Niepodległości z Mieczami
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wskazania przyszłości
+[NEW]
+<dzieło>
+(broszura poświęcona
+sprawie wychowania
+żołnierza, wydana w 1921
+roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Przed świtem
+[NEW]
+<dzieło>
+(zbiór wierszy uzupełniony
+przedmową A. Struga i
+życiorysem pióra T.
+Hołówki, wydany w 1922
+\
+roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimierz Bagiński
+[NEW]
+<osoba>
+(osoba, która
+poinformowała Józefa
+Korczaka o Oddziale
+Lotnym Wojsk Polskich)"	[color=black,
+		label="Kazimierz Bagiński
+[NEW]
+<osoba>
+(osoba, która
+poinformowała Józefa
+Korczaka o Oddziale
+Lotnym Wojsk Polskich)"];
+	"Kazimierz Bagiński
+[NEW]
+<osoba>
+(osoba, która
+poinformowała Józefa
+Korczaka o Oddziale
+Lotnym Wojsk Polskich)" -> "Józef Korczak
+[Q158049]
+<osoba>
+(pseud. Piotr, działacz
+niepodległościowy, poeta)"	[color=green,
+		label="significantFigure [P100]"];
+	"Kazimierz Bagiński
+[NEW]
+<osoba>
+(osoba, która
+poinformowała Józefa
+Korczaka o Oddziale
+Lotnym Wojsk Polskich)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

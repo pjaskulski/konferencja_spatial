@@ -1,0 +1,199 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)"	[color=black,
+		label="Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)"];
+	"Gertruda Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, zamężna
+za Tyczkiem Snelem)"	[color=black,
+		label="Gertruda Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, zamężna
+za Tyczkiem Snelem)"];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Gertruda Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, zamężna
+za Tyczkiem Snelem)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "rajca krakowski
+[NEW]
+<urząd>
+(Pełniony przez Mikołaja w
+latach 1319–20, 1327,
+1329–30.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Mikołaja, opiekun
+jego dzieci po jego
+śmierci)"	[color=green,
+		label="hasFatherInLaw [NEW]",
+		minlen=2];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Jan Rusin
+[NEW]
+<osoba>
+(syn Mikołaja, żonaty z
+córką kuśnierza Wilusza)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Anna Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, pozostała
+panną)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=4];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Helena Rusin
+[NEW]
+<osoba>
+(żona Mikołaja, córka
+Mikołaja z Zawichostu)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "1330-12-20
+(Data ostatniej wzmianki o
+Mikołaju, po której brak
+dalszych informacji.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=3];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Władysław Łokietek
+[NEW]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Kościół Najśw. Marii Panny w Krakowie
+[NEW]
+<obiekt sakralny>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Ziemia Święta
+[NEW]
+<miejscowość>
+(Miejsce, gdzie Mikołaj
+mógł zginąć podczas
+pielgrzymki.)"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Rusin Mikołaj
+[Q169032]
+<osoba>
+(rajca krakowski, zm. po
+20 XII 1330)" -> "Nieznane dzieci Rusina Mikołaja
+[NEW]
+<osoba>
+(Dwoje dzieci Mikołaja,
+których imiona nie są
+znane.)"	[color=green,
+		label="hasChild [NEW]",
+		minlen=3];
+	"Elżbieta Snel
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka,
+wyszła za mąż za
+Stanisława Pensatora)"	[color=black,
+		label="Elżbieta Snel
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka,
+wyszła za mąż za
+Stanisława Pensatora)"];
+	"Gertruda Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, zamężna
+za Tyczkiem Snelem)" -> "Elżbieta Snel
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka,
+wyszła za mąż za
+Stanisława Pensatora)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Gertruda Rusin
+[NEW]
+<osoba>
+(córka Mikołaja, zamężna
+za Tyczkiem Snelem)" -> "Tyczek Snel
+[NEW]
+<osoba>
+(mąż Gertrudy Rusin)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Elżbieta Snel
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka,
+wyszła za mąż za
+Stanisława Pensatora)" -> "Stanisław Pensator
+[NEW]
+<osoba>
+(mąż Elżbiety Snel)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+}

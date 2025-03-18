@@ -1,0 +1,545 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1532-06-00",
+                "type": "data",
+                "description": "Zmarł w czerwcu 1532."
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Wrocław",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q89424"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Sebastian Puschel",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "uniwersytet wiedeński",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rektor gimnazjum",
+                "type": "urząd",
+                "description": "przy kościele Św. Marii Magdaleny we Wrocławiu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "bibliofil",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q17750342"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "humanista",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q18433331"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Leonard Cox",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q150813"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Erazm z Rotterdamu",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Andrzej Trzecieski starszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Antoninus",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Anzelm Ephorinus",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q152371"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jost Ludwik Decjusz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151367"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Klemens Borek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Maciej Przybyło",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q167160"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Lang",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q159765"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jerzy Werner",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Andrzej Schroeter",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Wencki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wawrzyniec Just",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156376"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "nieznana z imienia matka Rullusa Jana",
+                "type": "osoba",
+                "description": "pochodziła z Legnicy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasRelative",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rodzina alzacka z Wissemburga",
+                "type": "osoba",
+                "description": "pochodzenie rodziny Rullusa Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Lubrańskiego",
+                "type": "instytucja",
+                "description": "Poznań",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rada Miejska Wrocławia",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rullus Jan",
+                "type": "osoba",
+                "description": "humanista, pedagog, bibliofil",
+                "wikihum": "Q168989"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zbiór druków i kodeksów rękopiśmiennych",
+                "type": "obiekt fizyczny",
+                "description": "kolekcja książek i rękopisów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "nieznana z imienia matka Rullusa Jana",
+                "type": "osoba",
+                "description": "pochodziła z Legnicy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Legnica",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q48846"
+            }
+        },
+        {
+            "subject": {
+                "name": "rodzina alzacka z Wissemburga",
+                "type": "osoba",
+                "description": "pochodzenie rodziny Rullusa Jana",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasRelative",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rodzina alzacka z Wissemburga",
+                "type": "osoba",
+                "description": "pochodzenie rodziny Rullusa Jana",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

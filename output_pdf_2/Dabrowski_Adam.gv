@@ -1,0 +1,267 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)"	[color=black,
+		label="Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)"];
+	"Weronika Dąbrowska
+[NEW]
+<osoba>
+(z domu Paszkowska,
+obywatelka ziemska)"	[color=black,
+		label="Weronika Dąbrowska
+[NEW]
+<osoba>
+(z domu Paszkowska,
+obywatelka ziemska)"];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Weronika Dąbrowska
+[NEW]
+<osoba>
+(z domu Paszkowska,
+obywatelka ziemska)"	[color=green,
+		label="hasMother [P93]"];
+	"Romualda Glińska
+[NEW]
+<osoba>
+(żona znanego literata,
+zmarła w przytułku przy
+ul. Belwederskiej w
+Warszawie)"	[color=black,
+		label="Romualda Glińska
+[NEW]
+<osoba>
+(żona znanego literata,
+zmarła w przytułku przy
+ul. Belwederskiej w
+Warszawie)"];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Romualda Glińska
+[NEW]
+<osoba>
+(żona znanego literata,
+zmarła w przytułku przy
+ul. Belwederskiej w
+Warszawie)"	[color=green,
+		label="hasSister [P97]"];
+	"Ebiełow
+[NEW]
+<osoba>
+(generał gubernator,
+osoba, z którą
+interweniował Adam
+Dąbrowski)"	[color=black,
+		label="Ebiełow
+[NEW]
+<osoba>
+(generał gubernator,
+osoba, z którą
+interweniował Adam
+Dąbrowski)"];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Ebiełow
+[NEW]
+<osoba>
+(generał gubernator,
+osoba, z którą
+interweniował Adam
+Dąbrowski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "1848-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "1920-10-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Zaklików
+[Q137397]
+<miejscowość>
+(pow. lubelskim, w
+Królestwie Polskim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Jordan Dąbrowski
+[NEW]
+<osoba>
+(obywatel ziemski)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Wiktor Dąbrowski
+[NEW]
+<osoba>
+(literat)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "rejent
+[NEW]
+<zawód>
+(w Odessie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "sędzia śledczy
+[NEW]
+<zawód>
+(w Berdyczowie i
+Żytomierzu)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "członek sądu wojskowego
+[NEW]
+<zawód>
+(w Odessie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "generał-lejtnant
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "korpus kadetów
+[NEW]
+<uczelnia>
+(w Brześciu Litewskim)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "akademia jurydyczna
+[NEW]
+<uczelnia>
+(w Petersburgu)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Komitet Polski
+[NEW]
+<organizacja>
+(utworzony w 1914 roku)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Piotrogradzkie Towarzystwo Pomocy Ofiarom Wojny
+[NEW]
+<organizacja>
+(utworzone w 1915 roku)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Piotr Korejwa
+[NEW]
+<osoba>
+(generał, współpracownik w
+sądzie wojskowym w
+Odessie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "kamienica
+[NEW]
+<własność>
+(wartości 120.000 rubli,
+przekazana w testamencie)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "skarb rządu polskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie)" -> "Oddział Pomocy Jeńcom Cywilnym i Wojskowym
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Weronika Dąbrowska
+[NEW]
+<osoba>
+(z domu Paszkowska,
+obywatelka ziemska)" -> "Paszkowski
+[Q165019]
+<osoba>
+(ojciec Weroniki
+Dąbrowskiej)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Romualda Glińska
+[NEW]
+<osoba>
+(żona znanego literata,
+zmarła w przytułku przy
+ul. Belwederskiej w
+Warszawie)" -> "Warszawa
+[Q85566]
+<miejscowość>
+(przytułek przy ul.
+Belwederskiej)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Ebiełow
+[NEW]
+<osoba>
+(generał gubernator,
+osoba, z którą
+interweniował Adam
+Dąbrowski)" -> "generał gubernator
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

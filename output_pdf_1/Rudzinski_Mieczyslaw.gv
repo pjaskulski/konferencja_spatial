@@ -1,0 +1,470 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)"	[color=black,
+		label="Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)"];
+	"Werki koło Wilna
+[NEW]
+<miejscowość>"	[color=black,
+		label="Werki koło Wilna
+[NEW]
+<miejscowość>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Werki koło Wilna
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"obóz koncentracyjny w Dachau
+[NEW]
+<miejscowość>"	[color=black,
+		label="obóz koncentracyjny w Dachau
+[NEW]
+<miejscowość>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "obóz koncentracyjny w Dachau
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Stanisław Rudziński
+[Q168958]
+<osoba>
+(ojciec Mieczysława
+Rudzińskiego)"	[color=black,
+		label="Stanisław Rudziński
+[Q168958]
+<osoba>
+(ojciec Mieczysława
+Rudzińskiego)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Stanisław Rudziński
+[Q168958]
+<osoba>
+(ojciec Mieczysława
+Rudzińskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Maria z Downarowiczów
+[NEW]
+<osoba>
+(matka Mieczysława
+Rudzińskiego)"	[color=black,
+		label="Maria z Downarowiczów
+[NEW]
+<osoba>
+(matka Mieczysława
+Rudzińskiego)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Maria z Downarowiczów
+[NEW]
+<osoba>
+(matka Mieczysława
+Rudzińskiego)"	[color=green,
+		label="hasMother [P93]"];
+	"uniwersytet w Moskwie
+[NEW]
+<instytucja>"	[color=black,
+		label="uniwersytet w Moskwie
+[NEW]
+<instytucja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "uniwersytet w Moskwie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Związek Polskiej Młodzieży Socjalistycznej
+[NEW]
+<organizacja>"	[color=black,
+		label="Związek Polskiej Młodzieży Socjalistycznej
+[NEW]
+<organizacja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Związek Polskiej Młodzieży Socjalistycznej
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"kancelaria Aleksandra Lednickiego
+[NEW]
+<instytucja>"	[color=black,
+		label="kancelaria Aleksandra Lednickiego
+[NEW]
+<instytucja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "kancelaria Aleksandra Lednickiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Polska Partia Socjalistyczna
+[NEW]
+<organizacja>"	[color=black,
+		label="Polska Partia Socjalistyczna
+[NEW]
+<organizacja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Polska Partia Socjalistyczna
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Zrzeszenie Prawników Socjalistów w Warszawie
+[NEW]
+<organizacja>"	[color=black,
+		label="Zrzeszenie Prawników Socjalistów w Warszawie
+[NEW]
+<organizacja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Zrzeszenie Prawników Socjalistów w Warszawie
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Liga Praw Człowieka i Obywatela
+[NEW]
+<organizacja>"	[color=black,
+		label="Liga Praw Człowieka i Obywatela
+[NEW]
+<organizacja>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Liga Praw Człowieka i Obywatela
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"adwokat
+[NEW]
+<zawód>"	[color=black,
+		label="adwokat
+[NEW]
+<zawód>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "adwokat
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"obrońca w sprawach politycznych
+[NEW]
+<zawód>"	[color=black,
+		label="obrońca w sprawach politycznych
+[NEW]
+<zawód>"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "obrońca w sprawach politycznych
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Zjazd Polskiej Młodzieży Akademickiej w Moskwie
+[NEW]
+<wydarzenie>
+(współorganizator w 1915
+roku)"	[color=black,
+		label="Zjazd Polskiej Młodzieży Akademickiej w Moskwie
+[NEW]
+<wydarzenie>
+(współorganizator w 1915
+roku)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "Zjazd Polskiej Młodzieży Akademickiej w Moskwie
+[NEW]
+<wydarzenie>
+(współorganizator w 1915
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie
+[NEW]
+<wydarzenie>
+(po listopadzie 1917 roku)"	[color=black,
+		label="praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie
+[NEW]
+<wydarzenie>
+(po listopadzie 1917 roku)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie
+[NEW]
+<wydarzenie>
+(po listopadzie 1917 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"członek Okręgowej Rady Adwokackiej oraz rzecznik dyscyplinarny
+[NEW]
+<stanowisko>
+(w samorządzie adwokackim)"	[color=black,
+		label="członek Okręgowej Rady Adwokackiej oraz rzecznik dyscyplinarny
+[NEW]
+<stanowisko>
+(w samorządzie adwokackim)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "członek Okręgowej Rady Adwokackiej oraz rzecznik dyscyplinarny
+[NEW]
+<stanowisko>
+(w samorządzie adwokackim)"	[color=green,
+		label="positionHeld [P101]"];
+	"aresztowanie przez gestapo i transport do obozów koncentracyjnych
+[NEW]
+<wydarzenie>
+(aresztowany w marcu 1940,
+przewieziony do
+\
+Sachsenhausen i Dachau)"	[color=black,
+		label="aresztowanie przez gestapo i transport do obozów koncentracyjnych
+[NEW]
+<wydarzenie>
+(aresztowany w marcu 1940,
+przewieziony do
+\
+Sachsenhausen i Dachau)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "aresztowanie przez gestapo i transport do obozów koncentracyjnych
+[NEW]
+<wydarzenie>
+(aresztowany w marcu 1940,
+przewieziony do
+\
+Sachsenhausen i Dachau)"	[color=green,
+		label="significantEvent [NEW]"];
+	"członek Rady Konsultacyjnej
+[NEW]
+<stanowisko>
+(powołanej przez
+niemieckiego komisarza
+dla reorganizacji
+adwokatury)"	[color=black,
+		label="członek Rady Konsultacyjnej
+[NEW]
+<stanowisko>
+(powołanej przez
+niemieckiego komisarza
+dla reorganizacji
+adwokatury)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "członek Rady Konsultacyjnej
+[NEW]
+<stanowisko>
+(powołanej przez
+niemieckiego komisarza
+dla reorganizacji
+adwokatury)"	[color=green,
+		label="positionHeld [P101]"];
+	"opinia sprzeciwiająca się wydaleniu Żydów z adwokatury
+[NEW]
+<wydarzenie>
+(współautor opinii w lutym
+1940 roku)"	[color=black,
+		label="opinia sprzeciwiająca się wydaleniu Żydów z adwokatury
+[NEW]
+<wydarzenie>
+(współautor opinii w lutym
+1940 roku)"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "opinia sprzeciwiająca się wydaleniu Żydów z adwokatury
+[NEW]
+<wydarzenie>
+(współautor opinii w lutym
+1940 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "1940-11-14"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Mieczysław Rudziński
+[Q168954]
+<osoba>
+(adwokat, obrońca w
+sprawach politycznych)" -> "1887-04-16"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Werki koło Wilna
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"obóz koncentracyjny w Dachau
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Rudziński
+[Q168958]
+<osoba>
+(ojciec Mieczysława
+Rudzińskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria z Downarowiczów
+[NEW]
+<osoba>
+(matka Mieczysława
+Rudzińskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"uniwersytet w Moskwie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Związek Polskiej Młodzieży Socjalistycznej
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kancelaria Aleksandra Lednickiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Polska Partia Socjalistyczna
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zrzeszenie Prawników Socjalistów w Warszawie
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Liga Praw Człowieka i Obywatela
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"adwokat
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"obrońca w sprawach politycznych
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zjazd Polskiej Młodzieży Akademickiej w Moskwie
+[NEW]
+<wydarzenie>
+(współorganizator w 1915
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie
+[NEW]
+<wydarzenie>
+(po listopadzie 1917 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"członek Okręgowej Rady Adwokackiej oraz rzecznik dyscyplinarny
+[NEW]
+<stanowisko>
+(w samorządzie adwokackim)" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"aresztowanie przez gestapo i transport do obozów koncentracyjnych
+[NEW]
+<wydarzenie>
+(aresztowany w marcu 1940,
+przewieziony do
+\
+Sachsenhausen i Dachau)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"członek Rady Konsultacyjnej
+[NEW]
+<stanowisko>
+(powołanej przez
+niemieckiego komisarza
+dla reorganizacji
+adwokatury)" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"opinia sprzeciwiająca się wydaleniu Żydów z adwokatury
+[NEW]
+<wydarzenie>
+(współautor opinii w lutym
+1940 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

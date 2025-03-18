@@ -1,0 +1,257 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Antoni Gintowt",
+                "type": "osoba",
+                "description": "miecznik bełski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "szambelan dworu",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pułkownik",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11832154"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "generał-major wojsk koronnych",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Joachim Gintowt",
+                "type": "osoba",
+                "description": "sekretarz Komisji Edukacji Narodowej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Joachim Gintowt",
+                "type": "osoba",
+                "description": "sekretarz Komisji Edukacji Narodowej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarz Komisji Edukacji Narodowej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Franciszek Karpiński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "O edukacji fizycznej i moralnej płci żeńskiej",
+                "type": "dzieło",
+                "description": "traktat ogłoszony drukiem w 1789 roku, przełożony z francuskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Byszewski",
+                "type": "osoba",
+                "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wsie Rudka i Mierzwica",
+                "type": "własność",
+                "description": "wsie podlaskie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra Fajsławice i wsie w województwie krakowskim",
+                "type": "własność",
+                "description": "dobra w województwie lubelskim i krakowskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "królewszczyzna Lachowicze",
+                "type": "własność",
+                "description": "w województwie nowogródzkim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wsie Rudka i Mierzwica",
+                "type": "własność",
+                "description": "wsie duże, przedmiot sporu z Tomaszem Aleksandrowiczem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Byszewska",
+                "type": "osoba",
+                "description": "z domu Gintowt-Dziewiałtowska, h. Trąby, urodzona ok. 1758 roku",
+                "wikihum": "Q150212"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra w opactwie miechowskim",
+                "type": "własność",
+                "description": "przedmiot sporu z Szkołą Główną krakowską",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

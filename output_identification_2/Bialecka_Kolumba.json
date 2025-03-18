@@ -1,0 +1,182 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zgromadzenie ss. dominikanek III Zakonu regularnego w Polsce",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1838-08-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1887-03-18",
+                "type": "data",
+                "description": "umarła w opinji świętości"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Jaśniszcze",
+                "type": "miejscowość",
+                "description": "koło Podkamienia w powiecie brodzkim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Franciszek",
+                "type": "osoba",
+                "description": "dziedzic wioski Jaśniszcze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna Ernestyna z Radziejowskich",
+                "type": "osoba",
+                "description": "matka Białeckiej Kolumby",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor Sacré Coeur",
+                "type": "uczelnia",
+                "description": "we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Białecka Kolumba",
+                "type": "osoba",
+                "description": "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+                "wikihum": "Q149111"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wincenty Jandel",
+                "type": "osoba",
+                "description": "generał zakonu oo. dominikanów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek",
+                "type": "osoba",
+                "description": "dziedzic wioski Jaśniszcze",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Jaśniszcze",
+                "type": "miejscowość",
+                "description": "wioska, której dziedzicem był Franciszek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wincenty Jandel",
+                "type": "osoba",
+                "description": "generał zakonu oo. dominikanów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "generał zakonu oo. dominikanów",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

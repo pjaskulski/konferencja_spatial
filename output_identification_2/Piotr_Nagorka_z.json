@@ -1,0 +1,308 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kanonik poznański i płocki",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "poseł Kazimierza Wielkiego do Awinionu",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1361-12-31",
+                "type": "data",
+                "description": "Data przybliżona, zmarł niedługo przed 31 XII 1361."
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Awinion",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146686"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Bogusław",
+                "type": "osoba",
+                "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Mroczka z Kisielewa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156969"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Imisław Wroński",
+                "type": "osoba",
+                "description": "elektor płocki popierany przez króla",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Innocenty VI",
+                "type": "osoba",
+                "description": "papież",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bogusław",
+                "type": "osoba",
+                "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dziedzic Grąbca i Kisielewa",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156969"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Imisław Wroński",
+                "type": "osoba",
+                "description": "elektor płocki popierany przez króla",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Innocenty VI",
+                "type": "osoba",
+                "description": "papież",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Bernard",
+                "type": "osoba",
+                "description": "dominikanin, który otrzymał prowizję na biskupstwo płockie",
+                "wikihum": "Q151733"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "religiousAffiliation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "diecezja płocka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "firstMention",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1359",
+                "type": "data",
+                "description": "Pierwsza wzmianka o Piotrze Nagórce."
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Jura",
+                "type": "osoba",
+                "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu",
+                "wikihum": "Q156352"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Nagórka",
+                "type": "osoba",
+                "description": "kanonik poznański i płocki, poseł Kazimierza Wielkiego do Awinionu",
+                "wikihum": "Q165783"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan z Buska",
+                "type": "osoba",
+                "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu",
+                "wikihum": "Q155708"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156969"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Mroczka z Kisielewa",
+                "type": "osoba",
+                "description": "brat Piotra Nagórki",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

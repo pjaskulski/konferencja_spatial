@@ -1,0 +1,291 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)"	[color=black,
+		label="Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)"];
+	"Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie, działacz
+Towarzystwa Tatrzańskiego)"	[color=black,
+		label="Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie, działacz
+Towarzystwa Tatrzańskiego)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie, działacz
+Towarzystwa Tatrzańskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Emilia Mannowa
+[NEW]
+<osoba>
+(owdowiała siostra Roberta
+Questa)"	[color=black,
+		label="Emilia Mannowa
+[NEW]
+<osoba>
+(owdowiała siostra Roberta
+Questa)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Emilia Mannowa
+[NEW]
+<osoba>
+(owdowiała siostra Roberta
+Questa)"	[color=green,
+		label="hasSister [P97]"];
+	"Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"	[color=black,
+		label="Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"	[color=green,
+		label="hasNephew [NEW]"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "1874-01-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "1942-09-17"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Opawa
+[Q146625]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Rövensdorf
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Kazimierz Mann
+[NEW]
+<osoba>
+(malarz zakopiański)"	[color=green,
+		label="hasNephew [NEW]",
+		minlen=2];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Roman Mann
+[Q161405]
+<osoba>"	[color=green,
+		label="hasNephew [NEW]",
+		minlen=3];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Lwów)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "T. Escherich
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "M. Pfaundler
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "A. Czerny
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Uniwersytet Lwowski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Uniwersytet Lwowski
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "lekarz, pediatra
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Gimnazjum we Lwowie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Uniwersytet w Grazu
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Szpital zakaźny we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Szpital Dziecięcy im. Św. Zofii we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Zakład patologii ogólnej i doświadczalnej Uniwersytetu Lwowskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "habilitacja z pediatrii
+[NEW]
+<osiągnięcie>
+(na Uniwersytecie Lwowskim)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci
+[NEW]
+<\
+osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "publikacje w czasopismach lekarskich polskich i niemieckich
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie, działacz
+Towarzystwa Tatrzańskiego)" -> "urzędnik
+[NEW]
+<zawód>
+(Bank Krajowy we Lwowie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie, działacz
+Towarzystwa Tatrzańskiego)" -> "Towarzystwo Tatrzańskie
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Emilia Mannowa
+[NEW]
+<osoba>
+(owdowiała siostra Roberta
+Questa)" -> "Mann
+[Q161402]
+<osoba>
+(zmarły mąż Emilii
+Mannowej)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)" -> "Cambridge
+[NEW]
+<uczelnia>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+}

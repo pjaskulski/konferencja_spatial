@@ -1,0 +1,583 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Ansberta z Badeńskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ansberta z Badeńskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ciosy bagnetów i pik kozackich",
+                "type": "przedmiot",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ciosy bagnetów i pik kozackich",
+                "type": "przedmiot",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "dateOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1863-02-28",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Radogoszcz (Dobra?) pod Łodzią",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Radogoszcz (Dobra?) pod Łodzią",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q20035479"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q20035479"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wydanie zakazu przyjmowania kobiet do służby liniowej",
+                "type": "wydarzenie",
+                "description": "wydane przez Wydział Wojny Rządu Narodowego 16 IV 1863",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wydanie zakazu przyjmowania kobiet do służby liniowej",
+                "type": "wydarzenie",
+                "description": "wydane przez Wydział Wojny Rządu Narodowego 16 IV 1863",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "śmierć odbiła się głośnym echem w całym kraju",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "śmierć odbiła się głośnym echem w całym kraju",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ulica w Łodzi",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ulica w Łodzi",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dołączenie do partii Józefa Sawickiego",
+                "type": "wydarzenie",
+                "description": "Maria Piotrowiczowa dołączyła do partii Józefa Sawickiego podczas powstania styczniowego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dołączenie do partii Józefa Sawickiego",
+                "type": "wydarzenie",
+                "description": "Maria Piotrowiczowa dołączyła do partii Józefa Sawickiego podczas powstania styczniowego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "śmierć w szpitalu po odniesieniu ciężkich ran",
+                "type": "wydarzenie",
+                "description": "Konstanty Piotrowicz zmarł w szpitalu po odniesieniu ciężkich ran podczas powstania styczniowego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "śmierć w szpitalu po odniesieniu ciężkich ran",
+                "type": "wydarzenie",
+                "description": "Konstanty Piotrowicz zmarł w szpitalu po odniesieniu ciężkich ran podczas powstania styczniowego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Sawicki",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Sawicki",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Dworzaczek",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie po Józefie Sawickim.",
+                "wikihum": "Q152003"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Dworzaczek",
+                "type": "osoba",
+                "description": "dowódca partii powstańczej, do której dołączyli Maria i Konstanty Piotrowiczowie po Józefie Sawickim.",
+                "wikihum": "Q152003"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego, z domu Rogolińska",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rozbicie oddziału pod Dobrą",
+                "type": "wydarzenie",
+                "description": "Oddział, do którego dołączyli Maria i Konstanty Piotrowiczowie, został rozbity pod Dobrą 24 lutego 1863 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rozbicie oddziału pod Dobrą",
+                "type": "wydarzenie",
+                "description": "Oddział, do którego dołączyli Maria i Konstanty Piotrowiczowie, został rozbity pod Dobrą 24 lutego 1863 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

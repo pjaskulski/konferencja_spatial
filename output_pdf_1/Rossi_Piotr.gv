@@ -1,0 +1,661 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)"	[color=black,
+		label="Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)"];
+	"architekt
+[NEW]
+<zawód>"	[color=black,
+		label="architekt
+[NEW]
+<zawód>"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "architekt
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Rzym
+[Q147390]
+<miejscowość>"	[color=black,
+		label="Rzym
+[Q147390]
+<miejscowość>"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Rzym
+[Q147390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Andrzej
+[NEW]
+<osoba>
+(ojciec Piotr Rossia)"	[color=black,
+		label="Andrzej
+[NEW]
+<osoba>
+(ojciec Piotr Rossia)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Andrzej
+[NEW]
+<osoba>
+(ojciec Piotr Rossia)"	[color=green,
+		label="hasFather [P92]"];
+	"Małgorzata
+[NEW]
+<osoba>
+(żona Piotr Rossia,
+rzymianka, córka Józefa
+Baltazary)"	[color=black,
+		label="Małgorzata
+[NEW]
+<osoba>
+(żona Piotr Rossia,
+rzymianka, córka Józefa
+Baltazary)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Małgorzata
+[NEW]
+<osoba>
+(żona Piotr Rossia,
+rzymianka, córka Józefa
+Baltazary)"	[color=green,
+		label="hasWife [P94]"];
+	"Kornel
+[NEW]
+<osoba>
+(syn Piotr Rossia, ur.
+1791)"	[color=black,
+		label="Kornel
+[NEW]
+<osoba>
+(syn Piotr Rossia, ur.
+1791)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Kornel
+[NEW]
+<osoba>
+(syn Piotr Rossia, ur.
+1791)"	[color=green,
+		label="hasSon [P153]"];
+	"Klemens
+[Q157723]
+<osoba>
+(syn Piotr Rossia, ur.
+1794)"	[color=black,
+		label="Klemens
+[Q157723]
+<osoba>
+(syn Piotr Rossia, ur.
+1794)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Klemens
+[Q157723]
+<osoba>
+(syn Piotr Rossia, ur.
+1794)"	[color=green,
+		label="hasSon [P153]"];
+	"Izabella
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1792)"	[color=black,
+		label="Izabella
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1792)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Izabella
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1792)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Feliksa
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1793)"	[color=black,
+		label="Feliksa
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1793)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Feliksa
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1793)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Wilno
+[Q143061]
+<miejscowość>"	[color=black,
+		label="Wilno
+[Q143061]
+<miejscowość>"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Stanisław August
+[Q172354]
+<osoba>
+(król, dla którego Piotr
+Rossi wykonywał prace
+pomiarowe)"	[color=black,
+		label="Stanisław August
+[Q172354]
+<osoba>
+(król, dla którego Piotr
+Rossi wykonywał prace
+pomiarowe)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Stanisław August
+[Q172354]
+<osoba>
+(król, dla którego Piotr
+Rossi wykonywał prace
+pomiarowe)"	[color=green,
+		label="significantFigure [P100]"];
+	"Katarzyna II
+[NEW]
+<osoba>
+(cesarzowa Rosji, której
+Piotr Rossi złożył
+przysięgę na wierność)"	[color=black,
+		label="Katarzyna II
+[NEW]
+<osoba>
+(cesarzowa Rosji, której
+Piotr Rossi złożył
+przysięgę na wierność)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Katarzyna II
+[NEW]
+<osoba>
+(cesarzowa Rosji, której
+Piotr Rossi złożył
+przysięgę na wierność)"	[color=green,
+		label="significantFigure [P100]"];
+	"Augustyn Kossakowski
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+przebudowie kościoła w
+Podbrzeziu)"	[color=black,
+		label="Augustyn Kossakowski
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+przebudowie kościoła w
+Podbrzeziu)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Augustyn Kossakowski
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+przebudowie kościoła w
+Podbrzeziu)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wawrzyniec Gucewicz
+[Q154470]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy budowie
+portyku katedry)"	[color=black,
+		label="Wawrzyniec Gucewicz
+[Q154470]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy budowie
+portyku katedry)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Wawrzyniec Gucewicz
+[Q154470]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy budowie
+portyku katedry)"	[color=green,
+		label="significantFigure [P100]"];
+	"Karol Schildhaus
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"	[color=black,
+		label="Karol Schildhaus
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Karol Schildhaus
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"	[color=green,
+		label="significantFigure [P100]"];
+	"Hermanowski
+[Q154929]
+<osoba>
+(mechanik, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"	[color=black,
+		label="Hermanowski
+[Q154929]
+<osoba>
+(mechanik, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Hermanowski
+[Q154929]
+<osoba>
+(mechanik, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)"	[color=green,
+		label="significantFigure [P100]"];
+	"architekt guberni wileńskiej
+[NEW]
+<urząd>"	[color=black,
+		label="architekt guberni wileńskiej
+[NEW]
+<urząd>"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "architekt guberni wileńskiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"nieruchomości w Wilnie
+[NEW]
+<majątek>
+(plac na przedmieściu i
+plac przy ul. Wileńskiej)"	[color=black,
+		label="nieruchomości w Wilnie
+[NEW]
+<majątek>
+(plac na przedmieściu i
+plac przy ul. Wileńskiej)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "nieruchomości w Wilnie
+[NEW]
+<majątek>
+(plac na przedmieściu i
+plac przy ul. Wileńskiej)"	[color=green,
+		label="hasAssets [NEW]"];
+	"przebudowa kościoła w Podbrzeziu
+[NEW]
+<wydarzenie>
+(współpraca z Augustynem
+Kossakowskim)"	[color=black,
+		label="przebudowa kościoła w Podbrzeziu
+[NEW]
+<wydarzenie>
+(współpraca z Augustynem
+Kossakowskim)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "przebudowa kościoła w Podbrzeziu
+[NEW]
+<wydarzenie>
+(współpraca z Augustynem
+Kossakowskim)"	[color=green,
+		label="significantEvent [NEW]"];
+	"budowa portyku katedry
+[NEW]
+<wydarzenie>
+(współpraca z Wawrzyńcem
+Gucewiczem)"	[color=black,
+		label="budowa portyku katedry
+[NEW]
+<wydarzenie>
+(współpraca z Wawrzyńcem
+Gucewiczem)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "budowa portyku katedry
+[NEW]
+<wydarzenie>
+(współpraca z Wawrzyńcem
+Gucewiczem)"	[color=green,
+		label="significantEvent [NEW]"];
+	"przebudowa oficyny pałacu Dominika Radziwiłła na teatr
+[NEW]
+<wydarzenie>"	[color=black,
+		label="przebudowa oficyny pałacu Dominika Radziwiłła na teatr
+[NEW]
+<wydarzenie>"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "przebudowa oficyny pałacu Dominika Radziwiłła na teatr
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"przebudowa kaplicy Matki Boskiej przy Ostrej Bramie
+[NEW]
+<wydarzenie>
+(przebudowa według
+własnych planów)"	[color=black,
+		label="przebudowa kaplicy Matki Boskiej przy Ostrej Bramie
+[NEW]
+<wydarzenie>
+(przebudowa według
+własnych planów)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie
+[NEW]
+<wydarzenie>
+(przebudowa według
+własnych planów)"	[color=green,
+		label="significantEvent [NEW]"];
+	"przerobienie browaru na arsenał
+[NEW]
+<wydarzenie>
+(przerobienie browaru przy
+placu Kossakowskich na
+Antokolu na arsenał)"	[color=black,
+		label="przerobienie browaru na arsenał
+[NEW]
+<wydarzenie>
+(przerobienie browaru przy
+placu Kossakowskich na
+Antokolu na arsenał)"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "przerobienie browaru na arsenał
+[NEW]
+<wydarzenie>
+(przerobienie browaru przy
+placu Kossakowskich na
+Antokolu na arsenał)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "1810-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt, ur. ok. 1760,
+zm. po 1810)" -> "Andrzej
+[NEW]
+<osoba>
+(syn Piotr Rossia, ur.
+1790)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"architekt
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Rzym
+[Q147390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej
+[NEW]
+<osoba>
+(ojciec Piotr Rossia)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Małgorzata
+[NEW]
+<osoba>
+(żona Piotr Rossia,
+rzymianka, córka Józefa
+Baltazary)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kornel
+[NEW]
+<osoba>
+(syn Piotr Rossia, ur.
+1791)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Klemens
+[Q157723]
+<osoba>
+(syn Piotr Rossia, ur.
+1794)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Izabella
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1792)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Feliksa
+[NEW]
+<osoba>
+(córka Piotr Rossia, ur.
+1793)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wilno
+[Q143061]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław August
+[Q172354]
+<osoba>
+(król, dla którego Piotr
+Rossi wykonywał prace
+pomiarowe)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Katarzyna II
+[NEW]
+<osoba>
+(cesarzowa Rosji, której
+Piotr Rossi złożył
+przysięgę na wierność)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Augustyn Kossakowski
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+przebudowie kościoła w
+Podbrzeziu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wawrzyniec Gucewicz
+[Q154470]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy budowie
+portyku katedry)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Karol Schildhaus
+[NEW]
+<osoba>
+(architekt, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Hermanowski
+[Q154929]
+<osoba>
+(mechanik, współpracownik
+Piotr Rossia przy
+reperacji młyna
+miejskiego w Wilnie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"architekt guberni wileńskiej
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"nieruchomości w Wilnie
+[NEW]
+<majątek>
+(plac na przedmieściu i
+plac przy ul. Wileńskiej)" -> "majątek
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"przebudowa kościoła w Podbrzeziu
+[NEW]
+<wydarzenie>
+(współpraca z Augustynem
+Kossakowskim)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"budowa portyku katedry
+[NEW]
+<wydarzenie>
+(współpraca z Wawrzyńcem
+Gucewiczem)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przebudowa oficyny pałacu Dominika Radziwiłła na teatr
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przebudowa kaplicy Matki Boskiej przy Ostrej Bramie
+[NEW]
+<wydarzenie>
+(przebudowa według
+własnych planów)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przerobienie browaru na arsenał
+[NEW]
+<wydarzenie>
+(przerobienie browaru przy
+placu Kossakowskich na
+Antokolu na arsenał)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

@@ -1,0 +1,256 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q143061"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1885-12-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Petersburg",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Leon Radziwiłł",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Wańkowiczówna",
+                "type": "osoba",
+                "description": "żona Artura Bartelsa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ciocia Salusia",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Panna Marjanna",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Departament niższej Sekwany",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Goście",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9377732"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Popas w Miłosnej",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Łowiec",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Artur Bartels",
+                "type": "osoba",
+                "description": "satyryk, pieśniarz, rysownik",
+                "wikihum": "Q148790"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tydzień poleski",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wańkowiczówna",
+                "type": "osoba",
+                "description": "żona Artura Bartelsa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Wańkowiczówna",
+                "type": "osoba",
+                "description": "żona Artura Bartelsa",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

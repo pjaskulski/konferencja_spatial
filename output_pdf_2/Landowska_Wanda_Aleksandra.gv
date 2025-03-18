@@ -1,0 +1,193 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)"	[color=black,
+		label="Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)"];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "1879-07-05"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "1959-08-16"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Lakeville
+[NEW]
+<miejscowość>
+(w stanie Connecticut)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Marian Lautenberg
+[NEW]
+<osoba>
+(adwokat)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Ewelina Lautenberg
+[NEW]
+<osoba>
+(filolog, założycielka
+pierwszej w Warszawie
+szkoły języków obcych)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "katolicyzm
+[NEW]
+<religia>
+(przeszła z wyznania
+mojżeszowego)"	[color=green,
+		label="religiousAffiliation [NEW]",
+		minlen=3];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Konserwatorium Warszawskie
+[NEW]
+<instytucja>
+(Warszawa)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Berlin)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "H. Lew
+[NEW]
+<osoba>
+(pisarz i znawca folkloru
+hebrajskiego)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "profesor gry klawesynowej
+[NEW]
+<zawód>
+(Królewska Wyższa Szkoła
+Muzyczna w Berlinie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "École de Musique Ancienne
+[NEW]
+<instytucja>
+(szkoła muzyki dawnej w
+Saint-Leu la Forêt)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "doktor muzyki honoris causa
+[NEW]
+<tytuł>
+(Uniwersytet w Hartford)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Schola Cantorum
+[NEW]
+<instytucja>
+(Paryż)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "nieokreślona instytucja
+[NEW]
+<instytucja>
+(Bazylea)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "około 15 rozpraw dotyczących wykonawstwa muzyki dawnej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "La musique ancienne
+[NEW]
+<dzieło>
+(1909)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Wanda Landowska
+[NEW]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "liczne kompozycje, w tym miniatury fortepianowe i utwory na orkiestrę smyczkową
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+}

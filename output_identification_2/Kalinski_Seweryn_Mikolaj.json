@@ -1,0 +1,259 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Kaliński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Elżbieta z Oborskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jakub Kaliński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156522"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Marianna Wiktoria z Białynia Białyńska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Konstanty Kaliński",
+                "type": "osoba",
+                "description": "podkomorzy bracławski (1703)",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rotmistrz królewski",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starosta bracławski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q26714760"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1663-00-00",
+                "type": "data",
+                "description": "Data śmierci jest przybliżona, ponieważ nie jest znana dokładna data."
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Aleksander Koniecpolski",
+                "type": "osoba",
+                "description": "chorąży koronny",
+                "wikihum": "Q157898"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Wiktoria z Białynia Białyńska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Andrzej Gołyński",
+                "type": "osoba",
+                "description": "drugi mąż Marianny Wiktorii z Białynia Białyńskiej po śmierci Seweryna Mikołaja Kalińskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasProperty",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Niedźwica",
+                "type": "miejscowość",
+                "description": "wieś w powiecie latyczowskim otrzymana przez Seweryna Mikołaja Kalińskiego za zasługi w walkach na Ukrainie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasProperty",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Hołodki",
+                "type": "miejscowość",
+                "description": "wieś należąca do starostwa barskiego, trzymana w dożywotniej dzierżawie przez Seweryna Mikołaja Kalińskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasProperty",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pustomyty",
+                "type": "miejscowość",
+                "description": "miejscowość wykupiona przez Seweryna Mikołaja Kalińskiego w 1649 roku od matki Marianny Wiktorii z Białynia Białyńskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q1019852",
+                "nominatim": 177323416,
+                "nominatim_name": "Пустомити, Пустомитівська міська громада, Львівський район, Львівська область, 81100, Україна"
+            }
+        },
+        {
+            "subject": {
+                "name": "Seweryn Mikołaj Kaliński",
+                "type": "osoba",
+                "description": "rotmistrz królewski i starosta bracławski",
+                "wikihum": "Q156525"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pułkownik",
+                "type": "zawód",
+                "description": "stopień wojskowy otrzymany przez Seweryna Mikołaja Kalińskiego w nagrodę za przejście na stronę Szwedów",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

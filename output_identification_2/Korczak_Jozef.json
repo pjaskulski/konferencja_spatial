@@ -1,0 +1,417 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1891-01-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Dąbrówka",
+                "type": "miejscowość",
+                "description": "wieś w powiecie janowskim ziemi lubelskiej",
+                "wikihum": "Q27614"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1920-10-18",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Michniszki",
+                "type": "miejscowość",
+                "description": "w pobliżu Nowych Trok w ziemi wileńskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jan Korczak",
+                "type": "osoba",
+                "description": "ojciec Józefa Korczaka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Rozalia Korczak",
+                "type": "osoba",
+                "description": "matka Józefa Korczaka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "instytucja",
+                "description": "Siedlce",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Organizacja Młodzieży Narodowej",
+                "type": "organizacja",
+                "description": "wstąpił w 1910 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Strzelecki",
+                "type": "organizacja",
+                "description": "wstąpił w 1913 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska Partia Socjalistyczna",
+                "type": "organizacja",
+                "description": "wstąpił pod wpływem członków Organizacji Bojowej PPS",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "podporucznik",
+                "type": "stopień wojskowy",
+                "description": "przyjęty do Wojska Polskiego 2 grudnia 1918 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q65164880"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wolna Wszechnica Polska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "isAwarded",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Order Virtuti Militari 5 kl.",
+                "type": "odznaczenie",
+                "description": "odznaczony pośmiertnie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "isAwarded",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krzyż Niepodległości z Mieczami",
+                "type": "odznaczenie",
+                "description": "odznaczony pośmiertnie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wskazania przyszłości",
+                "type": "dzieło",
+                "description": "broszura poświęcona sprawie wychowania żołnierza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Przed świtem",
+                "type": "dzieło",
+                "description": "zbiór wierszy uzupełniony przedmową A. Struga i życiorysem pióra T. Hołówki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "hasAlias",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "pseudonim Józefa Korczaka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "komendant okręgu",
+                "type": "urząd",
+                "description": "Polska Organizacja Wojskowa, okręg siedlecki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "zastępca komendanta okręgu",
+                "type": "urząd",
+                "description": "Polska Organizacja Wojskowa, okręg płocki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "inspektor główny",
+                "type": "urząd",
+                "description": "Milicja Ludowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "praca w referacie prasowym",
+                "type": "urząd",
+                "description": "Ministerstwo Spraw Wojskowych",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dowódca plutonu",
+                "type": "urząd",
+                "description": "201 pułk piechoty",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korczak",
+                "type": "osoba",
+                "description": "działacz niepodległościowy, poeta",
+                "wikihum": "Q158049"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dowódca kompanii",
+                "type": "urząd",
+                "description": "front litewsko-polski",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

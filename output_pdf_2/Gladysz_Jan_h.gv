@@ -1,0 +1,157 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)"	[color=black,
+		label="Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)"];
+	"Paweł Gładysz
+[NEW]
+<osoba>
+(rycerz z drobnej szlachty
+sądeckiej)"	[color=black,
+		label="Paweł Gładysz
+[NEW]
+<osoba>
+(rycerz z drobnej szlachty
+sądeckiej)"];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Paweł Gładysz
+[NEW]
+<osoba>
+(rycerz z drobnej szlachty
+sądeckiej)"	[color=green,
+		label="hasFather [P92]"];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Kazimierz Wielki
+[Q156969]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "wieś Łosie i latyfundium
+[NEW]
+<własność>
+(nadanie od Kazimierza
+Wielkiego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "bachmistrz bocheński
+[NEW]
+<urząd>
+(urząd związany z
+zarządzaniem kopalniami
+soli)"	[color=green,
+		label="positionHeld [P101]"];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "dwór warowny w Szymbarku
+[NEW]
+<obiekt fizjograficzny>
+(siedziba rodu Gładyszów,
+istniejąca od XIV wieku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Mikołaj Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Piotr Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Gładysz Jan
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "wieś Brzyście
+[NEW]
+<miejscowość>
+(wymieniona na urząd
+bachmistrza bocheńskiego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Paweł Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+pierwszy starosta spiski
+w Lubowli)"	[color=black,
+		label="Paweł Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+pierwszy starosta spiski
+w Lubowli)"];
+	"Paweł Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+pierwszy starosta spiski
+w Lubowli)" -> "bachmistrz bocheński
+[NEW]
+<urząd>
+(urząd związany z
+zarządzaniem kopalniami
+soli)"	[color=green,
+		label="positionHeld [P101]"];
+	"Paweł Gładysz
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+pierwszy starosta spiski
+w Lubowli)" -> "starosta spiski w Lubowli
+[NEW]
+<urząd>
+(pierwszy starosta spiski
+w Lubowli w 1413 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Paweł Gładysz
+[NEW]
+<osoba>
+(rycerz z drobnej szlachty
+sądeckiej)" -> "rycerz
+[NEW]
+<zawód>
+(rycerz z drobnej szlachty
+sądeckiej)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

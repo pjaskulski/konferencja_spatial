@@ -1,0 +1,108 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)"	[color=black,
+		label="Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)"];
+	"Adrian Pauli
+[Q165059]
+<osoba>
+(profesor fizyki i
+metafizyki)"	[color=black,
+		label="Adrian Pauli
+[Q165059]
+<osoba>
+(profesor fizyki i
+metafizyki)"];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Adrian Pauli
+[Q165059]
+<osoba>
+(profesor fizyki i
+metafizyki)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Gryfii
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Gimnazjum Akademickie
+[NEW]
+<uczelnia>
+(Gdańsk)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "uniwersytet w Królewcu
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Vestibulum Regni Poloniae
+[NEW]
+<dzieło>
+(krótki rys części
+gramatyki polskiej)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Encomium Regni Poloniae
+[NEW]
+<dzieło>
+(opis Polski z
+wiadomościami o
+pochodzeniu Polaków)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(prawdopodobnie urodzony z
+końcem w. XVI w Gryfii)" -> "Chronicon dynastarum Regni Poloniae
+[NEW]
+<dzieło>
+(wierszowany utwór
+Klemensa Janickiego)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Adrian Pauli
+[Q165059]
+<osoba>
+(profesor fizyki i
+metafizyki)" -> "profesor
+[NEW]
+<zawód>
+(fizyki i metafizyki)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

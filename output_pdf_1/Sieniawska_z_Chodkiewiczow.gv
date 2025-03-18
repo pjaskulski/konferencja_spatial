@@ -1,0 +1,434 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)"	[color=black,
+		label="Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)"];
+	"Aleksander Chodkiewicz
+[Q150479]
+<osoba>
+(wojewoda trocki)"	[color=black,
+		label="Aleksander Chodkiewicz
+[Q150479]
+<osoba>
+(wojewoda trocki)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Aleksander Chodkiewicz
+[Q150479]
+<osoba>
+(wojewoda trocki)"	[color=green,
+		label="hasFather [P92]"];
+	"Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"	[color=black,
+		label="Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"	[color=green,
+		label="hasMother [P93]"];
+	"Prokop Sieniawski
+[Q170586]
+<osoba>
+(chorąży koronny)"	[color=black,
+		label="Prokop Sieniawski
+[Q170586]
+<osoba>
+(chorąży koronny)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Prokop Sieniawski
+[Q170586]
+<osoba>
+(chorąży koronny)"	[color=green,
+		label="hasHusband [P94]"];
+	"Kościół Dominikanów lwowskich
+[NEW]
+<obiekt fizjograficzny>"	[color=black,
+		label="Kościół Dominikanów lwowskich
+[NEW]
+<obiekt fizjograficzny>"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Kościół Dominikanów lwowskich
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Gołogóry
+[Q144310]
+<miejscowość>
+(dobra dziedziczone po
+matce Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Gołogóry
+[Q144310]
+<miejscowość>
+(dobra dziedziczone po
+matce Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Gołogóry
+[Q144310]
+<miejscowość>
+(dobra dziedziczone po
+matce Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Szkłów i Mysz
+[NEW]
+<miejscowość>
+(dobra dziedziczone po
+ojcu Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Szkłów i Mysz
+[NEW]
+<miejscowość>
+(dobra dziedziczone po
+ojcu Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Szkłów i Mysz
+[NEW]
+<miejscowość>
+(dobra dziedziczone po
+ojcu Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"	[color=black,
+		label="Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Dominikanie lwowscy
+[NEW]
+<instytucja>"	[color=black,
+		label="Dominikanie lwowscy
+[NEW]
+<instytucja>"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Dominikanie lwowscy
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Karmelici bosi
+[NEW]
+<instytucja>"	[color=black,
+		label="Karmelici bosi
+[NEW]
+<instytucja>"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Karmelici bosi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Krzysztof Franciszek Chwalibogowski
+[Q150655]
+<osoba>
+(autor poematu
+dedykowanego Annie
+Eufrozynie Sieniawskiej)"	[color=black,
+		label="Krzysztof Franciszek Chwalibogowski
+[Q150655]
+<osoba>
+(autor poematu
+dedykowanego Annie
+Eufrozynie Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Krzysztof Franciszek Chwalibogowski
+[Q150655]
+<osoba>
+(autor poematu
+dedykowanego Annie
+Eufrozynie Sieniawskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jakub Sobieski
+[Q171593]
+<osoba>
+(krajczy koronny, wygłosił
+mowę pogrzebową na
+pogrzebie Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Jakub Sobieski
+[Q171593]
+<osoba>
+(krajczy koronny, wygłosił
+mowę pogrzebową na
+pogrzebie Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Jakub Sobieski
+[Q171593]
+<osoba>
+(krajczy koronny, wygłosił
+mowę pogrzebową na
+pogrzebie Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Adam Hieronim Sieniawski
+[Q170573]
+<osoba>
+(syn Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Adam Hieronim Sieniawski
+[Q170573]
+<osoba>
+(syn Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Adam Hieronim Sieniawski
+[Q170573]
+<osoba>
+(syn Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasSon [P153]"];
+	"Mikołaj Sieniawski
+[Q170580]
+<osoba>
+(podczaszy koronny,
+szwagier Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Mikołaj Sieniawski
+[Q170580]
+<osoba>
+(podczaszy koronny,
+szwagier Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Mikołaj Sieniawski
+[Q170580]
+<osoba>
+(podczaszy koronny,
+szwagier Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasBrotherInLaw [NEW]"];
+	"Kalinowscy
+[NEW]
+<osoba>
+(osoby, które przejęły
+część dóbr Anny Eufrozyny
+Sieniawskiej)"	[color=black,
+		label="Kalinowscy
+[NEW]
+<osoba>
+(osoby, które przejęły
+część dóbr Anny Eufrozyny
+Sieniawskiej)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "Kalinowscy
+[NEW]
+<osoba>
+(osoby, które przejęły
+część dóbr Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasTransactionWith [NEW]"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna koronna, córka
+Aleksandra Chodkiewicza i
+Eufemii Sienieńskiej)" -> "1633-04-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Aleksander Chodkiewicz
+[Q150479]
+<osoba>
+(wojewoda trocki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Prokop Sieniawski
+[Q170586]
+<osoba>
+(chorąży koronny)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kościół Dominikanów lwowskich
+[NEW]
+<obiekt fizjograficzny>" -> "?
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Gołogóry
+[Q144310]
+<miejscowość>
+(dobra dziedziczone po
+matce Anny Eufrozyny
+Sieniawskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szkłów i Mysz
+[NEW]
+<miejscowość>
+(dobra dziedziczone po
+ojcu Anny Eufrozyny
+Sieniawskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dominikanie lwowscy
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Karmelici bosi
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzysztof Franciszek Chwalibogowski
+[Q150655]
+<osoba>
+(autor poematu
+dedykowanego Annie
+Eufrozynie Sieniawskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jakub Sobieski
+[Q171593]
+<osoba>
+(krajczy koronny, wygłosił
+mowę pogrzebową na
+pogrzebie Anny Eufrozyny
+Sieniawskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Adam Hieronim Sieniawski
+[Q170573]
+<osoba>
+(syn Anny Eufrozyny
+Sieniawskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj Sieniawski
+[Q170580]
+<osoba>
+(podczaszy koronny,
+szwagier Anny Eufrozyny
+Sieniawskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kalinowscy
+[NEW]
+<osoba>
+(osoby, które przejęły
+część dóbr Anny Eufrozyny
+Sieniawskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

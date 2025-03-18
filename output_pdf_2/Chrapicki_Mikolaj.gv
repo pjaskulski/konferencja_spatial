@@ -1,0 +1,303 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)"	[color=black,
+		label="Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)"];
+	"Jan Konopacki
+[Q157927]
+<osoba>
+(administrator biskupstwa
+chełmińskiego)"	[color=black,
+		label="Jan Konopacki
+[Q157927]
+<osoba>
+(administrator biskupstwa
+chełmińskiego)"];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Jan Konopacki
+[Q157927]
+<osoba>
+(administrator biskupstwa
+chełmińskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "kanonik warmiński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "biskup chełmiński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "1514-02-02"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "kościół pofranciszkański w Lubawie
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Łukasz Watzenrode
+[NEW]
+<osoba>
+(biskup warmiński)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "klasztor franciszkański w Lubawie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "klasztor w Kartuzach
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "katedra chełmińska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "kościół w Byszwałdzie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "kościół w Lembargu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Uniwersytet Koloński
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Uniwersytet Krakowski
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Lubawa
+[Q50270]
+<miejscowość>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Chełmno
+[Q24272]
+<miejscowość>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Radzyń
+[Q70798]
+<miejscowość>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "zamek starogrodzki
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "zamek papowski
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "kanonik warmiński od 5 września 1488
+[NEW]
+<zawód>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "biskup chełmiński
+[NEW]
+<zawód>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "fundator klasztoru franciszkańskiego w Lubawie
+[NEW]
+<zawód>
+(1502 rok)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "fundator klasztoru w Kartuzach
+[NEW]
+<zawód>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "konsekracja kościoła w Byszwałdzie
+[NEW]
+<zawód>
+(1500 rok)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "konsekracja kościoła w Lembargu
+[NEW]
+<zawód>
+(1507 rok)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Jan Olbracht
+[Q155672]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Aleksander Jagiellończyk
+[Q148333]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Zygmunt I Stary
+[NEW]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński)" -> "Juliusz II
+[NEW]
+<osoba>
+(papież)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jan Konopacki
+[Q157927]
+<osoba>
+(administrator biskupstwa
+chełmińskiego)" -> "administrator biskupstwa chełmińskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

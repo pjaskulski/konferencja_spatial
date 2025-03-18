@@ -1,0 +1,1096 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q16570206"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q16570206"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1462-01-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cmentarz mariacki",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "cmentarz mariacki",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "ojciec Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "ojciec Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "matka Stanisława Leymitera",
+                "wikihum": "Q4305"
+            }
+        },
+        {
+            "subject": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "matka Stanisława Leymitera",
+                "wikihum": "Q4305"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "syn Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "Q4305"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q16570206"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            }
+        },
+        {
+            "subject": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom przy ul. Brackiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dom przy ul. Brackiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "nieruchomość",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "nieruchomość",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kram na rynku krakowskim",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kram na rynku krakowskim",
+                "type": "nieruchomość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "nieruchomość",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ścięcie",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9395345"
+            }
+        },
+        {
+            "subject": {
+                "name": "ścięcie",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9395345"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przyczyna śmierci",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jan Tesznar",
+                "type": "osoba",
+                "description": "brat Zofii Leymiterowej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Tesznar",
+                "type": "osoba",
+                "description": "brat Zofii Leymiterowej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Jan Wierzynek",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Wierzynek",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Wincenty Beck",
+                "type": "osoba",
+                "description": "mąż Barbary",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Barbara",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wincenty Beck",
+                "type": "osoba",
+                "description": "mąż Barbary",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "Q4305"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Jan Tretkop",
+                "type": "osoba",
+                "description": "mąż Benigny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Benigna",
+                "type": "osoba",
+                "description": "córka Stanisława Leymitera",
+                "wikihum": "Q4305"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Tretkop",
+                "type": "osoba",
+                "description": "mąż Benigny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": "ławnik w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "ławnik",
+                "type": "urząd",
+                "description": "ławnik w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podwójci",
+                "type": "urząd",
+                "description": "podwójci w ławie krakowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "podwójci",
+                "type": "urząd",
+                "description": "podwójci w ławie krakowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Mikołaj Kreidler",
+                "type": "osoba",
+                "description": "spokrewniony z Zofią Leymiterową",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Leymiter",
+                "type": "osoba",
+                "description": "kupiec i rajca krakowski",
+                "wikihum": "Q160144"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zainteresowania prawnicze",
+                "type": "osiągnięcie",
+                "description": "książki prawnicze wśród pozostałych po nim rzeczy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zainteresowania prawnicze",
+                "type": "osiągnięcie",
+                "description": "książki prawnicze wśród pozostałych po nim rzeczy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "własność",
+                "description": "dom odziedziczony po rodzicach Stanisława Leymitera",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "dom przy ul. Grodzkiej w Krakowie",
+                "type": "własność",
+                "description": "dom odziedziczony po rodzicach Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "własność",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia",
+                "type": "osoba",
+                "description": "żona Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jan Tesznar",
+                "type": "osoba",
+                "description": "ojciec Zofii Leymiterowej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "instytucja",
+                "description": "uczelnia, której wychowankiem był Mikołaj Leymiter",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Uniwersytet Krakowski",
+                "type": "instytucja",
+                "description": "uczelnia, której wychowankiem był Mikołaj Leymiter",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Leymiter",
+                "type": "osoba",
+                "description": "brat Stanisława Leymitera",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium artystów",
+                "type": "instytucja",
+                "description": "instytucja, której członkiem był Mikołaj Leymiter",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kolegium artystów",
+                "type": "instytucja",
+                "description": "instytucja, której członkiem był Mikołaj Leymiter",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

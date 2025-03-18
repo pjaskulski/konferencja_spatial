@@ -1,0 +1,400 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)"	[color=black,
+		label="Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)"	[color=black,
+		label="Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)"	[color=green,
+		label="hasSon [P153]"];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)"	[color=black,
+		label="Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)"	[color=green,
+		label="hasSon [P153]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "superintendent podlaski Jednoty Litewskiej ewangelicko-reformowanej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> 1660	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> 1724	[color=green,
+		label="dateOfDeath [P12]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Stefan Dyjakiewicz
+[NEW]
+<osoba>
+(Dziedzic folwarku
+Pułnuszki pod Dubinkami.)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Apolonia Falęcka
+[NEW]
+<osoba>
+(Matka Gabriela
+Dyjakiewicza, z domu
+Falęcka h. Leszczyc.)"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Anna Niewierska
+[NEW]
+<osoba>
+(Żona Gabriela
+Dyjakiewicza, córka ks.
+Marcina Niewierskiego.)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Lejda
+[Q146796]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Królewiec
+[Q72328]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "konrektor gimnazjum słuckiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "diakon
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "kaznodzieja
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "minister zboru w Węgrowie
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Zejmy
+[Q143287]
+<miejscowość>
+(Miejscowość, gdzie
+Gabriel Dyjakiewicz
+pracował jako duchowny.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Węgrów
+[Q86065]
+<miejscowość>
+(Miejscowość, gdzie
+Gabriel Dyjakiewicz
+pełnił funkcję ministra
+zboru.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Raisa Mirska Kłobocka
+[NEW]
+<osoba>
+(Chorążyna mińska,
+fundatorka stypendium dla
+Gabriela Dyjakiewicza.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "Memoriale prac, pielgrzymstwa i zabaw w tej śmiertelności żywota ziemskiego
+[NEW]
+<dzieło>
+(Pamiętnik Gabriela
+Dyjakiewicza \
+obejmujący
+lata 1660-1718.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ewangelicko-reformowanej.)" -> "konsenior podlaski
+[NEW]
+<urząd>
+(Stanowisko kościelne
+objęte przez Gabriela
+Dyjakiewicza w 1694 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Berlin
+[Q181990]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Frankfurt nad Odrą
+[Q146859]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Lejda
+[Q146796]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "De cautelis contiliandae Dei gratia universalis et particularis deque schismate Evangelicorum
+[NEW]
+<dzieło>
+(Dzieło ogłoszone \
+przez
+Marcina Dyjakiewicza w
+1712 roku.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "konrektor gimnazjum słuckiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "diakon
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "kaznodzieja
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "rektor gimnazjum w Kiejdanach
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Kiejdany
+[Q143264]
+<miejscowość>
+(Miejscowość, gdzie Marcin
+Dyjakiewicz pełnił
+funkcję rektora
+gimnazjum.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Słuck
+[Q144168]
+<miejscowość>
+(Miejscowość, gdzie Marcin
+Dyjakiewicz pełnił
+funkcję konrektora
+gimnazjum.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "Węgrów
+[Q86065]
+<miejscowość>
+(Miejscowość, gdzie
+urodził się Marcin
+Dyjakiewicz.)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Pierworodny syn Gabriela
+Dyjakiewicza.)" -> "1671-10-02"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)" -> 1724	[color=green,
+		label="dateOfDeath [P12]"];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)" -> "ekskomunika
+[NEW]
+<wydarzenie>
+(Ekskomunika Gabriela
+Dyjakiewicza (syna) z
+Kościoła w 1724 roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Drugi syn Gabriela
+Dyjakiewicza, nałogowiec
+zdegradowany z urzędu
+duchownego.)" -> 1699	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+}

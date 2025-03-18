@@ -1,0 +1,307 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)"	[color=black,
+		label="Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)"];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"	[color=black,
+		label="Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)"	[color=green,
+		label="hasSon [P153]"];
+	"Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)"	[color=green,
+		label="hasFather [P92]"];
+	"Dorota Rosenberg
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"	[color=black,
+		label="Dorota Rosenberg
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Dorota Rosenberg
+[NEW]
+<osoba>
+(córka Michała Rosenberga)"	[color=green,
+		label="hasWife [P94]"];
+	"Małgorzata Ottinghusen
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"	[color=black,
+		label="Małgorzata Ottinghusen
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Małgorzata Ottinghusen
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)"	[color=green,
+		label="hasWife [P94]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Barbara Niżyńska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Killobe
+[NEW]
+<miejscowość>
+(na Pomorzu)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfResidence [NEW]"];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "1564-07-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "szlachectwo Rzeszy
+[NEW]
+<osiągnięcie>
+(nadane przez cesarza
+Karola V)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "firma bursztynowa
+[NEW]
+<własność>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Paweł Koene-Jaski (II)
+[NEW]
+<osoba>
+(rajca gdański)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Grzegorz Koene-Jaski
+[Q157643]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Jerzy Koene-Jaski
+[Q157645]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "kupiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Paweł Koene-Jaski
+[Q157646]
+<osoba>
+(kupiec gdański,
+właściciel firmy
+bursztynowej)" -> "Packenhaus
+[NEW]
+<instytucja>
+(szpital miejski, nad
+którym Paweł Koene-Jaski
+sprawował opiekę)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Wittenberga)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "radca sądowy
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "bogaty księgozbiór
+[NEW]
+<własność>
+(przeszedł na własność
+biblioteki Rady Miejskiej
+w Gdańsku w XVII wieku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "piękny ekslibris
+[NEW]
+<własność>
+(jeden z najstarszych na
+terenie Polski)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "Wittenberga
+[Q146885]
+<miejscowość>"	[color=green,
+		label="placeOfEducation [NEW]",
+		minlen=1];
+	"Jan Koene-Jaski
+[NEW]
+<osoba>
+(studiował w Wittenberdze,
+radca sądowy w Królewcu)" -> "Królewiec
+[Q146957]
+<miejscowość>"	[color=green,
+		label="placeOfWork [NEW]",
+		minlen=2];
+	"Jan
+[NEW]
+<osoba>
+(prawdopodobnie Węgier z
+pochodzenia, osiadły w
+Killobe na Pomorzu)" -> "Killobe
+[NEW]
+<miejscowość>
+(na Pomorzu)"	[color=green,
+		label="placeOfResidence [NEW]"];
+	"Dorota Rosenberg
+[NEW]
+<osoba>
+(córka Michała Rosenberga)" -> "Michał Rosenberg
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Małgorzata Ottinghusen
+[NEW]
+<osoba>
+(córka Wessla Ottinghusena)" -> "Wessel Ottinghusen
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+}

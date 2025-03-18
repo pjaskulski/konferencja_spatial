@@ -1,0 +1,172 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)"	[color=black,
+		label="Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)"];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Zamość
+[Q92486]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Brody
+[Q21611]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Necach Israel
+[NEW]
+<dzieło>
+(pierwsze dzieło
+popularnonaukowe z
+zakresu matematyki i
+astronomii w kulturze
+polskich Żydów)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Mojżesz Mendelsohn
+[NEW]
+<osoba>
+(ideolog oświecenia Żydów
+niemieckich)"	[color=green,
+		label="significantFigure [P100]"];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Mojżesz Mendelsohn
+[NEW]
+<osoba>
+(ideolog oświecenia Żydów
+niemieckich)"	[color=green,
+		label="hasStudent [NEW]"];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Lessing
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Nicolai
+[Q163498]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Salomon Majmon
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "nauczyciel
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "matematyk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "choroba melancholii
+[NEW]
+<przyczyna śmierci>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=1];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Majmonides
+[NEW]
+<osoba>
+(postać historyczna znana
+z racjonalizmu)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "gmina zamojska
+[NEW]
+<instytucja>
+(instytucja związana z
+miejscowością Zamość)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Izrael ben Mosze
+[Q155427]
+<osoba>
+(pionier żydowskiego
+oświecenia (Haskali) w
+Polsce i matematyk)" -> "Berlin
+[Q181990]
+<miejscowość>
+(miasto, w którym Izrael
+ben Mosze mieszkał przez
+pewien czas)"	[color=green,
+		label="placeOfResidence [NEW]",
+		minlen=4];
+}

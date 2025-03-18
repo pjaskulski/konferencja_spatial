@@ -1,0 +1,83 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)"	[color=black,
+		label="Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)"];
+	"Piotr
+[Q165744]
+<osoba>
+(poprzednik Nieustępa na
+urzędzie wojewody
+krakowskiego)"	[color=black,
+		label="Piotr
+[Q165744]
+<osoba>
+(poprzednik Nieustępa na
+urzędzie wojewody
+krakowskiego)"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "Piotr
+[Q165744]
+<osoba>
+(poprzednik Nieustępa na
+urzędzie wojewody
+krakowskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "wojewoda krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "kasztelan sandomierski
+[NEW]
+<urząd>
+(poświadczony 8 V 1271)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "Bolesław Wstydliwy
+[Q149562]
+<osoba>
+(książę krakowski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "1278-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Piotr
+[Q165744]
+<osoba>
+(poprzednik Nieustępa na
+urzędzie wojewody
+krakowskiego)" -> "wojewoda krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+}

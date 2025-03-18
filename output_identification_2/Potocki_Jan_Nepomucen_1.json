@@ -1,0 +1,763 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zakład Zdrojowy w Rymanowie",
+                "type": "instytucja",
+                "description": "zakład uzdrowiskowy o cennych solankach jodo-bromowych i szczawach alkalicznych",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "poseł do parlamentu austriackiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Potocki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q166695"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna z Działyńskich",
+                "type": "osoba",
+                "description": "zob. Potocka Anna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Rymanów Zdrój",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q73387"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rymanów",
+                "type": "miejscowość",
+                "description": "cmentarz w Rymanowie",
+                "wikihum": "Q73386"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krzyż Oficerski Orderu Polonia Restituta",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Róża z Wodzickich",
+                "type": "osoba",
+                "description": "pierwsza żona Jana Nepomucena Potockiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Maria z Szajerów",
+                "type": "osoba",
+                "description": "druga żona Jana Nepomucena Potockiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Aleksander Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Teresa Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Jadwiga Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Ignacy Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "Q166640"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Zofia Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Maria Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "hasGrandson",
+                "wikihum": "P110"
+            },
+            "object": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie",
+                "wikihum": "Q166654"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie",
+                "wikihum": "Q166654"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie",
+                "wikihum": "Q166654"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "lawina na stokach Noszaka w Hindukuszu",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Politechnika we Lwowie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Oleszyce",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q61056"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1867-04-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polskie Towarzystwo Balneologiczne",
+                "type": "organizacja",
+                "description": "z siedzibą w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krajowy Związek Zdrojowisk i Uzdrowisk",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q110427798"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Książęco-Biskupi Komitet pomocy",
+                "type": "organizacja",
+                "description": "oddział w Zakopanem",
+                "wikihum": "NEW",
+                "wikidata": "Q11750429"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Sokół w Rymanowie",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kasa Zaliczkowa",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11736683"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kółko Rolnicze",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ochotnicza straż pożarna",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q285852"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rada powiatowa w Sanoku",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Organizacje społeczne w Rymanowie i okolicy",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Bazyli Maściuch",
+                "type": "osoba",
+                "description": "biskup greckokatolicki Łemkowszczyzny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Wolski",
+                "type": "osoba",
+                "description": "proboszcz Rymanowa",
+                "wikihum": "Q4890"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Nepomucen Potocki",
+                "type": "osoba",
+                "description": "właściciel Zakładu Zdrojowego w Rymanowie, poseł do parlamentu austriackiego, działacz społeczny",
+                "wikihum": "Q166652"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Ignacy Bielecki",
+                "type": "osoba",
+                "description": "lekarz praktykujący w Rymanowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna z Działyńskich",
+                "type": "osoba",
+                "description": "zob. Potocka Anna",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Stanisław Potocki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q166695"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "Q166640"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Ignacy Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "Q166640"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Maria Potocka",
+                "type": "osoba",
+                "description": "córka Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan Potocki",
+                "type": "osoba",
+                "description": "syn Jana Nepomucena Potockiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie",
+                "wikihum": "Q166654"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "archeolog",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jerzy Potocki",
+                "type": "osoba",
+                "description": "wnuk Jana Nepomucena Potockiego, archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie",
+                "wikihum": "Q166654"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Instytut Historii Kultury Materialnej PAN w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Bazyli Maściuch",
+                "type": "osoba",
+                "description": "biskup greckokatolicki Łemkowszczyzny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "biskup greckokatolicki Łemkowszczyzny",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Bielecki",
+                "type": "osoba",
+                "description": "lekarz praktykujący w Rymanowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "lekarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

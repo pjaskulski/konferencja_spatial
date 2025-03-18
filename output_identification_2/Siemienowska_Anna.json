@@ -1,0 +1,278 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Wiktor Siemienowski",
+                "type": "osoba",
+                "description": "ojciec Anny Siemienowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Pelagia Siemienowska",
+                "type": "osoba",
+                "description": "matka Anny Siemienowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Albertyn",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Anny Siemienowskiej",
+                "wikihum": "Q142864"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Anny Siemienowskiej",
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Cmentarz Komunalny Północny",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Anny Siemienowskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q8510786",
+                "nominatim": 163641810,
+                "nominatim_name": "Cmentarz Komunalny Północny, Warszawa, województwo mazowieckie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Państwowy Zarząd Wodny w Łucku",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej przed drugą wojną światową",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zentral Handelsgesellschaft Ost w Łucku",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej od 1 I 1942 do 30 I 1944",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Walki Zbrojnej – Armia Krajowa",
+                "type": "organizacja",
+                "description": "organizacja, do której należała Anna Siemienowska od 1 IX 1941 do marca 1944",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Centralne Biuro Studiów Budownictwa Wodnego «Hydroprojekt»",
+                "type": "instytucja",
+                "description": "miejsce pracy Anny Siemienowskiej po powrocie do kraju",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Historii Kobiet w Walce o Niepodległość Towarzystwa Miłośników Historii w Warszawie",
+                "type": "organizacja",
+                "description": "organizacja, w której działała Anna Siemienowska w latach 1980–89",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jadwiga Brojakowa",
+                "type": "osoba",
+                "description": "siostra Anny Siemienowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Inspektorat Rejonowy AK Łuck",
+                "type": "organizacja",
+                "description": "jednostka, w której Anna Siemienowska pełniła funkcje szefa łączności wewnętrznej i szefa kancelarii",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "NKWD",
+                "type": "organizacja",
+                "description": "instytucja, która aresztowała Annę Siemienowską",
+                "wikihum": "NEW",
+                "wikidata": "Q1514649"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Trybunał Kijowskiego Okręgu Wojskowego",
+                "type": "organizacja",
+                "description": "instytucja, która skazała Annę Siemienowską na 15 lat obozu pracy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Siemienowska",
+                "type": "osoba",
+                "description": "pseud. Wiktoria, urzędniczka, działaczka Armii Krajowej",
+                "wikihum": "Q170524"
+            },
+            "predicate": {
+                "name": "placeOfImprisonment",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Republika Autonomiczna Komi",
+                "type": "miejscowość",
+                "description": "miejsce, do którego Anna Siemienowska została wywieziona po skazaniu na obóz pracy",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,733 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)"	[color=black,
+		label="Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)"];
+	"Jarosław Dąbrowski
+[Q151316]
+<osoba>"	[color=black,
+		label="Jarosław Dąbrowski
+[Q151316]
+<osoba>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Jarosław Dąbrowski
+[Q151316]
+<osoba>"	[color=green,
+		label="hasHusband [P94]"];
+	"Dubienka
+[Q29633]
+<miejscowość>
+(w Lubelskiem)"	[color=black,
+		label="Dubienka
+[Q29633]
+<miejscowość>
+(w Lubelskiem)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Dubienka
+[Q29633]
+<miejscowość>
+(w Lubelskiem)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"nauczycielka
+[NEW]
+<zawód>"	[color=black,
+		label="nauczycielka
+[NEW]
+<zawód>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "nauczycielka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"pensja Teresy Brzezińskiej
+[NEW]
+<instytucja>
+(w Warszawie)"	[color=black,
+		label="pensja Teresy Brzezińskiej
+[NEW]
+<instytucja>
+(w Warszawie)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "pensja Teresy Brzezińskiej
+[NEW]
+<instytucja>
+(w Warszawie)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"synowie Pelagii Dąbrowskiej
+[NEW]
+<osoba>
+(trzech synów)"	[color=black,
+		label="synowie Pelagii Dąbrowskiej
+[NEW]
+<osoba>
+(trzech synów)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "synowie Pelagii Dąbrowskiej
+[NEW]
+<osoba>
+(trzech synów)"	[color=green,
+		label="hasSon [P153]"];
+	"gimnazjum Królowej Jadwigi
+[NEW]
+<instytucja>"	[color=black,
+		label="gimnazjum Królowej Jadwigi
+[NEW]
+<instytucja>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "gimnazjum Królowej Jadwigi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"komuna paryska
+[NEW]
+<wydarzenie>"	[color=black,
+		label="komuna paryska
+[NEW]
+<wydarzenie>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "komuna paryska
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Centralny Komitet Narodowy
+[NEW]
+<instytucja>"	[color=black,
+		label="Centralny Komitet Narodowy
+[NEW]
+<instytucja>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Centralny Komitet Narodowy
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [[placeOfBurial]]"];
+	"Jasło
+[Q38482]
+<miejscowość>"	[color=black,
+		label="Jasło
+[Q38482]
+<miejscowość>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Jasło
+[Q38482]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Anglia
+[Q117039]
+<miejscowość>"	[color=black,
+		label="Anglia
+[Q117039]
+<miejscowość>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Anglia
+[Q117039]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Francja
+[Q97863]
+<miejscowość>"	[color=black,
+		label="Francja
+[Q97863]
+<miejscowość>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Francja
+[Q97863]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Aradatow
+[NEW]
+<miejscowość>
+(gubernia
+niżnienowogrodzka)"	[color=black,
+		label="Aradatow
+[NEW]
+<miejscowość>
+(gubernia
+niżnienowogrodzka)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Aradatow
+[NEW]
+<miejscowość>
+(gubernia
+niżnienowogrodzka)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Pelagia z Piotrowskich
+[NEW]
+<osoba>
+(matka Pelagii Dąbrowskiej)"	[color=black,
+		label="Pelagia z Piotrowskich
+[NEW]
+<osoba>
+(matka Pelagii Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Pelagia z Piotrowskich
+[NEW]
+<osoba>
+(matka Pelagii Dąbrowskiej)"	[color=green,
+		label="hasMother [P93]"];
+	"Michał Zgliczyński
+[NEW]
+<osoba>
+(ojciec Pelagii
+Dąbrowskiej)"	[color=black,
+		label="Michał Zgliczyński
+[NEW]
+<osoba>
+(ojciec Pelagii
+Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Michał Zgliczyński
+[NEW]
+<osoba>
+(ojciec Pelagii
+Dąbrowskiej)"	[color=green,
+		label="hasFather [P92]"];
+	"Waleria Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"	[color=black,
+		label="Waleria Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Waleria Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"	[color=green,
+		label="hasAunt [P99]"];
+	"Ignacja Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"	[color=black,
+		label="Ignacja Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Ignacja Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)"	[color=green,
+		label="hasAunt [P99]"];
+	"Cytadela warszawska
+[NEW]
+<miejscowość>
+(miejsce ślubu Pelagii
+Dąbrowskiej z Jarosławem
+Dąbrowskim)"	[color=black,
+		label="Cytadela warszawska
+[NEW]
+<miejscowość>
+(miejsce ślubu Pelagii
+Dąbrowskiej z Jarosławem
+Dąbrowskim)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Cytadela warszawska
+[NEW]
+<miejscowość>
+(miejsce ślubu Pelagii
+Dąbrowskiej z Jarosławem
+Dąbrowskim)"	[color=green,
+		label="significantLocality [NEW]"];
+	"zesłanie do Aradatowa
+[NEW]
+<wydarzenie>
+(zesłanie Pelagii
+Dąbrowskiej do Aradatowa
+w guberni
+niżnienowogrodzkiej)"	[color=black,
+		label="zesłanie do Aradatowa
+[NEW]
+<wydarzenie>
+(zesłanie Pelagii
+Dąbrowskiej do Aradatowa
+w guberni
+niżnienowogrodzkiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "zesłanie do Aradatowa
+[NEW]
+<wydarzenie>
+(zesłanie Pelagii
+Dąbrowskiej do Aradatowa
+w guberni
+niżnienowogrodzkiej)"	[color=green,
+		label="significantEvent [NEW]"];
+	"wykradzenie z Aradatowa
+[NEW]
+<wydarzenie>
+(wykradzenie Pelagii
+Dąbrowskiej z Aradatowa
+przez Jarosława
+Dąbrowskiego)"	[color=black,
+		label="wykradzenie z Aradatowa
+[NEW]
+<wydarzenie>
+(wykradzenie Pelagii
+Dąbrowskiej z Aradatowa
+przez Jarosława
+Dąbrowskiego)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "wykradzenie z Aradatowa
+[NEW]
+<wydarzenie>
+(wykradzenie Pelagii
+Dąbrowskiej z Aradatowa
+przez Jarosława
+Dąbrowskiego)"	[color=green,
+		label="significantEvent [NEW]"];
+	"pierwsze gimnazjum żeńskie założone przez Trzaskowskiego
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej jako
+ochmistrzyni)"	[color=black,
+		label="pierwsze gimnazjum żeńskie założone przez Trzaskowskiego
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej jako
+ochmistrzyni)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "pierwsze gimnazjum żeńskie założone przez Trzaskowskiego
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej jako
+ochmistrzyni)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"stowarzyszenia krakowskie
+[NEW]
+<instytucja>
+(miejsca działalności
+Pelagii Dąbrowskiej)"	[color=black,
+		label="stowarzyszenia krakowskie
+[NEW]
+<instytucja>
+(miejsca działalności
+Pelagii Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "stowarzyszenia krakowskie
+[NEW]
+<instytucja>
+(miejsca działalności
+Pelagii Dąbrowskiej)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Piotr Falkenhagen-Zaleski
+[Q152486]
+<osoba>
+(wuj Pelagii Dąbrowskiej)"	[color=black,
+		label="Piotr Falkenhagen-Zaleski
+[Q152486]
+<osoba>
+(wuj Pelagii Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Piotr Falkenhagen-Zaleski
+[Q152486]
+<osoba>
+(wuj Pelagii Dąbrowskiej)"	[color=green,
+		label="hasUncle [P99]"];
+	"X pawilon
+[NEW]
+<obiekt fizjograficzny>
+(miejsce osadzenia Pelagii
+Dąbrowskiej po
+aresztowaniu)"	[color=black,
+		label="X pawilon
+[NEW]
+<obiekt fizjograficzny>
+(miejsce osadzenia Pelagii
+Dąbrowskiej po
+aresztowaniu)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "X pawilon
+[NEW]
+<obiekt fizjograficzny>
+(miejsce osadzenia Pelagii
+Dąbrowskiej po
+aresztowaniu)"	[color=green,
+		label="significantLocality [NEW]"];
+	"szkoła św. Andrzeja ss. felicjanek
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej w Krakowie)"	[color=black,
+		label="szkoła św. Andrzeja ss. felicjanek
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej w Krakowie)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "szkoła św. Andrzeja ss. felicjanek
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej w Krakowie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"instytucja Serwatowskiej i Krynickiej
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej)"	[color=black,
+		label="instytucja Serwatowskiej i Krynickiej
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "instytucja Serwatowskiej i Krynickiej
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "1909-02-11"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "1843-09-10"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Jarosław Dąbrowski
+[Q151316]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dubienka
+[Q29633]
+<miejscowość>
+(w Lubelskiem)" -> "człowiek
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"nauczycielka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"pensja Teresy Brzezińskiej
+[NEW]
+<instytucja>
+(w Warszawie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"synowie Pelagii Dąbrowskiej
+[NEW]
+<osoba>
+(trzech synów)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"gimnazjum Królowej Jadwigi
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"komuna paryska
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Centralny Komitet Narodowy
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jasło
+[Q38482]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anglia
+[Q117039]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Francja
+[Q97863]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Aradatow
+[NEW]
+<miejscowość>
+(gubernia
+niżnienowogrodzka)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Pelagia z Piotrowskich
+[NEW]
+<osoba>
+(matka Pelagii Dąbrowskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Michał Zgliczyński
+[NEW]
+<osoba>
+(ojciec Pelagii
+Dąbrowskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Waleria Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ignacja Piotrowska
+[NEW]
+<osoba>
+(ciotka Pelagii
+Dąbrowskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Cytadela warszawska
+[NEW]
+<miejscowość>
+(miejsce ślubu Pelagii
+Dąbrowskiej z Jarosławem
+Dąbrowskim)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zesłanie do Aradatowa
+[NEW]
+<wydarzenie>
+(zesłanie Pelagii
+Dąbrowskiej do Aradatowa
+w guberni
+niżnienowogrodzkiej)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wykradzenie z Aradatowa
+[NEW]
+<wydarzenie>
+(wykradzenie Pelagii
+Dąbrowskiej z Aradatowa
+przez Jarosława
+Dąbrowskiego)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pierwsze gimnazjum żeńskie założone przez Trzaskowskiego
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej jako
+ochmistrzyni)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"stowarzyszenia krakowskie
+[NEW]
+<instytucja>
+(miejsca działalności
+Pelagii Dąbrowskiej)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr Falkenhagen-Zaleski
+[Q152486]
+<osoba>
+(wuj Pelagii Dąbrowskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"X pawilon
+[NEW]
+<obiekt fizjograficzny>
+(miejsce osadzenia Pelagii
+Dąbrowskiej po
+aresztowaniu)" -> "człowiek
+[Q51]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"szkoła św. Andrzeja ss. felicjanek
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej w Krakowie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"instytucja Serwatowskiej i Krynickiej
+[NEW]
+<instytucja>
+(miejsce pracy Pelagii
+Dąbrowskiej)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

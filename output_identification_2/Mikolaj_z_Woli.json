@@ -1,0 +1,112 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan kruszwicki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q64760639"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starosta kujawski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1346-10-31",
+                "type": "data",
+                "description": "Data śmierci jest niepewna, możliwy rok to 1346 lub 1347."
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Maciej z Gołańczy",
+                "type": "osoba",
+                "description": "biskup, który wykupił Mikołaja z Woli z niewoli",
+                "wikihum": "Q161002"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podkomorzy brzeski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj z Woli",
+                "type": "osoba",
+                "description": "kasztelan kruszwicki i starosta kujawski",
+                "wikihum": "Q162401"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "asesor sądu ziemskiego",
+                "type": "zawód",
+                "description": "w Inowrocławiu w 1341 roku",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

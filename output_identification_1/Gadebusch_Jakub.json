@@ -1,0 +1,428 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Gryfii",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gryfii",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum Akademickie",
+                "type": "instytucja",
+                "description": "Instytucja edukacyjna w Gdańsku, gdzie studiował Jakub Gadebusch.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gimnazjum Akademickie",
+                "type": "instytucja",
+                "description": "Instytucja edukacyjna w Gdańsku, gdzie studiował Jakub Gadebusch.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "Profesor fizyki i metafizyki, pod którego kierunkiem studiował Jakub Gadebusch.",
+                "wikihum": "Q165059"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adrian Pauli",
+                "type": "osoba",
+                "description": "Profesor fizyki i metafizyki, pod którego kierunkiem studiował Jakub Gadebusch.",
+                "wikihum": "Q165059"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q72328"
+            }
+        },
+        {
+            "subject": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q72328"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "utwory panegiryczne",
+                "type": "dzieło",
+                "description": "Utwory ku czci wybitnych gdańszczan wydane przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "utwory panegiryczne",
+                "type": "dzieło",
+                "description": "Utwory ku czci wybitnych gdańszczan wydane przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Vestibulum Regni Poloniae",
+                "type": "dzieło",
+                "description": "Krótki rys części gramatyki polskiej wydany przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Vestibulum Regni Poloniae",
+                "type": "dzieło",
+                "description": "Krótki rys części gramatyki polskiej wydany przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Encomium Regni Poloniae",
+                "type": "dzieło",
+                "description": "Opis Polski wydany przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Encomium Regni Poloniae",
+                "type": "dzieło",
+                "description": "Opis Polski wydany przez Jakuba Gadebuscha.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Chronicon dynastarum Regni Poloniae",
+                "type": "dzieło",
+                "description": "Wierszowany utwór Klemensa Janickiego wydany przez Jakuba Gadebuscha pod zmienionym tytułem.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Chronicon dynastarum Regni Poloniae",
+                "type": "dzieło",
+                "description": "Wierszowany utwór Klemensa Janickiego wydany przez Jakuba Gadebuscha pod zmienionym tytułem.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "łacińska dysputacja filozoficzna o kometach",
+                "type": "wydarzenie",
+                "description": "Wydarzenie naukowe, które miało miejsce 2 II 1619.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "łacińska dysputacja filozoficzna o kometach",
+                "type": "wydarzenie",
+                "description": "Wydarzenie naukowe, które miało miejsce 2 II 1619.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "łacińska mowa o metodzie uczenia się",
+                "type": "wydarzenie",
+                "description": "Wydarzenie naukowe, które miało miejsce 10 V 1620.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "łacińska mowa o metodzie uczenia się",
+                "type": "wydarzenie",
+                "description": "Wydarzenie naukowe, które miało miejsce 10 V 1620.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Gadebusch",
+                "type": "osoba",
+                "description": "Niemiec z pochodzenia, związany uczuciowo z Polską, podpisywał się jako Pomeranus – Pomorzanin.",
+                "wikihum": "Q152955"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zapisanie się na uniwersytet w Królewcu",
+                "type": "wydarzenie",
+                "description": "Wydarzenie edukacyjne, które miało miejsce 14 X 1623.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zapisanie się na uniwersytet w Królewcu",
+                "type": "wydarzenie",
+                "description": "Wydarzenie edukacyjne, które miało miejsce 14 X 1623.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

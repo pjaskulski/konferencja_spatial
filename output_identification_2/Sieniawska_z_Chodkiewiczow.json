@@ -1,0 +1,257 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Aleksander Chodkiewicz",
+                "type": "osoba",
+                "description": "wojewoda trocki",
+                "wikihum": "Q150479"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Eufemia Sienieńska",
+                "type": "osoba",
+                "description": "córka Andrzeja, podkomorzego lwowskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Prokop Sieniawski",
+                "type": "osoba",
+                "description": "chorąży kor.",
+                "wikihum": "Q170586"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Adam Hieronim",
+                "type": "osoba",
+                "description": "syn Anny Eufrozyny Sieniawskiej",
+                "wikihum": "Q170573"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasBrotherInLaw",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mikołaj Sieniawski",
+                "type": "osoba",
+                "description": "podczaszy kor.",
+                "wikihum": "Q170581"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Krzysztof Radziwiłł",
+                "type": "osoba",
+                "description": "hetman polny litewski",
+                "wikihum": "Q167707"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra Sieniawskiej",
+                "type": "własność",
+                "description": "Szkłów, Nowa Mysz, Gołogóry i inne",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1633-04-00",
+                "type": "data",
+                "description": "Anna Eufrozyna Sieniawska zmarła w kwietniu 1633 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół Dominikanów lwowskich",
+                "type": "miejsce",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dominikanie lwowscy",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "karmelici bosi",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19143067"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eufrozyna Sieniawska",
+                "type": "osoba",
+                "description": "chorążyna kor., zmarła w 1633 roku",
+                "wikihum": "Q170570"
+            },
+            "predicate": {
+                "name": "hasGrandfather",
+                "wikihum": "P91"
+            },
+            "object": {
+                "name": "Andrzej Sienieński",
+                "type": "osoba",
+                "description": "podkomorzy lwowski",
+                "wikihum": "Q170602"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufemia Sienieńska",
+                "type": "osoba",
+                "description": "córka Andrzeja, podkomorzego lwowskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Andrzej Sienieński",
+                "type": "osoba",
+                "description": "podkomorzy lwowski",
+                "wikihum": "Q170602"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Radziwiłł",
+                "type": "osoba",
+                "description": "hetman polny litewski",
+                "wikihum": "Q167707"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "hetman polny litewski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q2384751"
+            }
+        }
+    ]
+}

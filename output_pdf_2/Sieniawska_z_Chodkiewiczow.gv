@@ -1,0 +1,168 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)"	[color=black,
+		label="Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)"];
+	"Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"	[color=black,
+		label="Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)"	[color=green,
+		label="hasMother [P93]"];
+	"Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"	[color=black,
+		label="Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Aleksander Chodkiewicz
+[Q150479]
+<osoba>
+(wojewoda trocki)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Prokop Sieniawski
+[Q170586]
+<osoba>
+(chorąży kor.)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Adam Hieronim
+[Q170573]
+<osoba>
+(syn Anny Eufrozyny
+Sieniawskiej)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Mikołaj Sieniawski
+[Q170581]
+<osoba>
+(podczaszy kor.)"	[color=green,
+		label="hasBrotherInLaw [NEW]",
+		minlen=4];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "dobra Sieniawskiej
+[NEW]
+<własność>
+(Szkłów, Nowa Mysz,
+Gołogóry i inne)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "1633-04-00
+(Anna Eufrozyna Sieniawska
+zmarła w kwietniu 1633
+roku.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "kościół Dominikanów lwowskich
+[NEW]
+<miejsce>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "dominikanie lwowscy
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "karmelici bosi
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Anna Eufrozyna Sieniawska
+[Q170570]
+<osoba>
+(chorążyna kor., zmarła w
+1633 roku)" -> "Andrzej Sienieński
+[Q170602]
+<osoba>
+(podkomorzy lwowski)"	[color=green,
+		label="hasGrandfather [P91]"];
+	"Eufemia Sienieńska
+[NEW]
+<osoba>
+(córka Andrzeja,
+podkomorzego lwowskiego)" -> "Andrzej Sienieński
+[Q170602]
+<osoba>
+(podkomorzy lwowski)"	[color=green,
+		label="hasFather [P92]"];
+	"Krzysztof Radziwiłł
+[Q167707]
+<osoba>
+(hetman polny litewski)" -> "hetman polny litewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

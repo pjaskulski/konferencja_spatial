@@ -1,0 +1,197 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)"	[color=black,
+		label="Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>"	[color=black,
+		label="Christian Pichgiel młodszy
+[NEW]
+<osoba>"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Christian Pichgiel młodszy
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "złotnik
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Lublin
+[Q50436]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "1700-09-29"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku
+[NEW]
+<miejsce>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Barbara Biettin
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Johan Pichgiel
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Daniel Pichgiel
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Emanuel Pichgiel
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Matthias Pichel
+[NEW]
+<osoba>
+(stryj Christiana
+Pichgiela starszego)"	[color=green,
+		label="hasUncle [P99]",
+		minlen=1];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Hieronim Edel
+[Q152243]
+<osoba>
+(nauczyciel Christiana
+Pichgiela starszego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "starszy cechu
+[NEW]
+<urząd>
+(pełniony przez Christiana
+Pichgiela starszego w
+latach 1692 i 1697)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "zastępca starszego cechu
+[NEW]
+<urząd>
+(pełniony przez Christiana
+Pichgiela starszego w
+latach 1691, 1696 i 1700)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański)" -> "Matthias Pichgiel młodszy
+[NEW]
+<osoba>
+(kuzyn Christiana
+Pichgiela starszego)"	[color=green,
+		label="hasCousin [P99]",
+		minlen=1];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>" -> "1684-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>" -> "1724-05-26"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>" -> "warsztat rodziców
+[NEW]
+<instytucja>
+(miejsce nauki Christiana
+Pichgiela młodszego w
+latach 1689–1704)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>" -> "egzamin mistrzowski
+[NEW]
+<wydarzenie>
+(zdany 10 I 1716)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>" -> "złotnik
+[NEW]
+<zawód>
+(zawód Christiana
+Pichgiela młodszego)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, czeladnik)"	[color=black,
+		label="Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, czeladnik)"];
+	"Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, czeladnik)" -> "czeladnik
+[NEW]
+<zawód>
+(zawód Emanuela Pichgiela)"	[color=green,
+		label="hasOccupation [P106]"];
+}

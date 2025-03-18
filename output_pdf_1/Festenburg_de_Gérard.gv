@@ -1,0 +1,302 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)"	[color=black,
+		label="Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)"];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "1843-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "1914-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "lekarz-akuszer
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "prezydent Izby Lekarskiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Wydział Lekarski w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Instytut Medyko-chirurgiczny we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Towarzystwo Lekarzy Galicyjskich
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Towarzystwo Opieki Szpitalnej nad Dziećmi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Lwowskie Towarzystwo Lekarskie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Towarzystwo Ginekologiczne we Lwowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Krajowa Rada Zdrowia
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "Galicyjskie Towarzystwo Muzyczne
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "wzór lekarza-obywatela i lekarza-społecznika
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "stworzenie Kasy dla chorych lekarzy
+[NEW]
+<osiągnięcie>
+(pierwsza tego rodzaju
+instytucja w b. Monarchii
+Austriackiej)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "założenie funduszu zapomogowego
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "reforma taryfy sądowo-lekarskiej
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "reforma ustawy o lekarzach okręgowych, kolejowych, więziennych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "skarbnikiem
+[NEW]
+<stanowisko>
+(Towarzystwo Lekarzy
+Galicyjskich)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "przewodniczący
+[NEW]
+<stanowisko>
+(Towarzystwo Opieki
+Szpitalnej nad Dziećmi)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "prezes
+[NEW]
+<stanowisko>
+(Lwowskie Towarzystwo
+Lekarskie, 1895)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "członek honorowy
+[NEW]
+<stanowisko>
+(Lwowskie Towarzystwo
+Lekarskie, 1907)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Edward Festenburg de Gérard
+[Q152578]
+<osoba>
+(lekarz-akuszer, prezydent
+Izby Lekarskiej)" -> "wiceprezes
+[NEW]
+<stanowisko>
+(Krajowa Rada Zdrowia,
+1904)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Józef Rożański
+[Q168813]
+<osoba>
+(pierwszy prezydent Izby
+Wschodnio-galicyjskiej we
+Lwowie)"	[color=black,
+		label="Józef Rożański
+[Q168813]
+<osoba>
+(pierwszy prezydent Izby
+Wschodnio-galicyjskiej we
+Lwowie)"];
+	"Józef Rożański
+[Q168813]
+<osoba>
+(pierwszy prezydent Izby
+Wschodnio-galicyjskiej we
+Lwowie)" -> "prezydent Izby Wschodnio-galicyjskiej we Lwowie
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Adam Czyżewicz
+[NEW]
+<osoba>
+(osoba, która objęła
+katedrę położnictwa po
+Festenburgu de Gérard
+Edwardzie)"	[color=black,
+		label="Adam Czyżewicz
+[NEW]
+<osoba>
+(osoba, która objęła
+katedrę położnictwa po
+Festenburgu de Gérard
+Edwardzie)"];
+	"Adam Czyżewicz
+[NEW]
+<osoba>
+(osoba, która objęła
+katedrę położnictwa po
+Festenburgu de Gérard
+Edwardzie)" -> "kierownik katedry położnictwa
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Weber
+[Q175324]
+<osoba>
+(profesor kierujący
+Oddziałem Ginekologicznym)"	[color=black,
+		label="Weber
+[Q175324]
+<osoba>
+(profesor kierujący
+Oddziałem Ginekologicznym)"];
+	"Weber
+[Q175324]
+<osoba>
+(profesor kierujący
+Oddziałem Ginekologicznym)" -> "kierownik Oddziału Ginekologicznego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+}

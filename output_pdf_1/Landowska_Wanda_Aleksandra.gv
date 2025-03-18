@@ -1,0 +1,693 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)"	[color=black,
+		label="Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)"];
+	"klawesynistka
+[NEW]
+<zawód>"	[color=black,
+		label="klawesynistka
+[NEW]
+<zawód>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "klawesynistka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"pedagog
+[NEW]
+<zawód>"	[color=black,
+		label="pedagog
+[NEW]
+<zawód>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "pedagog
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"kompozytorka
+[NEW]
+<zawód>"	[color=black,
+		label="kompozytorka
+[NEW]
+<zawód>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "kompozytorka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"publicystka
+[NEW]
+<zawód>"	[color=black,
+		label="publicystka
+[NEW]
+<zawód>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "publicystka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Lakeville
+[NEW]
+<miejscowość>
+(w stanie Connecticut)"	[color=black,
+		label="Lakeville
+[NEW]
+<miejscowość>
+(w stanie Connecticut)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Lakeville
+[NEW]
+<miejscowość>
+(w stanie Connecticut)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Marian Landowski
+[NEW]
+<osoba>
+(adwokat)"	[color=black,
+		label="Marian Landowski
+[NEW]
+<osoba>
+(adwokat)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Marian Landowski
+[NEW]
+<osoba>
+(adwokat)"	[color=green,
+		label="hasFather [P92]"];
+	"Ewelina Lautenberg
+[NEW]
+<osoba>
+(filolog, założycielka
+pierwszej w Warszawie
+szkoły języków obcych)"	[color=black,
+		label="Ewelina Lautenberg
+[NEW]
+<osoba>
+(filolog, założycielka
+pierwszej w Warszawie
+szkoły języków obcych)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Ewelina Lautenberg
+[NEW]
+<osoba>
+(filolog, założycielka
+pierwszej w Warszawie
+szkoły języków obcych)"	[color=green,
+		label="hasMother [P93]"];
+	"katolicyzm
+[NEW]
+<religia>"	[color=black,
+		label="katolicyzm
+[NEW]
+<religia>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "katolicyzm
+[NEW]
+<religia>"	[color=green,
+		label="religiousAffiliation [NEW]"];
+	"Konserwatorium Warszawskie
+[NEW]
+<instytucja>"	[color=black,
+		label="Konserwatorium Warszawskie
+[NEW]
+<instytucja>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Konserwatorium Warszawskie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Berlin
+[Q181990]
+<miejscowość>"	[color=black,
+		label="Berlin
+[Q181990]
+<miejscowość>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Berlin
+[Q181990]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Mieczysław Karłowicz
+[Q156751]
+<osoba>"	[color=black,
+		label="Mieczysław Karłowicz
+[Q156751]
+<osoba>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Mieczysław Karłowicz
+[Q156751]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Henryk Lew
+[Q160098]
+<osoba>
+(pisarz i znawca folkloru
+hebrajskiego)"	[color=black,
+		label="Henryk Lew
+[Q160098]
+<osoba>
+(pisarz i znawca folkloru
+hebrajskiego)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Henryk Lew
+[Q160098]
+<osoba>
+(pisarz i znawca folkloru
+hebrajskiego)"	[color=green,
+		label="hasHusband [P94]"];
+	"Schola Cantorum
+[NEW]
+<instytucja>
+(w Paryżu)"	[color=black,
+		label="Schola Cantorum
+[NEW]
+<instytucja>
+(w Paryżu)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Schola Cantorum
+[NEW]
+<instytucja>
+(w Paryżu)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"profesor gry klawesynowej
+[NEW]
+<stanowisko>
+(w Królewskiej Wyższej
+Szkole Muzycznej w
+Berlinie)"	[color=black,
+		label="profesor gry klawesynowej
+[NEW]
+<stanowisko>
+(w Królewskiej Wyższej
+Szkole Muzycznej w
+Berlinie)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "profesor gry klawesynowej
+[NEW]
+<stanowisko>
+(w Królewskiej Wyższej
+Szkole Muzycznej w
+Berlinie)"	[color=green,
+		label="positionHeld [P101]"];
+	"Bazylea
+[Q147339]
+<miejscowość>"	[color=black,
+		label="Bazylea
+[Q147339]
+<miejscowość>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Bazylea
+[Q147339]
+<miejscowość>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Sorbonna
+[NEW]
+<instytucja>"	[color=black,
+		label="Sorbonna
+[NEW]
+<instytucja>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Sorbonna
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"École de Musique Ancienne
+[NEW]
+<instytucja>
+(w Saint-Leu la Forêt pod
+Paryżem)"	[color=black,
+		label="École de Musique Ancienne
+[NEW]
+<instytucja>
+(w Saint-Leu la Forêt pod
+Paryżem)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "École de Musique Ancienne
+[NEW]
+<instytucja>
+(w Saint-Leu la Forêt pod
+Paryżem)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Konserwatorium paryskie
+[NEW]
+<instytucja>"	[color=black,
+		label="Konserwatorium paryskie
+[NEW]
+<instytucja>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Konserwatorium paryskie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Nowy Jork
+[Q147833]
+<miejscowość>"	[color=black,
+		label="Nowy Jork
+[Q147833]
+<miejscowość>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "Nowy Jork
+[Q147833]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"doktor muzyki honoris causa
+[NEW]
+<osiągnięcie>
+(nadany przez Uniwersytet
+w Hartford)"	[color=black,
+		label="doktor muzyki honoris causa
+[NEW]
+<osiągnięcie>
+(nadany przez Uniwersytet
+w Hartford)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "doktor muzyki honoris causa
+[NEW]
+<osiągnięcie>
+(nadany przez Uniwersytet
+w Hartford)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"rozprawy dotyczące wykonawstwa muzyki dawnej
+[NEW]
+<dzieło>"	[color=black,
+		label="rozprawy dotyczące wykonawstwa muzyki dawnej
+[NEW]
+<dzieło>"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "rozprawy dotyczące wykonawstwa muzyki dawnej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"La musique ancienne
+[NEW]
+<dzieło>
+(1909)"	[color=black,
+		label="La musique ancienne
+[NEW]
+<dzieło>
+(1909)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "La musique ancienne
+[NEW]
+<dzieło>
+(1909)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"kompozycje muzyczne
+[NEW]
+<dzieło>
+(Impromptu, Nocturne
+Berceuse, En route, Rondo
+capricioso, Polonia)"	[color=black,
+		label="kompozycje muzyczne
+[NEW]
+<dzieło>
+(Impromptu, Nocturne
+Berceuse, En route, Rondo
+capricioso, Polonia)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "kompozycje muzyczne
+[NEW]
+<dzieło>
+(Impromptu, Nocturne
+Berceuse, En route, Rondo
+capricioso, Polonia)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"bachowski festiwal we Wrocławiu
+[NEW]
+<wydarzenie>
+(Wanda Landowska grała po
+raz pierwszy na
+klawesynie zbudowanym
+specjalnie \
+według jej
+wskazówek przez firmę
+Pleyel w 1912 roku.)"	[color=black,
+		label="bachowski festiwal we Wrocławiu
+[NEW]
+<wydarzenie>
+(Wanda Landowska grała po
+raz pierwszy na
+klawesynie zbudowanym
+specjalnie \
+według jej
+wskazówek przez firmę
+Pleyel w 1912 roku.)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "bachowski festiwal we Wrocławiu
+[NEW]
+<wydarzenie>
+(Wanda Landowska grała po
+raz pierwszy na
+klawesynie zbudowanym
+specjalnie \
+według jej
+wskazówek przez firmę
+Pleyel w 1912 roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"pierwsze współczesne kompozycje na klawesyn
+[NEW]
+<osiągnięcie>
+(Kompozycje M. de
+Falla–Concerto (1926) i
+F. Poulenc–Concert
+\
+Champêtre (1927) zostały
+napisane pod wpływem
+Wandy Landowskiej.)"	[color=black,
+		label="pierwsze współczesne kompozycje na klawesyn
+[NEW]
+<osiągnięcie>
+(Kompozycje M. de
+Falla–Concerto (1926) i
+F. Poulenc–Concert
+\
+Champêtre (1927) zostały
+napisane pod wpływem
+Wandy Landowskiej.)"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "pierwsze współczesne kompozycje na klawesyn
+[NEW]
+<osiągnięcie>
+(Kompozycje M. de
+Falla–Concerto (1926) i
+F. Poulenc–Concert
+\
+Champêtre (1927) zostały
+napisane pod wpływem
+Wandy Landowskiej.)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "1879-07-05"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Wanda Landowska
+[Q159757]
+<osoba>
+(klawesynistka, pedagog,
+kompozytorka, publicystka)" -> "1959-08-16"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"klawesynistka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pedagog
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kompozytorka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"publicystka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lakeville
+[NEW]
+<miejscowość>
+(w stanie Connecticut)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Marian Landowski
+[NEW]
+<osoba>
+(adwokat)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ewelina Lautenberg
+[NEW]
+<osoba>
+(filolog, założycielka
+pierwszej w Warszawie
+szkoły języków obcych)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"katolicyzm
+[NEW]
+<religia>" -> "religia
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Konserwatorium Warszawskie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Berlin
+[Q181990]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mieczysław Karłowicz
+[Q156751]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Henryk Lew
+[Q160098]
+<osoba>
+(pisarz i znawca folkloru
+hebrajskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Schola Cantorum
+[NEW]
+<instytucja>
+(w Paryżu)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"profesor gry klawesynowej
+[NEW]
+<stanowisko>
+(w Królewskiej Wyższej
+Szkole Muzycznej w
+Berlinie)" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Bazylea
+[Q147339]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sorbonna
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"École de Musique Ancienne
+[NEW]
+<instytucja>
+(w Saint-Leu la Forêt pod
+Paryżem)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konserwatorium paryskie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nowy Jork
+[Q147833]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"doktor muzyki honoris causa
+[NEW]
+<osiągnięcie>
+(nadany przez Uniwersytet
+w Hartford)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rozprawy dotyczące wykonawstwa muzyki dawnej
+[NEW]
+<dzieło>" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"La musique ancienne
+[NEW]
+<dzieło>
+(1909)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kompozycje muzyczne
+[NEW]
+<dzieło>
+(Impromptu, Nocturne
+Berceuse, En route, Rondo
+capricioso, Polonia)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bachowski festiwal we Wrocławiu
+[NEW]
+<wydarzenie>
+(Wanda Landowska grała po
+raz pierwszy na
+klawesynie zbudowanym
+specjalnie \
+według jej
+wskazówek przez firmę
+Pleyel w 1912 roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"pierwsze współczesne kompozycje na klawesyn
+[NEW]
+<osiągnięcie>
+(Kompozycje M. de
+Falla–Concerto (1926) i
+F. Poulenc–Concert
+\
+Champêtre (1927) zostały
+napisane pod wpływem
+Wandy Landowskiej.)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

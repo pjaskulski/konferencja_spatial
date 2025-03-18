@@ -1,0 +1,269 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)"	[color=black,
+		label="Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)"];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "1828-12-22"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "1893-03-23"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Leżajsk
+[Q49348]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Cmentarz Łyczakowski
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Mateusz Krystyniacki
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Katarzyna z Romańskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Teofila Felsztyńska
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=4];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "sześciu synów
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Towarzystwo Nauczycieli Szkół Wyższych
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "pedagog
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "tłumacz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "wydawca literatury greckiej i łacińskiej
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "dyrektor miejskiego gimnazjum w Drohobyczu
+[NEW]
+<urząd>
+(mianowany w 1863 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "profesor greki i łaciny
+[NEW]
+<urząd>
+(w gimnazjum I i IV we
+Lwowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Wydział Filozoficzny Szkoły Filozoficznej
+[NEW]
+<uczelnia>
+(Przemyśl)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Przemyśl)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Wydział Filozoficzny
+[NEW]
+<uczelnia>
+(Lwów)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Mathiae Sarbievii carmina posthuma
+[NEW]
+<dzieło>
+(wydane w 1876 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "M. Tulliusza Cicerona tłómaczenie Arata
+[NEW]
+<dzieło>
+(wydane w 1883 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Fasti Sarbieviani
+[NEW]
+<dzieło>
+(wydane w 1886 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Wykład ewangelii św. Mateusza w 90 homiliach
+[NEW]
+<dzieło>
+(przekład św. Jana
+Chryzostoma, wydane w
+1886 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "O języku greckim pisarzy bizantyńskich
+[NEW]
+<dzieło>
+(wydane w 1890 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jan Krystyniacki
+[Q159144]
+<osoba>
+(pedagog, tłumacz i
+wydawca literatury
+greckiej i łacińskiej)" -> "Diplomata statutaria confraternitatis Stauropigianae Leopoliensis 1586–1593
+[NEW]
+<dzieło>
+(wydane pośmiertnie w 1894
+roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+}

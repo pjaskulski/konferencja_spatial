@@ -1,0 +1,541 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)"	[color=black,
+		label="Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)"];
+	"prezydent miasta Łodzi
+[NEW]
+<urząd>"	[color=black,
+		label="prezydent miasta Łodzi
+[NEW]
+<urząd>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "prezydent miasta Łodzi
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"dyrektor Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<urząd>"	[color=black,
+		label="dyrektor Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<urząd>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "dyrektor Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Władysławowo
+[Q87772]
+<miejscowość>
+(koło Konina)"	[color=black,
+		label="Władysławowo
+[Q87772]
+<miejscowość>
+(koło Konina)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Władysławowo
+[Q87772]
+<miejscowość>
+(koło Konina)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Łódź
+[Q52081]
+<miejscowość>"	[color=black,
+		label="Łódź
+[Q52081]
+<miejscowość>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Łódź
+[Q52081]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz katolicki przy ul. Ogrodowej w Łodzi
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz katolicki przy ul. Ogrodowej w Łodzi
+[NEW]
+<miejscowość>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "cmentarz katolicki przy ul. Ogrodowej w Łodzi
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Walenty Rosicki
+[NEW]
+<osoba>"	[color=black,
+		label="Walenty Rosicki
+[NEW]
+<osoba>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Walenty Rosicki
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"Marianna z Idzikowskich
+[NEW]
+<osoba>"	[color=black,
+		label="Marianna z Idzikowskich
+[NEW]
+<osoba>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Marianna z Idzikowskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)"	[color=black,
+		label="Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)"	[color=green,
+		label="hasWife [P94]"];
+	"Józefa Konstancja
+[Q169849]
+<osoba>"	[color=black,
+		label="Józefa Konstancja
+[Q169849]
+<osoba>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Józefa Konstancja
+[Q169849]
+<osoba>"	[color=green,
+		label="hasDaughter [P154]"];
+	"Antonina Wiktoria
+[NEW]
+<osoba>"	[color=black,
+		label="Antonina Wiktoria
+[NEW]
+<osoba>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Antonina Wiktoria
+[NEW]
+<osoba>"	[color=green,
+		label="hasDaughter [P154]"];
+	"Piotr Michał
+[NEW]
+<osoba>
+(kupiec)"	[color=black,
+		label="Piotr Michał
+[NEW]
+<osoba>
+(kupiec)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Piotr Michał
+[NEW]
+<osoba>
+(kupiec)"	[color=green,
+		label="hasSon [P153]"];
+	"Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi
+[NEW]
+<instytucja>"	[color=black,
+		label="Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi
+[NEW]
+<instytucja>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Towarzystwo Kredytowe m. Łodzi
+[NEW]
+<instytucja>"	[color=black,
+		label="Towarzystwo Kredytowe m. Łodzi
+[NEW]
+<instytucja>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Towarzystwo Kredytowe m. Łodzi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"burmistrz Sochaczewa
+[NEW]
+<urząd>"	[color=black,
+		label="burmistrz Sochaczewa
+[NEW]
+<urząd>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "burmistrz Sochaczewa
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Sochaczew
+[Q76789]
+<miejscowość>"	[color=black,
+		label="Sochaczew
+[Q76789]
+<miejscowość>"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Sochaczew
+[Q76789]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Franciszek Traeger
+[NEW]
+<osoba>
+(poprzednik Andrzeja
+Rosickiego na stanowisku
+prezydenta Łodzi)"	[color=black,
+		label="Franciszek Traeger
+[NEW]
+<osoba>
+(poprzednik Andrzeja
+Rosickiego na stanowisku
+prezydenta Łodzi)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "Franciszek Traeger
+[NEW]
+<osoba>
+(poprzednik Andrzeja
+Rosickiego na stanowisku
+prezydenta Łodzi)"	[color=green,
+		label="predecessor [NEW]"];
+	"nieprawomyślność i nielojalność wobec władz rosyjskich
+[NEW]
+<przyczyna>
+(sprzyjał powstańcom
+styczniowym, udzielając
+im \
+wsparcia)"	[color=black,
+		label="nieprawomyślność i nielojalność wobec władz rosyjskich
+[NEW]
+<przyczyna>
+(sprzyjał powstańcom
+styczniowym, udzielając
+im \
+wsparcia)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "nieprawomyślność i nielojalność wobec władz rosyjskich
+[NEW]
+<przyczyna>
+(sprzyjał powstańcom
+styczniowym, udzielając
+im \
+wsparcia)"	[color=green,
+		label="causeOfDismissal [NEW]"];
+	"założenie Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<wydarzenie>
+(Andrzej Rosicki był
+jednym z założycieli w
+1872 roku)"	[color=black,
+		label="założenie Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<wydarzenie>
+(Andrzej Rosicki był
+jednym z założycieli w
+1872 roku)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "założenie Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<wydarzenie>
+(Andrzej Rosicki był
+jednym z założycieli w
+1872 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"emerytura za 30-letnią pracę
+[NEW]
+<osiągnięcie>
+(otrzymał emeryturę w
+wysokości 375 rubli
+rocznie)"	[color=black,
+		label="emerytura za 30-letnią pracę
+[NEW]
+<osiągnięcie>
+(otrzymał emeryturę w
+wysokości 375 rubli
+rocznie)"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "emerytura za 30-letnią pracę
+[NEW]
+<osiągnięcie>
+(otrzymał emeryturę w
+wysokości 375 rubli
+rocznie)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "1814-10-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)" -> "1904-01-17"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"prezydent miasta Łodzi
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dyrektor Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Władysławowo
+[Q87772]
+<miejscowość>
+(koło Konina)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Łódź
+[Q52081]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz katolicki przy ul. Ogrodowej w Łodzi
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Walenty Rosicki
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Marianna z Idzikowskich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)" -> "Andrzej Rosicki
+[Q168549]
+<osoba>
+(prezydent m. Łodzi i
+dyrektor łódzkiego Biura
+Tow. Kredytowego)"	[color=green,
+		label="hasHusband [P94]"];
+	"Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna z Robowskich
+[NEW]
+<osoba>
+(działaczka społeczna i
+przewodnicząca I Ochronki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józefa Konstancja
+[Q169849]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antonina Wiktoria
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr Michał
+[NEW]
+<osoba>
+(kupiec)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Towarzystwo Kredytowe m. Łodzi
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"burmistrz Sochaczewa
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sochaczew
+[Q76789]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Franciszek Traeger
+[NEW]
+<osoba>
+(poprzednik Andrzeja
+Rosickiego na stanowisku
+prezydenta Łodzi)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nieprawomyślność i nielojalność wobec władz rosyjskich
+[NEW]
+<przyczyna>
+(sprzyjał powstańcom
+styczniowym, udzielając
+im \
+wsparcia)" -> "przyczyna
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"założenie Towarzystwa Kredytowego m. Łodzi
+[NEW]
+<wydarzenie>
+(Andrzej Rosicki był
+jednym z założycieli w
+1872 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"emerytura za 30-letnią pracę
+[NEW]
+<osiągnięcie>
+(otrzymał emeryturę w
+wysokości 375 rubli
+rocznie)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

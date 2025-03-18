@@ -1,0 +1,139 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)"	[color=black,
+		label="Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "Lew Borysowicz
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "Michał Gliński
+[Q153475]
+<osoba>
+(marszałek nadworny)"	[color=green,
+		label="hasBrother [P97]"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "Michał Gliński
+[Q153475]
+<osoba>
+(marszałek nadworny)"	[color=green,
+		label="significantFigure [P100]"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "Wasyl Gliński
+[Q153476]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=2];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "wojewoda kijowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "wojewoda nowogrodzki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "1522-00-00
+(Iwan Gliński zmarł przed
+1522 rokiem.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "dworzanin królewski
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "marszałek hospodarski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "chorąży ziemski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "namiestnik przełomski i ożski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki, z
+przydomkiem Mamaj)" -> "Aleksander Jagiellończyk
+[Q148333]
+<osoba>
+(wielki książę litewski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+}

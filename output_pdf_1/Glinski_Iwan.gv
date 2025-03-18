@@ -1,0 +1,133 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)"	[color=black,
+		label="Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "wojewoda kijowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "wojewoda nowogrodzki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "Lew Borysowicz
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "Michał Gliński
+[Q153475]
+<osoba>
+(marszałek nadworny)"	[color=green,
+		label="hasBrother [P97]"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "Michał Gliński
+[Q153475]
+<osoba>
+(marszałek nadworny)"	[color=green,
+		label="significantFigure [P100]"];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "Wasyl Gliński
+[Q153476]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "1522-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "Helena Glińska
+[NEW]
+<osoba>
+(późniejsza małżonka w.
+ks. Wasyla)"	[color=green,
+		label="hasNiece [NEW]",
+		minlen=2];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "dworzanin królewski
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "namiestnik przełomski i ożski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "chorąży ziemski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "marszałek hospodarski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Iwan Gliński
+[Q153470]
+<osoba>
+(wojewoda kijowski,
+później nowogrodzki)" -> "majątki w Kijowszczyźnie
+[NEW]
+<własność>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+}

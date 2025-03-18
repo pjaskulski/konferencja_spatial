@@ -1,0 +1,948 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)"	[color=black,
+		label="Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)"];
+	"dziennikarz
+[NEW]
+<zawód>"	[color=black,
+		label="dziennikarz
+[NEW]
+<zawód>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "dziennikarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"powieściopisarz
+[NEW]
+<zawód>"	[color=black,
+		label="powieściopisarz
+[NEW]
+<zawód>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "powieściopisarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Będzin
+[Q18735]
+<miejscowość>"	[color=black,
+		label="Będzin
+[Q18735]
+<miejscowość>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Będzin
+[Q18735]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Józef Kazimierz
+[Q167474]
+<osoba>"	[color=black,
+		label="Józef Kazimierz
+[Q167474]
+<osoba>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Józef Kazimierz
+[Q167474]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"Anna Maria z Kempińskich
+[NEW]
+<osoba>"	[color=black,
+		label="Anna Maria z Kempińskich
+[NEW]
+<osoba>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Anna Maria z Kempińskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"I Prywatna Średnia Szkoła Żeńska w Krakowie
+[NEW]
+<instytucja>"	[color=black,
+		label="I Prywatna Średnia Szkoła Żeńska w Krakowie
+[NEW]
+<instytucja>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "I Prywatna Średnia Szkoła Żeńska w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)"	[color=black,
+		label="Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)"	[color=green,
+		label="hasHusband [P94]"];
+	"Związek Filaretów
+[NEW]
+<organizacja>
+(młodzieżowy
+niepodległościowy związek)"	[color=black,
+		label="Związek Filaretów
+[NEW]
+<organizacja>
+(młodzieżowy
+niepodległościowy związek)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Związek Filaretów
+[NEW]
+<organizacja>
+(młodzieżowy
+niepodległościowy związek)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Związek Strzelecki
+[NEW]
+<organizacja>"	[color=black,
+		label="Związek Strzelecki
+[NEW]
+<organizacja>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Związek Strzelecki
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Ilustrowany Kurier Codzienny
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Ilustrowany Kurier Codzienny
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Ilustrowany Kurier Codzienny
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Goniec Krakowski
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Goniec Krakowski
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Goniec Krakowski
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Nowa Reforma
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Nowa Reforma
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Nowa Reforma
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Nowości Ilustrowane
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Nowości Ilustrowane
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Nowości Ilustrowane
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kurier Czerwony
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Kurier Czerwony
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Kurier Czerwony
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kino
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Kino
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Kino
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Świat
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Świat
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Świat
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kurier Poranny
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Kurier Poranny
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Kurier Poranny
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Światowid
+[NEW]
+<instytucja>
+(czasopismo)"	[color=black,
+		label="Światowid
+[NEW]
+<instytucja>
+(czasopismo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Światowid
+[NEW]
+<instytucja>
+(czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wydawnictwo Ibis
+[NEW]
+<instytucja>
+(wydawnictwo)"	[color=black,
+		label="Wydawnictwo Ibis
+[NEW]
+<instytucja>
+(wydawnictwo)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Wydawnictwo Ibis
+[NEW]
+<instytucja>
+(wydawnictwo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Człowiek z mostu
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Człowiek z mostu
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Człowiek z mostu
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Gwiazda i hrabia małżonek
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Gwiazda i hrabia małżonek
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Gwiazda i hrabia małżonek
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Małżeństwo gwiazdy
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Małżeństwo gwiazdy
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Małżeństwo gwiazdy
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Twarze pod szminką
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Twarze pod szminką
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Twarze pod szminką
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Wysokie C
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Wysokie C
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Wysokie C
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Kariera Władki Brzozkówny
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Kariera Władki Brzozkówny
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Kariera Władki Brzozkówny
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Lady Władka
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Lady Władka
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Lady Władka
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Rozeszły się ich drogi
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Rozeszły się ich drogi
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Rozeszły się ich drogi
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Kobieta płaci...
+[NEW]
+<dzieło>
+(trylogia)"	[color=black,
+		label="Kobieta płaci...
+[NEW]
+<dzieło>
+(trylogia)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Kobieta płaci...
+[NEW]
+<dzieło>
+(trylogia)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Szczęście przychodzi, kiedy chce
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Szczęście przychodzi, kiedy chce
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Szczęście przychodzi, kiedy chce
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Moi rodzice rozwodzą się
+[NEW]
+<dzieło>
+(powieść)"	[color=black,
+		label="Moi rodzice rozwodzą się
+[NEW]
+<dzieło>
+(powieść)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "Moi rodzice rozwodzą się
+[NEW]
+<dzieło>
+(powieść)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"M. J. M., mig., mjm., J. Mig., Kamil Norden
+[NEW]
+<pseudonim>"	[color=black,
+		label="M. J. M., mig., mjm., J. Mig., Kamil Norden
+[NEW]
+<pseudonim>"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "M. J. M., mig., mjm., J. Mig., Kamil Norden
+[NEW]
+<pseudonim>"	[color=green,
+		label="hasAlias [NEW]"];
+	"prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze
+[NEW]
+<wydarzenie>
+(działalność społeczna w
+\
+1915 roku)"	[color=black,
+		label="prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze
+[NEW]
+<wydarzenie>
+(działalność społeczna w
+\
+1915 roku)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze
+[NEW]
+<wydarzenie>
+(działalność społeczna w
+\
+1915 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"aresztowanie i osadzenie w więzieniu na ul. Gęsiej
+[NEW]
+<wydarzenie>
+(aresztowanie w maju 1942
+roku)"	[color=black,
+		label="aresztowanie i osadzenie w więzieniu na ul. Gęsiej
+[NEW]
+<wydarzenie>
+(aresztowanie w maju 1942
+roku)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "aresztowanie i osadzenie w więzieniu na ul. Gęsiej
+[NEW]
+<wydarzenie>
+(aresztowanie w maju 1942
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"prowadzenie jadłodajni na Nowym Świecie w Warszawie
+[NEW]
+<wydarzenie>
+(działalność podczas wojny
+1939-45)"	[color=black,
+		label="prowadzenie jadłodajni na Nowym Świecie w Warszawie
+[NEW]
+<wydarzenie>
+(działalność podczas wojny
+1939-45)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "prowadzenie jadłodajni na Nowym Świecie w Warszawie
+[NEW]
+<wydarzenie>
+(działalność podczas wojny
+1939-45)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> "19-05"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka)" -> 1942	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"dziennikarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"powieściopisarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Będzin
+[Q18735]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Józef Kazimierz
+[Q167474]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna Maria z Kempińskich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"I Prywatna Średnia Szkoła Żeńska w Krakowie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wydział Filozoficzny Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> "dziennikarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Śpiewnik wojenny
+[NEW]
+<dzieło>
+(antologia)"	[color=black,
+		label="Śpiewnik wojenny
+[NEW]
+<dzieło>
+(antologia)"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> "Śpiewnik wojenny
+[NEW]
+<dzieło>
+(antologia)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda
+[NEW]
+<instytucja>
+(krakowskie czasopisma)"	[color=black,
+		label="Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda
+[NEW]
+<instytucja>
+(krakowskie czasopisma)"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> "Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda
+[NEW]
+<instytucja>
+(krakowskie czasopisma)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)" -> 1919	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Związek Filaretów
+[NEW]
+<organizacja>
+(młodzieżowy
+niepodległościowy związek)" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Związek Strzelecki
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ilustrowany Kurier Codzienny
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Goniec Krakowski
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nowa Reforma
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nowości Ilustrowane
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kurier Czerwony
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kino
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Świat
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kurier Poranny
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Światowid
+[NEW]
+<instytucja>
+(czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wydawnictwo Ibis
+[NEW]
+<instytucja>
+(wydawnictwo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Człowiek z mostu
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gwiazda i hrabia małżonek
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Małżeństwo gwiazdy
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Twarze pod szminką
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wysokie C
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kariera Władki Brzozkówny
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lady Władka
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rozeszły się ich drogi
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kobieta płaci...
+[NEW]
+<dzieło>
+(trylogia)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szczęście przychodzi, kiedy chce
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Moi rodzice rozwodzą się
+[NEW]
+<dzieło>
+(powieść)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Śpiewnik wojenny
+[NEW]
+<dzieło>
+(antologia)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"M. J. M., mig., mjm., J. Mig., Kamil Norden
+[NEW]
+<pseudonim>" -> "pseudonim
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"prowadzenie kuchni dla rannych legionistów i uchodźców z Małopolski w Pradze
+[NEW]
+<wydarzenie>
+(działalność społeczna w
+\
+1915 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"aresztowanie i osadzenie w więzieniu na ul. Gęsiej
+[NEW]
+<wydarzenie>
+(aresztowanie w maju 1942
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nowiny, Goniec Poniedziałkowy, Głos Narodu, Prawda
+[NEW]
+<instytucja>
+(krakowskie czasopisma)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"prowadzenie jadłodajni na Nowym Świecie w Warszawie
+[NEW]
+<wydarzenie>
+(działalność podczas wojny
+1939-45)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

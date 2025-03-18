@@ -1,0 +1,162 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)"	[color=black,
+		label="Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)"];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "1919-10-22"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "1967-12-19"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=4];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Stanisław Kunicki
+[Q159475]
+<osoba>
+(ślusarz)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Józefa z Winklerów
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Zofia Chromy
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=3];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "wypadek samochodowy
+[NEW]
+<zdarzenie>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=4];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "generał brygady
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "artykuły na tematy artyleryjskie
+[NEW]
+<dzieło>
+(zamieszczone w
+„Przeglądzie
+Artyleryjskim” i
+„Przeglądzie Wojsk
+Lądowych”)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Polska Partia Robotnicza
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Polska Zjednoczona Partia Robotnicza
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Medyczno-Weterynaryjna
+[NEW]
+<instytucja>
+(Lwów)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Akademia Sztabu Generalnego
+[NEW]
+<instytucja>
+(Moskwa)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Krzyż Komandorski Orderu Odrodzenia Polski
+[NEW]
+<odznaczenie>"	[color=green,
+		label="hasAward [NEW]",
+		minlen=1];
+	"Tadeusz Kunicki
+[Q159476]
+<osoba>
+(generał brygady W. P.)" -> "Krzyż Walecznych
+[NEW]
+<odznaczenie>"	[color=green,
+		label="hasAward [NEW]",
+		minlen=2];
+}

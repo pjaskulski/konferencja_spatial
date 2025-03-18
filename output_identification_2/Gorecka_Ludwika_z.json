@@ -1,0 +1,651 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1900-04-20",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Bogumił Linde",
+                "type": "osoba",
+                "description": "językoznawca",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pensja żeńska Z. Wilczyńskiej",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Górecki",
+                "type": "osoba",
+                "description": "budowniczy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przytułek Św. Franciszka Salezego",
+                "type": "instytucja",
+                "description": "przy ul. Solec",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Umiejętności w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Zachęty Sztuk Pięknych",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gmina augsburska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Karłowicz",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "Q201"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Hanusz",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q154686"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stefan Ramułt",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Bolesław Erzepki",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q152396"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Adam Kryński",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Władysław Niedźwiedzki",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q203"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kazimierz Nitsch",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q3321"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Rozwadowski",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Rostafiński",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Łoś",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "matka Ludwiki Góreckiej",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Julian Niemcewicz",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "Q163550"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "Q151567"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Narcyza Żmichowska",
+                "type": "osoba",
+                "description": "przyjaciółka Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Maria Ilnicka",
+                "type": "osoba",
+                "description": "przyjaciółka Ludwiki Góreckiej",
+                "wikihum": "Q155373"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ludwika Górecka",
+                "type": "osoba",
+                "description": "filantropka, ofiarodawczyni na cele nauki i sztuki",
+                "wikihum": "Q153950"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Seweryna Duchińska",
+                "type": "osoba",
+                "description": "przyjaciółka Ludwiki Góreckiej",
+                "wikihum": "Q151911"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Karłowicz",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "Q201"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Hanusz",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q154686"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan Ramułt",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Kryński",
+                "type": "osoba",
+                "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Niedźwiedzki",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "Q203"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Rozwadowski",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Rozwadowski",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Łoś",
+                "type": "osoba",
+                "description": "językoznawca, laureat nagrody im. B. Lindego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagroda im. B. Lindego",
+                "type": "osiągnięcie",
+                "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Staszic",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "Q151567"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Franciszek Salezy Dmochowski",
+                "type": "osoba",
+                "description": "przyjaciel ojca Ludwiki Góreckiej",
+                "wikihum": "Q151567"
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)"	[color=black,
+		label="Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)"];
+	"Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"	[color=black,
+		label="Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)"	[color=green,
+		label="hasWife [P94]"];
+	"Jerzy Braun
+[NEW]
+<osoba>
+(syn Stanisława Brauna)"	[color=black,
+		label="Jerzy Braun
+[NEW]
+<osoba>
+(syn Stanisława Brauna)"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Jerzy Braun
+[NEW]
+<osoba>
+(syn Stanisława Brauna)"	[color=green,
+		label="hasSon [P153]"];
+	"Zofia Braun
+[NEW]
+<osoba>
+(córka Stanisława Brauna)"	[color=black,
+		label="Zofia Braun
+[NEW]
+<osoba>
+(córka Stanisława Brauna)"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Zofia Braun
+[NEW]
+<osoba>
+(córka Stanisława Brauna)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Jaszczew
+[Q38581]
+<miejscowość>
+(koło Krosna)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "1922-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Uniwersytet Jagielloński
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Szpital św. Łazarza
+[NEW]
+<instytucja>
+(w Krakowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "Klinika położniczo-ginekologiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "docent położnictwa i ginekologii
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "profesor nadzwyczajny
+[NEW]
+<urząd>
+(otrzymany w 1909 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Stanisław Braun
+[Q149815]
+<osoba>
+(ginekolog)" -> "dom przy ul. Dietlowskiej 95
+[NEW]
+<obiekt fizjograficzny>
+(przebudowany na zakład
+położniczy, sprzedany w
+1898 roku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Olga z Górskich
+[NEW]
+<osoba>
+(żona Stanisława Brauna)" -> 1863	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jerzy Braun
+[NEW]
+<osoba>
+(syn Stanisława Brauna)" -> 1893	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Zofia Braun
+[NEW]
+<osoba>
+(córka Stanisława Brauna)" -> 1895	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+}

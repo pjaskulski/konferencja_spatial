@@ -1,0 +1,213 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)"	[color=black,
+		label="Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)"];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "ksiądz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "kapituła mohylewska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "1922-01-19"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Ząbki
+[Q93432]
+<miejscowość>
+(cmentarz)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Akademia Duchowna
+[NEW]
+<instytucja>
+(Petersburg)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "proboszcz
+[NEW]
+<urząd>
+(Charków)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "kanclerz
+[NEW]
+<urząd>
+(kuria metropolitalna,
+Petersburg)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "choroba płuc
+[NEW]
+<przyczyna>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "kościół św. Katarzyny
+[NEW]
+<instytucja>
+(Petersburg)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "kościół św. Piotra i Pawła
+[NEW]
+<instytucja>
+(Moskwa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "polskie organizacje oświatowo-kulturalne
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "C. K. O. i P. T. P. O. W.
+[NEW]
+<instytucja>
+(organizacje ratownicze)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "magister teologii
+[NEW]
+<stopień naukowy>"	[color=green,
+		label="academicDegree [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "prefekt
+[NEW]
+<stanowisko>
+(w szkołach średnich)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Parafia Charkowska – miesięcznik informacyjny
+[NEW]
+<dzieło>
+(pismo w języku polskim)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Kalendarzyk charkowski informacyjny
+[NEW]
+<dzieło>
+(zawierał dane
+statystyczne o stanie
+inteligencji, przemysłu i
+handlu polskim \
+w
+Charkowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "G. P. U.
+[NEW]
+<organizacja>
+(agenci w Petersburgu)"	[color=green,
+		label="wasArrestedBy [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "zły stan zdrowia
+[NEW]
+<stan zdrowia>"	[color=green,
+		label="wasReleasedDueTo [NEW]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ksiądz, kanonik honorowy
+kapituły mohylewskiej)" -> "Tiebie jedinomu sogrieszyła
+[NEW]
+<dzieło>
+(powieść Anny Mar wydana w
+Petersburgu w 1915 roku)"	[color=green,
+		label="isMentionedIn [NEW]",
+		minlen=4];
+}

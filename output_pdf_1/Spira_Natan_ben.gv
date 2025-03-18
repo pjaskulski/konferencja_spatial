@@ -1,0 +1,487 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)"	[color=black,
+		label="Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)"];
+	"rabin
+[NEW]
+<urząd>
+(rabin w Grodnie)"	[color=black,
+		label="rabin
+[NEW]
+<urząd>
+(rabin w Grodnie)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "rabin
+[NEW]
+<urząd>
+(rabin w Grodnie)"	[color=green,
+		label="positionHeld [P101]"];
+	"Praga
+[Q146637]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Spiry Natana
+ben Samsona)"	[color=black,
+		label="Praga
+[Q146637]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Spiry Natana
+ben Samsona)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Praga
+[Q146637]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Spiry Natana
+ben Samsona)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Grodno
+[Q146051]
+<miejscowość>
+(miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona)"	[color=black,
+		label="Grodno
+[Q146051]
+<miejscowość>
+(miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Grodno
+[Q146051]
+<miejscowość>
+(miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Grodno
+[Q146051]
+<miejscowość>
+(miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona)"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)"	[color=black,
+		label="Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)"	[color=green,
+		label="hasSon [P153]"];
+	"Dawid Gans
+[NEW]
+<osoba>
+(astronom i matematyk z
+Pragi, spokrewniony ze
+Spirą Natanem ben
+Samsonem)"	[color=black,
+		label="Dawid Gans
+[NEW]
+<osoba>
+(astronom i matematyk z
+Pragi, spokrewniony ze
+Spirą Natanem ben
+Samsonem)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Dawid Gans
+[NEW]
+<osoba>
+(astronom i matematyk z
+Pragi, spokrewniony ze
+Spirą Natanem ben
+Samsonem)"	[color=green,
+		label="significantFigure [P100]"];
+	"Mevo še‘arim
+[NEW]
+<dzieło>
+(Wprowadzenie do „Bram”;
+komentarz do 'machzoru',
+modlitewnika I. Durana
+'Ša’are Dura'.)"	[color=black,
+		label="Mevo še‘arim
+[NEW]
+<dzieło>
+(Wprowadzenie do „Bram”;
+komentarz do 'machzoru',
+modlitewnika I. Durana
+'Ša’are Dura'.)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Mevo še‘arim
+[NEW]
+<dzieło>
+(Wprowadzenie do „Bram”;
+komentarz do 'machzoru',
+modlitewnika I. Durana
+'Ša’are Dura'.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Imre ha-šefer
+[NEW]
+<dzieło>
+(Piękne słowa; glosy do
+klasycznego komentarza do
+Pięcioksięgu Mojżesza,
+autorstwa Rasziego \
+i
+Eliasza ben Abrahama
+Mizrachi.)"	[color=black,
+		label="Imre ha-šefer
+[NEW]
+<dzieło>
+(Piękne słowa; glosy do
+klasycznego komentarza do
+Pięcioksięgu Mojżesza,
+autorstwa Rasziego \
+i
+Eliasza ben Abrahama
+Mizrachi.)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "Imre ha-šefer
+[NEW]
+<dzieło>
+(Piękne słowa; glosy do
+klasycznego komentarza do
+Pięcioksięgu Mojżesza,
+autorstwa Rasziego \
+i
+Eliasza ben Abrahama
+Mizrachi.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"komentarze do Biblii i Talmudu
+[NEW]
+<dzieło>
+(Komentarze do Biblii i
+Talmudu wydawane pod
+nazwiskiem Spiry Natana
+ben Samsona.)"	[color=black,
+		label="komentarze do Biblii i Talmudu
+[NEW]
+<dzieło>
+(Komentarze do Biblii i
+Talmudu wydawane pod
+nazwiskiem Spiry Natana
+ben Samsona.)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "komentarze do Biblii i Talmudu
+[NEW]
+<dzieło>
+(Komentarze do Biblii i
+Talmudu wydawane pod
+nazwiskiem Spiry Natana
+ben Samsona.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"hymny świąteczne
+[NEW]
+<dzieło>
+(Hymny świąteczne wydawane
+w Krakowie w 1608 roku.)"	[color=black,
+		label="hymny świąteczne
+[NEW]
+<dzieło>
+(Hymny świąteczne wydawane
+w Krakowie w 1608 roku.)"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "hymny świąteczne
+[NEW]
+<dzieło>
+(Hymny świąteczne wydawane
+w Krakowie w 1608 roku.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "1577-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Spira Natan ben Samson
+[Q172091]
+<osoba>
+(rabin grodzieński, pisarz
+homiletyczny, kabalista)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rabin
+[NEW]
+<urząd>
+(rabin w Grodnie)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Praga
+[Q146637]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Spiry Natana
+ben Samsona)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Grodno
+[Q146051]
+<miejscowość>
+(miejsce śmierci i
+pochówku Spiry Natana ben
+Samsona)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Natan Nata Spira
+[NEW]
+<osoba>
+(wnuk Spiry Natana ben
+Samsona)"	[color=black,
+		label="Natan Nata Spira
+[NEW]
+<osoba>
+(wnuk Spiry Natana ben
+Samsona)"];
+	"Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)" -> "Natan Nata Spira
+[NEW]
+<osoba>
+(wnuk Spiry Natana ben
+Samsona)"	[color=green,
+		label="hasSon [P153]"];
+	"Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Salomon
+[NEW]
+<osoba>
+(syn Spiry Natana ben
+Samsona)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Natan Nata Spira
+[NEW]
+<osoba>
+(wnuk Spiry Natana ben
+Samsona)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dawid Gans
+[NEW]
+<osoba>
+(astronom i matematyk z
+Pragi, spokrewniony ze
+Spirą Natanem ben
+Samsonem)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mevo še‘arim
+[NEW]
+<dzieło>
+(Wprowadzenie do „Bram”;
+komentarz do 'machzoru',
+modlitewnika I. Durana
+'Ša’are Dura'.)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Imre ha-šefer
+[NEW]
+<dzieło>
+(Piękne słowa; glosy do
+klasycznego komentarza do
+Pięcioksięgu Mojżesza,
+autorstwa Rasziego \
+i
+Eliasza ben Abrahama
+Mizrachi.)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"komentarze do Biblii i Talmudu
+[NEW]
+<dzieło>
+(Komentarze do Biblii i
+Talmudu wydawane pod
+nazwiskiem Spiry Natana
+ben Samsona.)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"hymny świąteczne
+[NEW]
+<dzieło>
+(Hymny świąteczne wydawane
+w Krakowie w 1608 roku.)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie Spiry Natana
+ben Samsona pochodzili z
+Niemiec.)"	[color=black,
+		label="przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie Spiry Natana
+ben Samsona pochodzili z
+Niemiec.)"];
+	"Spira
+[Q146881]
+<miejscowość>
+(Miasto w Niemczech, od
+którego nazwisko wywodzi
+się rodzina Spiry Natana
+ben Samsona.)"	[color=black,
+		label="Spira
+[Q146881]
+<miejscowość>
+(Miasto w Niemczech, od
+którego nazwisko wywodzi
+się rodzina Spiry Natana
+ben Samsona.)"];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie Spiry Natana
+ben Samsona pochodzili z
+Niemiec.)" -> "Spira
+[Q146881]
+<miejscowość>
+(Miasto w Niemczech, od
+którego nazwisko wywodzi
+się rodzina Spiry Natana
+ben Samsona.)"	[color=green,
+		label="significantLocality [NEW]"];
+	"pogromy w 1435 roku
+[NEW]
+<wydarzenie>
+(Pogromy, które
+spowodowały emigrację
+przodków Spiry Natana ben
+Samsona z Niemiec do
+\
+Czech, a następnie do
+Polski.)"	[color=black,
+		label="pogromy w 1435 roku
+[NEW]
+<wydarzenie>
+(Pogromy, które
+spowodowały emigrację
+przodków Spiry Natana ben
+Samsona z Niemiec do
+\
+Czech, a następnie do
+Polski.)"];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie Spiry Natana
+ben Samsona pochodzili z
+Niemiec.)" -> "pogromy w 1435 roku
+[NEW]
+<wydarzenie>
+(Pogromy, które
+spowodowały emigrację
+przodków Spiry Natana ben
+Samsona z Niemiec do
+\
+Czech, a następnie do
+Polski.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"przodkowie Spiry Natana ben Samsona
+[NEW]
+<osoba>
+(Przodkowie Spiry Natana
+ben Samsona pochodzili z
+Niemiec.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Spira
+[Q146881]
+<miejscowość>
+(Miasto w Niemczech, od
+którego nazwisko wywodzi
+się rodzina Spiry Natana
+ben Samsona.)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pogromy w 1435 roku
+[NEW]
+<wydarzenie>
+(Pogromy, które
+spowodowały emigrację
+przodków Spiry Natana ben
+Samsona z Niemiec do
+\
+Czech, a następnie do
+Polski.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

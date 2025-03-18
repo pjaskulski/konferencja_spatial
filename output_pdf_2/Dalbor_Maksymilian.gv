@@ -1,0 +1,164 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)"	[color=black,
+		label="Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)"];
+	"hrabia Mielżyński
+[NEW]
+<osoba>
+(osoba, która pomogła
+Dalborowi Maksymilianowi
+w znalezieniu pracy)"	[color=black,
+		label="hrabia Mielżyński
+[NEW]
+<osoba>
+(osoba, która pomogła
+Dalborowi Maksymilianowi
+w znalezieniu pracy)"];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "hrabia Mielżyński
+[NEW]
+<osoba>
+(osoba, która pomogła
+Dalborowi Maksymilianowi
+w znalezieniu pracy)"	[color=green,
+		label="significantFigure [P100]"];
+	"hrabia Włodzimierz Dzieduszycki
+[NEW]
+<osoba>
+(osoba, dla której Dalbor
+Maksymilian pracował w
+administracji dóbr i
+lasów)"	[color=black,
+		label="hrabia Włodzimierz Dzieduszycki
+[NEW]
+<osoba>
+(osoba, dla której Dalbor
+Maksymilian pracował w
+administracji dóbr i
+lasów)"];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "hrabia Włodzimierz Dzieduszycki
+[NEW]
+<osoba>
+(osoba, dla której Dalbor
+Maksymilian pracował w
+administracji dóbr i
+lasów)"	[color=green,
+		label="significantFigure [P100]"];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "Poznań
+[Q68589]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "1923-07-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "Krotoszyn
+[Q46588]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "order Virtuti Militari
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "Emilia z Nowaków
+[NEW]
+<osoba>
+(żona Dalbora Maksymiliana)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "Wyższa Szkoła Leśnicza
+[NEW]
+<uczelnia>
+(Lwów)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "1839-10-15"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Dalbor Maksymilian
+[Q151199]
+<osoba>
+(powstaniec styczniowy,
+sybirak)" -> "Mirosław
+[Q16091]
+<miejscowość>
+(miejsce pracy Dalbora
+Maksymiliana jako elew
+rolniczy)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"hrabia Mielżyński
+[NEW]
+<osoba>
+(osoba, która pomogła
+Dalborowi Maksymilianowi
+w znalezieniu pracy)" -> "hrabia Mielżyński
+[NEW]
+<osoba>
+(osoba, która pomogła
+Dalborowi Maksymilianowi
+w znalezieniu pracy)"	[color=green,
+		label="significantFigure [P100]"];
+	"hrabia Włodzimierz Dzieduszycki
+[NEW]
+<osoba>
+(osoba, dla której Dalbor
+Maksymilian pracował w
+administracji dóbr i
+lasów)" -> "dobra i lasy
+[NEW]
+<własność>
+(dobra i lasy, w których
+Dalbor Maksymilian
+pracował)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+}

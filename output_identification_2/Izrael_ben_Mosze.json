@@ -1,0 +1,256 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Zamość",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q92486"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Brody",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q21611"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Necach Israel",
+                "type": "dzieło",
+                "description": "pierwsze dzieło popularnonaukowe z zakresu matematyki i astronomii w kulturze polskich Żydów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Mojżesz Mendelsohn",
+                "type": "osoba",
+                "description": "ideolog oświecenia Żydów niemieckich",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Lessing",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Nicolai",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q163498"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Salomon Majmon",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "matematyk",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "choroba melancholii",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Majmonides",
+                "type": "osoba",
+                "description": "postać historyczna znana z racjonalizmu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gmina zamojska",
+                "type": "instytucja",
+                "description": "instytucja związana z miejscowością Zamość",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Berlin",
+                "type": "miejscowość",
+                "description": "miasto, w którym Izrael ben Mosze mieszkał przez pewien czas",
+                "wikihum": "Q181990"
+            }
+        },
+        {
+            "subject": {
+                "name": "Izrael ben Mosze",
+                "type": "osoba",
+                "description": "pionier żydowskiego oświecenia (Haskali) w Polsce i matematyk",
+                "wikihum": "Q155427"
+            },
+            "predicate": {
+                "name": "hasStudent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mojżesz Mendelsohn",
+                "type": "osoba",
+                "description": "ideolog oświecenia Żydów niemieckich",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

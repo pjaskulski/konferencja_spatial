@@ -1,0 +1,191 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=black,
+		label="Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"];
+	"Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w l.
+1687–91)"	[color=black,
+		label="Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w l.
+1687–91)"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w l.
+1687–91)"	[color=green,
+		label="hasSon [P153]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1595-04-12"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1649-08-21"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Mikołaj
+[NEW]
+<osoba>
+(obywatel gdański)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Anna von Domfsdorff
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstanty Ferber
+[Q152564]
+<osoba>
+(burmistrz)"	[color=green,
+		label="hasStepfather [NEW]",
+		minlen=1];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Anna von Thielen
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burmistrz
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burgrabia królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "dyplom nobilitacyjny
+[NEW]
+<osiągnięcie>
+(otrzymany od cesarza
+Ferdynanda II)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Toruń)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "ławnik
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "rajca
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sędzia
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj Pahl
+[Q164791]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "inspektor kancelarii i archiwum
+[NEW]
+<urząd>
+(funkcja dożywotnia)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Konstanty Pahl
+[NEW]
+<osoba>
+(burmistrz gdański w l.
+1687–91)" -> "burmistrz
+[NEW]
+<urząd>
+(burmistrz gdański w l.
+1687–91)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

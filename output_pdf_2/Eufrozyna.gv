@@ -1,0 +1,148 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)"	[color=black,
+		label="Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)"];
+	"Kazimierz
+[Q156973]
+<osoba>
+(książę kujawski)"	[color=black,
+		label="Kazimierz
+[Q156973]
+<osoba>
+(książę kujawski)"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156973]
+<osoba>
+(książę kujawski)"	[color=green,
+		label="hasHusband [P94]"];
+	"Władysław Łokietek
+[NEW]
+<osoba>"	[color=black,
+		label="Władysław Łokietek
+[NEW]
+<osoba>"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Władysław Łokietek
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Władysław Łokietek
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156972]
+<osoba>
+(książę opolski)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156973]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Ziemowit
+[Q174869]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Mszczuj II
+[NEW]
+<osoba>
+(książę pomorski)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=4];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "1292-00-00
+(Data śmierci Eufrozyny
+jest przybliżona, możliwa
+również w 1293 roku.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "1288-05-13"	[color=green,
+		label="dateOfDivorce [NEW]",
+		minlen=2];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "opiekunka
+[NEW]
+<zawód>
+(Sprawowała opiekę nad
+synami po śmierci męża.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(księżna kujawska, potem
+pomorska)" -> "Kujawy
+[Q47825]
+<miejscowość>
+(Osiadła tam po
+unieważnieniu małżeństwa
+z Mszczujem.)"	[color=green,
+		label="placeOfResidence [NEW]",
+		minlen=4];
+	"Kazimierz
+[Q156973]
+<osoba>
+(książę kujawski)" -> "1267-12-14"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Władysław Łokietek
+[NEW]
+<osoba>" -> "dwór Eufrozyny i Mszczuja II
+[NEW]
+<miejscowość>
+(Przebywał tam jako syn
+Eufrozyny.)"	[color=green,
+		label="placeOfResidence [NEW]",
+		minlen=1];
+}

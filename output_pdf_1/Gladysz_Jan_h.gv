@@ -1,0 +1,226 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)"	[color=black,
+		label="Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)"];
+	"Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)"	[color=black,
+		label="Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)"];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)"	[color=green,
+		label="hasSon [P153]"];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "podrzędczy sądecki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Paweł Gładysz
+[NEW]
+<osoba>
+(rycerz z drobnej szlachty
+sądeckiej)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "wieś Łosie i latyfundium
+[NEW]
+<majątek>
+(nadane przez Kazimierza
+Wielkiego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Ropa, Zdynia, Hańczowa, Wysowe
+[NEW]
+<miejscowości>
+(wsie założone przez
+Gładysza Jana)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "kościół w Szymbarku
+[NEW]
+<obiekt>
+(fundowany przez Gładysza
+Jana)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Mikołaj
+[NEW]
+<osoba>
+(syn Gładysza Jana)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Piotr
+[NEW]
+<osoba>
+(syn Gładysza Jana)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "Kazimierz Wielki
+[Q156969]
+<osoba>
+(król, który nadał ziemie
+Gładyszowi Janowi)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "nadanie ziemi
+[NEW]
+<wydarzenie>
+(nadanie wsi Łosie i
+latyfundium przez
+Kazimierza Wielkiego 27
+października 1359 roku)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "rozwój osadnictwa
+[NEW]
+<wydarzenie>
+(rozwój osadnictwa
+polskiego i wołoskiego na
+polskim pograniczu)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Jan Gładysz
+[Q153521]
+<osoba>
+(podrzędczy sądecki,
+bachmistrz bocheński)" -> "dwór warowny w Szymbarku
+[NEW]
+<obiekt fizjograficzny>
+(siedziba rodu Gładyszów,
+istniejąca do dziś)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)" -> "bachmistrz bocheński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)" -> "starosta spiski
+[NEW]
+<urząd>
+(pierwszy starosta spiski
+w Lubowli w 1413 r.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)" -> "dokument lokacji Gorlic
+[NEW]
+<wydarzenie>
+(Paweł świadkował na
+dokumencie w 1466 r.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Paweł
+[NEW]
+<osoba>
+(syn Gładysza Jana,
+przejął bachmistrzostwo
+bocheńskie)" -> "pierwszy starosta spiski
+[NEW]
+<wydarzenie>
+(Paweł był pierwszym
+starostą spiskim w
+Lubowli w 1413 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"mieszczanie krakowscy i sądeccy
+[NEW]
+<osoby>
+(spokrewnieni z rodem
+rycerskim Gładysza Jana)"	[color=black,
+		label="mieszczanie krakowscy i sądeccy
+[NEW]
+<osoby>
+(spokrewnieni z rodem
+rycerskim Gładysza Jana)"];
+	"mieszczanie krakowscy i sądeccy
+[NEW]
+<osoby>
+(spokrewnieni z rodem
+rycerskim Gładysza Jana)" -> "ród rycerski Gładysza Jana
+[NEW]
+<ród>
+(ród rycerski Gładysza
+Jana)"	[color=green,
+		label="hasCousin [P99]"];
+}

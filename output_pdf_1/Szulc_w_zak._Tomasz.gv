@@ -1,0 +1,277 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)"	[color=black,
+		label="Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)"];
+	"Zakon Dominikanów
+[NEW]
+<instytucja>"	[color=black,
+		label="Zakon Dominikanów
+[NEW]
+<instytucja>"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Zakon Dominikanów
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Lubawa
+[Q50270]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Tomasza Szulca-
+Prątnickiego)"	[color=black,
+		label="Lubawa
+[Q50270]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Tomasza Szulca-
+Prątnickiego)"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Lubawa
+[Q50270]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Tomasza Szulca-
+Prątnickiego)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"studium zakonne
+[NEW]
+<instytucja>
+(miejsce studiów
+filozoficzno-
+teologicznych Tomasza
+Szulca-Prątnickiego)"	[color=black,
+		label="studium zakonne
+[NEW]
+<instytucja>
+(miejsce studiów
+filozoficzno-
+teologicznych Tomasza
+Szulca-Prątnickiego)"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "studium zakonne
+[NEW]
+<instytucja>
+(miejsce studiów
+filozoficzno-
+teologicznych Tomasza
+Szulca-Prątnickiego)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce związane z
+działalnością Tomasza
+Szulca-Prątnickiego)"	[color=black,
+		label="Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce związane z
+działalnością Tomasza
+Szulca-Prątnickiego)"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce związane z
+działalnością Tomasza
+Szulca-Prątnickiego)"	[color=green,
+		label="significantLocality [NEW]"];
+	"przeor
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Tomasza Szulca-
+Prątnickiego w zakonie
+dominikanów)"	[color=black,
+		label="przeor
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Tomasza Szulca-
+Prątnickiego w zakonie
+dominikanów)"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "przeor
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Tomasza Szulca-
+Prątnickiego w zakonie
+dominikanów)"	[color=green,
+		label="positionHeld [P101]"];
+	"Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici
+[NEW]
+<dzieło>
+(dzieło autorstwa Tomasza
+Szulca-Prątnickiego
+\
+wydane w Gdańsku)"	[color=black,
+		label="Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici
+[NEW]
+<dzieło>
+(dzieło autorstwa Tomasza
+Szulca-Prątnickiego
+\
+wydane w Gdańsku)"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici
+[NEW]
+<dzieło>
+(dzieło autorstwa Tomasza
+Szulca-Prątnickiego
+\
+wydane w Gdańsku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "1705-00-00
+(dominikanin, przeor,
+pisarz religijny)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Tomasz Szulc-Prątnicki
+[Q174834]
+<osoba>
+(dominikanin, przeor,
+pisarz religijny)" -> "Tomasz Jan Szulc-Prątnicki
+[NEW]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski oraz
+oficjał \
+i wizytator
+diecezji chełmińskiej)"	[color=green,
+		label="hasCousin [P99]",
+		minlen=2];
+	"Zakon Dominikanów
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lubawa
+[Q50270]
+<miejscowość>
+(prawdopodobne miejsce
+urodzenia Tomasza Szulca-
+Prątnickiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tomasz Jan Szulc-Prątnicki
+[Q174834]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski oraz
+\
+oficjał i wizytator
+diecezji chełmińskiej)"	[color=black,
+		label="Tomasz Jan Szulc-Prątnicki
+[Q174834]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski oraz
+\
+oficjał i wizytator
+diecezji chełmińskiej)"];
+	"Tomasz Jan Szulc-Prątnicki
+[Q174834]
+<osoba>
+(prepozyt i kanonik
+chełmiński,
+archiprezbiter elbląski,
+proboszcz lubawski oraz
+\
+oficjał i wizytator
+diecezji chełmińskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"studium zakonne
+[NEW]
+<instytucja>
+(miejsce studiów
+filozoficzno-
+teologicznych Tomasza
+Szulca-Prątnickiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>
+(miejsce związane z
+działalnością Tomasza
+Szulca-Prątnickiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przeor
+[NEW]
+<urząd>
+(stanowisko pełnione przez
+Tomasza Szulca-
+Prątnickiego w zakonie
+dominikanów)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici
+[NEW]
+<dzieło>
+(dzieło autorstwa Tomasza
+Szulca-Prątnickiego
+\
+wydane w Gdańsku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

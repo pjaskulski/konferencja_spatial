@@ -1,0 +1,385 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podkomorzy łęczycki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q65952541"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jan Gomoliński",
+                "type": "osoba",
+                "description": "ojciec Karola Gomolińskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Bielicka",
+                "type": "osoba",
+                "description": "matka Karola Gomolińskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "miecznik łęczycki",
+                "type": "urząd",
+                "description": "za Augusta II",
+                "wikihum": "NEW",
+                "wikidata": "Q65575135"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podczaszy i chorąży",
+                "type": "urząd",
+                "description": "za Augusta III",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia grodzki",
+                "type": "urząd",
+                "description": "od 17 marca 1749 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q9352961"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "podkomorzy",
+                "type": "urząd",
+                "description": "od 1757 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q2663677"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Order Św. Stanisława",
+                "type": "osiągnięcie",
+                "description": "przyznany przez króla Stanisława Augusta",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1784-11-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor bernardynów w Łęczycy",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Helena z Pokrzywnickich",
+                "type": "osoba",
+                "description": "żona Karola Gomolińskiego, zmarła w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Ignacy Gomoliński",
+                "type": "osoba",
+                "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej",
+                "wikihum": "Q153783"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Marianna Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona Opackiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "bernardyni w Łęczycy",
+                "type": "organizacja",
+                "description": "klasztor, w którym Karol Gomoliński spędzał czas na starość i był syndykiem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karol Gomoliński",
+                "type": "osoba",
+                "description": "h. Jelita (1696–1784), podkomorzy łęczycki",
+                "wikihum": "Q153785"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "majątek w Krośniewicach",
+                "type": "własność",
+                "description": "dziedziczny majątek Karola Gomolińskiego w woj. łęczyckim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Helena z Pokrzywnickich",
+                "type": "osoba",
+                "description": "żona Karola Gomolińskiego, zmarła w Warszawie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Gomoliński",
+                "type": "osoba",
+                "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej",
+                "wikihum": "Q153783"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "konsyliarz konfederacji łęczyckiej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "generał Skarbek",
+                "type": "osoba",
+                "description": "pierwszy mąż Józefaty Gomolińskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefata Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Dzierzbicki",
+                "type": "osoba",
+                "description": "drugi mąż Józefaty Gomolińskiej",
+                "wikihum": "Q152157"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Gomolińska",
+                "type": "osoba",
+                "description": "córka Karola Gomolińskiego, żona Opackiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Opacki",
+                "type": "osoba",
+                "description": "mąż Marianny Gomolińskiej",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

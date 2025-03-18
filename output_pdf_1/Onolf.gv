@@ -1,0 +1,499 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)"	[color=black,
+		label="Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)"];
+	"biskup kruszwicki
+[NEW]
+<urząd>
+(biskup diecezji
+kruszwickiej)"	[color=black,
+		label="biskup kruszwicki
+[NEW]
+<urząd>
+(biskup diecezji
+kruszwickiej)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "biskup kruszwicki
+[NEW]
+<urząd>
+(biskup diecezji
+kruszwickiej)"	[color=green,
+		label="positionHeld [P101]"];
+	"Włocławek
+[Q87838]
+<miejscowość>"	[color=black,
+		label="Włocławek
+[Q87838]
+<miejscowość>"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "Włocławek
+[Q87838]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"konsekracja tumu pod Łęczycą
+[NEW]
+<wydarzenie>
+(konsekracja tumu pod
+Łęczycą w 1161 roku)"	[color=black,
+		label="konsekracja tumu pod Łęczycą
+[NEW]
+<wydarzenie>
+(konsekracja tumu pod
+Łęczycą w 1161 roku)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "konsekracja tumu pod Łęczycą
+[NEW]
+<wydarzenie>
+(konsekracja tumu pod
+Łęczycą w 1161 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"zjazd łęczycki
+[NEW]
+<wydarzenie>
+(zjazd łęczycki w 1180
+roku)"	[color=black,
+		label="zjazd łęczycki
+[NEW]
+<wydarzenie>
+(zjazd łęczycki w 1180
+roku)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "zjazd łęczycki
+[NEW]
+<wydarzenie>
+(zjazd łęczycki w 1180
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"budowa katedry romańskiej we Włocławku
+[NEW]
+<wydarzenie>
+(budowa niezachowanej
+katedry romańskiej we
+Włocławku)"	[color=black,
+		label="budowa katedry romańskiej we Włocławku
+[NEW]
+<wydarzenie>
+(budowa niezachowanej
+katedry romańskiej we
+Włocławku)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "budowa katedry romańskiej we Włocławku
+[NEW]
+<wydarzenie>
+(budowa niezachowanej
+katedry romańskiej we
+Włocławku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"początki szpitala Św. Gotarda
+[NEW]
+<wydarzenie>
+(początki szpitala Św.
+Gotarda (Szpetala) nad
+Wisłą naprzeciw Włocławka)"	[color=black,
+		label="początki szpitala Św. Gotarda
+[NEW]
+<wydarzenie>
+(początki szpitala Św.
+Gotarda (Szpetala) nad
+Wisłą naprzeciw Włocławka)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "początki szpitala Św. Gotarda
+[NEW]
+<wydarzenie>
+(początki szpitala Św.
+Gotarda (Szpetala) nad
+Wisłą naprzeciw Włocławka)"	[color=green,
+		label="significantEvent [NEW]"];
+	"relikwiarz-portatyl kruszwicki
+[NEW]
+<wydarzenie>
+(okazały relikwiarz-
+portatyl tzw. kruszwicki)"	[color=black,
+		label="relikwiarz-portatyl kruszwicki
+[NEW]
+<wydarzenie>
+(okazały relikwiarz-
+portatyl tzw. kruszwicki)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "relikwiarz-portatyl kruszwicki
+[NEW]
+<wydarzenie>
+(okazały relikwiarz-
+portatyl tzw. kruszwicki)"	[color=green,
+		label="significantEvent [NEW]"];
+	"obdarowanie kapituły włocławskiej
+[NEW]
+<wydarzenie>
+(obdarowanie kapituły
+włocławskiej przez Leszka
+Bolesławowica w 1185 \
+roku)"	[color=black,
+		label="obdarowanie kapituły włocławskiej
+[NEW]
+<wydarzenie>
+(obdarowanie kapituły
+włocławskiej przez Leszka
+Bolesławowica w 1185 \
+roku)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "obdarowanie kapituły włocławskiej
+[NEW]
+<wydarzenie>
+(obdarowanie kapituły
+włocławskiej przez Leszka
+Bolesławowica w 1185 \
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"dziekan kapituły
+[NEW]
+<urząd>
+(dziekan kapituły przed
+zostaniem biskupem)"	[color=black,
+		label="dziekan kapituły
+[NEW]
+<urząd>
+(dziekan kapituły przed
+zostaniem biskupem)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "dziekan kapituły
+[NEW]
+<urząd>
+(dziekan kapituły przed
+zostaniem biskupem)"	[color=green,
+		label="positionHeld [P101]"];
+	"połączenie diecezji kruszwickiej i włocławskiej
+[NEW]
+<wydarzenie>
+(połączenie obu diecezji
+kujawskich w jedną,
+przypisywane \
+Onolfowi)"	[color=black,
+		label="połączenie diecezji kruszwickiej i włocławskiej
+[NEW]
+<wydarzenie>
+(połączenie obu diecezji
+kujawskich w jedną,
+przypisywane \
+Onolfowi)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "połączenie diecezji kruszwickiej i włocławskiej
+[NEW]
+<wydarzenie>
+(połączenie obu diecezji
+kujawskich w jedną,
+przypisywane \
+Onolfowi)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski, zm. przed 1187
+rokiem)" -> "1187-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"biskup kruszwicki
+[NEW]
+<urząd>
+(biskup diecezji
+kruszwickiej)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"biskup kujawski
+[NEW]
+<urząd>
+(biskup diecezji
+kujawskiej)"	[color=black,
+		label="biskup kujawski
+[NEW]
+<urząd>
+(biskup diecezji
+kujawskiej)"];
+	"biskup kujawski
+[NEW]
+<urząd>
+(biskup diecezji
+kujawskiej)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Włocławek
+[Q87838]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"konsekracja tumu pod Łęczycą
+[NEW]
+<wydarzenie>
+(konsekracja tumu pod
+Łęczycą w 1161 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zjazd łęczycki
+[NEW]
+<wydarzenie>
+(zjazd łęczycki w 1180
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"budowa katedry romańskiej we Włocławku
+[NEW]
+<wydarzenie>
+(budowa niezachowanej
+katedry romańskiej we
+Włocławku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"początki szpitala Św. Gotarda
+[NEW]
+<wydarzenie>
+(początki szpitala Św.
+Gotarda (Szpetala) nad
+Wisłą naprzeciw Włocławka)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"relikwiarz-portatyl kruszwicki
+[NEW]
+<wydarzenie>
+(okazały relikwiarz-
+portatyl tzw. kruszwicki)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"obdarowanie kapituły włocławskiej
+[NEW]
+<wydarzenie>
+(obdarowanie kapituły
+włocławskiej przez Leszka
+Bolesławowica w 1185 \
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Leszek Bolesławowic
+[NEW]
+<osoba>
+(książę, który obdarował
+kapitułę włocławską w
+1185 roku)"	[color=black,
+		label="Leszek Bolesławowic
+[NEW]
+<osoba>
+(książę, który obdarował
+kapitułę włocławską w
+1185 roku)"];
+	"Leszek Bolesławowic
+[NEW]
+<osoba>
+(książę, który obdarował
+kapitułę włocławską w
+1185 roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"książę
+[NEW]
+<urząd>"	[color=black,
+		label="książę
+[NEW]
+<urząd>"];
+	"książę
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=2];
+	"Swidger
+[Q173771]
+<osoba>
+(biskup kruszwicki przed
+Onolfem)"	[color=black,
+		label="Swidger
+[Q173771]
+<osoba>
+(biskup kruszwicki przed
+Onolfem)"];
+	"Swidger
+[Q173771]
+<osoba>
+(biskup kruszwicki przed
+Onolfem)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=2];
+	"Werner-Wiernierz
+[NEW]
+<osoba>
+(biskup włocławski, który
+przeszedł na diecezję
+płocką)"	[color=black,
+		label="Werner-Wiernierz
+[NEW]
+<osoba>
+(biskup włocławski, który
+przeszedł na diecezję
+płocką)"];
+	"biskup płocki
+[NEW]
+<urząd>
+(biskup diecezji płockiej)"	[color=black,
+		label="biskup płocki
+[NEW]
+<urząd>
+(biskup diecezji płockiej)"];
+	"Werner-Wiernierz
+[NEW]
+<osoba>
+(biskup włocławski, który
+przeszedł na diecezję
+płocką)" -> "biskup płocki
+[NEW]
+<urząd>
+(biskup diecezji płockiej)"	[color=green,
+		label="positionHeld [P101]"];
+	"Werner-Wiernierz
+[NEW]
+<osoba>
+(biskup włocławski, który
+przeszedł na diecezję
+płocką)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"biskup włocławski
+[NEW]
+<urząd>
+(biskup diecezji
+włocławskiej)"	[color=black,
+		label="biskup włocławski
+[NEW]
+<urząd>
+(biskup diecezji
+włocławskiej)"];
+	"biskup włocławski
+[NEW]
+<urząd>
+(biskup diecezji
+włocławskiej)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=3];
+	"biskup płocki
+[NEW]
+<urząd>
+(biskup diecezji płockiej)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stefan
+[Q172760]
+<osoba>
+(następca Onolfa jako
+biskup kujawski)"	[color=black,
+		label="Stefan
+[Q172760]
+<osoba>
+(następca Onolfa jako
+biskup kujawski)"];
+	"Stefan
+[Q172760]
+<osoba>
+(następca Onolfa jako
+biskup kujawski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=3];
+	"dziekan kapituły
+[NEW]
+<urząd>
+(dziekan kapituły przed
+zostaniem biskupem)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"połączenie diecezji kruszwickiej i włocławskiej
+[NEW]
+<wydarzenie>
+(połączenie obu diecezji
+kujawskich w jedną,
+przypisywane \
+Onolfowi)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

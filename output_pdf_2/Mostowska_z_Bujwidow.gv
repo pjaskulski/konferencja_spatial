@@ -1,0 +1,269 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)"	[color=black,
+		label="Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)"];
+	"Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"	[color=black,
+		label="Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)"	[color=green,
+		label="hasFather [P92]"];
+	"Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"	[color=black,
+		label="Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)"	[color=green,
+		label="hasHusband [P94]"];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kazimiera z Klimontowiczów
+[NEW]
+<osoba>
+(głośna bojowniczka o
+prawo kobiet do wyższego
+wykształcenia)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kazimiera Rouppertowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]",
+		minlen=2];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Jadwiga Demelowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]",
+		minlen=3];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Helena Jurgielewiczowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]",
+		minlen=4];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Jerzy Mostowski
+[NEW]
+<osoba>
+(lekarz)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Czesław Mostowski
+[NEW]
+<osoba>
+(prawnik)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Cmentarz Rakowicki
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "1890-06-17"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "1962-12-08"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Uniwersytet Jagielloński
+[NEW]
+<uczelnia>
+(miejscowość  Kraków)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych w Krakowie
+[NEW]
+<instytucja>
+(spółka rodzinna)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Spójnia
+[NEW]
+<organizacja>
+(postępowa organizacja)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "lekarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "kierownik wytwórni szczepionek
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Klinika chirurgiczna Uniwersytetu Jagiellońskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital w Drohobyczu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital im. Dzieciątka Jezus w Warszawie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Szpital Bonifratrów w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Zofia Mostowska
+[Q162988]
+<osoba>
+(lekarka, kierownik
+wytwórni szczepionek)" -> "Stacja Sanitarno-Epidemiologiczna w Olsztynie
+[NEW]
+<instytucja>
+(Sanepid)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Odo Bujwid
+[NEW]
+<osoba>
+(profesor bakteriologii UJ)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>
+(miejscowość  Kraków)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)" -> "prawnik
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Włodzimierz Mostowski
+[NEW]
+<osoba>
+(prawnik i ekonomista)" -> "ekonomista
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+}

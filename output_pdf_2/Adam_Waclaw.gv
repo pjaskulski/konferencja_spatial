@@ -1,0 +1,324 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)"	[color=black,
+		label="Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)"];
+	"Wacław Adam
+[Q148265]
+<osoba>
+(ojciec Adama Wacława)"	[color=black,
+		label="Wacław Adam
+[Q148265]
+<osoba>
+(ojciec Adama Wacława)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Wacław Adam
+[Q148265]
+<osoba>
+(ojciec Adama Wacława)"	[color=green,
+		label="hasFather [P92]"];
+	"Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"	[color=black,
+		label="Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Mikołaj Zebrzydowski
+[NEW]
+<osoba>
+(wojewoda, fundator
+Kalwarii Zebrzydowskiej)"	[color=black,
+		label="Mikołaj Zebrzydowski
+[NEW]
+<osoba>
+(wojewoda, fundator
+Kalwarii Zebrzydowskiej)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Mikołaj Zebrzydowski
+[NEW]
+<osoba>
+(wojewoda, fundator
+Kalwarii Zebrzydowskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"mieszczanie cieszyńscy
+[NEW]
+<osoba>
+(grupa społeczna związana
+z Adamem Wacławem)"	[color=black,
+		label="mieszczanie cieszyńscy
+[NEW]
+<osoba>
+(grupa społeczna związana
+z Adamem Wacławem)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "mieszczanie cieszyńscy
+[NEW]
+<osoba>
+(grupa społeczna związana
+z Adamem Wacławem)"	[color=green,
+		label="significantFigure [P100]"];
+	"rycerstwo i miasta
+[NEW]
+<osoba>
+(grupy społeczne związane
+z Adamem Wacławem)"	[color=black,
+		label="rycerstwo i miasta
+[NEW]
+<osoba>
+(grupy społeczne związane
+z Adamem Wacławem)"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "rycerstwo i miasta
+[NEW]
+<osoba>
+(grupy społeczne związane
+z Adamem Wacławem)"	[color=green,
+		label="significantFigure [P100]"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Katarzyna Sydonja
+[NEW]
+<osoba>
+(księżniczka saska, matka
+Adama Wacława)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Fryderyk Wilhelm
+[Q152898]
+<osoba>
+(ostatni cieszyński Piast
+męski)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Elżbieta Lukrecja
+[NEW]
+<osoba>
+(ostatnia Piastówna)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "1574-12-12"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "1617-07-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "1618-04-04"	[color=green,
+		label="dateOfBurial [NEW]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "kościół dominikanów cieszyńskich
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "książę cieszyński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "książę górnogłogowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "wojskowy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "dowódca oddziału jazdy
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "katolicyzm
+[NEW]
+<religia>"	[color=green,
+		label="religiousAffiliation [NEW]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Kalwaria Zebrzydowska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "dominikanie cieszyńscy
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "dwór elektora saskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Fryderyk Kazimierz
+[NEW]
+<osoba>
+(brat przyrodni Adama
+Wacława)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "Cieszyn na Brandysie
+[NEW]
+<miejscowość>
+(miejsce śmierci Adama
+Wacława)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Adam Wacław
+[Q148265]
+<osoba>
+(książę cieszyński, z rodu
+Piastów)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(dwór elektora saskiego)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Wacław Adam
+[Q148265]
+<osoba>
+(ojciec Adama Wacława)" -> "Wacław Adam
+[Q148265]
+<osoba>
+(ojciec Adama Wacława)"	[color=green,
+		label="hasFather [P92]"];
+	"Elżbieta Kettler
+[NEW]
+<osoba>
+(córka księcia
+kurlandzkiego)" -> "książę kurlandzki
+[NEW]
+<osoba>
+(ojciec Elżbiety Kettler)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Mikołaj Zebrzydowski
+[NEW]
+<osoba>
+(wojewoda, fundator
+Kalwarii Zebrzydowskiej)" -> "Kalwaria Zebrzydowska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"mieszczanie cieszyńscy
+[NEW]
+<osoba>
+(grupa społeczna związana
+z Adamem Wacławem)" -> "mieszczanie cieszyńscy
+[NEW]
+<osoba>
+(grupa społeczna związana
+z Adamem Wacławem)"	[color=green,
+		label="significantFigure [P100]"];
+	"rycerstwo i miasta
+[NEW]
+<osoba>
+(grupy społeczne związane
+z Adamem Wacławem)" -> "rycerstwo i miasta
+[NEW]
+<osoba>
+(grupy społeczne związane
+z Adamem Wacławem)"	[color=green,
+		label="significantFigure [P100]"];
+}

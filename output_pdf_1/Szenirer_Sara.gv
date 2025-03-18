@@ -1,0 +1,816 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)"	[color=black,
+		label="Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)"];
+	"Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"	[color=black,
+		label="Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)"	[color=green,
+		label="hasFather [P92]"];
+	"Róża z Laków
+[NEW]
+<osoba>"	[color=black,
+		label="Róża z Laków
+[NEW]
+<osoba>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Róża z Laków
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"	[color=black,
+		label="Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)"	[color=green,
+		label="hasBrother [P97]"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"rak żołądka
+[NEW]
+<choroba>"	[color=black,
+		label="rak żołądka
+[NEW]
+<choroba>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "rak żołądka
+[NEW]
+<choroba>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie
+[NEW]
+<miejsce>"	[color=black,
+		label="cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie
+[NEW]
+<miejsce>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie
+[NEW]
+<miejsce>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Izaak Landau
+[NEW]
+<osoba>
+(rabin)"	[color=black,
+		label="Izaak Landau
+[NEW]
+<osoba>
+(rabin)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Izaak Landau
+[NEW]
+<osoba>
+(rabin)"	[color=green,
+		label="hasHusband [P94]"];
+	"Beit Jakow
+[NEW]
+<instytucja>
+(żeńskie szkolnictwo
+żydowskie)"	[color=black,
+		label="Beit Jakow
+[NEW]
+<instytucja>
+(żeńskie szkolnictwo
+żydowskie)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Beit Jakow
+[NEW]
+<instytucja>
+(żeńskie szkolnictwo
+żydowskie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Keren Hatora
+[NEW]
+<instytucja>
+(Fundusz Wychowania
+Religijnego)"	[color=black,
+		label="Keren Hatora
+[NEW]
+<instytucja>
+(Fundusz Wychowania
+Religijnego)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Keren Hatora
+[NEW]
+<instytucja>
+(Fundusz Wychowania
+Religijnego)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Agudat Israel
+[NEW]
+<instytucja>
+(Związek Izraela)"	[color=black,
+		label="Agudat Israel
+[NEW]
+<instytucja>
+(Związek Izraela)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Agudat Israel
+[NEW]
+<instytucja>
+(Związek Izraela)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Bajs Jakow
+[NEW]
+<instytucja>
+(łódzkie czasopismo)"	[color=black,
+		label="Bajs Jakow
+[NEW]
+<instytucja>
+(łódzkie czasopismo)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Bajs Jakow
+[NEW]
+<instytucja>
+(łódzkie czasopismo)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Benot Agudat Israel
+[NEW]
+<instytucja>
+(żeńska organizacja
+młodzieżowa)"	[color=black,
+		label="Benot Agudat Israel
+[NEW]
+<instytucja>
+(żeńska organizacja
+młodzieżowa)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Benot Agudat Israel
+[NEW]
+<instytucja>
+(żeńska organizacja
+młodzieżowa)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kolegium Nauczycielskie Keren Hatora
+[NEW]
+<instytucja>"	[color=black,
+		label="Kolegium Nauczycielskie Keren Hatora
+[NEW]
+<instytucja>"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Kolegium Nauczycielskie Keren Hatora
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Der kojech fun hejlikn szabes
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=black,
+		label="Der kojech fun hejlikn szabes
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Der kojech fun hejlikn szabes
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Chane un ir zibn zin
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=black,
+		label="Chane un ir zibn zin
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Chane un ir zibn zin
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Ester un Achaszwejrosz
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=black,
+		label="Ester un Achaszwejrosz
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Ester un Achaszwejrosz
+[NEW]
+<dzieło>
+(sztuka dla dzieci)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Gizamlte szriftn
+[NEW]
+<dzieło>
+(zbiór artykułów
+oświatowych)"	[color=black,
+		label="Gizamlte szriftn
+[NEW]
+<dzieło>
+(zbiór artykułów
+oświatowych)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Gizamlte szriftn
+[NEW]
+<dzieło>
+(zbiór artykułów
+oświatowych)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Cu wos darf men Bejs Jakew szulen
+[NEW]
+<dzieło>
+(broszura)"	[color=black,
+		label="Cu wos darf men Bejs Jakew szulen
+[NEW]
+<dzieło>
+(broszura)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Cu wos darf men Bejs Jakew szulen
+[NEW]
+<dzieło>
+(broszura)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Sefer ha-mahazot
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"	[color=black,
+		label="Sefer ha-mahazot
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Sefer ha-mahazot
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Em bi-Jisra’el
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"	[color=black,
+		label="Em bi-Jisra’el
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "Em bi-Jisra’el
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"D. M. Flesch
+[NEW]
+<osoba>
+(neoortodoksyjny rabin w
+Wiedniu)"	[color=black,
+		label="D. M. Flesch
+[NEW]
+<osoba>
+(neoortodoksyjny rabin w
+Wiedniu)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "D. M. Flesch
+[NEW]
+<osoba>
+(neoortodoksyjny rabin w
+Wiedniu)"	[color=green,
+		label="significantFigure [P100]"];
+	"wyjazd do Wiednia w listopadzie 1914
+[NEW]
+<wydarzenie>
+(wyjazd z Krakowa z powodu
+zbliżania się wojsk
+rosyjskich)"	[color=black,
+		label="wyjazd do Wiednia w listopadzie 1914
+[NEW]
+<wydarzenie>
+(wyjazd z Krakowa z powodu
+zbliżania się wojsk
+rosyjskich)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "wyjazd do Wiednia w listopadzie 1914
+[NEW]
+<wydarzenie>
+(wyjazd z Krakowa z powodu
+zbliżania się wojsk
+rosyjskich)"	[color=green,
+		label="significantEvent [NEW]"];
+	"warsztat krawiecki przy ul. św. Katarzyny 1 w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+pierwszej szkoły
+religijnej \
+dla dziewcząt
+żydowskich przez Sarę
+Szenirer)"	[color=black,
+		label="warsztat krawiecki przy ul. św. Katarzyny 1 w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+pierwszej szkoły
+religijnej \
+dla dziewcząt
+żydowskich przez Sarę
+Szenirer)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "warsztat krawiecki przy ul. św. Katarzyny 1 w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+pierwszej szkoły
+religijnej \
+dla dziewcząt
+żydowskich przez Sarę
+Szenirer)"	[color=green,
+		label="significantLocality [NEW]"];
+	"współzałożenie Benot Agudat Israel
+[NEW]
+<wydarzenie>
+(współzałożenie żeńskiej
+organizacji młodzieżowej)"	[color=black,
+		label="współzałożenie Benot Agudat Israel
+[NEW]
+<wydarzenie>
+(współzałożenie żeńskiej
+organizacji młodzieżowej)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "współzałożenie Benot Agudat Israel
+[NEW]
+<wydarzenie>
+(współzałożenie żeńskiej
+organizacji młodzieżowej)"	[color=green,
+		label="significantEvent [NEW]"];
+	"konferencja żydowskich działaczy oświatowych w 1925 roku
+[NEW]
+<wydarzenie>
+(współorganizacja
+konferencji)"	[color=black,
+		label="konferencja żydowskich działaczy oświatowych w 1925 roku
+[NEW]
+<wydarzenie>
+(współorganizacja
+konferencji)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "konferencja żydowskich działaczy oświatowych w 1925 roku
+[NEW]
+<wydarzenie>
+(współorganizacja
+konferencji)"	[color=green,
+		label="significantEvent [NEW]"];
+	"seminarium nauczycielskie z internatem w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+seminarium
+nauczycielskiego przez
+Sarę \
+Szenirer)"	[color=black,
+		label="seminarium nauczycielskie z internatem w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+seminarium
+nauczycielskiego przez
+Sarę \
+Szenirer)"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "seminarium nauczycielskie z internatem w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+seminarium
+nauczycielskiego przez
+Sarę \
+Szenirer)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "1883-07-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Sara Szenirer
+[Q174436]
+<osoba>
+(działaczka oświatowa,
+założycielka żeńskiego
+szkolnictwa żydowskiego
+Beit Jakow)" -> "1935-03-01"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Becalel Schenirer
+[NEW]
+<osoba>
+(pochodzący z Tarnopola
+kupiec)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Róża z Laków
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szymon
+[Q151245]
+<osoba>
+(sędzia rabinacki w
+Krakowie w latach
+1935–1939)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rak żołądka
+[NEW]
+<choroba>" -> "choroba
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie
+[NEW]
+<miejsce>" -> "miejsce
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Izaak Landau
+[NEW]
+<osoba>
+(rabin)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Beit Jakow
+[NEW]
+<instytucja>
+(żeńskie szkolnictwo
+żydowskie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Keren Hatora
+[NEW]
+<instytucja>
+(Fundusz Wychowania
+Religijnego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Agudat Israel
+[NEW]
+<instytucja>
+(Związek Izraela)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bajs Jakow
+[NEW]
+<instytucja>
+(łódzkie czasopismo)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Benot Agudat Israel
+[NEW]
+<instytucja>
+(żeńska organizacja
+młodzieżowa)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kolegium Nauczycielskie Keren Hatora
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Der kojech fun hejlikn szabes
+[NEW]
+<dzieło>
+(sztuka dla dzieci)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Chane un ir zibn zin
+[NEW]
+<dzieło>
+(sztuka dla dzieci)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ester un Achaszwejrosz
+[NEW]
+<dzieło>
+(sztuka dla dzieci)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gizamlte szriftn
+[NEW]
+<dzieło>
+(zbiór artykułów
+oświatowych)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Cu wos darf men Bejs Jakew szulen
+[NEW]
+<dzieło>
+(broszura)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sefer ha-mahazot
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Em bi-Jisra’el
+[NEW]
+<dzieło>
+(zbiory artykułów w
+przekładzie na język
+hebrajski)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"D. M. Flesch
+[NEW]
+<osoba>
+(neoortodoksyjny rabin w
+Wiedniu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wyjazd do Wiednia w listopadzie 1914
+[NEW]
+<wydarzenie>
+(wyjazd z Krakowa z powodu
+zbliżania się wojsk
+rosyjskich)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"warsztat krawiecki przy ul. św. Katarzyny 1 w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+pierwszej szkoły
+religijnej \
+dla dziewcząt
+żydowskich przez Sarę
+Szenirer)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"współzałożenie Benot Agudat Israel
+[NEW]
+<wydarzenie>
+(współzałożenie żeńskiej
+organizacji młodzieżowej)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"konferencja żydowskich działaczy oświatowych w 1925 roku
+[NEW]
+<wydarzenie>
+(współorganizacja
+konferencji)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"seminarium nauczycielskie z internatem w Krakowie
+[NEW]
+<miejscowość>
+(miejsce założenia
+seminarium
+nauczycielskiego przez
+Sarę \
+Szenirer)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

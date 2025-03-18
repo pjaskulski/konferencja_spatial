@@ -1,0 +1,151 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)"	[color=black,
+		label="Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)"];
+	"Franciszek
+[NEW]
+<osoba>
+(dziedzic wioski
+Jaśniszcze)"	[color=black,
+		label="Franciszek
+[NEW]
+<osoba>
+(dziedzic wioski
+Jaśniszcze)"];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Franciszek
+[NEW]
+<osoba>
+(dziedzic wioski
+Jaśniszcze)"	[color=green,
+		label="hasFather [P92]"];
+	"Wincenty Jandel
+[NEW]
+<osoba>
+(generał zakonu oo.
+dominikanów)"	[color=black,
+		label="Wincenty Jandel
+[NEW]
+<osoba>
+(generał zakonu oo.
+dominikanów)"];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Wincenty Jandel
+[NEW]
+<osoba>
+(generał zakonu oo.
+dominikanów)"	[color=green,
+		label="significantFigure [P100]"];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "zgromadzenie ss. dominikanek III Zakonu regularnego w Polsce
+[NEW]
+<organizacja>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "1838-08-23"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "1887-03-18
+(umarła w opinji świętości)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Jaśniszcze
+[NEW]
+<miejscowość>
+(koło Podkamienia w
+powiecie brodzkim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=4];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "Anna Ernestyna z Radziejowskich
+[NEW]
+<osoba>
+(matka Białeckiej Kolumby)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Białecka Kolumba
+[Q149111]
+<osoba>
+(założycielka zgromadzenia
+ss. dominikanek III
+Zakonu regularnego w
+Polsce)" -> "klasztor Sacré Coeur
+[NEW]
+<uczelnia>
+(we Lwowie)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Franciszek
+[NEW]
+<osoba>
+(dziedzic wioski
+Jaśniszcze)" -> "Jaśniszcze
+[NEW]
+<miejscowość>
+(wioska, której dziedzicem
+był Franciszek)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Wincenty Jandel
+[NEW]
+<osoba>
+(generał zakonu oo.
+dominikanów)" -> "generał zakonu oo. dominikanów
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

@@ -1,0 +1,292 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław",
+                "type": "osoba",
+                "description": "zapewne Hukleja, wójt w Mąkolinie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna z Kośnińskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "wójt knyszyński",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Paweł",
+                "type": "osoba",
+                "description": "doktor obojga praw, późniejszy opat płocki",
+                "wikihum": "Q165102"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Filip",
+                "type": "osoba",
+                "description": "kanonik pułtuski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q155676"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Zygmunt",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q2762"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Królowa Bona",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Król Zygmunt August",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasAsset",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kaleczyce",
+                "type": "miejscowość",
+                "description": "majętność nabyta przez Macieja z Mąkolina i jego brata Pawła",
+                "wikihum": "Q145345"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nagrobek w katedrze płockiej",
+                "type": "obiekt fizyczny",
+                "description": "nagrobek wystawiony przez Macieja z Mąkolina i jego brata Pawła",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1576-12-30",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kolegiata w Pułtusku",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Macieja z Mąkolina",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "sekretarz",
+                "type": "zawód",
+                "description": "sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "NEW",
+                "wikidata": "Q63869739"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prebendy",
+                "type": "urząd",
+                "description": "kanonia sądecka, kanonia kolegiaty Św. Michała na Wawelu, altaria św. Trójcy w Mejszagole, plebania w Kalinówce, altaria św. Doroty w katedrze krakowskiej, plebania w Młodzieszynie, kanonia łęczycka, plebania w Sochaczewie, kanonia kolegiaty Św. Jerzego na Wawelu, plebania w Nurze i Makowie, kanonia pułtuska, kanonia wileńska, prepozytura trocka, kanonia płocka, kantorstwo płockie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maciej z Mąkolina",
+                "type": "osoba",
+                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta",
+                "wikihum": "Q161010"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Andrzej Krzycki",
+                "type": "osoba",
+                "description": "biskup płocki od 1527 roku, protektor Macieja z Mąkolina",
+                "wikihum": "Q159193"
+            }
+        }
+    ]
+}

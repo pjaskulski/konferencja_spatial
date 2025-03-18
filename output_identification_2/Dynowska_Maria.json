@@ -1,0 +1,434 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1872-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1938-05-03",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Henryk Dynowski",
+                "type": "osoba",
+                "description": "profesor gimnazjum w Warszawie",
+                "wikihum": "Q152059"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Franciszka Dynowska",
+                "type": "osoba",
+                "description": "z domu Brudnicka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jadwiga Dynowska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polski Słownik Biograficzny",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Stronnictwo Narodowe",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wiceprzewodnicząca Narodowej Organizacji Kobiet",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarka redakcji 'Roku Polskiego'",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Hieronim Morsztyn i jego spuścizna literacka",
+                "type": "dzieło",
+                "description": "opublikowane w 1910 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Jan Franciszek Loredano i polski tłumacz anonim »Dianei«",
+                "type": "dzieło",
+                "description": "opublikowane w 1913 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Filip Nereusz Golański",
+                "type": "dzieło",
+                "description": "opublikowane w 1916 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Podręcznik do historii literatury polskiej",
+                "type": "dzieło",
+                "description": "opublikowane w 1921 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Korespondencja Józefa Ignacego Kraszewskiego i Leopolda Kronenberga",
+                "type": "dzieło",
+                "description": "opublikowane w 1929 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska w zwyczaju i obyczaju",
+                "type": "dzieło",
+                "description": "książka dla dzieci i młodzieży",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Dylu dylu na badylu",
+                "type": "dzieło",
+                "description": "zbiór wierszyków oparty o motywy ludowe",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Skarbiec poezji polskiej",
+                "type": "dzieło",
+                "description": "antologia obrazków dramatycznych dla scen oświatowych, wydana w 1937 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "uniwersytet latający",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Dynowska",
+                "type": "osoba",
+                "description": "urodzona w 1872 roku, zmarła w 1938 roku",
+                "wikihum": "Q1591"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Karolina Stolzenwald",
+                "type": "osoba",
+                "description": "działaczka i filantropka warszawska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Dynowski",
+                "type": "osoba",
+                "description": "profesor gimnazjum w Warszawie",
+                "wikihum": "Q152059"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "profesor gimnazjum w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Dynowska",
+                "type": "osoba",
+                "description": "z domu Brudnicka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMaidenName",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Brudnicka",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Karolina Stolzenwald",
+                "type": "osoba",
+                "description": "działaczka i filantropka warszawska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        }
+    ]
+}

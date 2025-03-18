@@ -1,0 +1,300 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)"	[color=black,
+		label="Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)"];
+	"Rostoka
+[NEW]
+<miejscowość>
+(wieś w obwodzie
+krasnostawskim)"	[color=black,
+		label="Rostoka
+[NEW]
+<miejscowość>
+(wieś w obwodzie
+krasnostawskim)"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Rostoka
+[NEW]
+<miejscowość>
+(wieś w obwodzie
+krasnostawskim)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Zagrzeb
+[Q146556]
+<miejscowość>"	[color=black,
+		label="Zagrzeb
+[Q146556]
+<miejscowość>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Zagrzeb
+[Q146556]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Józef
+[Q4654]
+<osoba>
+(rolnik i duchowny
+grekokatolicki)"	[color=black,
+		label="Józef
+[Q4654]
+<osoba>
+(rolnik i duchowny
+grekokatolicki)"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Józef
+[Q4654]
+<osoba>
+(rolnik i duchowny
+grekokatolicki)"	[color=green,
+		label="hasFather [P92]"];
+	"Uniwersytet Warszawski
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Warszawski
+[NEW]
+<instytucja>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Uniwersytet Warszawski
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Powstanie listopadowe
+[NEW]
+<wydarzenie>
+(powstanie 1830/31 r.)"	[color=black,
+		label="Powstanie listopadowe
+[NEW]
+<wydarzenie>
+(powstanie 1830/31 r.)"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Powstanie listopadowe
+[NEW]
+<wydarzenie>
+(powstanie 1830/31 r.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"publicysta
+[NEW]
+<zawód>"	[color=black,
+		label="publicysta
+[NEW]
+<zawód>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "publicysta
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"emigrant
+[NEW]
+<zawód>"	[color=black,
+		label="emigrant
+[NEW]
+<zawód>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "emigrant
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Towarzystwo Demokratyczne Polskie
+[NEW]
+<instytucja>"	[color=black,
+		label="Towarzystwo Demokratyczne Polskie
+[NEW]
+<instytucja>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Towarzystwo Demokratyczne Polskie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Lublin
+[Q50436]
+<miejscowość>"	[color=black,
+		label="Lublin
+[Q50436]
+<miejscowość>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Lublin
+[Q50436]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"podporucznik w 16. pułku piechoty liniowej
+[NEW]
+<stanowisko>"	[color=black,
+		label="podporucznik w 16. pułku piechoty liniowej
+[NEW]
+<stanowisko>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "podporucznik w 16. pułku piechoty liniowej
+[NEW]
+<stanowisko>"	[color=green,
+		label="positionHeld [P101]"];
+	"aresztowanie przez policję austriacką w Galicji
+[NEW]
+<wydarzenie>"	[color=black,
+		label="aresztowanie przez policję austriacką w Galicji
+[NEW]
+<wydarzenie>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "aresztowanie przez policję austriacką w Galicji
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"śmierć w więzieniu
+[NEW]
+<przyczyna śmierci>"	[color=black,
+		label="śmierć w więzieniu
+[NEW]
+<przyczyna śmierci>"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "śmierć w więzieniu
+[NEW]
+<przyczyna śmierci>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> 1847	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> 1803	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Rostoka
+[NEW]
+<miejscowość>
+(wieś w obwodzie
+krasnostawskim)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zagrzeb
+[Q146556]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef
+[Q4654]
+<osoba>
+(rolnik i duchowny
+grekokatolicki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Warszawski
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Powstanie listopadowe
+[NEW]
+<wydarzenie>
+(powstanie 1830/31 r.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"publicysta
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"emigrant
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Towarzystwo Demokratyczne Polskie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lublin
+[Q50436]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"podporucznik w 16. pułku piechoty liniowej
+[NEW]
+<stanowisko>" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"aresztowanie przez policję austriacką w Galicji
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"śmierć w więzieniu
+[NEW]
+<przyczyna śmierci>" -> "przyczyna śmierci
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

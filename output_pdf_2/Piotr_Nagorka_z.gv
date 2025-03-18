@@ -1,0 +1,218 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)"	[color=black,
+		label="Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)"];
+	"Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"	[color=black,
+		label="Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"	[color=green,
+		label="hasFather [P92]"];
+	"Kazimierz Wielki
+[Q156969]
+<osoba>"	[color=black,
+		label="Kazimierz Wielki
+[Q156969]
+<osoba>"];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Kazimierz Wielki
+[Q156969]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Innocenty VI
+[NEW]
+<osoba>
+(papież)"	[color=black,
+		label="Innocenty VI
+[NEW]
+<osoba>
+(papież)"];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Innocenty VI
+[NEW]
+<osoba>
+(papież)"	[color=green,
+		label="significantFigure [P100]"];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "kanonik poznański i płocki
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "poseł Kazimierza Wielkiego do Awinionu
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "1361-12-31
+(Data przybliżona, zmarł
+niedługo przed 31 XII
+1361.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Awinion
+[Q146686]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Mroczka z Kisielewa
+[NEW]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Imisław Wroński
+[NEW]
+<osoba>
+(elektor płocki popierany
+przez króla)"	[color=green,
+		label="significantFigure [P100]"];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "diecezja płocka
+[NEW]
+<instytucja>"	[color=green,
+		label="religiousAffiliation [NEW]",
+		minlen=2];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "1359
+(Pierwsza wzmianka o
+Piotrze Nagórce.)"	[color=green,
+		label="firstMention [NEW]",
+		minlen=3];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Jan Jura
+[Q156352]
+<osoba>
+(towarzysz Piotra Nagórki
+w poselstwie do Awinionu)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Piotr Nagórka
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Jan z Buska
+[Q155708]
+<osoba>
+(towarzysz Piotra Nagórki
+w poselstwie do Awinionu)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)" -> "dziedzic Grąbca i Kisielewa
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Kazimierz Wielki
+[Q156969]
+<osoba>" -> "Imisław Wroński
+[NEW]
+<osoba>
+(elektor płocki popierany
+przez króla)"	[color=green,
+		label="significantFigure [P100]"];
+	"Kazimierz Wielki
+[Q156969]
+<osoba>" -> "Mroczka z Kisielewa
+[NEW]
+<osoba>
+(brat Piotra Nagórki)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Innocenty VI
+[NEW]
+<osoba>
+(papież)" -> "Bernard
+[Q151733]
+<osoba>
+(dominikanin, który
+otrzymał prowizję na
+biskupstwo płockie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+}

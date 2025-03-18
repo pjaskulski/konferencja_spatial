@@ -1,0 +1,176 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)"	[color=black,
+		label="Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)"];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"	[color=black,
+		label="Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)"	[color=green,
+		label="hasFather [P92]"];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "budowniczy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "wznoszenie parteru kościoła Św. Jana
+[NEW]
+<wydarzenie>
+(praca Jana Gotlanda
+młodszego przy kościele
+Św. Jana w Toruniu)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "budowa górnej części wieży kościoła Św. Jana
+[NEW]
+<wydarzenie>
+(praca Jana Gotlanda
+młodszego przy kościele
+Św. Jana \
+w Toruniu w
+latach 1428–33)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "wzniesienie zakrystii przy kościele Św. Wawrzyńca
+[NEW]
+<wydarzenie>
+(praca Jana Gotlanda
+młodszego przy kościele
+Św. Wawrzyńca \
+w 1427 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "budowa bramy miejskiej zwanej mostową
+[NEW]
+<wydarzenie>
+(praca Jana Gotlanda
+młodszego w 1432 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "budowa sklepień i kaplicy w kościele OO. Franciszkanów w Braniewie
+[NEW]
+<wydarzenie>
+(praca Jana Gotlanda
+młodszego w latach
+\
+1437–45)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "1380-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)" -> "1445-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)" -> "starszy cechu
+[NEW]
+<urząd>
+(starszy cechu w Toruniu)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Hans Gotland
+[NEW]
+<osoba>
+(ojciec Jana Gotlanda
+młodszego, murator,
+starszy cechu w Toruniu)" -> "Gotland
+[NEW]
+<miejscowość>
+(wyspa, z której pochodził
+Hans Gotland)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Jakub
+[Q154237]
+<osoba>
+(mistrz, u którego Jan
+Gotland młodszy pracował
+po śmierci ojca)"	[color=black,
+		label="Jakub
+[Q154237]
+<osoba>
+(mistrz, u którego Jan
+Gotland młodszy pracował
+po śmierci ojca)"];
+	"Jakub
+[Q154237]
+<osoba>
+(mistrz, u którego Jan
+Gotland młodszy pracował
+po śmierci ojca)" -> "Jan Gotland młodszy
+[Q153929]
+<osoba>
+(budowniczy toruński)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+}

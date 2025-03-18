@@ -1,0 +1,306 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)"	[color=black,
+		label="Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)"];
+	"Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)"	[color=black,
+		label="Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)"];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, brat Zawiszy
+Czarnego)"	[color=black,
+		label="Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, brat Zawiszy
+Czarnego)"];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, brat Zawiszy
+Czarnego)"	[color=green,
+		label="hasBrother [P97]"];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Mikołaj
+[Q162340]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Zawisza
+[Q159564]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Piotr
+[NEW]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Stefan
+[NEW]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "1453-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "rycerz
+[NEW]
+<zawód>
+(rycerz polski z XV wieku)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Zygmunt Luksemburski
+[NEW]
+<osoba>
+(osoba, u której Farurej
+Jan z Garbowa służył)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "bitwa pod Grunwaldem
+[NEW]
+<wydarzenie>
+(uczestnictwo w bitwie pod
+Grunwaldem jako jedno z
+osiągnięć Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "turniej w Budzie
+[NEW]
+<wydarzenie>
+(uczestnictwo w turnieju w
+Budzie w 1412 roku jako
+jedno z osiągnięć
+Farureja Jana z Garbowa)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "konfederacja korczyńska
+[NEW]
+<wydarzenie>
+(uczestnictwo w
+konfederacji korczyńskiej
+w 1438 roku jako jedno z
+osiągnięć Farureja \
+Jana z
+Garbowa)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "wyniesienie Władysława III na tron węgierski
+[NEW]
+<wydarzenie>
+(zaangażowanie w
+wyniesienie Władysława
+III na tron węgierski \
+w
+1440 roku jako jedno z
+osiągnięć Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)" -> "Jan Głowacz z Oleśnicy
+[NEW]
+<osoba>
+(osoba, z którą Farurej
+Jan z Garbowa dokonywał
+transakcji majątkowych)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)" -> "Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)"	[color=green,
+		label="hasBrother [P97]"];
+	"Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)" -> "rycerz
+[NEW]
+<zawód>
+(znany rycerz polski)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, brat Zawiszy
+Czarnego)" -> "Farurej Jan z Garbowa
+[NEW]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka)"	[color=green,
+		label="hasBrother [P97]"];
+	"Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, brat Zawiszy
+Czarnego)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, znany rycerz
+polski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"	[color=black,
+		label="Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"];
+	"Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)" -> "kasztelan sieradzki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+}

@@ -1,0 +1,92 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)"	[color=black,
+		label="Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)"];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "kasztelan kruszwicki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "Gerward
+[Q153277]
+<osoba>
+(brat Przezdrzewa z
+Ostrowa, biskup kujawski)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=2];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "Maciej z Gołańczy
+[Q161002]
+<osoba>
+(siostrzeniec Przezdrzewa
+z Ostrowa, biskup
+kujawski)"	[color=green,
+		label="hasUncle [P99]",
+		minlen=3];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "Maciej z Ostrowa
+[NEW]
+<osoba>
+(sędzia brzeski kujawski,
+ojciec Przezdrzewa z
+Ostrowa)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "Jan z Ostrowa
+[NEW]
+<osoba>
+(starszy brat Przezdrzewa
+z Ostrowa, poprzedni
+kasztelan kruszwicki)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Przezdrzew z Ostrowa
+[Q167108]
+<osoba>
+(zm. między r. 1341 a
+1344, kasztelan
+kruszwicki)" -> "Władysław Łokietek
+[NEW]
+<osoba>
+(król Polski, z którym
+podróżował Przezdrzew z
+Ostrowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+}

@@ -1,0 +1,203 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)"	[color=black,
+		label="Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)"];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)"	[color=black,
+		label="Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)"];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)"	[color=green,
+		label="hasHusband [P94]"];
+	"Joachim Gintowt
+[NEW]
+<osoba>
+(sekretarz Komisji
+Edukacji Narodowej)"	[color=black,
+		label="Joachim Gintowt
+[NEW]
+<osoba>
+(sekretarz Komisji
+Edukacji Narodowej)"];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "Joachim Gintowt
+[NEW]
+<osoba>
+(sekretarz Komisji
+Edukacji Narodowej)"	[color=green,
+		label="hasBrother [P97]"];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "Antoni Gintowt
+[NEW]
+<osoba>
+(miecznik bełski)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "Franciszek Karpiński
+[Q156798]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "O edukacji fizycznej i moralnej płci żeńskiej
+[NEW]
+<dzieło>
+(traktat ogłoszony drukiem
+w 1789 roku, przełożony z
+francuskiego)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "dobra Fajsławice i wsie w województwie krakowskim
+[NEW]
+<własność>
+(dobra w województwie
+lubelskim i krakowskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "królewszczyzna Lachowicze
+[NEW]
+<własność>
+(w województwie
+nowogródzkim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "wsie Rudka i Mierzwica
+[NEW]
+<własność>
+(wsie duże, przedmiot
+sporu z Tomaszem
+Aleksandrowiczem)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(z domu Gintowt-
+Dziewiałtowska, h. Trąby,
+urodzona ok. 1758 roku)" -> "dobra w opactwie miechowskim
+[NEW]
+<własność>
+(przedmiot sporu z Szkołą
+Główną krakowską)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)" -> "szambelan dworu
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)" -> "pułkownik
+[NEW]
+<zawód>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=2];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)" -> "generał-major wojsk koronnych
+[NEW]
+<zawód>"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=3];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(szambelan dworu,
+pułkownik, później
+generał-major wojsk
+koronnych)" -> "wsie Rudka i Mierzwica
+[NEW]
+<własność>
+(wsie podlaskie)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Joachim Gintowt
+[NEW]
+<osoba>
+(sekretarz Komisji
+Edukacji Narodowej)" -> "sekretarz Komisji Edukacji Narodowej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

@@ -1,0 +1,775 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)"	[color=black,
+		label="Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)"];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="hasFather [P92]"];
+	"Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasMother [P93]"];
+	"Jadwiga Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Jadwiga Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Jadwiga Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasSister [P97]"];
+	"Maryla Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Maryla Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Maryla Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasSister [P97]"];
+	"Włodzimierz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Włodzimierz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Włodzimierz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasBrother [P97]"];
+	"Tadeusz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Tadeusz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Tadeusz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasBrother [P97]"];
+	"Kraków
+[Q46043]
+<miejscowość>
+(miejsce urodzenia Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>
+(miejsce urodzenia Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Kraków
+[Q46043]
+<miejscowość>
+(miejsce urodzenia Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Praga
+[Q68723]
+<miejscowość>
+(miejsce śmierci Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="Praga
+[Q68723]
+<miejscowość>
+(miejsce śmierci Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Praga
+[Q68723]
+<miejscowość>
+(miejsce śmierci Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasHusband [P94]"];
+	"Tomasz Szczygielski
+[NEW]
+<osoba>
+(syn Józefy Kazimiery
+Szczygielskiej)"	[color=black,
+		label="Tomasz Szczygielski
+[NEW]
+<osoba>
+(syn Józefy Kazimiery
+Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Tomasz Szczygielski
+[NEW]
+<osoba>
+(syn Józefy Kazimiery
+Szczygielskiej)"	[color=green,
+		label="hasSon [P153]"];
+	"malarka
+[NEW]
+<zawód>"	[color=black,
+		label="malarka
+[NEW]
+<zawód>"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "malarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Rouen
+[NEW]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="Rouen
+[NEW]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Rouen
+[NEW]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Paryż
+[Q146696]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="Paryż
+[Q146696]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Paryż
+[Q146696]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"debiut w TZSP w Warszawie
+[NEW]
+<wydarzenie>
+(debiut artystyczny Józefy
+Kazimiery Szczygielskiej)"	[color=black,
+		label="debiut w TZSP w Warszawie
+[NEW]
+<wydarzenie>
+(debiut artystyczny Józefy
+Kazimiery Szczygielskiej)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "debiut w TZSP w Warszawie
+[NEW]
+<wydarzenie>
+(debiut artystyczny Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="significantEvent [NEW]"];
+	"medale artystyczne
+[NEW]
+<osiągnięcie>
+(srebrny medal za postępy
+w dziedzinie historii
+sztuki, dwa brązowe
+medale oraz zaszczytna
+\
+wzmianka za rysunki)"	[color=black,
+		label="medale artystyczne
+[NEW]
+<osiągnięcie>
+(srebrny medal za postępy
+w dziedzinie historii
+sztuki, dwa brązowe
+medale oraz zaszczytna
+\
+wzmianka za rysunki)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "medale artystyczne
+[NEW]
+<osiągnięcie>
+(srebrny medal za postępy
+w dziedzinie historii
+sztuki, dwa brązowe
+medale oraz zaszczytna
+\
+wzmianka za rysunki)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Zakopane
+[Q91793]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1908 roku)"	[color=black,
+		label="Zakopane
+[Q91793]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1908 roku)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Zakopane
+[Q91793]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1908 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Budapeszt
+[Q147353]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1910 roku)"	[color=black,
+		label="Budapeszt
+[Q147353]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1910 roku)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Budapeszt
+[Q147353]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1910 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Łódź
+[Q52081]
+<miejscowość>
+(miejsce wystawy Józefy
+Kazimiery Szczygielskiej
+w grudniu 1901 roku)"	[color=black,
+		label="Łódź
+[Q52081]
+<miejscowość>
+(miejsce wystawy Józefy
+Kazimiery Szczygielskiej
+w grudniu 1901 roku)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Łódź
+[Q52081]
+<miejscowość>
+(miejsce wystawy Józefy
+Kazimiery Szczygielskiej
+w grudniu 1901 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"wystawa w TPSP w Krakowie
+[NEW]
+<wydarzenie>
+(wystawa Józefy Kazimiery
+Szczygielskiej w 1897
+roku)"	[color=black,
+		label="wystawa w TPSP w Krakowie
+[NEW]
+<wydarzenie>
+(wystawa Józefy Kazimiery
+Szczygielskiej w 1897
+roku)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "wystawa w TPSP w Krakowie
+[NEW]
+<wydarzenie>
+(wystawa Józefy Kazimiery
+Szczygielskiej w 1897
+roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"wielki srebrny medal
+[NEW]
+<osiągnięcie>
+(za kompozycje dekoracyjne
+pokazane we Lwowie w 1895
+roku)"	[color=black,
+		label="wielki srebrny medal
+[NEW]
+<osiągnięcie>
+(za kompozycje dekoracyjne
+pokazane we Lwowie w 1895
+roku)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "wielki srebrny medal
+[NEW]
+<osiągnięcie>
+(za kompozycje dekoracyjne
+pokazane we Lwowie w 1895
+roku)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Rada Szkolna Okręgowa we Lwowie
+[NEW]
+<instytucja>
+(instytucja, z którą
+współpracowała Józefa
+Kazimiera Szczygielska w
+czasie \
+pobytu w Zakopanem)"	[color=black,
+		label="Rada Szkolna Okręgowa we Lwowie
+[NEW]
+<instytucja>
+(instytucja, z którą
+współpracowała Józefa
+Kazimiera Szczygielska w
+czasie \
+pobytu w Zakopanem)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Rada Szkolna Okręgowa we Lwowie
+[NEW]
+<instytucja>
+(instytucja, z którą
+współpracowała Józefa
+Kazimiera Szczygielska w
+czasie \
+pobytu w Zakopanem)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "1913-12-00"	[color=green,
+		label="dateOfDeath [P12]"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "Praga
+[NEW]
+<miejscowość>
+(miejsce pochówku Józefy
+Kazimiery Szczygielskiej)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka, córka Juliana
+Wiśniewskiego i Marianny
+z Matusiewiczów)" -> "1866-12-26"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, urzędnik
+pocztowy, ojciec Józefy
+Kazimiery Szczygielskiej)" -> "1843-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Marianna z Matusiewiczów
+[NEW]
+<osoba>
+(żona Juliana
+Wiśniewskiego, matka
+Józefy Kazimiery
+Szczygielskiej)" -> "1846-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jadwiga Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maryla Wiśniewska
+[NEW]
+<osoba>
+(siostra Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Włodzimierz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tadeusz Wiśniewski
+[NEW]
+<osoba>
+(brat Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>
+(miejsce urodzenia Józefy
+Kazimiery Szczygielskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Praga
+[Q68723]
+<miejscowość>
+(miejsce śmierci Józefy
+Kazimiery Szczygielskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Szczygielski
+[Q174283]
+<osoba>
+(mąż Józefy Kazimiery
+Szczygielskiej)" -> "1913-12-00"	[color=green,
+		label="dateOfDeath [P12]"];
+	"Tomasz Szczygielski
+[NEW]
+<osoba>
+(syn Józefy Kazimiery
+Szczygielskiej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"malarka
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Rouen
+[NEW]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paryż
+[Q146696]
+<miejscowość>
+(miejsce studiów Józefy
+Kazimiery Szczygielskiej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"debiut w TZSP w Warszawie
+[NEW]
+<wydarzenie>
+(debiut artystyczny Józefy
+Kazimiery Szczygielskiej)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"medale artystyczne
+[NEW]
+<osiągnięcie>
+(srebrny medal za postępy
+w dziedzinie historii
+sztuki, dwa brązowe
+medale oraz zaszczytna
+\
+wzmianka za rysunki)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zakopane
+[Q91793]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1908 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Budapeszt
+[Q147353]
+<miejscowość>
+(miejsce zamieszkania
+Józefy Kazimiery
+Szczygielskiej pod koniec
+1910 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Łódź
+[Q52081]
+<miejscowość>
+(miejsce wystawy Józefy
+Kazimiery Szczygielskiej
+w grudniu 1901 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wystawa w TPSP w Krakowie
+[NEW]
+<wydarzenie>
+(wystawa Józefy Kazimiery
+Szczygielskiej w 1897
+roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"wielki srebrny medal
+[NEW]
+<osiągnięcie>
+(za kompozycje dekoracyjne
+pokazane we Lwowie w 1895
+roku)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rada Szkolna Okręgowa we Lwowie
+[NEW]
+<instytucja>
+(instytucja, z którą
+współpracowała Józefa
+Kazimiera Szczygielska w
+czasie \
+pobytu w Zakopanem)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

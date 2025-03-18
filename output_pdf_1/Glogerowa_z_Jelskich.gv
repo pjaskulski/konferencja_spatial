@@ -1,0 +1,304 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)"	[color=black,
+		label="Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)"];
+	"Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta.)"	[color=black,
+		label="Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta.)"];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta.)"	[color=green,
+		label="hasFather [P92]"];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)"	[color=black,
+		label="Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)"];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)"	[color=green,
+		label="hasHusband [P94]"];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "pisarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "tłumaczka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "1860-07-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "1899-04-11"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Tykocin
+[Q84517]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Helena z Kałęczyńskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "pensja wizytek polskich w Paryżu (Wersal)
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Adam Pług
+[NEW]
+<osoba>
+(Pseudonim Antoniego
+Pietkiewicza, przyjaciel
+domu Glogerów i autor
+pośmiertnego wspomnienia
+o Aleksandrze \
+Glogerowej.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "Dudzice – Kartka z dziejów i wspomnień starego dworu
+[NEW]
+<dzieło>
+(Szkic o dworze w
+Dudziczach, stanowiącym
+gniazdo rodzinne
+\
+Jelskich.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "przekład pamiętników Michała Starzeńskiego
+[NEW]
+<dzieło>
+(Nie dokończony przekład
+pisanych po francusku
+pamiętników Michała
+\
+Starzeńskiego, starosty
+brańskiego w czasach
+Stanisława Augusta
+Poniatowskiego.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Aleksandra Glogerowa
+[Q153493]
+<osoba>
+(Pisarka i tłumaczka,
+córka Aleksandra
+Jelskiego i Heleny z
+Kałęczyńskich, żona
+Zygmunta \
+Glogera.)" -> "neoromantyzm
+[NEW]
+<nurt literacki>
+(Nurt literacki, którego
+przedstawicielką była
+Aleksandra Glogerowa.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Aleksander Jelski
+[Q156154]
+<osoba>
+(Dziedzic Zamościa i znany
+publicysta.)" -> "publicysta
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)" -> "historyk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)" -> "etnograf
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Zygmunt Gloger
+[Q153492]
+<osoba>
+(Właściciel majątku Jeżewo
+na Podlasiu, historyk i
+etnograf.)" -> "majątek Jeżewo na Podlasiu
+[NEW]
+<własność>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+}

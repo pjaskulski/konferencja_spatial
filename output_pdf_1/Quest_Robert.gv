@@ -1,0 +1,603 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)"	[color=black,
+		label="Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)"];
+	"lekarz
+[NEW]
+<zawód>"	[color=black,
+		label="lekarz
+[NEW]
+<zawód>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "lekarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"pediatra
+[NEW]
+<zawód>"	[color=black,
+		label="pediatra
+[NEW]
+<zawód>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "pediatra
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Lwów
+[Q144390]
+<miejscowość>"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"rodzinna posiadłość pod Opawą
+[NEW]
+<miejscowość>"	[color=black,
+		label="rodzinna posiadłość pod Opawą
+[NEW]
+<miejscowość>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "rodzinna posiadłość pod Opawą
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Rövensdorf
+[NEW]
+<miejscowość>"	[color=black,
+		label="Rövensdorf
+[NEW]
+<miejscowość>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Rövensdorf
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie i działacz
+Towarzystwa Tatrzańskiego)"	[color=black,
+		label="Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie i działacz
+Towarzystwa Tatrzańskiego)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie i działacz
+Towarzystwa Tatrzańskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Emilia Mannowa
+[NEW]
+<osoba>
+(siostra Roberta Questa,
+owdowiała)"	[color=black,
+		label="Emilia Mannowa
+[NEW]
+<osoba>
+(siostra Roberta Questa,
+owdowiała)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Emilia Mannowa
+[NEW]
+<osoba>
+(siostra Roberta Questa,
+owdowiała)"	[color=green,
+		label="hasSister [P97]"];
+	"Kazimierz Mann
+[NEW]
+<osoba>
+(malarz zakopiański)"	[color=black,
+		label="Kazimierz Mann
+[NEW]
+<osoba>
+(malarz zakopiański)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Kazimierz Mann
+[NEW]
+<osoba>
+(malarz zakopiański)"	[color=green,
+		label="hasNephew [NEW]"];
+	"Roman Mann
+[Q161405]
+<osoba>"	[color=black,
+		label="Roman Mann
+[Q161405]
+<osoba>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Roman Mann
+[Q161405]
+<osoba>"	[color=green,
+		label="hasNephew [NEW]"];
+	"Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"	[color=black,
+		label="Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)"	[color=green,
+		label="hasNephew [NEW]"];
+	"Graz
+[NEW]
+<miejscowość>"	[color=black,
+		label="Graz
+[NEW]
+<miejscowość>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Graz
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Uniwersytet Lwowski
+[NEW]
+<instytucja>
+(zakład patologii ogólnej
+i doświadczalnej)"	[color=black,
+		label="Uniwersytet Lwowski
+[NEW]
+<instytucja>
+(zakład patologii ogólnej
+i doświadczalnej)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Uniwersytet Lwowski
+[NEW]
+<instytucja>
+(zakład patologii ogólnej
+i doświadczalnej)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Szczawnica
+[Q80950]
+<miejscowość>"	[color=black,
+		label="Szczawnica
+[Q80950]
+<miejscowość>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "Szczawnica
+[Q80950]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"T. Escherich
+[NEW]
+<osoba>"	[color=black,
+		label="T. Escherich
+[NEW]
+<osoba>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "T. Escherich
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"M. Pfaundler
+[NEW]
+<osoba>"	[color=black,
+		label="M. Pfaundler
+[NEW]
+<osoba>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "M. Pfaundler
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"A. Czerny
+[NEW]
+<osoba>"	[color=black,
+		label="A. Czerny
+[NEW]
+<osoba>"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "A. Czerny
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"ordynariusz szpitala zakaźnego we Lwowie
+[NEW]
+<urząd>
+(ordynariusz szpitala
+zakaźnego we Lwowie w
+latach 1906–1913)"	[color=black,
+		label="ordynariusz szpitala zakaźnego we Lwowie
+[NEW]
+<urząd>
+(ordynariusz szpitala
+zakaźnego we Lwowie w
+latach 1906–1913)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "ordynariusz szpitala zakaźnego we Lwowie
+[NEW]
+<urząd>
+(ordynariusz szpitala
+zakaźnego we Lwowie w
+latach 1906–1913)"	[color=green,
+		label="positionHeld [P101]"];
+	"prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie
+[NEW]
+<urząd>
+(prymariusz oddziału
+internistycznego \
+Szpitala
+Dziecięcego im. Św. Zofii
+we Lwowie od roku 1913)"	[color=black,
+		label="prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie
+[NEW]
+<urząd>
+(prymariusz oddziału
+internistycznego \
+Szpitala
+Dziecięcego im. Św. Zofii
+we Lwowie od roku 1913)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie
+[NEW]
+<urząd>
+(prymariusz oddziału
+internistycznego \
+Szpitala
+Dziecięcego im. Św. Zofii
+we Lwowie od roku 1913)"	[color=green,
+		label="positionHeld [P101]"];
+	"habilitacja z pediatrii na Uniwersytecie Lwowskim
+[NEW]
+<osiągnięcie>
+(habilitacja z pediatrii
+na Uniwersytecie Lwowskim
+w 1922 \
+roku)"	[color=black,
+		label="habilitacja z pediatrii na Uniwersytecie Lwowskim
+[NEW]
+<osiągnięcie>
+(habilitacja z pediatrii
+na Uniwersytecie Lwowskim
+w 1922 \
+roku)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "habilitacja z pediatrii na Uniwersytecie Lwowskim
+[NEW]
+<osiągnięcie>
+(habilitacja z pediatrii
+na Uniwersytecie Lwowskim
+w 1922 \
+roku)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci
+[NEW]
+<\
+osiągnięcie>
+(badania nad tężyczką,
+krzywicą, zawartością
+wapna w mózgu niemowląt
+oraz krańcowymi ubytkami
+wagi ciała \
+u dzieci)"	[color=black,
+		label="badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci
+[NEW]
+<\
+osiągnięcie>
+(badania nad tężyczką,
+krzywicą, zawartością
+wapna w mózgu niemowląt
+oraz krańcowymi ubytkami
+wagi ciała \
+u dzieci)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci
+[NEW]
+<\
+osiągnięcie>
+(badania nad tężyczką,
+krzywicą, zawartością
+wapna w mózgu niemowląt
+oraz krańcowymi ubytkami
+wagi ciała \
+u dzieci)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"publikacje w czasopismach lekarskich polskich i niemieckich
+[NEW]
+<osiągnięcie>
+(publikacje w czasopismach
+lekarskich polskich \
+i
+niemieckich)"	[color=black,
+		label="publikacje w czasopismach lekarskich polskich i niemieckich
+[NEW]
+<osiągnięcie>
+(publikacje w czasopismach
+lekarskich polskich \
+i
+niemieckich)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "publikacje w czasopismach lekarskich polskich i niemieckich
+[NEW]
+<osiągnięcie>
+(publikacje w czasopismach
+lekarskich polskich \
+i
+niemieckich)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"organizacja kolonii dziecięcych w latach 1924–1939
+[NEW]
+<osiągnięcie>
+(organizacja kolonii
+dziecięcych w latach
+1924–1939)"	[color=black,
+		label="organizacja kolonii dziecięcych w latach 1924–1939
+[NEW]
+<osiągnięcie>
+(organizacja kolonii
+dziecięcych w latach
+1924–1939)"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "organizacja kolonii dziecięcych w latach 1924–1939
+[NEW]
+<osiągnięcie>
+(organizacja kolonii
+dziecięcych w latach
+1924–1939)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "1874-01-13"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Robert Quest
+[Q167429]
+<osoba>
+(lekarz, pediatra)" -> "1942-09-17"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"lekarz
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pediatra
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lwów
+[Q144390]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rodzinna posiadłość pod Opawą
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rövensdorf
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rudolf Quest
+[NEW]
+<osoba>
+(urzędnik Banku Krajowego
+we Lwowie i działacz
+Towarzystwa Tatrzańskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Emilia Mannowa
+[NEW]
+<osoba>
+(siostra Roberta Questa,
+owdowiała)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimierz Mann
+[NEW]
+<osoba>
+(malarz zakopiański)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Roman Mann
+[Q161405]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tadeusz Mann
+[NEW]
+<osoba>
+(profesor biochemii i
+fizjologii w Cambridge)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Graz
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Lwowski
+[NEW]
+<instytucja>
+(zakład patologii ogólnej
+i doświadczalnej)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Szczawnica
+[Q80950]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"T. Escherich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"M. Pfaundler
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"A. Czerny
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ordynariusz szpitala zakaźnego we Lwowie
+[NEW]
+<urząd>
+(ordynariusz szpitala
+zakaźnego we Lwowie w
+latach 1906–1913)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie
+[NEW]
+<urząd>
+(prymariusz oddziału
+internistycznego \
+Szpitala
+Dziecięcego im. Św. Zofii
+we Lwowie od roku 1913)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"habilitacja z pediatrii na Uniwersytecie Lwowskim
+[NEW]
+<osiągnięcie>
+(habilitacja z pediatrii
+na Uniwersytecie Lwowskim
+w 1922 \
+roku)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci
+[NEW]
+<\
+osiągnięcie>
+(badania nad tężyczką,
+krzywicą, zawartością
+wapna w mózgu niemowląt
+oraz krańcowymi ubytkami
+wagi ciała \
+u dzieci)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"publikacje w czasopismach lekarskich polskich i niemieckich
+[NEW]
+<osiągnięcie>
+(publikacje w czasopismach
+lekarskich polskich \
+i
+niemieckich)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"organizacja kolonii dziecięcych w latach 1924–1939
+[NEW]
+<osiągnięcie>
+(organizacja kolonii
+dziecięcych w latach
+1924–1939)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

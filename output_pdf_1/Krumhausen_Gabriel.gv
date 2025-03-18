@@ -1,0 +1,404 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=black,
+		label="Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"];
+	"burmistrz
+[NEW]
+<urząd>"	[color=black,
+		label="burmistrz
+[NEW]
+<urząd>"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burmistrz
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"burgrabia królewski
+[NEW]
+<urząd>"	[color=black,
+		label="burgrabia królewski
+[NEW]
+<urząd>"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "burgrabia królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>"	[color=black,
+		label="Gdańsk
+[Q31993]
+<miejscowość>"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)"	[color=black,
+		label="Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)"	[color=green,
+		label="hasBrother [P97]"];
+	"Gertruda Schumann
+[NEW]
+<osoba>
+(matka Gabriela
+Krumhausena)"	[color=black,
+		label="Gertruda Schumann
+[NEW]
+<osoba>
+(matka Gabriela
+Krumhausena)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Gertruda Schumann
+[NEW]
+<osoba>
+(matka Gabriela
+Krumhausena)"	[color=green,
+		label="hasMother [P93]"];
+	"Stanisław Bornbach
+[NEW]
+<osoba>
+(dziadek Gabriela
+Krumhausena po kądzieli,
+pisarz miejski i
+kronikarz Gdańska)"	[color=black,
+		label="Stanisław Bornbach
+[NEW]
+<osoba>
+(dziadek Gabriela
+Krumhausena po kądzieli,
+pisarz miejski i
+kronikarz Gdańska)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Stanisław Bornbach
+[NEW]
+<osoba>
+(dziadek Gabriela
+Krumhausena po kądzieli,
+pisarz miejski i
+kronikarz Gdańska)"	[color=green,
+		label="hasGrandfather [P91]"];
+	"Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)"	[color=black,
+		label="Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)"	[color=green,
+		label="hasWife [P94]"];
+	"Uniwersytet w Strasburgu
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet w Strasburgu
+[NEW]
+<instytucja>"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Uniwersytet w Strasburgu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"sekretarz
+[NEW]
+<zawód>
+(sekretarz rezydujący w
+Warszawie)"	[color=black,
+		label="sekretarz
+[NEW]
+<zawód>
+(sekretarz rezydujący w
+Warszawie)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "sekretarz
+[NEW]
+<zawód>
+(sekretarz rezydujący w
+Warszawie)"	[color=green,
+		label="positionHeld [P101]"];
+	"kolekcjonowanie
+[NEW]
+<osiągnięcie>
+(kolekcjonowanie książek,
+broni, obrazów i
+przyrządów matematycznych)"	[color=black,
+		label="kolekcjonowanie
+[NEW]
+<osiągnięcie>
+(kolekcjonowanie książek,
+broni, obrazów i
+przyrządów matematycznych)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "kolekcjonowanie
+[NEW]
+<osiągnięcie>
+(kolekcjonowanie książek,
+broni, obrazów i
+przyrządów matematycznych)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"przekazanie portretu Heweliusza
+[NEW]
+<osiągnięcie>
+(przekazanie portretu
+Heweliusza Bibliotece
+Rady Miasta)"	[color=black,
+		label="przekazanie portretu Heweliusza
+[NEW]
+<osiągnięcie>
+(przekazanie portretu
+Heweliusza Bibliotece
+Rady Miasta)"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "przekazanie portretu Heweliusza
+[NEW]
+<osiągnięcie>
+(przekazanie portretu
+Heweliusza Bibliotece
+Rady Miasta)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1614-09-14"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "1685-04-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)" -> "Joachim Krumhausen
+[NEW]
+<osoba>
+(ojciec Gabriela
+Krumhausena)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"burmistrz
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"burgrabia królewski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gdańsk
+[Q31993]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)" -> "Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=green,
+		label="hasBrother [P97]"];
+	"Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Joachim Krumhausen
+[NEW]
+<osoba>
+(brat Gabriela Krumhausena)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gertruda Schumann
+[NEW]
+<osoba>
+(matka Gabriela
+Krumhausena)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Bornbach
+[NEW]
+<osoba>
+(dziadek Gabriela
+Krumhausena po kądzieli,
+pisarz miejski i
+kronikarz Gdańska)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)" -> "Gabriel Krumhausen
+[Q159045]
+<osoba>
+(burmistrz i burgrabia
+królewski w Gdańsku)"	[color=green,
+		label="hasHusband [P94]"];
+	"Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstancja Falcke
+[NEW]
+<osoba>
+(żona Gabriela
+Krumhausena, wdowa po
+Henryku Nimsgarten)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet w Strasburgu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"sekretarz
+[NEW]
+<zawód>
+(sekretarz rezydujący w
+Warszawie)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"kolekcjonowanie
+[NEW]
+<osiągnięcie>
+(kolekcjonowanie książek,
+broni, obrazów i
+przyrządów matematycznych)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"przekazanie portretu Heweliusza
+[NEW]
+<osiągnięcie>
+(przekazanie portretu
+Heweliusza Bibliotece
+Rady Miasta)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

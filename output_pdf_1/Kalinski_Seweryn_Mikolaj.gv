@@ -1,0 +1,239 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)"	[color=black,
+		label="Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)"];
+	"Konstanty Kaliński
+[NEW]
+<osoba>
+(syn Seweryna Mikołaja
+Kalińskiego)"	[color=black,
+		label="Konstanty Kaliński
+[NEW]
+<osoba>
+(syn Seweryna Mikołaja
+Kalińskiego)"];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Konstanty Kaliński
+[NEW]
+<osoba>
+(syn Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasSon [P153]"];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "starosta bracławski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "rotmistrz królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Stanisław Kaliński
+[NEW]
+<osoba>
+(ojciec Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Elżbieta z Oborskich
+[NEW]
+<osoba>
+(matka Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Jakub Kaliński
+[Q156522]
+<osoba>
+(młodszy brat Seweryna
+Mikołaja Kalińskiego)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Marianna Wiktoria z Białynia Białyńska
+[NEW]
+<osoba>
+(żona Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "1663-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "dowódca chorągwi pancernej
+[NEW]
+<zawód>
+(dowódca chorągwi
+pancernej w pułku
+chorążego koronnego
+Aleksandra
+Koniecpolskiego)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "objęcie stanowiska starosty bracławskiego
+[NEW]
+<wydarzenie>
+(objęcie stanowiska
+starosty bracławskiego w
+1653 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Niedźwica
+[NEW]
+<miejscowość>
+(wieś w powiecie
+latyczowskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Pustomyty
+[NEW]
+<miejscowość>
+(wieś wykupiona od matki
+żony Seweryna Mikołaja
+Kalińskiego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "Hołodki
+[NEW]
+<miejscowość>
+(wieś należąca do
+starostwa barskiego,
+trzymana w dożywotniej
+dzierżawie)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "przejście na stronę Szwedów
+[NEW]
+<wydarzenie>
+(przejście na stronę
+Szwedów i złożenie
+przysięgi na wierność
+Karolowi \
+Gustawowi w 1655
+roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "pułkownik
+[NEW]
+<zawód>
+(stanowisko otrzymane w
+nagrodę za przejście na
+stronę Szwedów)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "przejście do Stefana Czarnieckiego
+[NEW]
+<wydarzenie>
+(przejście ze swoimi
+chorągwiami do Stefana
+Czarnieckiego w 1656 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Seweryn Mikołaj Kaliński
+[Q156525]
+<osoba>
+(rotmistrz królewski i
+starosta bracławski)" -> "ukaranie za służbę u Szwedów
+[NEW]
+<wydarzenie>
+(ukaranie odsądzeniem od
+żołdu za trzy kwartały za
+służbę u Szwedów)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Konstanty Kaliński
+[NEW]
+<osoba>
+(syn Seweryna Mikołaja
+Kalińskiego)" -> "podkomorzy bracławski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Konstanty Kaliński
+[NEW]
+<osoba>
+(syn Seweryna Mikołaja
+Kalińskiego)" -> "pełnienie funkcji podkomorzego bracławskiego
+[NEW]
+<wydarzenie>
+(pełnienie funkcji
+podkomorzego
+bracławskiego w 1703 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+}

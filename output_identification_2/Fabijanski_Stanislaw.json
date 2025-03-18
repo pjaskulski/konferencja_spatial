@@ -1,0 +1,436 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1865",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1947-02-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146696"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "również artysta malarz",
+                "wikihum": "Q152460"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Lucyna Odrowąż Sypniewska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Marconi",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q161506"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Starkowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych",
+                "type": "uczelnia",
+                "description": "Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Matejko",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q161719"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia",
+                "type": "uczelnia",
+                "description": "Monachium",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wagner",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pierwsza nagroda za wykonanie afisza",
+                "type": "osiągnięcie",
+                "description": "otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie, 1902",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "srebrny medal za obraz Chrystus na krzyżu",
+                "type": "osiągnięcie",
+                "description": "wystawa w warszawskiej Zachęcie, 1928",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "U schyłku dnia",
+                "type": "dzieło",
+                "description": "obraz wystawiony w Salonie Jesiennym w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie, 1906",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Widok na Wawel od strony Wisły",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum Narodowym w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Stragan pomarańcz",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum w Irkucku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Pogrom",
+                "type": "dzieło",
+                "description": "obraz znajdujący się w Muzeum we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wiatrak z autoportretem przy sztaludze",
+                "type": "dzieło",
+                "description": "obraz malowany w Przecławiu w 1889 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Centaur",
+                "type": "dzieło",
+                "description": "obraz malowany w 1931 roku, kompozycja fantastyczna w rodzaju Boecklina",
+                "wikihum": "NEW",
+                "wikidata": "Q10734"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Racławice",
+                "type": "dzieło",
+                "description": "wielki obraz, nie skończony",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "projekt na sarkofag Anny Jasińskiej",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "art. malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Źródło",
+                "type": "dzieło",
+                "description": "majolika, przedstawia polipa dźwigającego muszlę, nad którą unosi się na fali morskiej postać kobiety i mężczyzny, wykonana w 1904 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q19177489"
+            }
+        },
+        {
+            "subject": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "również artysta malarz",
+                "wikihum": "Q152460"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "artysta malarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

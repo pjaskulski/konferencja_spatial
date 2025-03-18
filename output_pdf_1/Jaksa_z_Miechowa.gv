@@ -1,0 +1,152 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)"	[color=black,
+		label="Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)"];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "możnowładca
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "Miechów, Zagorzyce, Komorów
+[NEW]
+<majątek>
+(włości Jakszy z Miechowa)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "klasztor bożogrobców z Miechowa
+[NEW]
+<instytucja>
+(klasztor założony przez
+Jaksę z Miechowa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "klasztor benedyktyński w Sieciechowie
+[NEW]
+<instytucja>
+(klasztor obdarowany przez
+Jaksę z Miechowa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "klasztor premonstrantek w Krzyżanowicach
+[NEW]
+<instytucja>
+(klasztor obdarowany przez
+Jaksę z Miechowa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "klasztor premonstrantek na Zwierzyńcu pod Krakowem
+[NEW]
+<instytucja>
+(klasztor obdarowany przez
+Jaksę z Miechowa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "1176-02-24
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "książę
+[NEW]
+<tytuł>
+(tytuł szlachecki Jakszy z
+Miechowa)"	[color=green,
+		label="nobleTitle [NEW]",
+		minlen=4];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "wyprawa do Palestyny
+[NEW]
+<wydarzenie>
+(wyprawa Jakszy z Miechowa
+do Palestyny w 1162 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "założenie klasztoru bożogrobców w Miechowie
+[NEW]
+<wydarzenie>
+(założenie klasztoru
+bożogrobców w Miechowie
+przez Jaksę \
+z Miechowa
+około 1163 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski,
+fundator klasztoru
+bożogrobców z Miechowa)" -> "plan obalenia rządów Bolesława Kędzierzawego
+[NEW]
+<wydarzenie>
+(plan Jakszy z Miechowa
+dotyczący obalenia rządów
+Bolesława \
+Kędzierzawego
+około 1170 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+}

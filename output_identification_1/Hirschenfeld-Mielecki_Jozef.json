@@ -1,0 +1,727 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1851-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1933-00-00 do 1939-00-00",
+                "type": "przedział czasowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "1933-00-00 do 1939-00-00",
+                "type": "przedział czasowy",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedział czasowy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "II. Gimnazjum Miejskie w Warszawie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "II. Gimnazjum Miejskie w Warszawie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gimnazjum we Wrocławiu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gimnazjum we Wrocławiu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Belgia, Francja, Anglia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Belgia, Francja, Anglia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Politechnika w Londynie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Politechnika w Londynie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rumunia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q105159"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rumunia",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q105159"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Turcja, Adrianopol",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Turcja, Adrianopol",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "emigracyjny związek Białego Orła",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "emigracyjny związek Białego Orła",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "towarzystwa geograficzne w Paryżu, Londynie, Amsterdamie i Brukseli",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "towarzystwa geograficzne w Paryżu, Londynie, Amsterdamie i Brukseli",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Afryka zachodnia, Liberia, Kongo",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Afryka zachodnia, Liberia, Kongo",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wyprawa Rogozińskiego do Kamerunu",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wyprawa Rogozińskiego do Kamerunu",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "podróż «Łucji-Małgorzaty» z Hawru do Zatoki Mondoleh",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "podróż «Łucji-Małgorzaty» z Hawru do Zatoki Mondoleh",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146696"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146696"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Anglia, Stany Zjednoczone",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q18389",
+                "nominatim": 335233799,
+                "nominatim_name": "New England, United States"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anglia, Stany Zjednoczone",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q18389",
+                "nominatim": 335233799,
+                "nominatim_name": "New England, United States"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pamiętnik i notatki z podróży",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pamiętnik i notatki z podróży",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "dzieło",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "zawiadowca warsztatów mechanicznych",
+                "type": "zawód",
+                "description": "stanowisko w Adrianopolu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "zawiadowca warsztatów mechanicznych",
+                "type": "zawód",
+                "description": "stanowisko w Adrianopolu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Hirschenfeld-Mielecki",
+                "type": "osoba",
+                "description": "inżynier i podróżnik",
+                "wikihum": "Q155024"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie",
+                "description": "uczestniczył jako łącznik",
+                "wikihum": "NEW",
+                "wikidata": "Q11826007"
+            }
+        },
+        {
+            "subject": {
+                "name": "powstanie styczniowe",
+                "type": "wydarzenie",
+                "description": "uczestniczył jako łącznik",
+                "wikihum": "NEW",
+                "wikidata": "Q11826007"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

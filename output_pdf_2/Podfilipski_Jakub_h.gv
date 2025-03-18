@@ -1,0 +1,131 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)"	[color=black,
+		label="Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)"];
+	"Ewa Podfilipska
+[NEW]
+<osoba>
+(żona Mikołaja
+Jazłowieckiego)"	[color=black,
+		label="Ewa Podfilipska
+[NEW]
+<osoba>
+(żona Mikołaja
+Jazłowieckiego)"];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "Ewa Podfilipska
+[NEW]
+<osoba>
+(żona Mikołaja
+Jazłowieckiego)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Wiktoryn Podfilipski
+[Q166163]
+<osoba>
+(sędzia ziemski
+kamieniecki)"	[color=black,
+		label="Wiktoryn Podfilipski
+[Q166163]
+<osoba>
+(sędzia ziemski
+kamieniecki)"];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "Wiktoryn Podfilipski
+[Q166163]
+<osoba>
+(sędzia ziemski
+kamieniecki)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "kasztelan kamieniecki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "1518-00-00
+(Zmarł przed 15 marca 1518
+roku.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "Jakub Podfilipski (syn)
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "Podfilipie
+[NEW]
+<miejscowość>
+(dziedziczne miasteczko w
+ziemi kamienieckiej)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Jakub Podfilipski
+[Q166161]
+<osoba>
+(herbu Ciołek, zm. ok.
+1518, kasztelan
+kamieniecki)" -> "stolnik kamieniecki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ewa Podfilipska
+[NEW]
+<osoba>
+(żona Mikołaja
+Jazłowieckiego)" -> "Mikołaj Jazłowiecki
+[Q156120]
+<osoba>
+(kasztelan kamieniecki)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Wiktoryn Podfilipski
+[Q166163]
+<osoba>
+(sędzia ziemski
+kamieniecki)" -> "sędzia ziemski kamieniecki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

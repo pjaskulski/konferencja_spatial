@@ -1,0 +1,291 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)"	[color=black,
+		label="Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)"];
+	"Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)"	[color=black,
+		label="Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)"];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)"	[color=green,
+		label="hasFatherInLaw [NEW]"];
+	"Jan
+[NEW]
+<osoba>
+(syn Rusina Mikołaja)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(syn Rusina Mikołaja)"];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Jan
+[NEW]
+<osoba>
+(syn Rusina Mikołaja)"	[color=green,
+		label="hasSon [P153]"];
+	"Gertruda
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)"	[color=black,
+		label="Gertruda
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)"];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Gertruda
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "rajca krakowski
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "1330-12-20"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Helena
+[Q154792]
+<osoba>
+(żona Rusina Mikołaja)"	[color=green,
+		label="hasWife [P94]"];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Anna
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=3];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "uzyskanie przywileju celnego od Władysława Łokietka
+[NEW]
+<wydarzenie>
+(starania o przywilej
+celny dla mieszczan
+krakowskich \
+w 1320 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "znaczny majątek w gotówce oraz nieruchomościach w Krakowie
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "uzyskanie odpustu dla kościoła Najśw. Marii Panny w Krakowie
+[NEW]
+<wydarzenie>
+(odpust uzyskany w Rzymie
+w 1326 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "przygotowania do pielgrzymki do Ziemi Świętej
+[NEW]
+<wydarzenie>
+(przygotowania do
+pielgrzymki pod koniec
+1330 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "rajca krakowski
+[NEW]
+<urząd>
+(pełniony przez Rusina
+Mikołaja w latach
+1319–20, 1327, 1329–30)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "nieruchomości w Krakowie
+[NEW]
+<majątek>
+(domy i ogrody nabyte
+przez Rusina Mikołaja)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "dom w Krakowie
+[NEW]
+<majątek>
+(nabyty od Sandra Snela w
+1313 roku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "ogród nad rzeką Rudawą
+[NEW]
+<majątek>
+(nabyty przez Rusina
+Mikołaja w 1319 roku)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)" -> "nieznane dzieci
+[NEW]
+<osoba>
+(dwoje dzieci Rusina
+Mikołaja, których imion
+nie znamy)"	[color=green,
+		label="hasChild [NEW]",
+		minlen=1];
+	"Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)" -> "Mikołaj Rusin
+[Q169032]
+<osoba>
+(rajca krakowski)"	[color=green,
+		label="hasSonInLaw [NEW]"];
+	"Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)" -> "Helena
+[Q154792]
+<osoba>
+(żona Rusina Mikołaja)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Mikołaj z Zawichostu
+[Q162403]
+<osoba>
+(teść Rusina Mikołaja)" -> "dzieci Rusina Mikołaja
+[NEW]
+<osoba>
+(dzieci Rusina Mikołaja,
+nad którymi opiekę
+przejął Mikołaj z
+Zawichostu)"	[color=green,
+		label="hasGuardian [NEW]",
+		minlen=1];
+	"Jan
+[NEW]
+<osoba>
+(syn Rusina Mikołaja)" -> "córka kuśnierza Wilusza
+[NEW]
+<osoba>
+(żona Jana, syna Rusina
+Mikołaja)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Elżbieta
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka
+Snela)"	[color=black,
+		label="Elżbieta
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka
+Snela)"];
+	"Gertruda
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)" -> "Elżbieta
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka
+Snela)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Gertruda
+[NEW]
+<osoba>
+(córka Rusina Mikołaja)" -> "Tyczek Snel
+[NEW]
+<osoba>
+(mąż Gertrudy, córki
+Rusina Mikołaja)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Stanisław Pensator
+[NEW]
+<osoba>
+(mąż Elżbiety, córki
+Gertrudy i Tyczka Snela)"	[color=black,
+		label="Stanisław Pensator
+[NEW]
+<osoba>
+(mąż Elżbiety, córki
+Gertrudy i Tyczka Snela)"];
+	"Elżbieta
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka
+Snela)" -> "Stanisław Pensator
+[NEW]
+<osoba>
+(mąż Elżbiety, córki
+Gertrudy i Tyczka Snela)"	[color=green,
+		label="hasHusband [P94]"];
+	"Stanisław Pensator
+[NEW]
+<osoba>
+(mąż Elżbiety, córki
+Gertrudy i Tyczka Snela)" -> "Elżbieta
+[NEW]
+<osoba>
+(córka Gertrudy i Tyczka
+Snela)"	[color=green,
+		label="hasWife [P94]"];
+}

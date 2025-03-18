@@ -1,0 +1,469 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "Zgromadzenie Sióstr Prezentek w Krakowie",
+                "type": "instytucja",
+                "description": "Zgromadzenie zakonne zajmujące się wychowywaniem i kształceniem dziewcząt.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zgromadzenie Sióstr Prezentek w Krakowie",
+                "type": "instytucja",
+                "description": "Zgromadzenie zakonne zajmujące się wychowywaniem i kształceniem dziewcząt.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1808-07-06",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Cmentarz Rakowicki",
+                "type": "miejscowość",
+                "description": "Miejsce pochówku Franciszki Prastel.",
+                "wikihum": "NEW",
+                "wikidata": "Q1457419",
+                "nominatim": 170246014,
+                "nominatim_name": "Cmentarz Rakowicki, Stare Miasto, Kraków, województwo małopolskie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cmentarz Rakowicki",
+                "type": "miejscowość",
+                "description": "Miejsce pochówku Franciszki Prastel.",
+                "wikihum": "NEW",
+                "wikidata": "Q1457419",
+                "nominatim": 170246014,
+                "nominatim_name": "Cmentarz Rakowicki, Stare Miasto, Kraków, województwo małopolskie, Polska"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kościół Św. Jana w Krakowie",
+                "type": "miejscowość",
+                "description": "Kościół, który Franciszka Prastel odnowiła i wyposażyła.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kościół Św. Jana w Krakowie",
+                "type": "miejscowość",
+                "description": "Kościół, który Franciszka Prastel odnowiła i wyposażyła.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tadeusz Kościuszko",
+                "type": "osoba",
+                "description": "Osoba, której Franciszka Prastel pomogła w uratowaniu osieroconej dziewczyny.",
+                "wikihum": "Q158423"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kościuszko",
+                "type": "osoba",
+                "description": "Osoba, której Franciszka Prastel pomogła w uratowaniu osieroconej dziewczyny.",
+                "wikihum": "Q158423"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Walenty Pruski",
+                "type": "osoba",
+                "description": "Kanonik, który zapisał Zgromadzeniu 40 000 złp. na kształcenie i wychowanie uczennic.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Walenty Pruski",
+                "type": "osoba",
+                "description": "Kanonik, który zapisał Zgromadzeniu 40 000 złp. na kształcenie i wychowanie uczennic.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kierowniczka szkoły",
+                "type": "zawód",
+                "description": "Funkcja pełniona przez Franciszkę Prastel w Zgromadzeniu Sióstr Prezentek w Krakowie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "kierowniczka szkoły",
+                "type": "zawód",
+                "description": "Funkcja pełniona przez Franciszkę Prastel w Zgromadzeniu Sióstr Prezentek w Krakowie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wstąpienie do Zgromadzenia Sióstr Prezentek",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce 21 maja 1763 roku, kiedy Franciszka Prastel rozpoczęła swoją działalność w zgromadzeniu.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wstąpienie do Zgromadzenia Sióstr Prezentek",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce 21 maja 1763 roku, kiedy Franciszka Prastel rozpoczęła swoją działalność w zgromadzeniu.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "matka sierot",
+                "type": "osiągnięcie",
+                "description": "Tytuł, pod którym była znana i szanowana w Krakowie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "matka sierot",
+                "type": "osiągnięcie",
+                "description": "Tytuł, pod którym była znana i szanowana w Krakowie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "doskonały organizator szkoły",
+                "type": "osiągnięcie",
+                "description": "Tytuł, pod którym była znana i szanowana w Krakowie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "doskonały organizator szkoły",
+                "type": "osiągnięcie",
+                "description": "Tytuł, pod którym była znana i szanowana w Krakowie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zgromadzenie Sióstr Prezentek w Krakowie",
+                "type": "instytucja",
+                "description": "Zgromadzenie zakonne zajmujące się wychowywaniem i kształceniem dziewcząt.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "Miejsce, gdzie Franciszka Prastel była powszechnie znana i szanowana.",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "Miejsce, gdzie Franciszka Prastel była powszechnie znana i szanowana.",
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przekształcenie prywatnego zakładu wychowawczego na publiczną szkołę dla dziewcząt",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce w 1801 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "przekształcenie prywatnego zakładu wychowawczego na publiczną szkołę dla dziewcząt",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce w 1801 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszka Prastel",
+                "type": "osoba",
+                "description": "Przełożona prezentek w Krakowie, w zakonie Magdalena.",
+                "wikihum": "Q166804"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "odwiedzenie przez Tadeusza Kościuszkę",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce 24 marca 1794 roku, kiedy Tadeusz Kościuszko odwiedził Franciszkę Prastel.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "odwiedzenie przez Tadeusza Kościuszkę",
+                "type": "wydarzenie",
+                "description": "Wydarzenie, które miało miejsce 24 marca 1794 roku, kiedy Tadeusz Kościuszko odwiedził Franciszkę Prastel.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "startOfMilitaryService",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1783",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "oberfajerwerker",
+                "type": "stopień wojskowy",
+                "description": "starszy ogniomistrz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "podporucznik rzeczywisty",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "porucznik artylerii",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "expelledFrom",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kapitan III klasy",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "relatedOrganization",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "relatedOrganization",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Korpus weteranów i inwalidów",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "relatedOrganization",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "6 pułk jazdy galicyjsko-francuskiej",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "relatedOrganization",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "15 pułk ułanów",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q85858740"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "mistakenIdentityWith",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wojciech Bartosz Głowacki",
+                "type": "osoba",
+                "description": "bohater spod Racławic",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wołoszczyzna",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q4124141",
+                "nominatim": 177671101,
+                "nominatim_name": "Волощина, Бібрська міська громада, Львівський район, Львівська область, 81228, Україна"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "destination",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Włochy",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q87834"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "capturedBy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "korsarze algierscy",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "liberatedBy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "interwencja francuska",
+                "type": "wydarzenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "arrivalDate",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1797-12-01",
+                "type": "data",
+                "description": "Data lądowania w porcie Liworno."
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "joinedOrganization",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Legiony Dąbrowskiego",
+                "type": "organizacja",
+                "description": "Data dołączenia do Legionów Dąbrowskiego 1797-12-05",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "assignedTo",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "artyleria legionowa",
+                "type": "organizacja",
+                "description": "Data przydzielenia 1798-02-06",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "stationedAt",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rzym",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q147390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "distinguishedIn",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "obrona twierdzy Mantui",
+                "type": "wydarzenie",
+                "description": "Kampania 1799 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "imprisonedAt",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Leoben i Graz",
+                "type": "miejscowość",
+                "description": "Miejsca niewoli austriackiej po kapitulacji twierdzy Mantui",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "promotedTo",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "porucznik artylerii",
+                "type": "stopień wojskowy",
+                "description": "Awans po powrocie z niewoli",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "causeOfExpulsion",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zerwanie szlif kapitanowi Szubertowi",
+                "type": "wydarzenie",
+                "description": "Przyczyna wydalenia z Legionów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Głowacki",
+                "type": "osoba",
+                "description": "legionista i kapitan W.P.",
+                "wikihum": "Q153552"
+            },
+            "predicate": {
+                "name": "transferredTo",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Korpus weteranów i inwalidów",
+                "type": "organizacja",
+                "description": "Data przeniesienia: 1811-12-09",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

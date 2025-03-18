@@ -1,0 +1,308 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)"	[color=black,
+		label="Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)"];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "budowniczy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "1557-07-31"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "brat Galeazzo Guicciardini
+[NEW]
+<osoba>
+(Brat, który miał
+dokończyć pracę Galeazzo
+Guicciardini po jego
+śmierci, ale nie
+\
+dotrzymał umowy i uciekł.)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "budowa zamku w Melsztynie
+[NEW]
+<wydarzenie>
+(Projekt budowlany, w
+którym uczestniczył
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "budowa domu Montelupich w Krakowie
+[NEW]
+<wydarzenie>
+(Projekt budowlany, w
+którym uczestniczył
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "budowa domu Gutteterów w Krakowie
+[NEW]
+<wydarzenie>
+(Projekt budowlany, w
+którym uczestniczył
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "budowa zamku wawelskiego
+[NEW]
+<wydarzenie>
+(Projekt budowlany, w
+którym uczestniczył
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "naprawa dzwonnicy zygmuntowskiej
+[NEW]
+<wydarzenie>
+(Projekt budowlany, w
+którym uczestniczył
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "cegielnia koło Krakowa
+[NEW]
+<przedmiot>
+(Cegielnia będąca częścią
+majątku Galeazzo
+Guicciardini.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "stajnia z 13 końmi
+[NEW]
+<przedmiot>
+(Stajnia będąca częścią
+majątku Galeazzo
+Guicciardini.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "kamienica książęca w Rynku
+[NEW]
+<miejscowość>
+(Kamienica książąt
+Wiśniowieckich, gdzie
+mieszkał Galeazzo
+Guicciardini.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "przedsiębiorca budowlany
+[NEW]
+<zawód>
+(Osoba prowadząca
+działalność budowlaną na
+szeroką skalę.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Florencja
+[Q147374]
+<miejscowość>
+(Miasto we Włoszech, z
+którego pochodził
+Galeazzo Guicciardini.)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Stanisław Pilecki z Pilicy
+[NEW]
+<osoba>
+(Podkomorzy lubelski,
+który miał długi wobec
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Barbara Kmitowa
+[NEW]
+<osoba>
+(Wdowa po Piotrze,
+wojewodzie krakowskim,
+która miała długi wobec
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Spytek Jordan z Melsztyna
+[NEW]
+<osoba>
+(Osoba, która miała
+pretensje do majątku
+Galeazzo Guicciardini.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Sebastian Montelupi
+[Q162813]
+<osoba>
+(Osoba, dla której
+Galeazzo Guicciardini
+prowadził prace
+budowlane.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Aleksander Gucci
+[Q154465]
+<osoba>
+(Osoba, która dokończyła
+budowę po Galeazzo
+Guicciardini.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "Tomasz Ferrovore
+[NEW]
+<osoba>
+(Osoba, która dokończyła
+budowę domu Gutteterów.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Galeazzo Guicciardini
+[Q154480]
+<osoba>
+(Włoch, budowniczy,
+pochodzący ze znanej
+patrycjuszowskiej rodziny
+florenckiej.)" -> "S. Serlio
+[NEW]
+<osoba>
+(Architekt, którego wzory
+mogły wpłynąć na Galeazzo
+Guicciardini.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+}

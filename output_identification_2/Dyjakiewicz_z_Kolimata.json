@@ -1,0 +1,651 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1660",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stefan Dyjakiewicz",
+                "type": "osoba",
+                "description": "Ojciec Gabriela Dyjakiewicza, dziedzic folwarku Pułnuszki pod Dubinkami w woj. wileńskim.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Apolonia Falęcka",
+                "type": "osoba",
+                "description": "Matka Gabriela Dyjakiewicza, z domu Falęcka h. Leszczyc.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna Niewierska",
+                "type": "osoba",
+                "description": "Żona Gabriela Dyjakiewicza, córka ks. Marcina Niewierskiego, superintendenta wileńskiego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, urodzony w 1699 roku, zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Węgrów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q86065"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1671-10-02",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, urodzony w 1699 roku, zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1699",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, urodzony w 1699 roku, zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "duchowny",
+                "type": "urząd",
+                "description": "Zdegradowany z urzędu duchownego w 1724 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q113374978"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stefan Dyjakiewicz",
+                "type": "osoba",
+                "description": "Ojciec Gabriela Dyjakiewicza, dziedzic folwarku Pułnuszki pod Dubinkami w woj. wileńskim.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasProperty",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "folwark Pułnuszki",
+                "type": "obiekt fizjograficzny",
+                "description": "Folwark pod Dubinkami w woj. wileńskim.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Niewierska",
+                "type": "osoba",
+                "description": "Żona Gabriela Dyjakiewicza, córka ks. Marcina Niewierskiego, superintendenta wileńskiego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Marcin Niewierski",
+                "type": "osoba",
+                "description": "Ojciec Anny Niewierskiej, superintendent wileński.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Niewierski",
+                "type": "osoba",
+                "description": "Ojciec Anny Niewierskiej, superintendent wileński.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "superintendent wileński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Memoriale prac, pielgrzymstwa i zabaw w tej śmiertelności żywota ziemskiego",
+                "type": "dzieło",
+                "description": "Pamiętnik z lat 1660 do 1718, obejmujący około 120 str. małej 16-ki, gęsto zapisanej.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "De cautelis contiliandae Dei gratia universalis et particularis deque schismate Evangelicorum",
+                "type": "dzieło",
+                "description": "Dzieło ogłoszone w 1712 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": "Miejsce studiów teologicznych Gabriela Dyjakiewicza.",
+                "wikihum": "Q146957"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": "Miejsce studiów teologicznych Gabriela Dyjakiewicza.",
+                "wikihum": "Q146796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konrektor gimnazjum słuckiego",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza po studiach.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "diakon",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza po studiach.",
+                "wikihum": "NEW",
+                "wikidata": "Q3706489"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "urząd kaznodziejski",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza po studiach.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "zbór zejmelski",
+                "type": "instytucja",
+                "description": "Miejsce pracy duszpasterskiej Gabriela Dyjakiewicza.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "minister zboru w Węgrowie",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza po pracy w zborze zejmelskim.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konsenior podlaski",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza w 1694 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz",
+                "type": "osoba",
+                "description": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+                "wikihum": "Q152038"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "superintendent",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Gabriela Dyjakiewicza w 1709 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Berlin",
+                "type": "miejscowość",
+                "description": "Miejsce studiów Marcina Dyjakiewicza.",
+                "wikihum": "Q181990"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Frankfurt nad Odrą",
+                "type": "miejscowość",
+                "description": "Miejsce studiów Marcina Dyjakiewicza.",
+                "wikihum": "Q146859"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lejda",
+                "type": "miejscowość",
+                "description": "Miejsce studiów Marcina Dyjakiewicza.",
+                "wikihum": "Q146796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konrektor gimnazjum słuckiego",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Marcina Dyjakiewicza po powrocie do kraju.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "diakon",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Marcina Dyjakiewicza po powrocie do kraju.",
+                "wikihum": "NEW",
+                "wikidata": "Q3706489"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "urząd kaznodziejski",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Marcina Dyjakiewicza po powrocie do kraju.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rektor gimnazjum w Kiejdanach",
+                "type": "urząd",
+                "description": "Stanowisko objęte przez Marcina Dyjakiewicza po powrocie do kraju.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "Węgrów",
+                "type": "miejscowość",
+                "description": "Miejsce działalności duszpasterskiej Marcina Dyjakiewicza.",
+                "wikihum": "Q86065"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marcin Dyjakiewicz",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, następca superintendenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "emeryt",
+                "type": "status",
+                "description": "Status uzyskany przez Marcina Dyjakiewicza w 1764 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Dyjakiewicz (syn)",
+                "type": "osoba",
+                "description": "Syn Gabriela Dyjakiewicza, urodzony w 1699 roku, zdegradowany z urzędu duchownego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "status",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wyłączenie z Kościoła",
+                "type": "status",
+                "description": "Status uzyskany przez Gabriela Dyjakiewicza (syna) po degradacji z urzędu duchownego.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

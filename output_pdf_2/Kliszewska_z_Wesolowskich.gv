@@ -1,0 +1,235 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)"	[color=black,
+		label="Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)"];
+	"M. Szlezygierowa
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)"	[color=black,
+		label="M. Szlezygierowa
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)"];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "M. Szlezygierowa
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Lamperi
+[NEW]
+<osoba>
+(nauczyciel śpiewu
+Karoliny Kliszewskiej)"	[color=black,
+		label="Lamperi
+[NEW]
+<osoba>
+(nauczyciel śpiewu
+Karoliny Kliszewskiej)"];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Lamperi
+[NEW]
+<osoba>
+(nauczyciel śpiewu
+Karoliny Kliszewskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Frysztak
+[NEW]
+<miejscowość>
+(w pow. jasielskim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Katowice
+[Q41461]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "1927-11-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Antoni Kliszewski
+[Q157365]
+<osoba>
+(aktor i śpiewak)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "H. Majeranowska
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr Lwowski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr Polski w Katowicach
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr objazdowy A. Lelewicza i H. Lasockiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr prowincjonalny Henryka Lasockiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr polsko-ruski J. Biberowicza
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Własny zespół teatralny w Krośnie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr Nowy w Warszawie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "Teatr Śląski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "śpiewaczka operetkowa i operowa
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Karolina Kliszewska
+[Q157364]
+<osoba>
+(początkowo na scenie
+Karlińska, śpiewaczka
+operetkowa i operowa)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(nauka śpiewu u H.
+Majeranowskiej, M.
+Szlezygierowej i
+Lamperiego)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"M. Szlezygierowa
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)" -> "M. Szlezygierowa
+[NEW]
+<osoba>
+(nauczycielka śpiewu
+Karoliny Kliszewskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Lamperi
+[NEW]
+<osoba>
+(nauczyciel śpiewu
+Karoliny Kliszewskiej)" -> "nauczyciel śpiewu
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

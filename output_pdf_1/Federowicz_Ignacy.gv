@@ -1,0 +1,350 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)"	[color=black,
+		label="Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)"];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "ksiądz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "1836-04-24"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Czechy
+[Q26397]
+<miejscowość>
+(wieś pod Zduńską Wolą)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "1913-06-02"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Aleksander Federowicz
+[NEW]
+<osoba>
+(ojciec Ignacego
+Federowicza)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Aniela Wilczyńska
+[NEW]
+<osoba>
+(matka Ignacego
+Federowicza)"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Wieluń
+[Q86561]
+<miejscowość>
+(miejsce ukończenia szkoły
+powiatowej przez Ignacego
+Federowicza)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Częstochowa
+[Q26724]
+<miejscowość>
+(miejsce wstąpienia do
+zakonu paulinów przez
+Ignacego Federowicza)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Włocławek
+[Q87838]
+<miejscowość>
+(miejsce otrzymania
+święceń kapłańskich przez
+Ignacego Federowicza)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Leśniów
+[Q49279]
+<miejscowość>
+(miejsce pełnienia
+obowiązków kaznodziei
+przez Ignacego
+Federowicza)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Skałka
+[Q110048]
+<miejscowość>
+(miejsce pełnienia funkcji
+przez Ignacego
+Federowicza)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Nagy-Levard
+[NEW]
+<miejscowość>
+(miejsce otwarcia nowego
+klasztoru oo. paulinów
+przez Ignacego
+Federowicza)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "klasztor św. Krzyża
+[NEW]
+<miejscowość>
+(miejsce założenia
+klasztoru przez Ignacego
+Federowicza na Węgrzech)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "prokurator klasztoru i magister nowicjatu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Ignacego Federowicza na
+Skałce w Krakowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "przeor i administrator parafii
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Ignacego Federowicza na
+Skałce w Krakowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "kustosz generalny zakonu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Ignacego Federowicza w
+całej monarchii
+austriackiej)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "zakon paulinów
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "kościół na Skałce
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "klasztor oo. paulinów w Nagy-Levard
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "klasztor św. Krzyża
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "pogrzeb J. Długosza
+[NEW]
+<wydarzenie>
+(uroczysty pogrzeb J.
+Długosza, w którym
+uczestniczył Ignacy
+Federowicz)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "restauracja kościoła na Skałce
+[NEW]
+<wydarzenie>
+(restauracja kościoła na
+Skałce, w której
+uczestniczył Ignacy
+Federowicz)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "odnowiciel kościoła na Skałce
+[NEW]
+<osiągnięcie>
+(dzięki jego pracom
+nazwano go odnowicielem
+kościoła na Skałce)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "K. Knaus
+[NEW]
+<osoba>
+(architekt, pod jego
+kierunkiem wnętrze
+kościoła otrzymało piękną
+polichromię)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "A. Mikołajewski
+[NEW]
+<osoba>
+(wykonał polichromię
+według projektu
+Niedzielskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Niedzielski
+[NEW]
+<osoba>
+(autor projektu
+polichromii wykonanej
+przez A. Mikołajewskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Tola Certowiczówna
+[NEW]
+<osoba>
+(artystka rzeźbiarka,
+darczyńca brązowych orłów
+odlewanych w Paryżu)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Łepkowski
+[Q160722]
+<osoba>
+(konserwator, zaangażowany
+w urządzenie Grobów
+Zasłużonych)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "ks. bp Dunajewski
+[NEW]
+<osoba>
+(biskup, oddał pod straż i
+opiekę Groby Zasłużonych
+Ignacemu Federowiczowi)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+}

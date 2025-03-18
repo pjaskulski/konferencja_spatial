@@ -1,0 +1,184 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)"	[color=black,
+		label="Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)"];
+	"Feliks Czacki
+[Q150877]
+<osoba>
+(bratanek Tadeusza
+Czackiego)"	[color=black,
+		label="Feliks Czacki
+[Q150877]
+<osoba>
+(bratanek Tadeusza
+Czackiego)"];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Feliks Czacki
+[Q150877]
+<osoba>
+(bratanek Tadeusza
+Czackiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Stanisław Kamieński
+[NEW]
+<osoba>
+(burgrabia krzemieniecki)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Barbara z Kuczabskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Franciszka Czarnocka
+[NEW]
+<osoba>"	[color=green,
+		label="hasWife [P94]",
+		minlen=3];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Stanisław Kamieński
+[Q156593]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Juliusz Kamieński
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Ludwiszcze
+[NEW]
+<miejscowość>
+(miejscowość w powiecie
+krzemienieckim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "1862-11-08"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Liceum Wołyńskie
+[NEW]
+<uczelnia>
+(szkoła w Krzemieńcu)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "podsędek sądu
+[NEW]
+<urząd>
+(w Starym Konstantynowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "kurator gimnazjum
+[NEW]
+<urząd>
+(w Równem)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Kołki
+[NEW]
+<miejscowość>
+(wieś w powiecie
+starokonstantynowskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "K. Kaczkowski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "K. Sienkiewicz
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "A. Słowikowski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Antoni Kamieński
+[NEW]
+<osoba>
+(działacz kulturalny na
+Wołyniu)" -> "Tadeusz Czacki
+[Q150882]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Feliks Czacki
+[Q150877]
+<osoba>
+(bratanek Tadeusza
+Czackiego)" -> "Tadeusz Czacki
+[Q150882]
+<osoba>"	[color=green,
+		label="hasUncle [P99]"];
+}

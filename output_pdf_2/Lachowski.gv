@@ -1,0 +1,331 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)"	[color=black,
+		label="Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)"];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"	[color=black,
+		label="Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"	[color=green,
+		label="hasFather [P92]"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Maria Anna Lubieniecka
+[NEW]
+<osoba>
+(h. Rola)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Zofia Gucci
+[NEW]
+<osoba>
+(gorliwa socynianka,
+pochodząca z osiadłej w
+Polsce rodziny włoskiej)"	[color=green,
+		label="hasWife [P94]",
+		minlen=2];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "minister ariański
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "organizator zboru wygnańczego
+[NEW]
+<zawód>
+(w Koloszwarze)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "1691-08-06"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "główny kościół unitariański w Koloszwarze
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=2];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Koloszwar
+[NEW]
+<miejscowość>
+(obecnie Cluj)"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=3];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Mękarzów
+[Q54516]
+<miejscowość>
+(ówczesny powiat lelowski)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Kolegium Unitariańskie
+[NEW]
+<instytucja>
+(w Koloszwarze)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Jerzy Niemirycz
+[Q163579]
+<osoba>
+(współwyznawca Andrzeja
+Łachowskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Marcin Ruar
+[Q168851]
+<osoba>
+(osoba, której Andrzej
+Łachowski był pomocnikiem
+w Gdańsku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Seweryn Morsztyn
+[Q162932]
+<osoba>
+(osoba, której Andrzej
+Łachowski pomagał w
+opiece nad
+współwyznawcami)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Teofil Morsztyn
+[NEW]
+<osoba>
+(osoba, której Andrzej
+Łachowski pomagał w
+opiece nad
+współwyznawcami)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "nauczyciel
+[NEW]
+<zawód>
+(nauczyciel dzieci Jerzego
+Niemirycza)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=2];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Lusławice nad Dunajcem
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=3];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Kraków
+[Q46043]
+<miejscowość>
+(okupowany przez Szwedów w
+1657 roku)"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=4];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Rożnów
+[Q72327]
+<miejscowość>
+(miejsce rozmów między
+socynianami a katolikami
+w marcu 1660 roku)"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=1];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "Kluczbork
+[Q42826]
+<miejscowość>
+(miejsce synodu
+ariańskiego 17 czerwca
+1661 roku)"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=2];
+	"Andrzej Łachowski
+[Q160588]
+<osoba>
+(minister ariański i
+organizator zboru
+wygnańczego w Koloszwarze)" -> "dom w śródmieściu Koloszwaru
+[NEW]
+<obiekt fizyczny>
+(dom przy ul. Belsö
+Monostor, dziś ul. 30.
+Decembrie nr 13,
+zamieniony \
+na zbór)"	[color=green,
+		label="isOwnerOf [NEW]",
+		minlen=3];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)" -> "Mękarzów
+[Q54516]
+<miejscowość>
+(ówczesny powiat lelowski)"	[color=green,
+		label="placeOfActivity [NEW]"];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)" -> "Wilków
+[Q87289]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=1];
+	"Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)" -> "Raszków
+[Q71013]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=2];
+	"Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański)"	[color=black,
+		label="Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański)"];
+	"Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański)" -> "Dawid Łachowski
+[NEW]
+<osoba>
+(dziedzic części
+Mękarzowa, Wilkowa i
+Raszkowa)"	[color=green,
+		label="hasCousin [P99]"];
+	"Hieronim Moskorzowski
+[Q162973]
+<osoba>
+(teolog socyniański)" -> "teolog socyniański
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

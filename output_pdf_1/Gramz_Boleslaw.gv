@@ -1,0 +1,217 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)"	[color=black,
+		label="Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)"];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "1904-04-04"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "1943-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Kubliczew
+[NEW]
+<miejscowość>
+(miasteczko w guberni
+witebskiej)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Bolesław
+[NEW]
+<osoba>
+(ojciec Bolesława Gramza)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Adela z Erdmanów
+[NEW]
+<osoba>
+(matka Bolesława Gramza)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Gimnazjum Św. Katarzyny
+[NEW]
+<instytucja>
+(szkoła w Petersburgu)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Seminarium Duchowne w Wilnie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Wydział Teologiczny Uniwersytetu Stefana Batorego
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "wikariusz
+[NEW]
+<zawód>
+(stanowisko w Grodnie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "Rzym
+[Q147390]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "prefekt
+[NEW]
+<zawód>
+(stanowisko w Święcianach)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "walki 6. pułku piechoty I. Dywizji
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "zamordowanie przez «własowców»
+[NEW]
+<przyczyna śmierci>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=2];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "wyświęcenie na kapłana
+[NEW]
+<wydarzenie>
+(4 kwietnia 1931 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "kapelan i sanitariusz
+[NEW]
+<urząd>
+(stanowisko w obozie
+niemieckim)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "tajny kapelan wojskowy
+[NEW]
+<urząd>
+(stanowisko w Warszawie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "pracownik tajnej prasy polskiej
+[NEW]
+<urząd>
+(stanowisko w Warszawie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Bolesław Gramz
+[Q154127]
+<osoba>
+(kapelan W.P., proboszcz w
+Idołcie k. Drui,
+uczestnik konspiracji)" -> "aresztowanie przez gestapo
+[NEW]
+<wydarzenie>
+(7 czerwca 1943 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+}

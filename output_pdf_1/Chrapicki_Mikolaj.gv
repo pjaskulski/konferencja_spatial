@@ -1,0 +1,197 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)"	[color=black,
+		label="Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)"];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Toruń
+[Q83578]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "1514-02-02"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "kościół pofranciszkański w Lubawie
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "biskup chełmiński
+[NEW]
+<tytuł szlachecki>"	[color=green,
+		label="nobleTitle [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "fundacja klasztoru franciszkańskiego w Lubawie
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "fundacje dla Lubawy, katedry chełmińskiej oraz klasztoru w Kartuzach
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "konsekracja kościołów w Byszwałdzie i Lembargu
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Watzelrode
+[NEW]
+<osoba>
+(biskup, protektor
+Mikołaja Chrapickiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Jan Olbracht
+[Q155672]
+<osoba>
+(król, który nominował
+Mikołaja Chrapickiego na
+biskupa chełmińskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Aleksander Jagiellończyk
+[Q148333]
+<osoba>
+(król, który pozwolił
+Mikołajowi Chrapickiemu
+wziąć w zastaw miasto
+Radzyń)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Zygmunt I Stary
+[NEW]
+<osoba>
+(król, który zastrzegł
+Mikołajowi Chrapickiemu
+dożywocie dochody zamków)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "kanonik warmiński
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "biskup chełmiński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Uniwersytet Koloński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Uniwersytet Krakowski
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Radzyń
+[Q70804]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "Chełmno
+[Q24272]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "zamek starogrodzki
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Mikołaj Chrapicki
+[Q150578]
+<osoba>
+(kanonik warmiński, biskup
+chełmiński, toruńczyk)" -> "zamek papowski
+[NEW]
+<obiekt fizjograficzny>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+}

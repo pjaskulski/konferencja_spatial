@@ -1,0 +1,209 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)"	[color=black,
+		label="Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"	[color=black,
+		label="Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)"	[color=green,
+		label="hasBrother [P97]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "1372-00-00
+(Data urodzenia jest
+przybliżona.)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "1419-07-00
+(Data śmierci jest
+przybliżona, przed 21
+lipca 1419.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Piotr z Kurdwanowa i Stobnicy
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Jakub z Kurdwanowa
+[NEW]
+<osoba>
+(biskup płocki)"	[color=green,
+		label="hasUncle [P99]",
+		minlen=4];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Florian z Kurdwanowa
+[Q152711]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonik poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kustosz poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "Kościół św. Wawrzyńca w Kazimierzu
+[NEW]
+<instytucja>
+(koło Krakowa)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "dziekania kurzelowska
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kustodia poznańska
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Szymon ze Stobnicy
+[Q175179]
+<osoba>
+(kanonik poznański i
+krakowski, kustosz
+poznański)" -> "kanonia kruszwicka
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik poznański
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "Uniwersytet Krakowski
+[NEW]
+<uczelnia>
+(lata studiów 1414-1415)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Andrzej z Kurdwanowa
+[NEW]
+<osoba>
+(student Uniwersytetu
+Krakowskiego, kanonik
+krakowski, poznański i
+płocki)" -> "kanonik płocki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+}

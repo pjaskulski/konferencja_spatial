@@ -1,0 +1,142 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)"	[color=black,
+		label="Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)"];
+	"Stanisław Lwowczyk
+[NEW]
+<osoba>
+(ojciec Fuzoriusa
+Bartłomieja)"	[color=black,
+		label="Stanisław Lwowczyk
+[NEW]
+<osoba>
+(ojciec Fuzoriusa
+Bartłomieja)"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Stanisław Lwowczyk
+[NEW]
+<osoba>
+(ojciec Fuzoriusa
+Bartłomieja)"	[color=green,
+		label="hasFather [P92]"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "kolegiata nowosądecka
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "kolegiata nowosądecka
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> 1637	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Nowy Sącz
+[Q60198]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Nowy Sącz
+[Q60198]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Akademia Krakowska
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "kustosz kolegiaty św. Małgorzaty
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "wikariusz
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Wojciech Łopacki
+[NEW]
+<osoba>
+(rajca miejski i balwierz,
+odszczepieniec)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "Kamionka Wielka
+[Q40715]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Bartłomiej Fuzorius
+[Q152941]
+<osoba>
+(kustosz i oficjał
+kolegiaty nowosądeckiej)" -> "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej
+[NEW]
+<osiągnięcie>
+(stworzone w 1631 roku,
+oparte \
+o kapitał
+wieczysty 1000 złp)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Stanisław Lwowczyk
+[NEW]
+<osoba>
+(ojciec Fuzoriusa
+Bartłomieja)" -> 1598	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+}

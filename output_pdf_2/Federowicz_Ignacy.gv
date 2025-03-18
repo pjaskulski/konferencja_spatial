@@ -1,0 +1,170 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)"	[color=black,
+		label="Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)"];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "1836-04-24"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Czechy
+[Q26397]
+<miejscowość>
+(wieś pod Zduńską Wolą)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "1913-06-02"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Aleksander Federowicz
+[NEW]
+<osoba>
+(ojciec Ignacego
+Federowicza)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Aniela Wilczyńska
+[NEW]
+<osoba>
+(matka Ignacego
+Federowicza)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Zakon Paulinów
+[NEW]
+<instytucja>
+(zakon, do którego wstąpił
+Ignacy Federowicz w
+Częstochowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "prokurator klasztoru i magister nowicjatu
+[NEW]
+<urząd>
+(pełnione obowiązki na
+Skałce w Krakowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "przeor i administrator parafii
+[NEW]
+<urząd>
+(pełnione obowiązki na
+Skałce)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "kustosz generalny zakonu
+[NEW]
+<urząd>
+(pełnione obowiązki w
+całej monarchii
+austriackiej)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Wieluń)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Włocławek
+[Q87838]
+<miejscowość>"	[color=green,
+		label="placeOfOrdination [NEW]",
+		minlen=4];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "kaznodzieja klasztoru
+[NEW]
+<zawód>
+(pełnione obowiązki w
+Leśniowie pod Żarkami)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Nowy klasztor oo. paulinów
+[NEW]
+<instytucja>
+(otwarty przez Ignacego
+Federowicza w Nagy-Levard
+na Węgrzech)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Ignacy Federowicz
+[Q152519]
+<osoba>
+(ks., paulin, znany jako
+o. Ambroży)" -> "Klasztor św. Krzyża
+[NEW]
+<instytucja>
+(założony przez Ignacego
+Federowicza na Węgrzech)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+}

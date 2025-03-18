@@ -1,0 +1,186 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "inżynier",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kartograf",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "oficer regimentu",
+                "type": "zawód",
+                "description": "w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kapitan",
+                "type": "stopień wojskowy",
+                "description": "otrzymał patent na szarżę kapitana z kompanią w 1791 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q18430688"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "major",
+                "type": "stopień wojskowy",
+                "description": "mianowany majorem w regimencie pieszym 16 w 1794 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q6738009"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "mapa rzeki Warty",
+                "type": "dzieło",
+                "description": "dotycząca odcinka od Sieradza do wsi Siemiątki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Skarbowa",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11741678"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kwatermistrz",
+                "type": "urząd",
+                "description": "regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "mapa rzeki Narew i Biebrza",
+                "type": "przedmiot",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Langfort Teodor Henryk",
+                "type": "osoba",
+                "description": "inżynier, kartograf, oficer regimentu w batalionie Skarbu Kor.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfNobilitation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1791-00-00",
+                "type": "data",
+                "description": "Nobilitacja Langforta Teodora Henryka."
+            }
+        }
+    ]
+}

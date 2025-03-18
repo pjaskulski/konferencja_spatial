@@ -1,0 +1,512 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)"	[color=black,
+		label="Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)"];
+	"Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 roku)"	[color=black,
+		label="Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 roku)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 roku)"	[color=green,
+		label="hasFather [P92]"];
+	"Ansberta z Badeńskich
+[NEW]
+<osoba>"	[color=black,
+		label="Ansberta z Badeńskich
+[NEW]
+<osoba>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Ansberta z Badeńskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"	[color=black,
+		label="Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)"	[color=green,
+		label="hasHusband [P94]"];
+	"ciosy bagnetów i pik kozackich
+[NEW]
+<przedmiot>"	[color=black,
+		label="ciosy bagnetów i pik kozackich
+[NEW]
+<przedmiot>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "ciosy bagnetów i pik kozackich
+[NEW]
+<przedmiot>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Radogoszcz (Dobra?) pod Łodzią
+[NEW]
+<miejscowość>"	[color=black,
+		label="Radogoszcz (Dobra?) pod Łodzią
+[NEW]
+<miejscowość>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Radogoszcz (Dobra?) pod Łodzią
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"narodowa organizacja łódzka
+[NEW]
+<organizacja>"	[color=black,
+		label="narodowa organizacja łódzka
+[NEW]
+<organizacja>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "narodowa organizacja łódzka
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"wydanie zakazu przyjmowania kobiet do służby liniowej
+[NEW]
+<wydarzenie>
+(wydane przez Wydział
+Wojny Rządu Narodowego 16
+IV \
+1863)"	[color=black,
+		label="wydanie zakazu przyjmowania kobiet do służby liniowej
+[NEW]
+<wydarzenie>
+(wydane przez Wydział
+Wojny Rządu Narodowego 16
+IV \
+1863)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "wydanie zakazu przyjmowania kobiet do służby liniowej
+[NEW]
+<wydarzenie>
+(wydane przez Wydział
+Wojny Rządu Narodowego 16
+IV \
+1863)"	[color=green,
+		label="significantEvent [NEW]"];
+	"śmierć odbiła się głośnym echem w całym kraju
+[NEW]
+<osiągnięcie>"	[color=black,
+		label="śmierć odbiła się głośnym echem w całym kraju
+[NEW]
+<osiągnięcie>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "śmierć odbiła się głośnym echem w całym kraju
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]"];
+	"ulica w Łodzi
+[NEW]
+<miejscowość>"	[color=black,
+		label="ulica w Łodzi
+[NEW]
+<miejscowość>"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "ulica w Łodzi
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"dołączenie do partii Józefa Sawickiego
+[NEW]
+<wydarzenie>
+(Maria Piotrowiczowa
+dołączyła do partii
+Józefa Sawickiego podczas
+\
+powstania styczniowego.)"	[color=black,
+		label="dołączenie do partii Józefa Sawickiego
+[NEW]
+<wydarzenie>
+(Maria Piotrowiczowa
+dołączyła do partii
+Józefa Sawickiego podczas
+\
+powstania styczniowego.)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "dołączenie do partii Józefa Sawickiego
+[NEW]
+<wydarzenie>
+(Maria Piotrowiczowa
+dołączyła do partii
+Józefa Sawickiego podczas
+\
+powstania styczniowego.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Józef Sawicki
+[NEW]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie.)"	[color=black,
+		label="Józef Sawicki
+[NEW]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie.)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Józef Sawicki
+[NEW]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie.)"	[color=green,
+		label="significantFigure [P100]"];
+	"Józef Dworzaczek
+[Q152003]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie
+po Józefie \
+Sawickim.)"	[color=black,
+		label="Józef Dworzaczek
+[Q152003]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie
+po Józefie \
+Sawickim.)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "Józef Dworzaczek
+[Q152003]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie
+po Józefie \
+Sawickim.)"	[color=green,
+		label="significantFigure [P100]"];
+	"rozbicie oddziału pod Dobrą
+[NEW]
+<wydarzenie>
+(Oddział, do którego
+dołączyli Maria i
+Konstanty Piotrowiczowie,
+został rozbity \
+pod Dobrą
+24 lutego 1863 roku.)"	[color=black,
+		label="rozbicie oddziału pod Dobrą
+[NEW]
+<wydarzenie>
+(Oddział, do którego
+dołączyli Maria i
+Konstanty Piotrowiczowie,
+został rozbity \
+pod Dobrą
+24 lutego 1863 roku.)"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "rozbicie oddziału pod Dobrą
+[NEW]
+<wydarzenie>
+(Oddział, do którego
+dołączyli Maria i
+Konstanty Piotrowiczowie,
+został rozbity \
+pod Dobrą
+24 lutego 1863 roku.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria Piotrowiczowa
+[Q165832]
+<osoba>
+(uczestniczka powstania
+styczniowego, z domu
+Rogolińska)" -> "1863-02-28"	[color=green,
+		label="dateOfBurial [NEW]",
+		minlen=1];
+	"Zygmunt Rogoliński
+[NEW]
+<osoba>
+(właściciel dóbr w
+okolicach Łęczycy,
+powstaniec 1831 roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ansberta z Badeńskich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nauczyciel
+[NEW]
+<zawód>"	[color=black,
+		label="nauczyciel
+[NEW]
+<zawód>"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "nauczyciel
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "narodowa organizacja łódzka
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"śmierć w szpitalu po odniesieniu ciężkich ran
+[NEW]
+<wydarzenie>
+(Konstanty Piotrowicz
+zmarł w szpitalu po
+odniesieniu ciężkich \
+ran
+podczas powstania
+styczniowego.)"	[color=black,
+		label="śmierć w szpitalu po odniesieniu ciężkich ran
+[NEW]
+<wydarzenie>
+(Konstanty Piotrowicz
+zmarł w szpitalu po
+odniesieniu ciężkich \
+ran
+podczas powstania
+styczniowego.)"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "śmierć w szpitalu po odniesieniu ciężkich ran
+[NEW]
+<wydarzenie>
+(Konstanty Piotrowicz
+zmarł w szpitalu po
+odniesieniu ciężkich \
+ran
+podczas powstania
+styczniowego.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Konstanty Piotrowicz
+[NEW]
+<osoba>
+(nauczyciel we wsi
+Chocianowice)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ciosy bagnetów i pik kozackich
+[NEW]
+<przedmiot>" -> "przedmiot
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Radogoszcz (Dobra?) pod Łodzią
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"nauczyciel
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"narodowa organizacja łódzka
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"wydanie zakazu przyjmowania kobiet do służby liniowej
+[NEW]
+<wydarzenie>
+(wydane przez Wydział
+Wojny Rządu Narodowego 16
+IV \
+1863)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"śmierć odbiła się głośnym echem w całym kraju
+[NEW]
+<osiągnięcie>" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"ulica w Łodzi
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dołączenie do partii Józefa Sawickiego
+[NEW]
+<wydarzenie>
+(Maria Piotrowiczowa
+dołączyła do partii
+Józefa Sawickiego podczas
+\
+powstania styczniowego.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"śmierć w szpitalu po odniesieniu ciężkich ran
+[NEW]
+<wydarzenie>
+(Konstanty Piotrowicz
+zmarł w szpitalu po
+odniesieniu ciężkich \
+ran
+podczas powstania
+styczniowego.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Sawicki
+[NEW]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Dworzaczek
+[Q152003]
+<osoba>
+(dowódca partii
+powstańczej, do której
+dołączyli Maria i
+Konstanty Piotrowiczowie
+po Józefie \
+Sawickim.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rozbicie oddziału pod Dobrą
+[NEW]
+<wydarzenie>
+(Oddział, do którego
+dołączyli Maria i
+Konstanty Piotrowiczowie,
+został rozbity \
+pod Dobrą
+24 lutego 1863 roku.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

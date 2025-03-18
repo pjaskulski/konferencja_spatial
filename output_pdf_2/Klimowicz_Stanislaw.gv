@@ -1,0 +1,234 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)"	[color=black,
+		label="Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)"];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "zecer
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "działacz ruchu robotniczego
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Paulin Klimowicz
+[Q157355]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Koło Młodych Drukarzy
+[NEW]
+<organizacja>
+(organizacja założona w
+grudniu 1891 r.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Zjednoczenie Robotnicze
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "A. Zapolski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Drukarnia A. Reiffa
+[NEW]
+<instytucja>
+(polska drukarnia w Paryżu)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Tow. Ubezpieczeń New-York
+[NEW]
+<instytucja>
+(instytucja
+ubezpieczeniowa w Paryżu)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Związek Zagraniczny Socjalistów Polskich
+[NEW]
+<organizacja>
+(organizacja
+socjalistyczna działająca
+za granicą)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "sekretarz sekcji paryskiej ZZSP
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Tow. Pomocy Więźniom i Emigrantom Politycznym «Czerwony Krzyż»
+[NEW]
+<organizacja>
+(organizacja wspierająca
+więźniów i \
+emigrantów
+politycznych)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "nieokreślona uczelnia
+[NEW]
+<instytucja>
+(Leodium)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "1935-00-00
+(data przybliżona, zmarł
+przed 1935 rokiem)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfWork [NEW]",
+		minlen=3];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "członek Zarządu Koła Młodych Drukarzy
+[NEW]
+<urząd>
+(w latach 1892/3)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "sekcja ZZSP w Leodium
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Ogólnobelgijska Pomoc Bratnia polskich studentów
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "Komitet Zagraniczny PPS
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Stanisław Klimowicz
+[Q157356]
+<osoba>
+(pseud. Łapa, Lipski,
+zecer, działacz ruchu
+robotniczego)" -> "inżynier
+[NEW]
+<zawód>
+(pozostał jako inżynier we
+Francji)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+}

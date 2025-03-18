@@ -1,0 +1,237 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)"	[color=black,
+		label="Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Uniwersytet Wiedeński
+[NEW]
+<instytucja>
+(miejsce studiów
+teologicznych Jana
+Bartoszewskiego)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Uniwersytet Lwowski
+[NEW]
+<instytucja>
+(miejsce pracy Jana
+Bartoszewskiego jako
+profesora)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "ksiądz greckokatolicki
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "profesor teologii pastoralnej
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Komentarz do Pisma św. St. Test.
+[NEW]
+<dzieło>
+(wraz z tekstem
+starosłowiańskim (t.
+I–VII, Lw. 1900–1908))"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Pedagogja chrześc. kat.
+[NEW]
+<dzieło>
+(Lw. 1891, 2. wyd. pomn.
+1909)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "Teologia pasterska
+[NEW]
+<dzieło>
+(Lw. 1902)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "1852-01-18"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "1920-12-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Lwów)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "adjunkt wydziału teologicznego
+[NEW]
+<urząd>
+(Uniwersytet Lwowski,
+1879-1883)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "zastępca profesora teologii pastoralnej
+[NEW]
+<urząd>
+(Uniwersytet Lwowski,
+1883-1884)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "profesor zwyczajny teologii pastoralnej
+[NEW]
+<urząd>
+(Uniwersytet Lwowski, od
+1885)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "wykładowca pedagogiki
+[NEW]
+<urząd>
+(Uniwersytet Lwowski, od
+1890)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "dziekan wydziału teologicznego
+[NEW]
+<urząd>
+(Uniwersytet Lwowski,
+1888/9 i 1893/4)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "kierownik seminarjum homiletycznego
+[NEW]
+<urząd>
+(od 1905)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "rzeczywisty radca gr.-kat. Konsystorza Metropol.
+[NEW]
+<urząd>
+(od 1891)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły
+[NEW]
+<urząd>
+(od 1895)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego
+[NEW]
+<urząd>
+(od 1897)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz gr. kat., profesor
+Uniwersytetu Lwowskiego)" -> "egzaminator synodalny
+[NEW]
+<urząd>
+(lwowski synod
+diecezjalny, 1905)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+}

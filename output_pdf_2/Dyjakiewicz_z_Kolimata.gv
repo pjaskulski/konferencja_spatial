@@ -1,0 +1,529 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)"	[color=black,
+		label="Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)"];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)"	[color=black,
+		label="Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)"	[color=green,
+		label="hasSon [P153]"];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)"	[color=black,
+		label="Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)"	[color=green,
+		label="hasSon [P153]"];
+	"Stefan Dyjakiewicz
+[NEW]
+<osoba>
+(Ojciec Gabriela
+Dyjakiewicza, dziedzic
+folwarku Pułnuszki pod
+Dubinkami w woj.
+wileńskim.)"	[color=black,
+		label="Stefan Dyjakiewicz
+[NEW]
+<osoba>
+(Ojciec Gabriela
+Dyjakiewicza, dziedzic
+folwarku Pułnuszki pod
+Dubinkami w woj.
+wileńskim.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Stefan Dyjakiewicz
+[NEW]
+<osoba>
+(Ojciec Gabriela
+Dyjakiewicza, dziedzic
+folwarku Pułnuszki pod
+Dubinkami w woj.
+wileńskim.)"	[color=green,
+		label="hasFather [P92]"];
+	"Anna Niewierska
+[NEW]
+<osoba>
+(Żona Gabriela
+Dyjakiewicza, córka ks.
+Marcina Niewierskiego,
+superintendenta
+wileńskiego.)"	[color=black,
+		label="Anna Niewierska
+[NEW]
+<osoba>
+(Żona Gabriela
+Dyjakiewicza, córka ks.
+Marcina Niewierskiego,
+superintendenta
+wileńskiego.)"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Anna Niewierska
+[NEW]
+<osoba>
+(Żona Gabriela
+Dyjakiewicza, córka ks.
+Marcina Niewierskiego,
+superintendenta
+wileńskiego.)"	[color=green,
+		label="hasWife [P94]"];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "superintendent podlaski Jednoty Litewskiej ew.-reform.
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> 1660	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> 1724	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Apolonia Falęcka
+[NEW]
+<osoba>
+(Matka Gabriela
+Dyjakiewicza, z domu
+Falęcka h. Leszczyc.)"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Memoriale prac, pielgrzymstwa i zabaw w tej śmiertelności żywota ziemskiego
+[NEW]
+<dzieło>
+(Pamiętnik z lat 1660 do
+1718, obejmujący \
+około
+120 str. małej 16-ki,
+gęsto zapisanej.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Królewiec
+[Q146957]
+<miejscowość>
+(Miejsce studiów
+teologicznych Gabriela
+Dyjakiewicza.)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "Lejda
+[Q146796]
+<miejscowość>
+(Miejsce studiów
+teologicznych Gabriela
+Dyjakiewicza.)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "konrektor gimnazjum słuckiego
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza po
+studiach.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "diakon
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza po
+studiach.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "urząd kaznodziejski
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza po
+studiach.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "zbór zejmelski
+[NEW]
+<instytucja>
+(Miejsce pracy
+duszpasterskiej Gabriela
+Dyjakiewicza.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "minister zboru w Węgrowie
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza po
+pracy w zborze
+zejmelskim.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "konsenior podlaski
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza w
+1694 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Gabriel Dyjakiewicz
+[Q152038]
+<osoba>
+(Superintendent podlaski
+Jednoty Litewskiej
+ew.-reform.)" -> "superintendent
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Gabriela Dyjakiewicza w
+1709 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "Węgrów
+[Q86065]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "1671-10-02"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "De cautelis contiliandae Dei gratia universalis et particularis deque schismate Evangelicorum
+[NEW]
+<dzieło>
+(Dzieło ogłoszone \
+w 1712
+roku.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "Berlin
+[Q181990]
+<miejscowość>
+(Miejsce studiów Marcina
+Dyjakiewicza.)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "Frankfurt nad Odrą
+[Q146859]
+<miejscowość>
+(Miejsce studiów Marcina
+Dyjakiewicza.)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "Lejda
+[Q146796]
+<miejscowość>
+(Miejsce studiów Marcina
+Dyjakiewicza.)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "konrektor gimnazjum słuckiego
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Marcina Dyjakiewicza po
+powrocie do kraju.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "diakon
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Marcina Dyjakiewicza po
+powrocie do kraju.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "urząd kaznodziejski
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Marcina Dyjakiewicza po
+powrocie do kraju.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "rektor gimnazjum w Kiejdanach
+[NEW]
+<urząd>
+(Stanowisko objęte przez
+Marcina Dyjakiewicza po
+powrocie do kraju.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "Węgrów
+[Q86065]
+<miejscowość>
+(Miejsce działalności
+duszpasterskiej Marcina
+Dyjakiewicza.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Marcin Dyjakiewicz
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, następca
+superintendenta.)" -> "emeryt
+[NEW]
+<status>
+(Status uzyskany przez
+Marcina Dyjakiewicza w
+1764 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)" -> 1699	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)" -> "duchowny
+[NEW]
+<urząd>
+(Zdegradowany z urzędu
+duchownego w 1724 roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Gabriel Dyjakiewicz (syn)
+[NEW]
+<osoba>
+(Syn Gabriela
+Dyjakiewicza, urodzony w
+1699 roku, zdegradowany z
+urzędu duchownego.)" -> "wyłączenie z Kościoła
+[NEW]
+<status>
+(Status uzyskany przez
+Gabriela Dyjakiewicza
+(syna) po degradacji z
+urzędu duchownego.)"	[color=green,
+		label="status [NEW]",
+		minlen=3];
+	"Stefan Dyjakiewicz
+[NEW]
+<osoba>
+(Ojciec Gabriela
+Dyjakiewicza, dziedzic
+folwarku Pułnuszki pod
+Dubinkami w woj.
+wileńskim.)" -> "folwark Pułnuszki
+[NEW]
+<obiekt fizjograficzny>
+(Folwark pod Dubinkami w
+woj. wileńskim.)"	[color=green,
+		label="hasProperty [NEW]",
+		minlen=1];
+	"Marcin Niewierski
+[NEW]
+<osoba>
+(Ojciec Anny Niewierskiej,
+superintendent wileński.)"	[color=black,
+		label="Marcin Niewierski
+[NEW]
+<osoba>
+(Ojciec Anny Niewierskiej,
+superintendent wileński.)"];
+	"Anna Niewierska
+[NEW]
+<osoba>
+(Żona Gabriela
+Dyjakiewicza, córka ks.
+Marcina Niewierskiego,
+superintendenta
+wileńskiego.)" -> "Marcin Niewierski
+[NEW]
+<osoba>
+(Ojciec Anny Niewierskiej,
+superintendent wileński.)"	[color=green,
+		label="hasFather [P92]"];
+	"Marcin Niewierski
+[NEW]
+<osoba>
+(Ojciec Anny Niewierskiej,
+superintendent wileński.)" -> "superintendent wileński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

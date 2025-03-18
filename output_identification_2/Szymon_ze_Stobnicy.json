@@ -1,0 +1,308 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1372-00-00",
+                "type": "data",
+                "description": "Data urodzenia jest przybliżona."
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1419-07-00",
+                "type": "data",
+                "description": "Data śmierci jest przybliżona, przed 21 lipca 1419."
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Piotr z Kurdwanowa i Stobnicy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "hasUncle",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Jakub z Kurdwanowa",
+                "type": "osoba",
+                "description": "biskup płocki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Florian z Kurdwanowa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q152711"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik poznański",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik krakowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kustosz poznański",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Krakowski",
+                "type": "uczelnia",
+                "description": "lata studiów 1414-1415",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kościół św. Wawrzyńca w Kazimierzu",
+                "type": "instytucja",
+                "description": "koło Krakowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dziekania kurzelowska",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kustodia poznańska",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szymon ze Stobnicy",
+                "type": "osoba",
+                "description": "kanonik poznański i krakowski, kustosz poznański",
+                "wikihum": "Q175179"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonia kruszwicka",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik krakowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik poznański",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej z Kurdwanowa",
+                "type": "osoba",
+                "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanonik płocki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

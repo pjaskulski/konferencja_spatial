@@ -1,0 +1,298 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)"	[color=black,
+		label="Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "1852-01-18"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "1920-12-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Uniwersytet Lwowski
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Uniwersytet Wiedeński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "profesor teologii pastoralnej
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "dziekan wydziału teologicznego
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "kierownik seminarjum homiletycznego
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "radca gr.-kat. Konsystorza Metropol.
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "egzaminator synodalny
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Komentarz do Pisma św. St. Test.
+[NEW]
+<dzieło>
+(wraz z tekstem
+starosłowiańskim (t.
+I–VII, Lw. 1900–1908))"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Pedagogja chrześc. kat.
+[NEW]
+<dzieło>
+(Lw. 1891, 2. wyd. pomn.
+1909)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Teologia pasterska
+[NEW]
+<dzieło>
+(Lw. 1902)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Święcenia kapłańskie
+[NEW]
+<wydarzenie>
+(Jan Bartoszewski otrzymał
+święcenia kapłańskie w
+1875 roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Doktor św. teologii
+[NEW]
+<osiągnięcie>
+(Jan Bartoszewski osiągnął
+stopień doktora św.
+teologii w 1879 roku.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "Traktaty teologiczne
+[NEW]
+<dzieło>
+(Jan Bartoszewski drukował
+traktaty teologiczne w
+czasopismach cerkiewnych
+'Ruskyj Syjon', '\
+Hałyckyj
+Syjon', 'Duszpastyr'.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "adjunkt wydziału teologicznego
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "zastępca profesora teologii pastoralnej
+[NEW]
+<zawód>
+(z językiem wykładowym
+ruskim)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "profesor zwyczajny teologii pastoralnej
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "wykładowca pedagogiki
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "traktaty teologiczne
+[NEW]
+<dzieło>
+(drukowane w czasopismach
+cerkiewnych 'Ruskyj
+Syjon', 'Hałyckyj Syjon',
+'Duszpastyr')"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jan Bartoszewski
+[Q148826]
+<osoba>
+(ksiądz greckokatolicki,
+profesor Uniwersytetu
+Lwowskiego)" -> "kazania
+[NEW]
+<dzieło>
+(pasyjne, niedzielne,
+świąteczne, pogrzebowe i
+majowe)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+}

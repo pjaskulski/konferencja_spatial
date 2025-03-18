@@ -1,0 +1,517 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)"	[color=black,
+		label="Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)"];
+	"złotnik
+[NEW]
+<zawód>"	[color=black,
+		label="złotnik
+[NEW]
+<zawód>"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "złotnik
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Lublin
+[Q50436]
+<miejscowość>"	[color=black,
+		label="Lublin
+[Q50436]
+<miejscowość>"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Lublin
+[Q50436]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku
+[NEW]
+<miejscowość>"	[color=black,
+		label="kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku
+[NEW]
+<miejscowość>"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)"	[color=black,
+		label="Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)"	[color=green,
+		label="hasSon [P153]"];
+	"Barbara z domu Biettin
+[NEW]
+<osoba>
+(żona Christiana Pichgiela
+starszego, żyła w latach
+1666–1716)"	[color=black,
+		label="Barbara z domu Biettin
+[NEW]
+<osoba>
+(żona Christiana Pichgiela
+starszego, żyła w latach
+1666–1716)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Barbara z domu Biettin
+[NEW]
+<osoba>
+(żona Christiana Pichgiela
+starszego, żyła w latach
+1666–1716)"	[color=green,
+		label="hasWife [P94]"];
+	"Johan Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=black,
+		label="Johan Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Johan Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=green,
+		label="hasSon [P153]"];
+	"Daniel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=black,
+		label="Daniel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Daniel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=green,
+		label="hasSon [P153]"];
+	"Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=black,
+		label="Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)"	[color=green,
+		label="hasSon [P153]"];
+	"Matthias Pichgiel młodszy
+[NEW]
+<osoba>
+(kuzyn Christiana
+Pichgiela starszego,
+złotnik)"	[color=black,
+		label="Matthias Pichgiel młodszy
+[NEW]
+<osoba>
+(kuzyn Christiana
+Pichgiela starszego,
+złotnik)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Matthias Pichgiel młodszy
+[NEW]
+<osoba>
+(kuzyn Christiana
+Pichgiela starszego,
+złotnik)"	[color=green,
+		label="hasCousin [P99]"];
+	"Matthias Pichel
+[NEW]
+<osoba>
+(stryj Christiana
+Pichgiela starszego,
+złotnik)"	[color=black,
+		label="Matthias Pichel
+[NEW]
+<osoba>
+(stryj Christiana
+Pichgiela starszego,
+złotnik)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Matthias Pichel
+[NEW]
+<osoba>
+(stryj Christiana
+Pichgiela starszego,
+złotnik)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Hieronim Edel
+[Q152243]
+<osoba>
+(złotnik, nauczyciel
+Christiana Pichgiela
+starszego)"	[color=black,
+		label="Hieronim Edel
+[Q152243]
+<osoba>
+(złotnik, nauczyciel
+Christiana Pichgiela
+starszego)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "Hieronim Edel
+[Q152243]
+<osoba>
+(złotnik, nauczyciel
+Christiana Pichgiela
+starszego)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"starszy cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1692 i
+1697)"	[color=black,
+		label="starszy cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1692 i
+1697)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "starszy cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1692 i
+1697)"	[color=green,
+		label="positionHeld [P101]"];
+	"zastępca starszego cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1691,
+1696 i 1700)"	[color=black,
+		label="zastępca starszego cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1691,
+1696 i 1700)"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "zastępca starszego cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1691,
+1696 i 1700)"	[color=green,
+		label="positionHeld [P101]"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Christian Pichgiel starszy
+[Q165477]
+<osoba>
+(złotnik gdański, żył w
+latach 1652–1700)" -> "1700-09-29"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"złotnik
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Lublin
+[Q50436]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "złotnik
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"prowadzenie warsztatu złotniczego
+[NEW]
+<urząd>"	[color=black,
+		label="prowadzenie warsztatu złotniczego
+[NEW]
+<urząd>"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "prowadzenie warsztatu złotniczego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"warsztat rodziców
+[NEW]
+<instytucja>
+(miejsce nauki Christiana
+Pichgiela młodszego w
+latach 1689–1704)"	[color=black,
+		label="warsztat rodziców
+[NEW]
+<instytucja>
+(miejsce nauki Christiana
+Pichgiela młodszego w
+latach 1689–1704)"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "warsztat rodziców
+[NEW]
+<instytucja>
+(miejsce nauki Christiana
+Pichgiela młodszego w
+latach 1689–1704)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"egzamin mistrzowski
+[NEW]
+<wydarzenie>
+(egzamin zdany przez
+Christiana Pichgiela
+młodszego 10 stycznia
+1716 roku)"	[color=black,
+		label="egzamin mistrzowski
+[NEW]
+<wydarzenie>
+(egzamin zdany przez
+Christiana Pichgiela
+młodszego 10 stycznia
+1716 roku)"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "egzamin mistrzowski
+[NEW]
+<wydarzenie>
+(egzamin zdany przez
+Christiana Pichgiela
+młodszego 10 stycznia
+1716 roku)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Christian Pichgiel młodszy
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego, złotnik)" -> "1724-05-26"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Barbara z domu Biettin
+[NEW]
+<osoba>
+(żona Christiana Pichgiela
+starszego, żyła w latach
+1666–1716)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Johan Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Daniel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Emanuel Pichgiel
+[NEW]
+<osoba>
+(syn Christiana Pichgiela
+starszego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"prowadzenie warsztatu złotniczego
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Matthias Pichgiel młodszy
+[NEW]
+<osoba>
+(kuzyn Christiana
+Pichgiela starszego,
+złotnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Matthias Pichel
+[NEW]
+<osoba>
+(stryj Christiana
+Pichgiela starszego,
+złotnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Hieronim Edel
+[Q152243]
+<osoba>
+(złotnik, nauczyciel
+Christiana Pichgiela
+starszego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"starszy cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1692 i
+1697)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zastępca starszego cechu
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Christiana Pichgiela
+starszego w latach 1691,
+1696 i 1700)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"warsztat rodziców
+[NEW]
+<instytucja>
+(miejsce nauki Christiana
+Pichgiela młodszego w
+latach 1689–1704)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"egzamin mistrzowski
+[NEW]
+<wydarzenie>
+(egzamin zdany przez
+Christiana Pichgiela
+młodszego 10 stycznia
+1716 roku)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

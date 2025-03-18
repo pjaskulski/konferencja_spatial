@@ -1,0 +1,674 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1848-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1920-10-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Zaklików",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie lubelskim, w Królestwie Polskim.",
+                "wikihum": "Q137397"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zaklików",
+                "type": "miejscowość",
+                "description": "miejscowość w powiecie lubelskim, w Królestwie Polskim.",
+                "wikihum": "Q137397"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jordan Dąbrowski",
+                "type": "osoba",
+                "description": "obywatel ziemski.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jordan Dąbrowski",
+                "type": "osoba",
+                "description": "obywatel ziemski.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Weronika z Paszkowskich",
+                "type": "osoba",
+                "description": "obywatelka ziemska.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Weronika z Paszkowskich",
+                "type": "osoba",
+                "description": "obywatelka ziemska.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Wiktor Dąbrowski",
+                "type": "osoba",
+                "description": "literat.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktor Dąbrowski",
+                "type": "osoba",
+                "description": "literat.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": "rejent w Odessie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": "rejent w Odessie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "członek sądu wojskowego",
+                "type": "urząd",
+                "description": "członek sądu wojskowego w Odessie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "członek sądu wojskowego",
+                "type": "urząd",
+                "description": "członek sądu wojskowego w Odessie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komitet Polski i Towarzystwo Pomocy Ofiarom Wojny",
+                "type": "instytucja",
+                "description": "organizacje, z którymi był związany Adam Dąbrowski.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Komitet Polski i Towarzystwo Pomocy Ofiarom Wojny",
+                "type": "instytucja",
+                "description": "organizacje, z którymi był związany Adam Dąbrowski.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rozstrzelanie przez bolszewików",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Adama Dąbrowskiego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rozstrzelanie przez bolszewików",
+                "type": "zdarzenie",
+                "description": "przyczyna śmierci Adama Dąbrowskiego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zdarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Brześć Litewski",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w korpusie kadetów.",
+                "wikihum": "Q146202"
+            }
+        },
+        {
+            "subject": {
+                "name": "Brześć Litewski",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w korpusie kadetów.",
+                "wikihum": "Q146202"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Petersburg",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w akademii jurydycznej.",
+                "wikihum": "Q147038"
+            }
+        },
+        {
+            "subject": {
+                "name": "Petersburg",
+                "type": "miejscowość",
+                "description": "miejsce edukacji Adama Dąbrowskiego w akademii jurydycznej.",
+                "wikihum": "Q147038"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "sędzia śledczy",
+                "type": "zawód",
+                "description": "zawód wykonywany przez Adama Dąbrowskiego przed objęciem stanowiska rejenta.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "sędzia śledczy",
+                "type": "zawód",
+                "description": "zawód wykonywany przez Adama Dąbrowskiego przed objęciem stanowiska rejenta.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Berdyczów",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "Q143305"
+            }
+        },
+        {
+            "subject": {
+                "name": "Berdyczów",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "Q143305"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Żytomierz",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "Q143337"
+            }
+        },
+        {
+            "subject": {
+                "name": "Żytomierz",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "Q143337"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wierny",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wierny",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tyflis",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "NEW",
+                "wikidata": "Q994",
+                "nominatim": 193427782,
+                "nominatim_name": "თბილისი, საქართველო"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tyflis",
+                "type": "miejscowość",
+                "description": "miejsce pracy Adama Dąbrowskiego jako sędzia śledczy.",
+                "wikihum": "NEW",
+                "wikidata": "Q994",
+                "nominatim": 193427782,
+                "nominatim_name": "თბილისი, საქართველო"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Piotr Korejwa",
+                "type": "osoba",
+                "description": "generał, z którym Adam Dąbrowski współpracował jako członek sądu wojskowego w Odessie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Korejwa",
+                "type": "osoba",
+                "description": "generał, z którym Adam Dąbrowski współpracował jako członek sądu wojskowego w Odessie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie, urodzony w 1848 roku, zmarły w 1920 roku.",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kamienica",
+                "type": "przedmiot",
+                "description": "kamienica wartości 120.000 rubli przekazana w testamencie siostrom i synowi.",
+                "wikihum": "NEW",
+                "wikidata": "Q1723032"
+            }
+        },
+        {
+            "subject": {
+                "name": "kamienica",
+                "type": "przedmiot",
+                "description": "kamienica wartości 120.000 rubli przekazana w testamencie siostrom i synowi.",
+                "wikihum": "NEW",
+                "wikidata": "Q1723032"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "przedmiot",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

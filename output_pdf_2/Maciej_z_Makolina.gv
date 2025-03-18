@@ -1,0 +1,234 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)"	[color=black,
+		label="Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)"];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Stanisław
+[NEW]
+<osoba>
+(zapewne Hukleja, wójt w
+Mąkolinie)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Anna z Kośnińskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Mikołaj
+[NEW]
+<osoba>
+(wójt knyszyński)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Paweł
+[Q165102]
+<osoba>
+(doktor obojga praw,
+późniejszy opat płocki)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Filip
+[NEW]
+<osoba>
+(kanonik pułtuski)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Jan
+[Q155676]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=2];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Zygmunt
+[Q2762]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Królowa Bona
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Król Zygmunt August
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Kaleczyce
+[Q145345]
+<miejscowość>
+(majętność nabyta przez
+Macieja z Mąkolina i jego
+brata Pawła)"	[color=green,
+		label="hasAsset [NEW]",
+		minlen=2];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Nagrobek w katedrze płockiej
+[NEW]
+<obiekt fizyczny>
+(nagrobek wystawiony przez
+Macieja z Mąkolina i jego
+brata Pawła)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "1576-12-30"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Kolegiata w Pułtusku
+[NEW]
+<miejscowość>
+(miejsce pochówku Macieja
+z Mąkolina)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "sekretarz
+[NEW]
+<zawód>
+(sekretarz królowej Bony i
+Zygmunta Augusta)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "prebendy
+[NEW]
+<urząd>
+(kanonia sądecka, kanonia
+kolegiaty Św. Michała na
+Wawelu, altaria św.
+Trójcy w Mejszagole,
+plebania \
+w Kalinówce,
+altaria św. Doroty w
+katedrze krakowskiej,
+plebania w Młodzieszynie,
+kanonia łęczycka,
+plebania w Sochaczewie,
+\
+kanonia kolegiaty Św.
+Jerzego na Wawelu,
+plebania w Nurze i
+Makowie, kanonia
+pułtuska, kanonia
+wileńska, prepozytura
+trocka, \
+kanonia płocka,
+kantorstwo płockie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Maciej z Mąkolina
+[Q161010]
+<osoba>
+(później zwany Kalecki, h.
+Kotwicz, sekretarz
+królowej Bony i Zygmunta
+Augusta)" -> "Andrzej Krzycki
+[Q159193]
+<osoba>
+(biskup płocki od 1527
+roku, protektor Macieja z
+Mąkolina)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+}

@@ -1,0 +1,230 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)"	[color=black,
+		label="Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)"];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "ksiądz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "1868-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "1922-01-19"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Ząbki
+[Q93432]
+<miejscowość>
+(cmentarz)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Akademia Duchowna w Petersburgu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "proboszcz
+[NEW]
+<urząd>
+(Charków)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "kanclerz kurii metropolitalnej
+[NEW]
+<urząd>
+(Petersburg)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "kościół św. Katarzyny
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "kościół św. Piotra i Pawła
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "C. K. O. i P. T. P. O. W.
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "aresztowanie przez agentów G. P. U.
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "szpital Dzieciątka Jezus
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "proces bpa Cieplaka
+[NEW]
+<wydarzenie>
+(1923)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Tiebie jedinomu sogrieszyła
+[NEW]
+<dzieło>
+(powieść Anny Mar)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "seminarium duchowne w Petersburgu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "prefekt
+[NEW]
+<zawód>
+(w szkołach średnich)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "zarządca biblioteki
+[NEW]
+<zawód>
+(szkoły męskiej przy
+kościele św. Katarzyny)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Parafia Charkowska – miesięcznik informacyjny
+[NEW]
+<dzieło>
+(pismo w języku polskim)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "Kalendarzyk charkowski informacyjny
+[NEW]
+<dzieło>
+(zawierający dane
+statystyczne o stanie
+inteligencji, przemysłu i
+handlu polskim \
+w
+Charkowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "dziekan i proboszcz
+[NEW]
+<zawód>
+(kościół św. Piotra i
+Pawła w Moskwie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Ignacy Czajewski
+[Q150888]
+<osoba>
+(ks., kanonik honorowy
+kapituły mohylewskiej)" -> "tajne narady duchowieństwa katolickiego w Petersburgu
+[NEW]
+<wydarzenie>
+(po przewrocie
+bolszewickim w latach
+1918–20)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+}

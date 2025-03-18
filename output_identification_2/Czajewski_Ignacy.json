@@ -1,0 +1,367 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "ksiądz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19145448"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kapituła mohylewska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1922-01-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ząbki",
+                "type": "miejscowość",
+                "description": "cmentarz",
+                "wikihum": "Q93432"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Duchowna",
+                "type": "instytucja",
+                "description": "Petersburg",
+                "wikihum": "NEW",
+                "wikidata": "Q102047275"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "proboszcz",
+                "type": "urząd",
+                "description": "Charków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kanclerz",
+                "type": "urząd",
+                "description": "kuria metropolitalna, Petersburg",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "choroba płuc",
+                "type": "przyczyna",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół św. Katarzyny",
+                "type": "instytucja",
+                "description": "Petersburg",
+                "wikihum": "NEW",
+                "wikidata": "Q29975196"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół św. Piotra i Pawła",
+                "type": "instytucja",
+                "description": "Moskwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "polskie organizacje oświatowo-kulturalne",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "C. K. O. i P. T. P. O. W.",
+                "type": "instytucja",
+                "description": "organizacje ratownicze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "academicDegree",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "magister teologii",
+                "type": "stopień naukowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prefekt",
+                "type": "stanowisko",
+                "description": "w szkołach średnich",
+                "wikihum": "NEW",
+                "wikidata": "Q784415"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Parafia Charkowska – miesięcznik informacyjny",
+                "type": "dzieło",
+                "description": "pismo w języku polskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kalendarzyk charkowski informacyjny",
+                "type": "dzieło",
+                "description": "zawierał dane statystyczne o stanie inteligencji, przemysłu i handlu polskim w Charkowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "wasArrestedBy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "G. P. U.",
+                "type": "organizacja",
+                "description": "agenci w Petersburgu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "wasReleasedDueTo",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zły stan zdrowia",
+                "type": "stan zdrowia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ignacy Czajewski",
+                "type": "osoba",
+                "description": "ksiądz, kanonik honorowy kapituły mohylewskiej",
+                "wikihum": "Q150888"
+            },
+            "predicate": {
+                "name": "isMentionedIn",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tiebie jedinomu sogrieszyła",
+                "type": "dzieło",
+                "description": "powieść Anny Mar wydana w Petersburgu w 1915 roku",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

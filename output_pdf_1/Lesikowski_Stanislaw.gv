@@ -1,0 +1,754 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)"	[color=black,
+		label="Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)"];
+	"Tuchola
+[Q84166]
+<miejscowość>"	[color=black,
+		label="Tuchola
+[Q84166]
+<miejscowość>"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Tuchola
+[Q84166]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Stutthof
+[Q81630]
+<miejscowość>
+(obóz koncentracyjny)"	[color=black,
+		label="Stutthof
+[Q81630]
+<miejscowość>
+(obóz koncentracyjny)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Stutthof
+[Q81630]
+<miejscowość>
+(obóz koncentracyjny)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Franciszek Lesikowski
+[NEW]
+<osoba>
+(ojciec Stanisława
+Lesikowskiego)"	[color=black,
+		label="Franciszek Lesikowski
+[NEW]
+<osoba>
+(ojciec Stanisława
+Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Franciszek Lesikowski
+[NEW]
+<osoba>
+(ojciec Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Władysława Lesikowska
+[NEW]
+<osoba>
+(matka Stanisława
+Lesikowskiego, z domu
+Głomska)"	[color=black,
+		label="Władysława Lesikowska
+[NEW]
+<osoba>
+(matka Stanisława
+Lesikowskiego, z domu
+Głomska)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Władysława Lesikowska
+[NEW]
+<osoba>
+(matka Stanisława
+Lesikowskiego, z domu
+Głomska)"	[color=green,
+		label="hasMother [P93]"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)"	[color=black,
+		label="Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)"	[color=green,
+		label="hasWife [P94]"];
+	"Teresa Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1933)"	[color=black,
+		label="Teresa Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1933)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Teresa Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1933)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Bernadetta Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1939)"	[color=black,
+		label="Bernadetta Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1939)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Bernadetta Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1939)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Armia Krajowa
+[NEW]
+<organizacja>"	[color=black,
+		label="Armia Krajowa
+[NEW]
+<organizacja>"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Armia Krajowa
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"powieszenie
+[NEW]
+<zdarzenie>
+(przyczyna śmierci
+Stanisława Lesikowskiego
+w obozie koncentracyjnym
+Stutthof)"	[color=black,
+		label="powieszenie
+[NEW]
+<zdarzenie>
+(przyczyna śmierci
+Stanisława Lesikowskiego
+w obozie koncentracyjnym
+Stutthof)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "powieszenie
+[NEW]
+<zdarzenie>
+(przyczyna śmierci
+Stanisława Lesikowskiego
+w obozie koncentracyjnym
+Stutthof)"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Krzyż Grunwaldu III klasy
+[NEW]
+<odznaczenie>
+(odznaczenie przyznane
+Stanisławowi
+Lesikowskiemu pośmiertnie)"	[color=black,
+		label="Krzyż Grunwaldu III klasy
+[NEW]
+<odznaczenie>
+(odznaczenie przyznane
+Stanisławowi
+Lesikowskiemu pośmiertnie)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Krzyż Grunwaldu III klasy
+[NEW]
+<odznaczenie>
+(odznaczenie przyznane
+Stanisławowi
+Lesikowskiemu pośmiertnie)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Seminarium Nauczycielskie w Tucholi
+[NEW]
+<instytucja>"	[color=black,
+		label="Seminarium Nauczycielskie w Tucholi
+[NEW]
+<instytucja>"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Seminarium Nauczycielskie w Tucholi
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Bydgoszcz
+[Q23615]
+<miejscowość>
+(miejsce kursów
+artystyczno-malarskich
+Stanisława Lesikowskiego)"	[color=black,
+		label="Bydgoszcz
+[Q23615]
+<miejscowość>
+(miejsce kursów
+artystyczno-malarskich
+Stanisława Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Bydgoszcz
+[Q23615]
+<miejscowość>
+(miejsce kursów
+artystyczno-malarskich
+Stanisława Lesikowskiego)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"66 pułk piechoty w Grudziądzu
+[NEW]
+<instytucja>
+(miejsce służby wojskowej
+Stanisława Lesikowskiego)"	[color=black,
+		label="66 pułk piechoty w Grudziądzu
+[NEW]
+<instytucja>
+(miejsce służby wojskowej
+Stanisława Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "66 pułk piechoty w Grudziądzu
+[NEW]
+<instytucja>
+(miejsce służby wojskowej
+Stanisława Lesikowskiego)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kościerzyna
+[Q16253]
+<miejscowość>
+(miejsce pracy Stanisława
+Lesikowskiego)"	[color=black,
+		label="Kościerzyna
+[Q16253]
+<miejscowość>
+(miejsce pracy Stanisława
+Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Kościerzyna
+[Q16253]
+<miejscowość>
+(miejsce pracy Stanisława
+Lesikowskiego)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Radogoszcz
+[Q70536]
+<miejscowość>
+(miejsce ukończenia kursu
+optycznego przez
+Stanisława Lesikowskiego)"	[color=black,
+		label="Radogoszcz
+[Q70536]
+<miejscowość>
+(miejsce ukończenia kursu
+optycznego przez
+Stanisława Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Radogoszcz
+[Q70536]
+<miejscowość>
+(miejsce ukończenia kursu
+optycznego przez
+Stanisława Lesikowskiego)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Gdynia
+[Q32001]
+<miejscowość>
+(miejsce otwarcia gabinetu
+optycznego przez
+Stanisława Lesikowskiego)"	[color=black,
+		label="Gdynia
+[Q32001]
+<miejscowość>
+(miejsce otwarcia gabinetu
+optycznego przez
+Stanisława Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Gdynia
+[Q32001]
+<miejscowość>
+(miejsce otwarcia gabinetu
+optycznego przez
+Stanisława Lesikowskiego)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Ćwiczenia wojskowe w maju 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojskowe)"	[color=black,
+		label="Ćwiczenia wojskowe w maju 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojskowe)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Ćwiczenia wojskowe w maju 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojskowe)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Kampania wrześniowa 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojenne)"	[color=black,
+		label="Kampania wrześniowa 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojenne)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Kampania wrześniowa 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojenne)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Wywiezienie do Generalnej Guberni
+[NEW]
+<wydarzenie>
+(przymusowe przesiedlenie
+Stanisława Lesikowskiego)"	[color=black,
+		label="Wywiezienie do Generalnej Guberni
+[NEW]
+<wydarzenie>
+(przymusowe przesiedlenie
+Stanisława Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Wywiezienie do Generalnej Guberni
+[NEW]
+<wydarzenie>
+(przymusowe przesiedlenie
+Stanisława Lesikowskiego)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Aresztowanie przez gestapo 18 kwietnia 1944 roku
+[NEW]
+<wydarzenie>
+(zatrzymanie Stanisława
+Lesikowskiego przez
+władze okupacyjne)"	[color=black,
+		label="Aresztowanie przez gestapo 18 kwietnia 1944 roku
+[NEW]
+<wydarzenie>
+(zatrzymanie Stanisława
+Lesikowskiego przez
+władze okupacyjne)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Aresztowanie przez gestapo 18 kwietnia 1944 roku
+[NEW]
+<wydarzenie>
+(zatrzymanie Stanisława
+Lesikowskiego przez
+władze okupacyjne)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Przewiezienie do obozu koncentracyjnego w Stutthofie
+[NEW]
+<wydarzenie>
+(uwięzienie Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"	[color=black,
+		label="Przewiezienie do obozu koncentracyjnego w Stutthofie
+[NEW]
+<wydarzenie>
+(uwięzienie Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Przewiezienie do obozu koncentracyjnego w Stutthofie
+[NEW]
+<wydarzenie>
+(uwięzienie Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Zamordowanie 15 lipca 1944 roku
+[NEW]
+<wydarzenie>
+(śmierć Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"	[color=black,
+		label="Zamordowanie 15 lipca 1944 roku
+[NEW]
+<wydarzenie>
+(śmierć Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Zamordowanie 15 lipca 1944 roku
+[NEW]
+<wydarzenie>
+(śmierć Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "1906-01-21"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "1944-07-15"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Tuchola
+[Q84166]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stutthof
+[Q81630]
+<miejscowość>
+(obóz koncentracyjny)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Franciszek Lesikowski
+[NEW]
+<osoba>
+(ojciec Stanisława
+Lesikowskiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Władysława Lesikowska
+[NEW]
+<osoba>
+(matka Stanisława
+Lesikowskiego, z domu
+Głomska)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(drugi mąż Stefanii
+Szefler, pseud. Soból)"	[color=black,
+		label="Jan Szalewski
+[NEW]
+<osoba>
+(drugi mąż Stefanii
+Szefler, pseud. Soból)"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)" -> "Jan Szalewski
+[NEW]
+<osoba>
+(drugi mąż Stefanii
+Szefler, pseud. Soból)"	[color=green,
+		label="hasHusband [P94]"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego, pseud.
+Jaskółka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(drugi mąż Stefanii
+Szefler, pseud. Soból)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Teresa Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1933)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bernadetta Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego i Stefanii
+Szefler, ur. 1939)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Armia Krajowa
+[NEW]
+<organizacja>" -> "organizacja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"powieszenie
+[NEW]
+<zdarzenie>
+(przyczyna śmierci
+Stanisława Lesikowskiego
+w obozie koncentracyjnym
+Stutthof)" -> "zdarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Krzyż Grunwaldu III klasy
+[NEW]
+<odznaczenie>
+(odznaczenie przyznane
+Stanisławowi
+Lesikowskiemu pośmiertnie)" -> "odznaczenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Seminarium Nauczycielskie w Tucholi
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bydgoszcz
+[Q23615]
+<miejscowość>
+(miejsce kursów
+artystyczno-malarskich
+Stanisława Lesikowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"66 pułk piechoty w Grudziądzu
+[NEW]
+<instytucja>
+(miejsce służby wojskowej
+Stanisława Lesikowskiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kościerzyna
+[Q16253]
+<miejscowość>
+(miejsce pracy Stanisława
+Lesikowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Radogoszcz
+[Q70536]
+<miejscowość>
+(miejsce ukończenia kursu
+optycznego przez
+Stanisława Lesikowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gdynia
+[Q32001]
+<miejscowość>
+(miejsce otwarcia gabinetu
+optycznego przez
+Stanisława Lesikowskiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ćwiczenia wojskowe w maju 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojskowe)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kampania wrześniowa 1939 roku
+[NEW]
+<wydarzenie>
+(zaangażowanie Stanisława
+Lesikowskiego w działania
+wojenne)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wywiezienie do Generalnej Guberni
+[NEW]
+<wydarzenie>
+(przymusowe przesiedlenie
+Stanisława Lesikowskiego)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Aresztowanie przez gestapo 18 kwietnia 1944 roku
+[NEW]
+<wydarzenie>
+(zatrzymanie Stanisława
+Lesikowskiego przez
+władze okupacyjne)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Przewiezienie do obozu koncentracyjnego w Stutthofie
+[NEW]
+<wydarzenie>
+(uwięzienie Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zamordowanie 15 lipca 1944 roku
+[NEW]
+<wydarzenie>
+(śmierć Stanisława
+Lesikowskiego w obozie
+koncentracyjnym)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

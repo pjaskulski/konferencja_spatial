@@ -1,0 +1,165 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "syn Jana Patruusa z Koła",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1538-00-00",
+                "type": "data",
+                "description": "zmarł w pierwszej połowie roku"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Melchior i Michael Lotterowie",
+                "type": "osoba",
+                "description": "firma drukarska z Lipska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Latalski",
+                "type": "osoba",
+                "description": "biskup, zleceniodawca druku w 1533 roku",
+                "wikihum": "Q159843"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Norymberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146877"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Koło",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q43857"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Patruus z Koła",
+                "type": "osoba",
+                "description": "introligator, księgarz i nakładca, zmarł w 1538 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "córki Jana Patruusa z Koła",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

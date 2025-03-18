@@ -1,0 +1,364 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "budowniczy",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q108757164"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1557-07-31",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "brat Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Brat Guicciardini Galeazzo, który miał dokończyć jego pracę po śmierci.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Sebastian Montelupi",
+                "type": "osoba",
+                "description": "Osoba, dla której Guicciardini Galeazzo prowadził prace budowlane.",
+                "wikihum": "Q162813"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zamek w Melsztynie",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym miał pracować Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "zamek wawelski",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór Rabsztyn",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dzwonnica zygmuntowska",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom Montelupich",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom Gutteterów",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dom wikariuszy zamkowych",
+                "type": "obiekt fizjograficzny",
+                "description": "Obiekt, przy którym pracował Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Spytek Jordan z Melsztyna",
+                "type": "osoba",
+                "description": "Osoba, która miała wypłacić Guicciardini Galeazzo sumę na budowę zamku w Melsztynie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Pilecki z Pilicy",
+                "type": "osoba",
+                "description": "Osoba, która miała dług wobec Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Barbara Kmitowa",
+                "type": "osoba",
+                "description": "Osoba, która miała dług wobec Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Florencja",
+                "type": "miejscowość",
+                "description": "Miasto we Włoszech, z którego pochodził Guicciardini Galeazzo.",
+                "wikihum": "Q147374"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "Miasto, w którym Guicciardini Galeazzo prowadził działalność budowlaną i gdzie znajduje się jego nagrobek.",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "krużganki dominikanów w Krakowie",
+                "type": "miejsce",
+                "description": "Miejsce pochówku Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "owns",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cegielnia koło Krakowa",
+                "type": "przedsiębiorstwo",
+                "description": "Cegielnia należąca do Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "owns",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "stajnia z 13 końmi",
+                "type": "przedsiębiorstwo",
+                "description": "Stajnia należąca do Guicciardini Galeazzo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Guicciardini Galeazzo",
+                "type": "osoba",
+                "description": "Włoch, budowniczy",
+                "wikihum": "Q154480"
+            },
+            "predicate": {
+                "name": "residence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kamienica «książęca» w Rynku",
+                "type": "budynek",
+                "description": "Miejsce zamieszkania Guicciardini Galeazzo w Krakowie.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

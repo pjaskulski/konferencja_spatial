@@ -1,0 +1,388 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)"	[color=black,
+		label="Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)"];
+	"kanonik
+[NEW]
+<zawód>
+(kanonik poznański i
+płocki)"	[color=black,
+		label="kanonik
+[NEW]
+<zawód>
+(kanonik poznański i
+płocki)"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "kanonik
+[NEW]
+<zawód>
+(kanonik poznański i
+płocki)"	[color=green,
+		label="hasOccupation [P106]"];
+	"poseł
+[NEW]
+<zawód>
+(poseł Kazimierza
+Wielkiego do Awinionu)"	[color=black,
+		label="poseł
+[NEW]
+<zawód>
+(poseł Kazimierza
+Wielkiego do Awinionu)"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "poseł
+[NEW]
+<zawód>
+(poseł Kazimierza
+Wielkiego do Awinionu)"	[color=green,
+		label="hasOccupation [P106]"];
+	"Awinion
+[Q146686]
+<miejscowość>"	[color=black,
+		label="Awinion
+[Q146686]
+<miejscowość>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Awinion
+[Q146686]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"	[color=black,
+		label="Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)"	[color=green,
+		label="hasFather [P92]"];
+	"Mroczka z Kisielewa
+[NEW]
+<osoba>"	[color=black,
+		label="Mroczka z Kisielewa
+[NEW]
+<osoba>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Mroczka z Kisielewa
+[NEW]
+<osoba>"	[color=green,
+		label="hasBrother [P97]"];
+	"Kazimierz Wielki
+[Q156969]
+<osoba>
+(król Polski)"	[color=black,
+		label="Kazimierz Wielki
+[Q156969]
+<osoba>
+(król Polski)"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Kazimierz Wielki
+[Q156969]
+<osoba>
+(król Polski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Grąbiec
+[Q34986]
+<miejscowość>"	[color=black,
+		label="Grąbiec
+[Q34986]
+<miejscowość>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Grąbiec
+[Q34986]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Kisielewo
+[Q42430]
+<miejscowość>"	[color=black,
+		label="Kisielewo
+[Q42430]
+<miejscowość>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Kisielewo
+[Q42430]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"diecezja płocka
+[NEW]
+<instytucja>"	[color=black,
+		label="diecezja płocka
+[NEW]
+<instytucja>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "diecezja płocka
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"diecezja poznańska
+[NEW]
+<instytucja>"	[color=black,
+		label="diecezja poznańska
+[NEW]
+<instytucja>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "diecezja poznańska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"poselstwo do Awinionu
+[NEW]
+<wydarzenie>"	[color=black,
+		label="poselstwo do Awinionu
+[NEW]
+<wydarzenie>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "poselstwo do Awinionu
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Imisław Wroński
+[NEW]
+<osoba>
+(elekt płocki)"	[color=black,
+		label="Imisław Wroński
+[NEW]
+<osoba>
+(elekt płocki)"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Imisław Wroński
+[NEW]
+<osoba>
+(elekt płocki)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Jura
+[Q156352]
+<osoba>"	[color=black,
+		label="Jan Jura
+[Q156352]
+<osoba>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Jan Jura
+[Q156352]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan z Buska
+[Q155708]
+<osoba>"	[color=black,
+		label="Jan z Buska
+[Q155708]
+<osoba>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "Jan z Buska
+[Q155708]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"pełnienie funkcji poselskich
+[NEW]
+<zdarzenie>"	[color=black,
+		label="pełnienie funkcji poselskich
+[NEW]
+<zdarzenie>"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "pełnienie funkcji poselskich
+[NEW]
+<zdarzenie>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr Nagórka z Grąbca
+[Q165783]
+<osoba>
+(kanonik poznański i
+płocki, poseł Kazimierza
+Wielkiego do Awinionu)" -> "1361-12-31"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"kanonik
+[NEW]
+<zawód>
+(kanonik poznański i
+płocki)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"poseł
+[NEW]
+<zawód>
+(poseł Kazimierza
+Wielkiego do Awinionu)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Awinion
+[Q146686]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bogusław
+[NEW]
+<osoba>
+(dziedzic Grąbca i
+Kisielewa pod Sierpcem w
+woj. płockim)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mroczka z Kisielewa
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kazimierz Wielki
+[Q156969]
+<osoba>
+(król Polski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Grąbiec
+[Q34986]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kisielewo
+[Q42430]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"diecezja płocka
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"diecezja poznańska
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"poselstwo do Awinionu
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Imisław Wroński
+[NEW]
+<osoba>
+(elekt płocki)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Jura
+[Q156352]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan z Buska
+[Q155708]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"pełnienie funkcji poselskich
+[NEW]
+<zdarzenie>" -> "zdarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

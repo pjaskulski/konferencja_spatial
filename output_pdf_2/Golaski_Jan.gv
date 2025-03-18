@@ -1,0 +1,212 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)"	[color=black,
+		label="Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)"];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> 1745	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> 1807	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "rektor
+[NEW]
+<urząd>
+(kolegium pijarskie w
+Radziejowie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "wicerektor
+[NEW]
+<urząd>
+(Collegium Nobilium w
+Warszawie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "wicedyrektor
+[NEW]
+<urząd>
+(kolegium w Drohiczynie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "prefekt i profesor klasy czwartej
+[NEW]
+<urząd>
+(kolegium szczuczyńskie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "nauczyciel
+[NEW]
+<zawód>
+(w różnych kolegiach)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Podoliniec)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium pijarskie w Rzeszowie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium pijarskie w Radomiu
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium w Łowiczu
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium w Drohiczynie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium szczuczyńskie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "Collegium Nobilium w Warszawie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium pijarskie w Radziejowie
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium łowickie
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "Komisja Edukacji Narodowej
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "ks. Jordan
+[NEW]
+<osoba>
+(prowincjał pijarski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "ks. Reszczyński
+[NEW]
+<osoba>
+(prowincjał pijarski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "ks. Franciszek Salezy Jezierski
+[NEW]
+<osoba>
+(wizytator KEN)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jan Gołaski
+[Q153735]
+<osoba>
+(rektor kolegium
+pijarskiego w Radziejowie)" -> "kolegium łowickie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+}

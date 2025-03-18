@@ -1,0 +1,286 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)"	[color=black,
+		label="Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)"];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "kasztelan nakielski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Maciej Grabski
+[NEW]
+<osoba>
+(sędzia grodzki bydgoski i
+starosta kłecki)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Marianna Mańkowska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Anna Konradzka
+[NEW]
+<osoba>
+(wdowa po Wojciechu
+Wilczyńskim, skarbniku
+poznańskim)"	[color=green,
+		label="hasWife [P94]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Marianna Łakińska
+[NEW]
+<osoba>
+(wdowa po Zdzychowskim,
+podczaszym wschowskim)"	[color=green,
+		label="hasWife [P94]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Maciej Grabski
+[NEW]
+<osoba>
+(syn Jana Kazimierza
+Grabskiego z pierwszego
+małżeństwa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Franciszek Grabski
+[NEW]
+<osoba>
+(jezuita, syn Jana
+Kazimierza Grabskiego z
+pierwszego małżeństwa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Stanisław Grabski
+[NEW]
+<osoba>
+(dziekan fary
+gnieźnieńskiej, syn Jana
+Kazimierza Grabskiego z
+pierwszego małżeństwa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Józef Grabski
+[NEW]
+<osoba>
+(syn Jana Kazimierza
+Grabskiego z drugiego
+małżeństwa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "1723-00-00
+(Rok śmierci Jana
+Kazimierza Grabskiego)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Żelice
+[NEW]
+<miejscowość>
+(dziedzictwo Jana
+Kazimierza Grabskiego w
+powiecie kcyńskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Michałkowice
+[Q181162]
+<miejscowość>
+(dziedzictwo Jana
+Kazimierza Grabskiego w
+powiecie kcyńskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Miasteczko
+[NEW]
+<miejscowość>
+(dziedzictwo Jana
+Kazimierza Grabskiego w
+powiecie nakielskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Brzostowo
+[NEW]
+<miejscowość>
+(dziedzictwo Jana
+Kazimierza Grabskiego w
+powiecie nakielskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "dobra nowomiejskie
+[NEW]
+<miejscowość>
+(część dóbr Jana
+Kazimierza Grabskiego w
+powiecie pyzdrskim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "Prawdy powszechne albo dowolne nauki chrześcijańskiej filozofii
+[NEW]
+<dzieło>
+(przetłumaczone przez Jana
+Kazimierza Grabskiego,
+\
+dzieło J. Manniego)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "komisarz do sprawdzania rachunków poborowych
+[NEW]
+<urząd>
+(z sejmiku średzkiego,
+1688)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "deputat na trybunał koronny
+[NEW]
+<urząd>
+(z województwa
+poznańskiego, 1694-1695)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "sędzia grodzki nakielski
+[NEW]
+<urząd>
+(1695)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "poseł na sejm
+[NEW]
+<urząd>
+(z województwa kaliskiego,
+1699)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "poseł na sejm lubelski
+[NEW]
+<urząd>
+(z województwa
+poznańskiego, 1703)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "konsyliarz konfederacji
+[NEW]
+<urząd>
+(zawiązanej w Środzie,
+1703)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "sędzia surogator grodzkim wałecki
+[NEW]
+<urząd>
+(pod koniec życia)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Jan Kazimierz Grabski
+[Q154092]
+<osoba>
+(kasztelan nakielski, zm.
+1723)" -> "J. Morawski
+[NEW]
+<osoba>
+(autor pracy dedykowanej
+Janowi Kazimierzowi
+Grabskiemu)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+}

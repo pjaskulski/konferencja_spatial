@@ -1,0 +1,166 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)"	[color=black,
+		label="Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)"];
+	"syn
+[NEW]
+<osoba>
+(jeden z trzech synów
+Pelagii Dąbrowskiej)"	[color=black,
+		label="syn
+[NEW]
+<osoba>
+(jeden z trzech synów
+Pelagii Dąbrowskiej)"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "syn
+[NEW]
+<osoba>
+(jeden z trzech synów
+Pelagii Dąbrowskiej)"	[color=green,
+		label="hasSon [P153]"];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Dubienka
+[Q29633]
+<miejscowość>
+(w Lubelskiem)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "1909-02-11"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Jarosław Dąbrowski
+[Q151316]
+<osoba>"	[color=green,
+		label="hasHusband [P94]",
+		minlen=3];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Pelagia z Piotrowskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Michał Zgliczyński
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Waleria Piotrowska
+[NEW]
+<osoba>"	[color=green,
+		label="hasAunt [P99]",
+		minlen=2];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "Ignacja Piotrowska
+[NEW]
+<osoba>"	[color=green,
+		label="hasAunt [P99]",
+		minlen=3];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "pensja Teresy Brzezińskiej
+[NEW]
+<uczelnia>
+(w Warszawie)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "nauczycielka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "ochmistrzyni
+[NEW]
+<urząd>
+(w pierwszym gimnazjum
+żeńskim założonym przez
+Trzaskowskiego)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "gimnazjum Królowej Jadwigi
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "szkoła św. Andrzeja ss. felicjanek
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Pelagia Dąbrowska
+[Q151299]
+<osoba>
+(żona Jarosława,
+nauczycielka)" -> "praca u Serwatowskiej i Krynickiej
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"syn
+[NEW]
+<osoba>
+(jeden z trzech synów
+Pelagii Dąbrowskiej)" -> "syn
+[NEW]
+<osoba>
+(jeden z trzech synów
+Pelagii Dąbrowskiej)"	[color=green,
+		label="hasSon [P153]"];
+}

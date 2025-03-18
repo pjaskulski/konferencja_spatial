@@ -1,0 +1,311 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)"	[color=black,
+		label="Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)"];
+	"Anna Popow
+[NEW]
+<osoba>
+(córka marszałka powiatu
+dyneburskiego Bazylego
+Popowa i Bogumiły z
+Gizbertów)"	[color=black,
+		label="Anna Popow
+[NEW]
+<osoba>
+(córka marszałka powiatu
+dyneburskiego Bazylego
+Popowa i Bogumiły z
+Gizbertów)"];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Anna Popow
+[NEW]
+<osoba>
+(córka marszałka powiatu
+dyneburskiego Bazylego
+Popowa i Bogumiły z
+Gizbertów)"	[color=green,
+		label="hasWife [P94]"];
+	"Franciszek Fiorentini
+[NEW]
+<osoba>
+(założyciel stypendium
+handlowego w Wilnie)"	[color=black,
+		label="Franciszek Fiorentini
+[NEW]
+<osoba>
+(założyciel stypendium
+handlowego w Wilnie)"];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Franciszek Fiorentini
+[NEW]
+<osoba>
+(założyciel stypendium
+handlowego w Wilnie)"	[color=green,
+		label="hasGrandfather [P91]"];
+	"Bolesław Rusiecki
+[NEW]
+<osoba>
+(malarz, syn Kanuta)"	[color=black,
+		label="Bolesław Rusiecki
+[NEW]
+<osoba>
+(malarz, syn Kanuta)"];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Bolesław Rusiecki
+[NEW]
+<osoba>
+(malarz, syn Kanuta)"	[color=green,
+		label="significantFigure [P100]"];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "1914-01-16
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Antoni Fiorentini
+[NEW]
+<osoba>
+(kupiec)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Władysław Syrokomla
+[Q173863]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Aleksander Strauss
+[NEW]
+<osoba>
+(znany artysta fotograf
+wileński)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "rajca miejski
+[NEW]
+<urząd>
+(stanowisko w Wilnie)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "kupiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "Jęczmieniszki
+[Q142563]
+<miejscowość>
+(majątek Władysława
+Fiorentiniego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "cenny zbiór obrazów
+[NEW]
+<obiekt fizyczny>
+(spuścizna Władysława
+Fiorentiniego, zbiór
+obrazów mistrzów obcych i
+artystów \
+polskich)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "cmentarz bernardyński w Wilnie
+[NEW]
+<obiekt fizjograficzny>
+(miejsce pochówku
+Władysława Fiorentiniego)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=2];
+	"Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)" -> "projekt założenia parku w Wilnie
+[NEW]
+<wydarzenie>
+(projekt obejmujący
+wzgórza ze strony
+Zarzecza i Antokolu,
+opracowany z \
+Aleksandrem
+Straussem)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Bazyli Popow
+[NEW]
+<osoba>
+(marszałek powiatu
+dyneburskiego)"	[color=black,
+		label="Bazyli Popow
+[NEW]
+<osoba>
+(marszałek powiatu
+dyneburskiego)"];
+	"Anna Popow
+[NEW]
+<osoba>
+(córka marszałka powiatu
+dyneburskiego Bazylego
+Popowa i Bogumiły z
+Gizbertów)" -> "Bazyli Popow
+[NEW]
+<osoba>
+(marszałek powiatu
+dyneburskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Anna Popow
+[NEW]
+<osoba>
+(córka marszałka powiatu
+dyneburskiego Bazylego
+Popowa i Bogumiły z
+Gizbertów)" -> "Bogumiła z Gizbertów
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Fabian Fiorentini
+[NEW]
+<osoba>
+(sekretarz królewski,
+dzierżawca ekonomii w
+woj. grodzieńskim)"	[color=black,
+		label="Fabian Fiorentini
+[NEW]
+<osoba>
+(sekretarz królewski,
+dzierżawca ekonomii w
+woj. grodzieńskim)"];
+	"Fabian Fiorentini
+[NEW]
+<osoba>
+(sekretarz królewski,
+dzierżawca ekonomii w
+woj. grodzieńskim)" -> "Władysław Fiorentini
+[Q152654]
+<osoba>
+(wileński kupiec i esteta,
+działacz społeczny, rajca
+miejski)"	[color=green,
+		label="hasRelative [NEW]"];
+	"Fabian Fiorentini
+[NEW]
+<osoba>
+(sekretarz królewski,
+dzierżawca ekonomii w
+woj. grodzieńskim)" -> "Oława i Szwabiszki w Trockiem
+[NEW]
+<miejscowość>
+(własność Fabiana
+Fiorentiniego)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Bazyli Popow
+[NEW]
+<osoba>
+(marszałek powiatu
+dyneburskiego)" -> "marszałek powiatu dyneburskiego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Franciszek Fiorentini
+[NEW]
+<osoba>
+(założyciel stypendium
+handlowego w Wilnie)" -> "stypendium handlowe w Wilnie
+[NEW]
+<instytucja>
+(założone przez Franciszka
+Fiorentiniego)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Bolesław Rusiecki
+[NEW]
+<osoba>
+(malarz, syn Kanuta)" -> "Kanut
+[Q169027]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+}

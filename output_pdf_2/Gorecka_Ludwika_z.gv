@@ -1,0 +1,512 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)"	[color=black,
+		label="Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)"];
+	"Jan Karłowicz
+[Q201]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=black,
+		label="Jan Karłowicz
+[Q201]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Jan Karłowicz
+[Q201]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Hanusz
+[Q154686]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=black,
+		label="Jan Hanusz
+[Q154686]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Jan Hanusz
+[Q154686]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Stefan Ramułt
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=black,
+		label="Stefan Ramułt
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Stefan Ramułt
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Adam Kryński
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=black,
+		label="Adam Kryński
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Adam Kryński
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Władysław Niedźwiedzki
+[Q203]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=black,
+		label="Władysław Niedźwiedzki
+[Q203]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Władysław Niedźwiedzki
+[Q203]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Rozwadowski
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=black,
+		label="Jan Rozwadowski
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Jan Rozwadowski
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Łoś
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=black,
+		label="Jan Łoś
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Jan Łoś
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Stanisław Staszic
+[NEW]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=black,
+		label="Stanisław Staszic
+[NEW]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Stanisław Staszic
+[NEW]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=black,
+		label="Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "1900-04-20"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Bogumił Linde
+[NEW]
+<osoba>
+(językoznawca)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "pensja żeńska Z. Wilczyńskiej
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Górecki
+[NEW]
+<osoba>
+(budowniczy)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "przytułek Św. Franciszka Salezego
+[NEW]
+<instytucja>
+(przy ul. Solec)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Akademia Umiejętności w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Towarzystwo Zachęty Sztuk Pięknych
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "gmina augsburska
+[NEW]
+<instytucja>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Bolesław Erzepki
+[Q152396]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Kazimierz Nitsch
+[Q3321]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Józef Rostafiński
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "matka Ludwiki Góreckiej
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Julian Niemcewicz
+[Q163550]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Narcyza Żmichowska
+[NEW]
+<osoba>
+(przyjaciółka Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Maria Ilnicka
+[Q155373]
+<osoba>
+(przyjaciółka Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Seweryna Duchińska
+[Q151911]
+<osoba>
+(przyjaciółka Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Jan Karłowicz
+[Q201]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Jan Hanusz
+[Q154686]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Stefan Ramułt
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Adam Kryński
+[NEW]
+<osoba>
+(językoznawca, dwukrotny
+laureat nagrody im. B.
+Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Władysław Niedźwiedzki
+[Q203]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Jan Rozwadowski
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)" -> "Jan Rozwadowski
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Łoś
+[NEW]
+<osoba>
+(językoznawca, laureat
+nagrody im. B. Lindego)" -> "Nagroda im. B. Lindego
+[NEW]
+<osiągnięcie>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Stanisław Staszic
+[NEW]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)" -> "Stanisław Staszic
+[NEW]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)" -> "Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>
+(przyjaciel ojca Ludwiki
+Góreckiej)"	[color=green,
+		label="significantFigure [P100]"];
+}

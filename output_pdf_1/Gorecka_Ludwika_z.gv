@@ -1,0 +1,204 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)"	[color=black,
+		label="Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)"];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "filantropka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "1900-04-20"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Bogumił Linde
+[NEW]
+<osoba>
+(językoznawca)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Górecki
+[NEW]
+<osoba>
+(budowniczy)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "pensja żeńska Z. Wilczyńskiej
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Akademia Umiejętności w Krakowie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Towarzystwo Zachęty Sztuk Pięknych
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "gmina augsburska
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "matka Ludwiki Góreckiej
+[NEW]
+<osoba>
+(matka Ludwiki Góreckiej)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Julian Ursyn Niemcewicz
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Stanisław Staszic
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Franciszek Salezy Dmochowski
+[Q151567]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Narcyza Żmichowska
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Maria Ilnicka
+[Q155373]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "Seweryna Duchińska
+[Q151911]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "nagroda im. B. Lindego
+[NEW]
+<przedmiot>
+(nagroda za najlepszą
+pracę z dziedziny
+językoznawstwa)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Ludwika Górecka
+[Q153950]
+<osoba>
+(filantropka,
+ofiarodawczyni na cele
+nauki i sztuki)" -> "realność przy ul. Królewskiej 17
+[NEW]
+<nieruchomość>
+(dom, w którym mieszkał B.
+Linde)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+}

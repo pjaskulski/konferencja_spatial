@@ -1,0 +1,186 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)"	[color=black,
+		label="Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "inżynier
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "inżynier
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "1851-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "1933-00-00 do 1939-00-00
+[NEW]
+<przedział czasowy>"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "II. Gimnazjum Miejskie w Warszawie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Gimnazjum we Wrocławiu
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Belgia, Francja, Anglia
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Politechnika w Londynie
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Rumunia
+[Q105159]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Turcja, Adrianopol
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "emigracyjny związek Białego Orła
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "towarzystwa geograficzne w Paryżu, Londynie, Amsterdamie i Brukseli
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Afryka zachodnia, Liberia, Kongo
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "wyprawa Rogozińskiego do Kamerunu
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "podróż «Łucji-Małgorzaty» z Hawru do Zatoki Mondoleh
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "Anglia, Stany Zjednoczone
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "pamiętnik i notatki z podróży
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "zawiadowca warsztatów mechanicznych
+[NEW]
+<zawód>
+(stanowisko w Adrianopolu)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Józef Hirschenfeld-Mielecki
+[Q155024]
+<osoba>
+(inżynier i podróżnik)" -> "powstanie styczniowe
+[NEW]
+<wydarzenie>
+(uczestniczył jako łącznik)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+}

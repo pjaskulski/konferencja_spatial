@@ -1,0 +1,217 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)"	[color=black,
+		label="Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "historyk
+[NEW]
+<zawód>
+(historyk i socjolog
+literatury)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "socjolog literatury
+[NEW]
+<zawód>
+(historyk i socjolog
+literatury)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "1943-07-17"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Kielce
+[Q42141]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=4];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "1975-04-04"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "cmentarz w Wólce Węglowej
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=3];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Tadeusz Januchta
+[NEW]
+<osoba>
+(urzędnik)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Zenaida Karaś
+[NEW]
+<osoba>
+(korektorka)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Roman Rudziński
+[Q168956]
+<osoba>"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Uniwersytet Warszawski
+[NEW]
+<instytucja>
+(polonistyka, lata
+1960-1965)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Instytut Badań Literackich PAN
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Stefan Żółkiewski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie
+[NEW]
+<instytucja>
+(wykłady z teorii kultury)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Paryż
+[Q146696]
+<miejscowość>
+(półroczny pobyt,
+1973-1974)"	[color=green,
+		label="relatedPlace [NEW]",
+		minlen=3];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Frankfurt nad Menem
+[Q146858]
+<miejscowość>
+(kilkumiesięczny pobyt)"	[color=green,
+		label="relatedPlace [NEW]",
+		minlen=4];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Między awangardą a kulturą masową. Wokół społecznej roli pisarza
+[NEW]
+<dzieło>
+(tom artykułów i recenzji,
+opublikowany \
+pośmiertnie
+w 1978 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "starszy asystent i sekretarz naukowy
+[NEW]
+<urząd>
+(Pracownia Badań Kultury
+Współczesnej PAN, lata
+1967-1969)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "sekretarz naukowy
+[NEW]
+<urząd>
+(Pracownia Badań Kultury
+Literackiej IBL, od
+kwietnia 1969)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "doktor nauk humanistycznych
+[NEW]
+<zawód>
+(uzyskany w Instytucie
+Badań Literackich PAN,
+grudzień 1972)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+}

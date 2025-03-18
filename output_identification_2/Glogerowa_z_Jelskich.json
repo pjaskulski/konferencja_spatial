@@ -1,0 +1,326 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pisarka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "tłumaczka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1860-07-00",
+                "type": "data",
+                "description": "Urodzona w połowie lipca."
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1899-04-11",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tykocin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q84517"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta",
+                "wikihum": "Q156154"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Helena z Kałęczyńskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf",
+                "wikihum": "Q153492"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pensja wizytek polskich",
+                "type": "uczelnia",
+                "description": "Wersal",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór w Dudziczach",
+                "type": "obiekt fizjograficzny",
+                "description": "Gniazdo rodzinne Jelskich",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Adam Pług",
+                "type": "osoba",
+                "description": "Przyjaciel domu Glogerów, autor pośmiertnego wspomnienia o Aleksandrze Glogerowej z Jelskich",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksandra Glogerowa z Jelskich",
+                "type": "osoba",
+                "description": "Pisarka i tłumaczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "przekład pamiętników Michała Starzeńskiego",
+                "type": "dzieło",
+                "description": "Nie dokończony przekład pisanych po francusku pamiętników Michała Starzeńskiego, starosty brańskiego w czasach Stan. Aug. Poniatowskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta",
+                "wikihum": "Q156154"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zamość",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q92486"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Jelski",
+                "type": "osoba",
+                "description": "Dziedzic Zamościa i znany publicysta",
+                "wikihum": "Q156154"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "publicysta",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf",
+                "wikihum": "Q153492"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "majątek Jeżewo",
+                "type": "obiekt fizjograficzny",
+                "description": "Majątek na Podlasiu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf",
+                "wikihum": "Q153492"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "historyk",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Gloger",
+                "type": "osoba",
+                "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf",
+                "wikihum": "Q153492"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "etnograf",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Pług",
+                "type": "osoba",
+                "description": "Przyjaciel domu Glogerów, autor pośmiertnego wspomnienia o Aleksandrze Glogerowej z Jelskich",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pośmiertne wspomnienie o Aleksandrze Glogerowej z Jelskich",
+                "type": "dzieło",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

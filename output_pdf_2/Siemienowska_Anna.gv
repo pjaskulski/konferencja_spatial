@@ -1,0 +1,216 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)"	[color=black,
+		label="Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)"];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Wiktor Siemienowski
+[NEW]
+<osoba>
+(ojciec Anny
+Siemienowskiej)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Pelagia Siemienowska
+[NEW]
+<osoba>
+(matka Anny Siemienowskiej)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Albertyn
+[Q142864]
+<miejscowość>
+(miejsce urodzenia Anny
+Siemienowskiej)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Warszawa
+[Q85566]
+<miejscowość>
+(miejsce śmierci Anny
+Siemienowskiej)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Cmentarz Komunalny Północny
+[NEW]
+<miejscowość>
+(miejsce pochówku Anny
+Siemienowskiej)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Państwowy Zarząd Wodny w Łucku
+[NEW]
+<instytucja>
+(miejsce pracy Anny
+Siemienowskiej przed
+drugą wojną światową)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Zentral Handelsgesellschaft Ost w Łucku
+[NEW]
+<instytucja>
+(miejsce pracy Anny
+Siemienowskiej od 1 I
+1942 do 30 I 1944)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Związek Walki Zbrojnej – Armia Krajowa
+[NEW]
+<organizacja>
+(organizacja, do której
+należała Anna
+Siemienowska od 1 IX 1941
+\
+do marca 1944)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Centralne Biuro Studiów Budownictwa Wodnego «Hydroprojekt»
+[NEW]
+<instytucja>
+(miejsce pracy Anny
+Siemienowskiej po
+powrocie \
+do kraju)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Komisja Historii Kobiet w Walce o Niepodległość Towarzystwa Miłośników Historii w Warszawie
+[NEW]
+<organizacja>
+(organizacja, \
+w której
+działała Anna
+Siemienowska w latach
+1980–89)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Jadwiga Brojakowa
+[NEW]
+<osoba>
+(siostra Anny
+Siemienowskiej)"	[color=green,
+		label="hasSister [P97]",
+		minlen=3];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Inspektorat Rejonowy AK Łuck
+[NEW]
+<organizacja>
+(jednostka, w której Anna
+Siemienowska pełniła
+funkcje szefa łączności
+wewnętrznej \
+i szefa
+kancelarii)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "NKWD
+[NEW]
+<organizacja>
+(instytucja, która
+aresztowała Annę
+Siemienowską)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Trybunał Kijowskiego Okręgu Wojskowego
+[NEW]
+<organizacja>
+(instytucja, która skazała
+Annę Siemienowską na 15
+lat obozu pracy)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Anna Siemienowska
+[Q170524]
+<osoba>
+(pseud. Wiktoria,
+urzędniczka, działaczka
+Armii Krajowej)" -> "Republika Autonomiczna Komi
+[NEW]
+<miejscowość>
+(miejsce, do którego Anna
+Siemienowska została
+wywieziona po skazaniu na
+obóz \
+pracy)"	[color=green,
+		label="placeOfImprisonment [NEW]",
+		minlen=3];
+}

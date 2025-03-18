@@ -1,0 +1,471 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Odo Bujwid",
+                "type": "osoba",
+                "description": "profesor bakteriologii UJ",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Kazimiera z Klimontowiczów",
+                "type": "osoba",
+                "description": "głośna bojowniczka o prawo kobiet do wyższego wykształcenia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Kazimiera Rouppertowa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jadwiga Demelowa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Helena Jurgielewiczowa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jerzy Mostowski",
+                "type": "osoba",
+                "description": "lekarz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Czesław Mostowski",
+                "type": "osoba",
+                "description": "prawnik",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Cmentarz Rakowicki",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1890-06-17",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1962-12-08",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "uczelnia",
+                "description": "miejscowość: Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych w Krakowie",
+                "type": "instytucja",
+                "description": "spółka rodzinna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Spójnia",
+                "type": "organizacja",
+                "description": "postępowa organizacja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "lekarz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kierownik wytwórni szczepionek",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Klinika chirurgiczna Uniwersytetu Jagiellońskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szpital w Drohobyczu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szpital im. Dzieciątka Jezus w Warszawie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szpital Bonifratrów w Krakowie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zofia Mostowska",
+                "type": "osoba",
+                "description": "lekarka, kierownik wytwórni szczepionek",
+                "wikihum": "Q162988"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Stacja Sanitarno-Epidemiologiczna w Olsztynie",
+                "type": "instytucja",
+                "description": "Sanepid",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Odo Bujwid",
+                "type": "osoba",
+                "description": "profesor bakteriologii UJ",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Uniwersytet Jagielloński",
+                "type": "instytucja",
+                "description": "miejscowość: Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "prawnik",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q19269387"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodzimierz Mostowski",
+                "type": "osoba",
+                "description": "prawnik i ekonomista",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "ekonomista",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1828-12-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1893-03-23",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Leżajsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q49348"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Cmentarz Łyczakowski",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Mateusz Krystyniacki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Katarzyna z Romańskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Teofila Felsztyńska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "sześciu synów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9351409"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Nauczycieli Szkół Wyższych",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pedagog",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11815342"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "tłumacz",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q210439"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "wydawca literatury greckiej i łacińskiej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dyrektor miejskiego gimnazjum w Drohobyczu",
+                "type": "urząd",
+                "description": "mianowany w 1863 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "profesor greki i łaciny",
+                "type": "urząd",
+                "description": "w gimnazjum I i IV we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny Szkoły Filozoficznej",
+                "type": "uczelnia",
+                "description": "Przemyśl",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Przemyśl",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Filozoficzny",
+                "type": "uczelnia",
+                "description": "Lwów",
+                "wikihum": "NEW",
+                "wikidata": "Q9379427"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mathiae Sarbievii carmina posthuma",
+                "type": "dzieło",
+                "description": "wydane w 1876 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "M. Tulliusza Cicerona tłómaczenie Arata",
+                "type": "dzieło",
+                "description": "wydane w 1883 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Fasti Sarbieviani",
+                "type": "dzieło",
+                "description": "wydane w 1886 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wykład ewangelii św. Mateusza w 90 homiliach",
+                "type": "dzieło",
+                "description": "przekład św. Jana Chryzostoma, wydane w 1886 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "O języku greckim pisarzy bizantyńskich",
+                "type": "dzieło",
+                "description": "wydane w 1890 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Krystyniacki",
+                "type": "osoba",
+                "description": "pedagog, tłumacz i wydawca literatury greckiej i łacińskiej",
+                "wikihum": "Q159144"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Diplomata statutaria confraternitatis Stauropigianae Leopoliensis 1586–1593",
+                "type": "dzieło",
+                "description": "wydane pośmiertnie w 1894 roku",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

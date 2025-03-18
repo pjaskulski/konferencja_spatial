@@ -1,0 +1,1438 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)"	[color=black,
+		label="Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)"];
+	"Zakład Zdrojowy w Rymanowie
+[NEW]
+<instytucja>
+(uzdrowisko z cennymi
+solankami jodo-bromowymi
+i szczawami alkalicznymi)"	[color=black,
+		label="Zakład Zdrojowy w Rymanowie
+[NEW]
+<instytucja>
+(uzdrowisko z cennymi
+solankami jodo-bromowymi
+i szczawami alkalicznymi)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Zakład Zdrojowy w Rymanowie
+[NEW]
+<instytucja>
+(uzdrowisko z cennymi
+solankami jodo-bromowymi
+i szczawami alkalicznymi)"	[color=green,
+		label="hasAssets [NEW]"];
+	"parlament austriacki
+[NEW]
+<instytucja>"	[color=black,
+		label="parlament austriacki
+[NEW]
+<instytucja>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "parlament austriacki
+[NEW]
+<instytucja>"	[color=green,
+		label="positionHeld [P101]"];
+	"działacz społeczny
+[NEW]
+<zawód>"	[color=black,
+		label="działacz społeczny
+[NEW]
+<zawód>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "działacz społeczny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Oleszyce
+[Q61056]
+<miejscowość>"	[color=black,
+		label="Oleszyce
+[Q61056]
+<miejscowość>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Oleszyce
+[Q61056]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Rymanów Zdrój
+[Q73387]
+<miejscowość>"	[color=black,
+		label="Rymanów Zdrój
+[Q73387]
+<miejscowość>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Rymanów Zdrój
+[Q73387]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz w Rymanowie
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz w Rymanowie
+[NEW]
+<miejscowość>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "cmentarz w Rymanowie
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Stanisław Potocki
+[Q166695]
+<osoba>"	[color=black,
+		label="Stanisław Potocki
+[Q166695]
+<osoba>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Stanisław Potocki
+[Q166695]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"Anna z Działyńskich
+[NEW]
+<osoba>"	[color=black,
+		label="Anna z Działyńskich
+[NEW]
+<osoba>"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Anna z Działyńskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]"];
+	"Róża z Wodzickich
+[NEW]
+<osoba>
+(pierwsza żona Jana
+Nepomucena Potockiego)"	[color=black,
+		label="Róża z Wodzickich
+[NEW]
+<osoba>
+(pierwsza żona Jana
+Nepomucena Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Róża z Wodzickich
+[NEW]
+<osoba>
+(pierwsza żona Jana
+Nepomucena Potockiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Maria z Szajerów
+[NEW]
+<osoba>
+(druga żona Jana
+Nepomucena Potockiego)"	[color=black,
+		label="Maria z Szajerów
+[NEW]
+<osoba>
+(druga żona Jana
+Nepomucena Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Maria z Szajerów
+[NEW]
+<osoba>
+(druga żona Jana
+Nepomucena Potockiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Aleksander Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=black,
+		label="Aleksander Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Aleksander Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=green,
+		label="hasSon [P153]"];
+	"Teresa Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=black,
+		label="Teresa Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Teresa Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Jadwiga Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=black,
+		label="Jadwiga Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Jadwiga Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=black,
+		label="Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=green,
+		label="hasSon [P153]"];
+	"Zofia Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=black,
+		label="Zofia Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Zofia Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Maria Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=black,
+		label="Maria Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Maria Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Jan Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=black,
+		label="Jan Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Jan Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)"	[color=green,
+		label="hasSon [P153]"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)"	[color=black,
+		label="Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)"	[color=green,
+		label="hasGrandson [P110]"];
+	"Politechnika Lwowska
+[NEW]
+<instytucja>
+(miejsce studiów Jana
+Nepomucena Potockiego)"	[color=black,
+		label="Politechnika Lwowska
+[NEW]
+<instytucja>
+(miejsce studiów Jana
+Nepomucena Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Politechnika Lwowska
+[NEW]
+<instytucja>
+(miejsce studiów Jana
+Nepomucena Potockiego)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Polskie Towarzystwo Balneologiczne
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki w
+latach 1907-1909)"	[color=black,
+		label="Polskie Towarzystwo Balneologiczne
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki w
+latach 1907-1909)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Polskie Towarzystwo Balneologiczne
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki w
+latach 1907-1909)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Krajowy Związek Zdrojowisk i Uzdrowisk
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki od 1910
+do 1916, \
+a później
+prezesem honorowym)"	[color=black,
+		label="Krajowy Związek Zdrojowisk i Uzdrowisk
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki od 1910
+do 1916, \
+a później
+prezesem honorowym)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Krajowy Związek Zdrojowisk i Uzdrowisk
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki od 1910
+do 1916, \
+a później
+prezesem honorowym)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem oddziału w
+\
+Zakopanem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem oddziału w
+\
+Zakopanem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem oddziału w
+\
+Zakopanem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Rada powiatowa w Sanoku
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="Rada powiatowa w Sanoku
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Rada powiatowa w Sanoku
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"«Sokół» w Rymanowie
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="«Sokół» w Rymanowie
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "«Sokół» w Rymanowie
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Kasa Zaliczkowa i Kółko Rolnicze
+[NEW]
+<instytucja>
+(instytucje, których
+prezesem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="Kasa Zaliczkowa i Kółko Rolnicze
+[NEW]
+<instytucja>
+(instytucje, których
+prezesem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Kasa Zaliczkowa i Kółko Rolnicze
+[NEW]
+<instytucja>
+(instytucje, których
+prezesem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Ochotnicza straż pożarna
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="Ochotnicza straż pożarna
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Ochotnicza straż pożarna
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wojewódzka liga drogowa
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"	[color=black,
+		label="Wojewódzka liga drogowa
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Wojewódzka liga drogowa
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Organizacje społeczne w Rymanowie i okolicy
+[NEW]
+<instytucja>
+(instytucje wspierane
+przez Jana Nepomucena
+Potockiego)"	[color=black,
+		label="Organizacje społeczne w Rymanowie i okolicy
+[NEW]
+<instytucja>
+(instytucje wspierane
+przez Jana Nepomucena
+Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Organizacje społeczne w Rymanowie i okolicy
+[NEW]
+<instytucja>
+(instytucje wspierane
+przez Jana Nepomucena
+Potockiego)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Józef Wolski
+[Q4890]
+<osoba>
+(proboszcz Rymanowa,
+współpracownik Jana
+Nepomucena Potockiego)"	[color=black,
+		label="Józef Wolski
+[Q4890]
+<osoba>
+(proboszcz Rymanowa,
+współpracownik Jana
+Nepomucena Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Józef Wolski
+[Q4890]
+<osoba>
+(proboszcz Rymanowa,
+współpracownik Jana
+Nepomucena Potockiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Ignacy Bielecki
+[NEW]
+<osoba>
+(lekarz praktykujący w
+Rymanowie, współpracownik
+Jana Nepomucena
+Potockiego)"	[color=black,
+		label="Ignacy Bielecki
+[NEW]
+<osoba>
+(lekarz praktykujący w
+Rymanowie, współpracownik
+Jana Nepomucena
+Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Ignacy Bielecki
+[NEW]
+<osoba>
+(lekarz praktykujący w
+Rymanowie, współpracownik
+Jana Nepomucena
+Potockiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Bazyli Maściuch
+[NEW]
+<osoba>
+(biskup greckokatolicki
+Łemkowszczyzny, gość Jana
+Nepomucena Potockiego w
+Rymanowie)"	[color=black,
+		label="Bazyli Maściuch
+[NEW]
+<osoba>
+(biskup greckokatolicki
+Łemkowszczyzny, gość Jana
+Nepomucena Potockiego w
+Rymanowie)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Bazyli Maściuch
+[NEW]
+<osoba>
+(biskup greckokatolicki
+Łemkowszczyzny, gość Jana
+Nepomucena Potockiego w
+Rymanowie)"	[color=green,
+		label="significantFigure [P100]"];
+	"Krzyż Oficerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie otrzymane
+przez Jana Nepomucena
+Potockiego)"	[color=black,
+		label="Krzyż Oficerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie otrzymane
+przez Jana Nepomucena
+Potockiego)"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Krzyż Oficerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie otrzymane
+przez Jana Nepomucena
+Potockiego)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Nepomucen Potocki
+[Q166652]
+<osoba>
+(właściciel Zakładu
+Zdrojowego w Rymanowie,
+poseł do parlamentu
+austriackiego, działacz
+\
+społeczny)" -> "Truskawiec
+[Q144570]
+<miejscowość>
+(uzdrowisko zarządzane
+przez Jana Nepomucena
+Potockiego w latach
+1892-1894)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Zakład Zdrojowy w Rymanowie
+[NEW]
+<instytucja>
+(uzdrowisko z cennymi
+solankami jodo-bromowymi
+i szczawami alkalicznymi)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"parlament austriacki
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"działacz społeczny
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Oleszyce
+[Q61056]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rymanów Zdrój
+[Q73387]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz w Rymanowie
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Potocki
+[Q166695]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anna z Działyńskich
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Róża z Wodzickich
+[NEW]
+<osoba>
+(pierwsza żona Jana
+Nepomucena Potockiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria z Szajerów
+[NEW]
+<osoba>
+(druga żona Jana
+Nepomucena Potockiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Aleksander Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Teresa Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jadwiga Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z pierwszego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)"	[color=green,
+		label="hasSon [P153]"];
+	"Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ignacy Potocki
+[Q166640]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maria Potocka
+[NEW]
+<osoba>
+(córka Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Potocki
+[NEW]
+<osoba>
+(syn Jana Nepomucena
+Potockiego z drugiego
+małżeństwa)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"lawina na stokach Noszaka w Hindukuszu
+[NEW]
+<wydarzenie>"	[color=black,
+		label="lawina na stokach Noszaka w Hindukuszu
+[NEW]
+<wydarzenie>"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "lawina na stokach Noszaka w Hindukuszu
+[NEW]
+<wydarzenie>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"archeolog
+[NEW]
+<zawód>"	[color=black,
+		label="archeolog
+[NEW]
+<zawód>"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "archeolog
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"taternik i alpinista
+[NEW]
+<zawód>"	[color=black,
+		label="taternik i alpinista
+[NEW]
+<zawód>"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "taternik i alpinista
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Zarząd Główny Klubu Wysokogórskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Zarząd Główny Klubu Wysokogórskiego
+[NEW]
+<instytucja>"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "Zarząd Główny Klubu Wysokogórskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Koło Krakowskie Klubu Wysokogórskiego
+[NEW]
+<instytucja>"	[color=black,
+		label="Koło Krakowskie Klubu Wysokogórskiego
+[NEW]
+<instytucja>"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "Koło Krakowskie Klubu Wysokogórskiego
+[NEW]
+<instytucja>"	[color=green,
+		label="positionHeld [P101]"];
+	"Instytut Historii Kultury Materialnej PAN w Krakowie
+[NEW]
+<instytucja>
+(instytucja, w której
+pracował Jerzy Potocki
+jako pracownik \
+naukowy)"	[color=black,
+		label="Instytut Historii Kultury Materialnej PAN w Krakowie
+[NEW]
+<instytucja>
+(instytucja, w której
+pracował Jerzy Potocki
+jako pracownik \
+naukowy)"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "Instytut Historii Kultury Materialnej PAN w Krakowie
+[NEW]
+<instytucja>
+(instytucja, w której
+pracował Jerzy Potocki
+jako pracownik \
+naukowy)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"badanie kultury celtyckiej w Polsce
+[NEW]
+<zawód>
+(działalność naukowa
+Jerzego Potockiego)"	[color=black,
+		label="badanie kultury celtyckiej w Polsce
+[NEW]
+<zawód>
+(działalność naukowa
+Jerzego Potockiego)"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "badanie kultury celtyckiej w Polsce
+[NEW]
+<zawód>
+(działalność naukowa
+Jerzego Potockiego)"	[color=green,
+		label="hasOccupation [P106]"];
+	"Lwów
+[Q144390]
+<miejscowość>
+(miejsce urodzenia Jerzego
+Potockiego)"	[color=black,
+		label="Lwów
+[Q144390]
+<miejscowość>
+(miejsce urodzenia Jerzego
+Potockiego)"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "Lwów
+[Q144390]
+<miejscowość>
+(miejsce urodzenia Jerzego
+Potockiego)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"stoki Noszaka w Hindukuszu
+[NEW]
+<miejscowość>
+(miejsce śmierci Jerzego
+Potockiego)"	[color=black,
+		label="stoki Noszaka w Hindukuszu
+[NEW]
+<miejscowość>
+(miejsce śmierci Jerzego
+Potockiego)"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "stoki Noszaka w Hindukuszu
+[NEW]
+<miejscowość>
+(miejsce śmierci Jerzego
+Potockiego)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Potocki
+[Q166654]
+<osoba>
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)" -> "1966-09-04
+(wnuk Jana Nepomucena
+Potockiego, archeolog,
+taternik i alpinista)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"lawina na stokach Noszaka w Hindukuszu
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"archeolog
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"taternik i alpinista
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zarząd Główny Klubu Wysokogórskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Koło Krakowskie Klubu Wysokogórskiego
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Politechnika Lwowska
+[NEW]
+<instytucja>
+(miejsce studiów Jana
+Nepomucena Potockiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Truskawiec
+[NEW]
+<miejscowość>
+(uzdrowisko zarządzane
+przez Jana Nepomucena
+Potockiego w latach
+1892-1894)"	[color=black,
+		label="Truskawiec
+[NEW]
+<miejscowość>
+(uzdrowisko zarządzane
+przez Jana Nepomucena
+Potockiego w latach
+1892-1894)"];
+	"Truskawiec
+[NEW]
+<miejscowość>
+(uzdrowisko zarządzane
+przez Jana Nepomucena
+Potockiego w latach
+1892-1894)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Polskie Towarzystwo Balneologiczne
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki w
+latach 1907-1909)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krajowy Związek Zdrojowisk i Uzdrowisk
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki od 1910
+do 1916, \
+a później
+prezesem honorowym)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem oddziału w
+\
+Zakopanem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rada powiatowa w Sanoku
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"«Sokół» w Rymanowie
+[NEW]
+<instytucja>
+(instytucja, której
+prezesem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kasa Zaliczkowa i Kółko Rolnicze
+[NEW]
+<instytucja>
+(instytucje, których
+prezesem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ochotnicza straż pożarna
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wojewódzka liga drogowa
+[NEW]
+<instytucja>
+(instytucja, której
+opiekunem był Jan
+Nepomucen Potocki)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Organizacje społeczne w Rymanowie i okolicy
+[NEW]
+<instytucja>
+(instytucje wspierane
+przez Jana Nepomucena
+Potockiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Wolski
+[Q4890]
+<osoba>
+(proboszcz Rymanowa,
+współpracownik Jana
+Nepomucena Potockiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ignacy Bielecki
+[NEW]
+<osoba>
+(lekarz praktykujący w
+Rymanowie, współpracownik
+Jana Nepomucena
+Potockiego)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bazyli Maściuch
+[NEW]
+<osoba>
+(biskup greckokatolicki
+Łemkowszczyzny, gość Jana
+Nepomucena Potockiego w
+Rymanowie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzyż Oficerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie otrzymane
+przez Jana Nepomucena
+Potockiego)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Instytut Historii Kultury Materialnej PAN w Krakowie
+[NEW]
+<instytucja>
+(instytucja, w której
+pracował Jerzy Potocki
+jako pracownik \
+naukowy)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"badanie kultury celtyckiej w Polsce
+[NEW]
+<zawód>
+(działalność naukowa
+Jerzego Potockiego)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Lwów
+[Q144390]
+<miejscowość>
+(miejsce urodzenia Jerzego
+Potockiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"stoki Noszaka w Hindukuszu
+[NEW]
+<miejscowość>
+(miejsce śmierci Jerzego
+Potockiego)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

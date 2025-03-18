@@ -1,0 +1,506 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława",
+                "wikihum": "Q148265"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Katarzyna Sydonja",
+                "type": "osoba",
+                "description": "księżniczka saska, matka Adama Wacława",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "córka księcia kurlandzkiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Fryderyk Wilhelm",
+                "type": "osoba",
+                "description": "ostatni cieszyński Piast męski",
+                "wikihum": "Q152898"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Elżbieta Lukrecja",
+                "type": "osoba",
+                "description": "ostatnia Piastówna",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1574-12-12",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1617-07-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "dateOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1618-04-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kościół dominikanów cieszyńskich",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "książę cieszyński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "książę górnogłogowski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "wojskowy",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dowódca oddziału jazdy",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "religiousAffiliation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "katolicyzm",
+                "type": "religia",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11737446"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kalwaria Zebrzydowska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dominikanie cieszyńscy",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór elektora saskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Mikołaj Zebrzydowski",
+                "type": "osoba",
+                "description": "wojewoda, fundator Kalwarii Zebrzydowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Fryderyk Kazimierz",
+                "type": "osoba",
+                "description": "brat przyrodni Adama Wacława",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Cieszyn na Brandysie",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Adama Wacława",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "dwór elektora saskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Wacław",
+                "type": "osoba",
+                "description": "książę cieszyński, z rodu Piastów",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława",
+                "wikihum": "Q148265"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Wacław Adam",
+                "type": "osoba",
+                "description": "ojciec Adama Wacława",
+                "wikihum": "Q148265"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Kettler",
+                "type": "osoba",
+                "description": "córka księcia kurlandzkiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "książę kurlandzki",
+                "type": "osoba",
+                "description": "ojciec Elżbiety Kettler",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj Zebrzydowski",
+                "type": "osoba",
+                "description": "wojewoda, fundator Kalwarii Zebrzydowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kalwaria Zebrzydowska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "mieszczanie cieszyńscy",
+                "type": "osoba",
+                "description": "grupa społeczna związana z Adamem Wacławem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "rycerstwo i miasta",
+                "type": "osoba",
+                "description": "grupy społeczne związane z Adamem Wacławem",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

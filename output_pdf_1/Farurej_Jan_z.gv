@@ -1,0 +1,381 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)"	[color=black,
+		label="Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)"];
+	"Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1429
+roku)"	[color=black,
+		label="Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1429
+roku)"];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1429
+roku)"	[color=green,
+		label="hasBrother [P97]"];
+	"Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1430
+roku)"	[color=black,
+		label="Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1430
+roku)"];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1430
+roku)"	[color=green,
+		label="hasBrother [P97]"];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "rycerz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Mikołaj
+[Q162332]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Zawisza
+[Q159564]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Piotr
+[NEW]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Stefan
+[NEW]
+<osoba>
+(syn Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "1453-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "bitwa pod Grunwaldem
+[NEW]
+<wydarzenie>
+(bitwa, w której Farurej
+Jan z Garbowa brał udział
+w 1410 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "turniej w Budzie
+[NEW]
+<wydarzenie>
+(turniej, w którym Farurej
+Jan z Garbowa brał udział
+w 1412 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "konfederacja korczyńska
+[NEW]
+<wydarzenie>
+(wydarzenie, w którym
+Farurej Jan z Garbowa
+brał udział w 1438 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Zygmunt Luksemburski
+[NEW]
+<osoba>
+(osoba, u której Farurej
+Jan z Garbowa służył)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Władysław III
+[NEW]
+<osoba>
+(osoba, na rzecz której
+działał Farurej Jan z
+Garbowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "Jan Głowacz z Oleśnicy
+[NEW]
+<osoba>
+(osoba, z którą Farurej
+Jan z Garbowa dokonywał
+transakcji majątkowych)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "walka w Bośni
+[NEW]
+<wydarzenie>
+(wydarzenie, w którym
+Farurej Jan z Garbowa
+brał udział w 1408 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "przywilej jedlneński
+[NEW]
+<wydarzenie>
+(wydarzenie, w którym
+Farurej Jan z Garbowa
+świadkował w 1430 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "wyniesienie Władysława III na tron węgierski
+[NEW]
+<wydarzenie>
+(wydarzenie, w którym
+Farurej Jan z Garbowa
+brał czynny udział \
+w 1440
+roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "400 grzywien na wsi Osobnica
+[NEW]
+<majątek>
+(zapisany majątek przez
+króla Władysława III za
+zasługi Farureja Jana z
+Garbowa)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Farurej Jan z Garbowa
+[Q152509]
+<osoba>
+(rycerz polski z XV wieku,
+syn Mikołaja, brat
+Zawiszy Czarnego i Piotra
+Kruczka, ojciec \
+Zawiszy,
+Piotra i Stefana)" -> "wyprawa warneńska
+[NEW]
+<wydarzenie>
+(wydarzenie, w którym
+Farurej Jan z Garbowa
+dokonywał transakcji
+majątkowych z Janem
+Głowaczem \
+z Oleśnicy)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Zawisza Czarny
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1429
+roku)" -> "1429-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Piotr Kruczek
+[NEW]
+<osoba>
+(brat Farureja Jana z
+Garbowa, zmarł w 1430
+roku)" -> "1430-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"	[color=black,
+		label="Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)"];
+	"Mikołaj
+[NEW]
+<osoba>
+(kasztelan sieradzki,
+ojciec Farureja Jana z
+Garbowa)" -> "kasztelan sieradzki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+}

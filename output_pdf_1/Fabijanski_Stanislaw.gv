@@ -1,0 +1,245 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)"	[color=black,
+		label="Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)"];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "artysta malarz i rzeźbiarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> 1865	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "1947-02-13"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Erazm Rudolf
+[Q152460]
+<osoba>
+(artysta malarz)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Lucyna Odrowąż Sypniewska
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Szkoła Sztuk Pięknych w Krakowie
+[NEW]
+<instytucja>
+(Meisterschuli)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Akademia w Monachium
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "pierwsza nagroda za wykonanie afisza na otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie
+[NEW]
+<\
+osiągnięcie>
+(1902)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "srebrny medal za obraz Chrystus na krzyżu na wystawie w warszawskiej Zachęcie
+[NEW]
+<osiągnięcie>
+(1928)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Marconi
+[NEW]
+<osoba>
+(nauczyciel rzeźby
+Stanisława Fabijańskiego
+we Lwowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Starkowski
+[NEW]
+<osoba>
+(nauczyciel rzeźby
+Stanisława Fabijańskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Szynalewski
+[NEW]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Jabłoński
+[Q155491]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Łuszczkiewicz
+[Q160940]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Cynk
+[Q150846]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Loeffler
+[Q160363]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Matejko
+[NEW]
+<osoba>
+(nauczyciel malarstwa
+Stanisława Fabijańskiego
+w Szkole Sztuk Pięknych w
+Krakowie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Stanisław Fabijański
+[Q152461]
+<osoba>
+(artysta malarz i
+rzeźbiarz)" -> "Wagner
+[NEW]
+<osoba>
+(nauczyciel Stanisława
+Fabijańskiego w Akademii
+w Monachium)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+}

@@ -1,0 +1,262 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)"	[color=black,
+		label="Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)"];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "1848-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "1920-10-09"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Zaklików
+[Q137397]
+<miejscowość>
+(miejscowość w powiecie
+lubelskim, w Królestwie
+Polskim.)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Jordan Dąbrowski
+[NEW]
+<osoba>
+(obywatel ziemski.)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Weronika z Paszkowskich
+[NEW]
+<osoba>
+(obywatelka ziemska.)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Romualda Glińska
+[NEW]
+<osoba>
+(żona znanego literata,
+zmarła w przytułku przy
+ul. Belwederskiej w
+Warszawie.)"	[color=green,
+		label="hasSister [P97]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Wiktor Dąbrowski
+[NEW]
+<osoba>
+(literat.)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "rejent
+[NEW]
+<zawód>
+(rejent w Odessie.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "członek sądu wojskowego
+[NEW]
+<urząd>
+(członek sądu wojskowego w
+Odessie.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Komitet Polski i Towarzystwo Pomocy Ofiarom Wojny
+[NEW]
+<instytucja>
+(organizacje, z którymi
+był związany Adam
+Dąbrowski.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "rozstrzelanie przez bolszewików
+[NEW]
+<zdarzenie>
+(przyczyna śmierci Adama
+Dąbrowskiego.)"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Brześć Litewski
+[Q146202]
+<miejscowość>
+(miejsce edukacji Adama
+Dąbrowskiego w korpusie
+kadetów.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Petersburg
+[Q147038]
+<miejscowość>
+(miejsce edukacji Adama
+Dąbrowskiego w akademii
+jurydycznej.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "sędzia śledczy
+[NEW]
+<zawód>
+(zawód wykonywany przez
+Adama Dąbrowskiego przed
+objęciem stanowiska
+rejenta.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Berdyczów
+[Q143305]
+<miejscowość>
+(miejsce pracy Adama
+Dąbrowskiego jako sędzia
+śledczy.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Żytomierz
+[Q143337]
+<miejscowość>
+(miejsce pracy Adama
+Dąbrowskiego jako sędzia
+śledczy.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Wierny
+[NEW]
+<miejscowość>
+(miejsce pracy Adama
+Dąbrowskiego jako sędzia
+śledczy.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Tyflis
+[NEW]
+<miejscowość>
+(miejsce pracy Adama
+Dąbrowskiego jako sędzia
+śledczy.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "Piotr Korejwa
+[NEW]
+<osoba>
+(generał, z którym Adam
+Dąbrowski współpracował
+jako członek sądu
+wojskowego w Odessie.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Adam Dąbrowski
+[Q151302]
+<osoba>
+(rejent w Odessie,
+urodzony w 1848 roku,
+zmarły w 1920 roku.)" -> "kamienica
+[NEW]
+<przedmiot>
+(kamienica wartości
+120.000 rubli przekazana
+w testamencie siostrom i
+synowi.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+}

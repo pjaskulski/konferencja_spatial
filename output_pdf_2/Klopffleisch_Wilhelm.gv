@@ -1,0 +1,299 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)"	[color=black,
+		label="Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)"];
+	"Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"	[color=black,
+		label="Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"	[color=green,
+		label="hasFather [P92]"];
+	"Henryk Krajewski
+[NEW]
+<osoba>
+(naczelnik organizacji
+warszawskiej)"	[color=black,
+		label="Henryk Krajewski
+[NEW]
+<osoba>
+(naczelnik organizacji
+warszawskiej)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Henryk Krajewski
+[NEW]
+<osoba>
+(naczelnik organizacji
+warszawskiej)"	[color=green,
+		label="significantFigure [P100]"];
+	"Antonina Lissowska
+[Q160326]
+<osoba>
+(modystka zajmująca się
+przemytem druków)"	[color=black,
+		label="Antonina Lissowska
+[Q160326]
+<osoba>
+(modystka zajmująca się
+przemytem druków)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Antonina Lissowska
+[Q160326]
+<osoba>
+(modystka zajmująca się
+przemytem druków)"	[color=green,
+		label="significantFigure [P100]"];
+	"Józef Wysocki
+[NEW]
+<osoba>
+(główny delegat wojskowy
+Tow. Demokr. Pol. na kraj)"	[color=black,
+		label="Józef Wysocki
+[NEW]
+<osoba>
+(główny delegat wojskowy
+Tow. Demokr. Pol. na kraj)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Józef Wysocki
+[NEW]
+<osoba>
+(główny delegat wojskowy
+Tow. Demokr. Pol. na kraj)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> 1856	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "działacz rewolucyjny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Nerczyński Zawód
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Narcyz Tchórzewski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Romuald Świerzbiński
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Ludwik Bulewski
+[Q150116]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Paweł Darasz
+[Q151256]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Warszawa)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "nieznane przedsiębiorstwo
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "fabryka maszyn na Solcu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Związek Demokratyczny
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Centralizacja Towarzystwa Demokratycznego Polskiego w Paryżu
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Centralny Komitet Demokracji Europejskiej w Londynie
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Natalis Sulerzyski
+[Q173587]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(pseud. Sas, działacz
+rewolucyjny warszawski,
+sybirak)" -> "Ignacy Łyskowski
+[Q160951]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)" -> "browar na Nowym Świecie
+[NEW]
+<instytucja>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"Henryk Krajewski
+[NEW]
+<osoba>
+(naczelnik organizacji
+warszawskiej)" -> "naczelnik organizacji warszawskiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Antonina Lissowska
+[Q160326]
+<osoba>
+(modystka zajmująca się
+przemytem druków)" -> "modystka
+[NEW]
+<zawód>
+(zajmująca się przemytem
+druków)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Józef Wysocki
+[NEW]
+<osoba>
+(główny delegat wojskowy
+Tow. Demokr. Pol. na kraj)" -> "Towarzystwo Demokratyczne Polskie
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+}

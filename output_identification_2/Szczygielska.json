@@ -1,0 +1,559 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1866-12-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1913-12-27",
+                "type": "data",
+                "description": "Data przybliżona, zmarła kilka dni po pogrzebie męża."
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146637"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "cmentarz",
+                "wikihum": "Q146637"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Marianna Wiśniewska",
+                "type": "osoba",
+                "description": "z domu Matusiewicz",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q174283"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Tomasz Szczygielski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szkoła sztuk pięknych w Rouen",
+                "type": "instytucja",
+                "description": "Francja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szkoła sztuk pięknych w Paryżu",
+                "type": "instytucja",
+                "description": "Francja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "krawiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "prowadzenie filii wiedeńskiej farbiarni i pralni chemicznej",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "urzędnik pocztowy",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "František Hovorka",
+                "type": "osoba",
+                "description": "redaktor",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            }
+        },
+        {
+            "subject": {
+                "name": "Irma Raichova",
+                "type": "osoba",
+                "description": "primadonna opery praskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Bogucka",
+                "type": "osoba",
+                "description": "primadonna opery praskiej",
+                "wikihum": "Q1154"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, prowadził filię wiedeńskiej farbiarni i pralni chemicznej, później urzędnik pocztowy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1843",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna Wiśniewska",
+                "type": "osoba",
+                "description": "z domu Matusiewicz",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1846",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jadwiga Wiśniewska",
+                "type": "osoba",
+                "description": "ur. 1873",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Maryla Wiśniewska",
+                "type": "osoba",
+                "description": "ur. 1875",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Włodzimierz Wiśniewski",
+                "type": "osoba",
+                "description": "1874–1911",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Tadeusz Wiśniewski",
+                "type": "osoba",
+                "description": "1876–1882",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kwiaty",
+                "type": "dzieło",
+                "description": "obraz wystawiony w TZSP w Warszawie",
+                "wikihum": "NEW",
+                "wikidata": "Q2349698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kompozycje dekoracyjne",
+                "type": "dzieło",
+                "description": "pokazane we Lwowie, za które otrzymała wielki srebrny medal",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "obrazy",
+                "type": "dzieło",
+                "description": "wystawione w TPSP w Krakowie w 1897 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "prowadzenie kursów rysunków, malarstwa i modelowania w glinie",
+                "type": "zawód",
+                "description": "w latach 1903–1906",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "lwowska Rada Szkolna Okręgowa",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Czeskich Kobiet",
+                "type": "instytucja",
+                "description": "Ustředni Spolek Českych Žen",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

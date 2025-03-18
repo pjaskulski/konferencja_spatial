@@ -1,0 +1,235 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę opolski",
+                "wikihum": "Q156972"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę kujawski",
+                "wikihum": "Q156973"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q156973"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Ziemowit",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q174869"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Mszczuj II",
+                "type": "osoba",
+                "description": "książę pomorski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1292-00-00",
+                "type": "data",
+                "description": "Data śmierci Eufrozyny jest przybliżona, możliwa również w 1293 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Kazimierz",
+                "type": "osoba",
+                "description": "książę kujawski",
+                "wikihum": "Q156973"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1267-12-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "dateOfDivorce",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1288-05-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "opiekunka",
+                "type": "zawód",
+                "description": "Sprawowała opiekę nad synami po śmierci męża.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kujawy",
+                "type": "miejscowość",
+                "description": "Osiadła tam po unieważnieniu małżeństwa z Mszczujem.",
+                "wikihum": "Q47825"
+            }
+        },
+        {
+            "subject": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór Eufrozyny i Mszczuja II",
+                "type": "miejscowość",
+                "description": "Przebywał tam jako syn Eufrozyny.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Eufrozyna",
+                "type": "osoba",
+                "description": "księżna kujawska, potem pomorska",
+                "wikihum": "Q152430"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

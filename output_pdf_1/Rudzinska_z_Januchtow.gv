@@ -1,0 +1,476 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)"	[color=black,
+		label="Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)"];
+	"historyk
+[NEW]
+<zawód>"	[color=black,
+		label="historyk
+[NEW]
+<zawód>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "historyk
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"socjolog literatury
+[NEW]
+<zawód>"	[color=black,
+		label="socjolog literatury
+[NEW]
+<zawód>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "socjolog literatury
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Kielce
+[Q42141]
+<miejscowość>"	[color=black,
+		label="Kielce
+[Q42141]
+<miejscowość>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Kielce
+[Q42141]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"cmentarz w Wólce Węglowej
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz w Wólce Węglowej
+[NEW]
+<miejscowość>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "cmentarz w Wólce Węglowej
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Tadeusz Januchta
+[NEW]
+<osoba>
+(urzędnik)"	[color=black,
+		label="Tadeusz Januchta
+[NEW]
+<osoba>
+(urzędnik)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Tadeusz Januchta
+[NEW]
+<osoba>
+(urzędnik)"	[color=green,
+		label="hasFather [P92]"];
+	"Zenaida Karaś
+[NEW]
+<osoba>
+(korektorka)"	[color=black,
+		label="Zenaida Karaś
+[NEW]
+<osoba>
+(korektorka)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Zenaida Karaś
+[NEW]
+<osoba>
+(korektorka)"	[color=green,
+		label="hasMother [P93]"];
+	"Roman Rudziński
+[Q168956]
+<osoba>"	[color=black,
+		label="Roman Rudziński
+[Q168956]
+<osoba>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Roman Rudziński
+[Q168956]
+<osoba>"	[color=green,
+		label="hasHusband [P94]"];
+	"Uniwersytet Warszawski
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Warszawski
+[NEW]
+<instytucja>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Uniwersytet Warszawski
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Instytut Badań Literackich PAN
+[NEW]
+<instytucja>"	[color=black,
+		label="Instytut Badań Literackich PAN
+[NEW]
+<instytucja>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Instytut Badań Literackich PAN
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie
+[NEW]
+<instytucja>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Stefan Żółkiewski
+[NEW]
+<osoba>"	[color=black,
+		label="Stefan Żółkiewski
+[NEW]
+<osoba>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Stefan Żółkiewski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza
+[NEW]
+<dzieło>
+(\
+praca magisterska z 1965
+roku)"	[color=black,
+		label="Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza
+[NEW]
+<dzieło>
+(\
+praca magisterska z 1965
+roku)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza
+[NEW]
+<dzieło>
+(\
+praca magisterska z 1965
+roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)
+[NEW]
+<dzieło>
+(praca magisterska z \
+1968
+roku)"	[color=black,
+		label="Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)
+[NEW]
+<dzieło>
+(praca magisterska z \
+1968
+roku)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)
+[NEW]
+<dzieło>
+(praca magisterska z \
+1968
+roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Między awangardą a kulturą masową. Wokół społecznej roli pisarza
+[NEW]
+<dzieło>
+(tom artykułów i recenzji
+opublikowany \
+pośmiertnie
+w 1978 roku)"	[color=black,
+		label="Między awangardą a kulturą masową. Wokół społecznej roli pisarza
+[NEW]
+<dzieło>
+(tom artykułów i recenzji
+opublikowany \
+pośmiertnie
+w 1978 roku)"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Między awangardą a kulturą masową. Wokół społecznej roli pisarza
+[NEW]
+<dzieło>
+(tom artykułów i recenzji
+opublikowany \
+pośmiertnie
+w 1978 roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"adiunkt
+[NEW]
+<zawód>"	[color=black,
+		label="adiunkt
+[NEW]
+<zawód>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "adiunkt
+[NEW]
+<zawód>"	[color=green,
+		label="positionHeld [P101]"];
+	"Paryż
+[Q146696]
+<miejscowość>"	[color=black,
+		label="Paryż
+[Q146696]
+<miejscowość>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Paryż
+[Q146696]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Frankfurt nad Menem
+[Q146858]
+<miejscowość>"	[color=black,
+		label="Frankfurt nad Menem
+[Q146858]
+<miejscowość>"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Frankfurt nad Menem
+[Q146858]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "1943-07-17"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "1975-04-04"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Kamila Anna Rudzińska
+[Q168942]
+<osoba>
+(historyk i socjolog
+literatury)" -> "Artysta wobec kultury. Dwa typy autorefleksji literackiej":" ekspresjoniści „Zdroju” i Witkacy
+[NEW]
+<dzieło>
+(rozprawa doktorska z 1973
+roku)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"historyk
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"socjolog literatury
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kielce
+[Q42141]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"cmentarz w Wólce Węglowej
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Tadeusz Januchta
+[NEW]
+<osoba>
+(urzędnik)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zenaida Karaś
+[NEW]
+<osoba>
+(korektorka)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Roman Rudziński
+[Q168956]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Warszawski
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Instytut Badań Literackich PAN
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet im. Marii Curie-Skłodowskiej w Lublinie
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stefan Żółkiewski
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kultura i sprawiedliwość społeczna. Geneza i antynomie świadomości kryzysu kultury w pismach S. I. Witkiewicza
+[NEW]
+<dzieło>
+(\
+praca magisterska z 1965
+roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Symbol i kultura (Teorie działalności symbolicznej człowieka w antropologii kulturalnej)
+[NEW]
+<dzieło>
+(praca magisterska z \
+1968
+roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Artysta wobec kultury. Dwa typy autorefleksji literackiej: ekspresjoniści „Zdroju” i Witkacy
+[NEW]
+<dzieło>
+(rozprawa doktorska \
+z 1973
+roku)"	[color=black,
+		label="Artysta wobec kultury. Dwa typy autorefleksji literackiej: ekspresjoniści „Zdroju” i Witkacy
+[NEW]
+<dzieło>
+(rozprawa doktorska \
+z 1973
+roku)"];
+	"Między awangardą a kulturą masową. Wokół społecznej roli pisarza
+[NEW]
+<dzieło>
+(tom artykułów i recenzji
+opublikowany \
+pośmiertnie
+w 1978 roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"adiunkt
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paryż
+[Q146696]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Frankfurt nad Menem
+[Q146858]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Artysta wobec kultury. Dwa typy autorefleksji literackiej":" ekspresjoniści „Zdroju” i Witkacy
+[NEW]
+<dzieło>
+(rozprawa doktorska z 1973
+roku)" -> "dzieło
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

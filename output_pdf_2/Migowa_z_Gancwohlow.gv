@@ -1,0 +1,375 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)"	[color=black,
+		label="Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)"];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Józef Kazimierz
+[Q167474]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Anna Maria z Kempińskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Będzin
+[Q18735]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "I Prywatna Średnia Szkoła Żeńska w Krakowie
+[NEW]
+<instytucja>
+(szkoła ukończona przez
+Marię Jadwigę Migową)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>
+(uczelnia, na której Maria
+Jadwiga Migowa studiowała
+polonistykę i romanistykę)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Związek Filaretów
+[NEW]
+<organizacja>
+(młodzieżowa organizacja
+niepodległościowa, do
+której należała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Związek Strzelecki
+[NEW]
+<organizacja>
+(organizacja
+niepodległościowa, do
+której należała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Praga
+[Q68721]
+<miejscowość>
+(miejsce, gdzie Maria
+Jadwiga Migowa prowadziła
+kuchnię dla rannych
+legionistów i uchodźców \
+z
+Małopolski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Ilustrowany Kurier Codzienny
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Goniec Krakowski
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Nowa Reforma
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Nowości Ilustrowane
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Kurier Czerwony
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa w
+Warszawie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Kino
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa w
+Warszawie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Świat
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa w
+Warszawie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Kurier Poranny
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa w
+Warszawie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Światowid
+[NEW]
+<instytucja>
+(czasopismo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Wydawnictwo Ibis
+[NEW]
+<instytucja>
+(wydawnictwo, z którym
+współpracowała Maria
+Jadwiga Migowa)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "Jan Miga
+[NEW]
+<osoba>
+(dziennikarz,
+współpracownik
+krakowskich czasopism)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "1890-05-19
+(Rok urodzenia jest
+niepewny, podany jako
+1890 lub 1891.)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "1942-00-00
+(Dokładna data śmierci nie
+jest znana, ale jest to
+rok 1942.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "1942-05-00
+(Dokładna data
+aresztowania nie jest
+znana, ale jest to maj
+1942.)"	[color=green,
+		label="dateOfArrest [NEW]",
+		minlen=2];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "dawne więzienie wojskowe na ul. Gęsiej
+[NEW]
+<miejsce>
+(Miejsce osadzenia Marii
+Jadwigi Migowej po
+aresztowaniu.)"	[color=green,
+		label="placeOfImprisonment [NEW]",
+		minlen=3];
+	"Maria Jadwiga Migowa
+[Q162299]
+<osoba>
+(dziennikarka,
+powieściopisarka,
+pseudonimy  M. J. M.,
+mig., mjm., J. Mig.,
+Kamil Norden)" -> "1942-07-22
+(Data wywiezienia Marii
+Jadwigi Migowej,
+prawdopodobnie od razu na
+śmierć.)"	[color=green,
+		label="dateOfDeportation [NEW]",
+		minlen=4];
+}

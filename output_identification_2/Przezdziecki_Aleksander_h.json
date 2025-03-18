@@ -1,0 +1,345 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "stolnik upicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna Eleonora ze Skopów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Antoni Przezdziecki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Felicjanna z Chreptowiczów",
+                "type": "osoba",
+                "description": "podkomorzanka nowogrodzka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstancja Aleksandra z Kamińskich",
+                "type": "osoba",
+                "description": "córka Krzysztofa, sędziego orszańskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan inflancki",
+                "type": "urząd",
+                "description": "od 24 XI 1726",
+                "wikihum": "NEW",
+                "wikidata": "Q5289270"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "chorąży mozyrski",
+                "type": "urząd",
+                "description": "co najmniej od 1694",
+                "wikihum": "NEW",
+                "wikidata": "Q91102406"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "deputat na Trybunał W. Ks. Lit.",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "miecznik litewski",
+                "type": "urząd",
+                "description": "na przełomie 1708/9",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarz poselstwa do Rosji",
+                "type": "urząd",
+                "description": "w 1703 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Michał Wiśniowiecki",
+                "type": "osoba",
+                "description": "późniejszy kanclerz wielki litewski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Radziwiłłowie",
+                "type": "osoba",
+                "description": "rodzina, z którą Aleksander Przezdziecki zaczął się wiązać w latach trzydziestych XVIII wieku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1734-10-24",
+                "type": "data",
+                "description": "przybliżona data śmierci"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": "prawdopodobne miejsce śmierci",
+                "wikihum": "Q143061"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724-00-00",
+                "type": "data",
+                "description": "data śmierci podczas zajazdu"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1727-12-00",
+                "type": "data",
+                "description": "data śmierci przez ścięcie we Lwowie"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "znany z zajazdów i rozbojów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "miejsce śmierci przez ścięcie",
+                "wikihum": "Q144390"
+            }
+        }
+    ]
+}

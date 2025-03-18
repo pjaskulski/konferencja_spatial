@@ -1,0 +1,327 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1919-10-22",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1967-12-19",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Kunicki",
+                "type": "osoba",
+                "description": "ślusarz",
+                "wikihum": "Q159475"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Józefa z Winklerów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Zofia Chromy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wypadek samochodowy",
+                "type": "zdarzenie",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q61037771"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "generał brygady",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "artykuły na tematy artyleryjskie",
+                "type": "dzieło",
+                "description": "zamieszczone w „Przeglądzie Artyleryjskim” i „Przeglądzie Wojsk Lądowych”",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska Partia Robotnicza",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Polska Zjednoczona Partia Robotnicza",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Medyczno-Weterynaryjna",
+                "type": "instytucja",
+                "description": "Lwów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia Sztabu Generalnego",
+                "type": "instytucja",
+                "description": "Moskwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasAward",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krzyż Komandorski Orderu Odrodzenia Polski",
+                "type": "odznaczenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Kunicki",
+                "type": "osoba",
+                "description": "generał brygady W. P.",
+                "wikihum": "Q159476"
+            },
+            "predicate": {
+                "name": "hasAward",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krzyż Walecznych",
+                "type": "odznaczenie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

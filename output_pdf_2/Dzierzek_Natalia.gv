@@ -1,0 +1,286 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)"	[color=black,
+		label="Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)"];
+	"Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wuj
+Natalii Dzierżek)"	[color=black,
+		label="Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wuj
+Natalii Dzierżek)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wuj
+Natalii Dzierżek)"	[color=green,
+		label="hasUncle [P99]"];
+	"Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)"	[color=black,
+		label="Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)"	[color=green,
+		label="significantFigure [P100]"];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Kotiużany
+[NEW]
+<miejscowość>
+(na Podolu)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "1931-12-30"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Henryk Dzierżek
+[NEW]
+<osoba>
+(ojciec Natalii Dzierżek)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Maria z Piątkowskich Nieczuja-Dzierżków
+[NEW]
+<osoba>
+(matka Natalii Dzierżek)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Szkoła Sztuk Pięknych
+[NEW]
+<uczelnia>
+(w Odessie)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=2];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Sokoły
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=3];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Mariusz Zaruski
+[NEW]
+<osoba>
+(współwięzień Natalii
+Dzierżek)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Teresa z Wołowskich Prażmowska
+[NEW]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Nagroda na konkursie »Gazety Świątecznej«
+[NEW]
+<osiągnięcie>
+(za utwór Bartłomiej
+Słomka. Gawęda w 1900
+roku)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Jerzy Orwicz
+[NEW]
+<pseudonim>
+(pseudonim literacki
+Natalii Dzierżek)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "literatka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "artystka-malarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "działaczka społeczna
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "nauczycielka rysunku
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "redaktorka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Żywot wodza narodu (T. Kościuszki)
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Kurier Warszawski
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Natalia Dzierżek
+[Q152179]
+<osoba>
+(literatka, artystka-
+malarka, działaczka
+społeczna)" -> "Kronika Rolnicza
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Henryk Piątkowski
+[Q165460]
+<osoba>
+(artysta malarz, wuj
+Natalii Dzierżek)" -> "artysta malarz
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)" -> "Tadeusz Gałecki
+[Q153030]
+<osoba>
+(osoba, do której zbliżyła
+się Natalia Dzierżek w
+Archangielsku)"	[color=green,
+		label="significantFigure [P100]"];
+}

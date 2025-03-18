@@ -1,0 +1,741 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)"	[color=black,
+		label="Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)"];
+	"kupiec
+[NEW]
+<zawód>"	[color=black,
+		label="kupiec
+[NEW]
+<zawód>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "kupiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "kupiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"cmentarz mariacki
+[NEW]
+<miejscowość>"	[color=black,
+		label="cmentarz mariacki
+[NEW]
+<miejscowość>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "cmentarz mariacki
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Mikołaj
+[NEW]
+<osoba>
+(ojciec Stanisława
+Leymitera)"	[color=black,
+		label="Mikołaj
+[NEW]
+<osoba>
+(ojciec Stanisława
+Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Mikołaj
+[NEW]
+<osoba>
+(ojciec Stanisława
+Leymitera)"	[color=green,
+		label="hasFather [P92]"];
+	"Benigna
+[Q4305]
+<osoba>
+(matka Stanisława
+Leymitera)"	[color=black,
+		label="Benigna
+[Q4305]
+<osoba>
+(matka Stanisława
+Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Benigna
+[Q4305]
+<osoba>
+(matka Stanisława
+Leymitera)"	[color=green,
+		label="hasMother [P93]"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)"	[color=black,
+		label="Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)"	[color=green,
+		label="hasWife [P94]"];
+	"Jan
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Jan
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"	[color=green,
+		label="hasSon [P153]"];
+	"Stanisław
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"	[color=black,
+		label="Stanisław
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Stanisław
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)"	[color=green,
+		label="hasSon [P153]"];
+	"Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)"	[color=black,
+		label="Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)"	[color=green,
+		label="hasDaughter [P154]"];
+	"rajca krakowski
+[NEW]
+<urząd>"	[color=black,
+		label="rajca krakowski
+[NEW]
+<urząd>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "rajca krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"burmistrz
+[NEW]
+<urząd>"	[color=black,
+		label="burmistrz
+[NEW]
+<urząd>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "burmistrz
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"dom przy ul. Brackiej w Krakowie
+[NEW]
+<nieruchomość>"	[color=black,
+		label="dom przy ul. Brackiej w Krakowie
+[NEW]
+<nieruchomość>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "dom przy ul. Brackiej w Krakowie
+[NEW]
+<nieruchomość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<nieruchomość>"	[color=black,
+		label="dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<nieruchomość>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<nieruchomość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"kram na rynku krakowskim
+[NEW]
+<nieruchomość>"	[color=black,
+		label="kram na rynku krakowskim
+[NEW]
+<nieruchomość>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "kram na rynku krakowskim
+[NEW]
+<nieruchomość>"	[color=green,
+		label="hasAssets [NEW]"];
+	"ścięcie
+[NEW]
+<przyczyna śmierci>"	[color=black,
+		label="ścięcie
+[NEW]
+<przyczyna śmierci>"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "ścięcie
+[NEW]
+<przyczyna śmierci>"	[color=green,
+		label="causeOfDeath [NEW]"];
+	"Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)"	[color=black,
+		label="Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)"	[color=green,
+		label="hasBrother [P97]"];
+	"Benigna
+[Q4305]
+<osoba>
+(córka Stanisława
+Leymitera)"	[color=black,
+		label="Benigna
+[Q4305]
+<osoba>
+(córka Stanisława
+Leymitera)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "Benigna
+[Q4305]
+<osoba>
+(córka Stanisława
+Leymitera)"	[color=green,
+		label="hasDaughter [P154]"];
+	"ławnik
+[NEW]
+<urząd>
+(ławnik w Krakowie)"	[color=black,
+		label="ławnik
+[NEW]
+<urząd>
+(ławnik w Krakowie)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "ławnik
+[NEW]
+<urząd>
+(ławnik w Krakowie)"	[color=green,
+		label="positionHeld [P101]"];
+	"podwójci
+[NEW]
+<urząd>
+(podwójci w ławie
+krakowskiej)"	[color=black,
+		label="podwójci
+[NEW]
+<urząd>
+(podwójci w ławie
+krakowskiej)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "podwójci
+[NEW]
+<urząd>
+(podwójci w ławie
+krakowskiej)"	[color=green,
+		label="positionHeld [P101]"];
+	"zainteresowania prawnicze
+[NEW]
+<osiągnięcie>
+(książki prawnicze wśród
+pozostałych po nim rzeczy)"	[color=black,
+		label="zainteresowania prawnicze
+[NEW]
+<osiągnięcie>
+(książki prawnicze wśród
+pozostałych po nim rzeczy)"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "zainteresowania prawnicze
+[NEW]
+<osiągnięcie>
+(książki prawnicze wśród
+pozostałych po nim rzeczy)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)" -> "1462-01-15"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"kupiec
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"cmentarz mariacki
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Mikołaj
+[NEW]
+<osoba>
+(ojciec Stanisława
+Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Benigna
+[Q4305]
+<osoba>
+(matka Stanisława
+Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Tesznar
+[NEW]
+<osoba>
+(brat Zofii Leymiterowej)"	[color=black,
+		label="Jan Tesznar
+[NEW]
+<osoba>
+(brat Zofii Leymiterowej)"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "Jan Tesznar
+[NEW]
+<osoba>
+(brat Zofii Leymiterowej)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jan Wierzynek
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"	[color=black,
+		label="Jan Wierzynek
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "Jan Wierzynek
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"	[color=green,
+		label="hasCousin [P99]"];
+	"Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"	[color=black,
+		label="Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)"	[color=green,
+		label="hasCousin [P99]"];
+	"dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<własność>
+(dom odziedziczony po
+rodzicach Stanisława
+Leymitera)"	[color=black,
+		label="dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<własność>
+(dom odziedziczony po
+rodzicach Stanisława
+Leymitera)"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<własność>
+(dom odziedziczony po
+rodzicach Stanisława
+Leymitera)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Zofia
+[NEW]
+<osoba>
+(żona Stanisława Leymitera)" -> "Jan Tesznar
+[NEW]
+<osoba>
+(ojciec Zofii Leymiterowej)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Jan
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stanisław
+[NEW]
+<osoba>
+(syn Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wincenty Beck
+[NEW]
+<osoba>
+(mąż Barbary)"	[color=black,
+		label="Wincenty Beck
+[NEW]
+<osoba>
+(mąż Barbary)"];
+	"Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)" -> "Wincenty Beck
+[NEW]
+<osoba>
+(mąż Barbary)"	[color=green,
+		label="hasHusband [P94]"];
+	"Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Barbara
+[NEW]
+<osoba>
+(córka Stanisława
+Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"rajca krakowski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"burmistrz
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dom przy ul. Brackiej w Krakowie
+[NEW]
+<nieruchomość>" -> "nieruchomość
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<nieruchomość>" -> "nieruchomość
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kram na rynku krakowskim
+[NEW]
+<nieruchomość>" -> "nieruchomość
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ścięcie
+[NEW]
+<przyczyna śmierci>" -> "przyczyna śmierci
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Uniwersytet Krakowski
+[NEW]
+<instytucja>
+(uczelnia, której
+wychowankiem był Mikołaj
+Leymiter)"	[color=black,
+		label="Uniwersytet Krakowski
+[NEW]
+<instytucja>
+(uczelnia, której
+wychowankiem był Mikołaj
+Leymiter)"];
+	"Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)" -> "Uniwersytet Krakowski
+[NEW]
+<instytucja>
+(uczelnia, której
+wychowankiem był Mikołaj
+Leymiter)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"kolegium artystów
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Mikołaj
+Leymiter)"	[color=black,
+		label="kolegium artystów
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Mikołaj
+Leymiter)"];
+	"Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)" -> "kolegium artystów
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Mikołaj
+Leymiter)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj Leymiter
+[NEW]
+<osoba>
+(brat Stanisława Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Tesznar
+[NEW]
+<osoba>
+(brat Zofii Leymiterowej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Wierzynek
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)" -> "Stanisław Leymiter
+[Q160144]
+<osoba>
+(kupiec i rajca krakowski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj Kreidler
+[NEW]
+<osoba>
+(spokrewniony z Zofią
+Leymiterową)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wincenty Beck
+[NEW]
+<osoba>
+(mąż Barbary)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Tretkop
+[NEW]
+<osoba>
+(mąż Benigny)"	[color=black,
+		label="Jan Tretkop
+[NEW]
+<osoba>
+(mąż Benigny)"];
+	"Benigna
+[Q4305]
+<osoba>
+(córka Stanisława
+Leymitera)" -> "Jan Tretkop
+[NEW]
+<osoba>
+(mąż Benigny)"	[color=green,
+		label="hasHusband [P94]"];
+	"Benigna
+[Q4305]
+<osoba>
+(córka Stanisława
+Leymitera)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Tretkop
+[NEW]
+<osoba>
+(mąż Benigny)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"ławnik
+[NEW]
+<urząd>
+(ławnik w Krakowie)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"podwójci
+[NEW]
+<urząd>
+(podwójci w ławie
+krakowskiej)" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zainteresowania prawnicze
+[NEW]
+<osiągnięcie>
+(książki prawnicze wśród
+pozostałych po nim rzeczy)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"dom przy ul. Grodzkiej w Krakowie
+[NEW]
+<własność>
+(dom odziedziczony po
+rodzicach Stanisława
+Leymitera)" -> "własność
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Uniwersytet Krakowski
+[NEW]
+<instytucja>
+(uczelnia, której
+wychowankiem był Mikołaj
+Leymiter)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kolegium artystów
+[NEW]
+<instytucja>
+(instytucja, której
+członkiem był Mikołaj
+Leymiter)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

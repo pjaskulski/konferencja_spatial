@@ -1,0 +1,454 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "prawdopodobnie Węgier z pochodzenia, osiadły w Killobe na Pomorzu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Barbara Niżyńska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Killobe",
+                "type": "miejscowość",
+                "description": "na Pomorzu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1564-07-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szlachectwo Rzeszy",
+                "type": "osiągnięcie",
+                "description": "nadane przez cesarza Karola V",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "firma bursztynowa",
+                "type": "własność",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Dorota Rosenberg",
+                "type": "osoba",
+                "description": "córka Michała Rosenberga",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Małgorzata Ottinghusen",
+                "type": "osoba",
+                "description": "córka Wessla Ottinghusena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Paweł Koene-Jaski (II)",
+                "type": "osoba",
+                "description": "rajca gdański",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Grzegorz Koene-Jaski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q157643"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jerzy Koene-Jaski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q157645"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Wittenberga",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "radca sądowy",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q16570206"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Koene-Jaski",
+                "type": "osoba",
+                "description": "kupiec gdański, właściciel firmy bursztynowej",
+                "wikihum": "Q157646"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Packenhaus",
+                "type": "instytucja",
+                "description": "szpital miejski, nad którym Paweł Koene-Jaski sprawował opiekę",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "bogaty księgozbiór",
+                "type": "własność",
+                "description": "przeszedł na własność biblioteki Rady Miejskiej w Gdańsku w XVII wieku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "piękny ekslibris",
+                "type": "własność",
+                "description": "jeden z najstarszych na terenie Polski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan",
+                "type": "osoba",
+                "description": "prawdopodobnie Węgier z pochodzenia, osiadły w Killobe na Pomorzu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Killobe",
+                "type": "miejscowość",
+                "description": "na Pomorzu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dorota Rosenberg",
+                "type": "osoba",
+                "description": "córka Michała Rosenberga",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Michał Rosenberg",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Małgorzata Ottinghusen",
+                "type": "osoba",
+                "description": "córka Wessla Ottinghusena",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Wessel Ottinghusen",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfEducation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wittenberga",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146885"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Koene-Jaski",
+                "type": "osoba",
+                "description": "studiował w Wittenberdze, radca sądowy w Królewcu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfWork",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Królewiec",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q146957"
+            }
+        }
+    ]
+}

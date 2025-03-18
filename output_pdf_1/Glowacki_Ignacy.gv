@@ -1,0 +1,322 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)"	[color=black,
+		label="Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)"];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "legionista
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "kapitan Wojska Polskiego
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "wstąpienie do wojska
+[NEW]
+<wydarzenie>
+(Wstąpienie do wojska w
+1783 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "oberfajerwerker
+[NEW]
+<osiągnięcie>
+(Stopień uzyskany podczas
+powstania
+kościuszkowskiego)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Wołoszczyzna
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Włochy
+[Q87834]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "pojmanie przez korsarzy algierskich
+[NEW]
+<wydarzenie>
+(Pojmanie przez korsarzy
+algierskich i wyzwolenie
+dzięki interwencji
+francuskiej)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Liworno
+[NEW]
+<miejscowość>
+(Port, w którym wylądował
+Ignacy Głowacki 1 grudnia
+1797 roku)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Rimini
+[NEW]
+<miejscowość>
+(Miejsce przydziału do
+artylerii legionowej)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Rzym
+[Q147390]
+<miejscowość>
+(Miejsce stacjonowania
+kompanii Ignacego
+Głowackiego latem 1798
+roku)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "obrona twierdzy Mantui
+[NEW]
+<osiągnięcie>
+(Odznaczenie się przy
+obronie twierdzy Mantui w
+kampanii 1799 roku)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Leoben
+[NEW]
+<miejscowość>
+(Miejsce niewoli
+austriackiej Ignacego
+Głowackiego po
+kapitulacji twierdzy
+Mantui)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Graz
+[NEW]
+<miejscowość>
+(Miejsce niewoli
+austriackiej Ignacego
+Głowackiego po
+kapitulacji twierdzy
+Mantui)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "wydalenie z Legionów
+[NEW]
+<wydarzenie>
+(Wydalenie z Legionów 23
+maja 1801 roku za
+zerwanie szlif kapitanowi
+Szubertowi)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "kapitan 6 pułku jazdy galicyjsko-francuskiej
+[NEW]
+<wydarzenie>
+(Pojawienie się jako
+kapitan 6 pułku jazdy
+galicyjsko-francuskiej \
+5
+czerwca 1809 roku)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "przeniesienie do Korpusu weteranów i inwalidów
+[NEW]
+<wydarzenie>
+(Przeniesienie do Korpusu
+weteranów i inwalidów
+jako kapitan \
+III klasy 9
+grudnia 1811 roku ze
+względu na zły stan
+zdrowia)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "1770-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "1815-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Konstantynopol
+[Q147685]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "próba przedostania się do Włoch
+[NEW]
+<wydarzenie>
+(Próba przedostania się
+statkiem do Włoch, gdzie
+formowały się Legiony
+\
+Dąbrowskiego.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "interwencja francuska
+[NEW]
+<wydarzenie>
+(Wyzwolenie Ignacego
+Głowackiego dzięki
+interwencji francuskiej
+po pojmaniu przez
+korsarzy \
+algierskich.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "awans na porucznika artylerii
+[NEW]
+<wydarzenie>
+(Awans Ignacego
+Głowackiego na porucznika
+artylerii po powrocie z
+niewoli austriackiej.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "Podole
+[Q66969]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)" -> "wejście do VI batalionu piechoty legionowej
+[NEW]
+<wydarzenie>
+(Wejście Ignacego
+Głowackiego do VI
+batalionu piechoty
+legionowej \
+po rozwiązaniu
+artylerii.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Wojciech Bartosz Głowacki
+[NEW]
+<osoba>
+(bohater spod Racławic)"	[color=black,
+		label="Wojciech Bartosz Głowacki
+[NEW]
+<osoba>
+(bohater spod Racławic)"];
+	"Wojciech Bartosz Głowacki
+[NEW]
+<osoba>
+(bohater spod Racławic)" -> "Ignacy Głowacki
+[Q153552]
+<osoba>
+(legionista i kapitan
+Wojska Polskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wojciech Bartosz Głowacki
+[NEW]
+<osoba>
+(bohater spod Racławic)" -> "bohater spod Racławic
+[NEW]
+<osiągnięcie>
+(Bohater spod Racławic)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+}

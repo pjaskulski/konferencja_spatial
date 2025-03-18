@@ -1,0 +1,150 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)"	[color=black,
+		label="Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)"];
+	"Władysław Łokietek
+[NEW]
+<osoba>"	[color=black,
+		label="Władysław Łokietek
+[NEW]
+<osoba>"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Władysław Łokietek
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]"];
+	"Kazimierz
+[Q156973]
+<osoba>
+(ks. kujawski)"	[color=black,
+		label="Kazimierz
+[Q156973]
+<osoba>
+(ks. kujawski)"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156973]
+<osoba>
+(ks. kujawski)"	[color=green,
+		label="hasHusband [P94]"];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "księżna
+[NEW]
+<tytuł szlachecki>"	[color=green,
+		label="nobleTitle [NEW]",
+		minlen=1];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156972]
+<osoba>
+(ks. opolski)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Kazimierz
+[Q156973]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Ziemowit
+[Q174869]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Mszczuj II
+[NEW]
+<osoba>
+(ks. pomorski)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "1292-11-04
+(ks. kujawska, potem
+pomorska)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "Kujawy
+[Q47820]
+<miejscowość>
+(Eufrozyna osiadła na
+Kujawach po unieważnieniu
+małżeństwa.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "przed 1229
+(ks. kujawska, potem
+pomorska)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Eufrozyna
+[Q152430]
+<osoba>
+(ks. kujawska, potem
+pomorska)" -> "unieważnienie małżeństwa z Mszczujem II
+[NEW]
+<wydarzenie>
+(Małżeństwo zostało
+unieważnione 13 maja 1288
+roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Władysław Łokietek
+[NEW]
+<osoba>" -> "dwór matki i ojczyma
+[NEW]
+<miejsce>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Kazimierz
+[Q156973]
+<osoba>
+(ks. kujawski)" -> "1267-12-14
+(ks. kujawski)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+}

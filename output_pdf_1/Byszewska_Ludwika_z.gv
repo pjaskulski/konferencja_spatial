@@ -1,0 +1,315 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)"	[color=black,
+		label="Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)"];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(Szambelan dworu i
+pułkownik, później
+generał-major wojsk
+koronnych.)"	[color=black,
+		label="Józef Byszewski
+[NEW]
+<osoba>
+(Szambelan dworu i
+pułkownik, później
+generał-major wojsk
+koronnych.)"];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Józef Byszewski
+[NEW]
+<osoba>
+(Szambelan dworu i
+pułkownik, później
+generał-major wojsk
+koronnych.)"	[color=green,
+		label="hasHusband [P94]"];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Antoni Gintowt
+[NEW]
+<osoba>
+(Ojciec Ludwiki
+Byszewskiej, miecznik
+bełski.)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "1774-00-00"	[color=green,
+		label="dateOfMarriage [NEW]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "O edukacji fizycznej i moralnej płci żeńskiej
+[NEW]
+<dzieło>
+(Traktat ogłoszony drukiem
+w 1789 roku, przełożony z
+francuskiego.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Franciszek Karpiński
+[Q156798]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Joachim Gintowt
+[NEW]
+<osoba>
+(Sekretarz Komisji
+Edukacji Narodowej.)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Stanisław August
+[Q172354]
+<osoba>
+(Król Polski.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Kanclerz Sapieha
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Biskup Massalski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Jan Śniadecki
+[NEW]
+<osoba>
+(Wysłannik Szkoły Głównej.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Tomasz Aleksandrowicz
+[NEW]
+<osoba>
+(Wojewoda podlaski.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Sievers
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Repnin
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Rudka i Mierzwica
+[NEW]
+<miejscowość>
+(Wsie podlaskie, które
+Józef Byszewski otrzymał
+przywilejem królewskim.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "Fajsławice
+[Q30768]
+<miejscowość>
+(Dobra w województwie
+lubelskim, które Ludwika
+Byszewska otrzymała po
+rozwodzie.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "wsie w województwie krakowskim
+[NEW]
+<miejscowość>
+(Wsie niegdyś zakonne,
+które Ludwika Byszewska
+otrzymała po rozwodzie.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "proces o królewszczyznę Lachowicze
+[NEW]
+<wydarzenie>
+(Proces majątkowy
+dotyczący królewszczyzny
+Lachowicze w województwie
+\
+nowogródzkim.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "proces z Tomaszem Aleksandrowiczem
+[NEW]
+<wydarzenie>
+(Proces o królewszczyzny
+Rudkę i Mierzwicę, który
+zakończył się w 1798
+\
+roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=1];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "sprawa z Szkołą Główną krakowską
+[NEW]
+<wydarzenie>
+(Sprawa o dzierżawę dóbr w
+opactwie miechowskim.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)" -> "folwark Lisa
+[NEW]
+<miejscowość>
+(Folwark pod Brańskiem,
+gdzie Ludwika Byszewska
+osiadła po wyjeździe z
+Warszawy.)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=3];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(Szambelan dworu i
+pułkownik, później
+generał-major wojsk
+koronnych.)" -> "Ludwika Byszewska
+[Q150212]
+<osoba>
+(Ludwika z Gintowtów-
+Dziewiałtowskich, h.
+Trąby, urodzona ok. 1758
+roku.)"	[color=green,
+		label="hasWife [P94]"];
+	"Józef Byszewski
+[NEW]
+<osoba>
+(Szambelan dworu i
+pułkownik, później
+generał-major wojsk
+koronnych.)" -> "1792-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+}

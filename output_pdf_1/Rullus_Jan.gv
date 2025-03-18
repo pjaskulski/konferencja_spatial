@@ -1,0 +1,712 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)"	[color=black,
+		label="Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)"];
+	"Kraków
+[Q46043]
+<miejscowość>"	[color=black,
+		label="Kraków
+[Q46043]
+<miejscowość>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Wrocław
+[Q89424]
+<miejscowość>"	[color=black,
+		label="Wrocław
+[Q89424]
+<miejscowość>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wrocław
+[Q89424]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Sebastian Puschel
+[NEW]
+<osoba>"	[color=black,
+		label="Sebastian Puschel
+[NEW]
+<osoba>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Sebastian Puschel
+[NEW]
+<osoba>"	[color=green,
+		label="hasCousin [P99]"];
+	"Uniwersytet Wiedeński
+[NEW]
+<instytucja>"	[color=black,
+		label="Uniwersytet Wiedeński
+[NEW]
+<instytucja>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Uniwersytet Wiedeński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Walentyn Eck
+[NEW]
+<osoba>"	[color=black,
+		label="Walentyn Eck
+[NEW]
+<osoba>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Walentyn Eck
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Leonard Cox
+[Q150813]
+<osoba>"	[color=black,
+		label="Leonard Cox
+[Q150813]
+<osoba>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Leonard Cox
+[Q150813]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Erazm z Rotterdamu
+[NEW]
+<osoba>"	[color=black,
+		label="Erazm z Rotterdamu
+[NEW]
+<osoba>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Erazm z Rotterdamu
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Krakowski ośrodek wydawniczy
+[NEW]
+<instytucja>"	[color=black,
+		label="Krakowski ośrodek wydawniczy
+[NEW]
+<instytucja>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Krakowski ośrodek wydawniczy
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu
+[NEW]
+<urząd>"	[color=black,
+		label="Rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu
+[NEW]
+<urząd>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Akademia Lubrańskiego w Poznaniu
+[NEW]
+<instytucja>"	[color=black,
+		label="Akademia Lubrańskiego w Poznaniu
+[NEW]
+<instytucja>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Akademia Lubrańskiego w Poznaniu
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Wrocławska rada miejska
+[NEW]
+<instytucja>"	[color=black,
+		label="Wrocławska rada miejska
+[NEW]
+<instytucja>"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wrocławska rada miejska
+[NEW]
+<instytucja>"	[color=green,
+		label="hasAssets [NEW]"];
+	"Wissemburg
+[NEW]
+<miejscowość>
+(miejscowość w Alzacji)"	[color=black,
+		label="Wissemburg
+[NEW]
+<miejscowość>
+(miejscowość w Alzacji)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wissemburg
+[NEW]
+<miejscowość>
+(miejscowość w Alzacji)"	[color=green,
+		label="hasOrigin [NEW]"];
+	"Andrzej Trzecieski starszy
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Andrzej Trzecieski starszy
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Andrzej Trzecieski starszy
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Antoninus
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jan Antoninus
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Antoninus
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Anzelm Ephorinus
+[Q152371]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Anzelm Ephorinus
+[Q152371]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Anzelm Ephorinus
+[Q152371]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jost Ludwik Decjusz
+[Q151367]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jost Ludwik Decjusz
+[Q151367]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jost Ludwik Decjusz
+[Q151367]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Andrzej Winkler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Andrzej Winkler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Andrzej Winkler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Antoni Mela
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Antoni Mela
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Antoni Mela
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Metzler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jan Metzler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Metzler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Klemens Borek
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Klemens Borek
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Klemens Borek
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Maciej Przybyło
+[Q167160]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Maciej Przybyło
+[Q167160]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Maciej Przybyło
+[Q167160]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Lang
+[Q159765]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jan Lang
+[Q159765]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Lang
+[Q159765]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jerzy Werner
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jerzy Werner
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jerzy Werner
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Andrzej Schroeter
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Andrzej Schroeter
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Andrzej Schroeter
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jan Wencki
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Jan Wencki
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Jan Wencki
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wawrzyniec Just
+[Q156376]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=black,
+		label="Wawrzyniec Just
+[Q156376]
+<osoba>
+(przyjaciel Rullusa Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "Wawrzyniec Just
+[Q156376]
+<osoba>
+(przyjaciel Rullusa Jana)"	[color=green,
+		label="significantFigure [P100]"];
+	"zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<przedmiot>
+(pokaźny zbiór druków i
+kodeksów rękopiśmiennych
+zgromadzony \
+przez Rullusa
+Jana)"	[color=black,
+		label="zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<przedmiot>
+(pokaźny zbiór druków i
+kodeksów rękopiśmiennych
+zgromadzony \
+przez Rullusa
+Jana)"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<przedmiot>
+(pokaźny zbiór druków i
+kodeksów rękopiśmiennych
+zgromadzony \
+przez Rullusa
+Jana)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<przedmiot>
+(pokaźny zbiór druków i
+kodeksów rękopiśmiennych
+zgromadzony \
+przez Rullusa
+Jana)"	[color=green,
+		label="hasAssets [NEW]"];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "1532-06-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Jan Rullus
+[Q168989]
+<osoba>
+(humanista, pedagog,
+bibliofil)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Kraków
+[Q46043]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wrocław
+[Q89424]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Sebastian Puschel
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Uniwersytet Wiedeński
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Walentyn Eck
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Leonard Cox
+[Q150813]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Erazm z Rotterdamu
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krakowski ośrodek wydawniczy
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Akademia Lubrańskiego w Poznaniu
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wrocławska rada miejska
+[NEW]
+<instytucja>" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wissemburg
+[NEW]
+<miejscowość>
+(miejscowość w Alzacji)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Matka Rullusa Jana
+[NEW]
+<osoba>
+(matka Rullusa Jana)"	[color=black,
+		label="Matka Rullusa Jana
+[NEW]
+<osoba>
+(matka Rullusa Jana)"];
+	"Legnica
+[Q48846]
+<miejscowość>
+(miejscowość w Polsce)"	[color=black,
+		label="Legnica
+[Q48846]
+<miejscowość>
+(miejscowość w Polsce)"];
+	"Matka Rullusa Jana
+[NEW]
+<osoba>
+(matka Rullusa Jana)" -> "Legnica
+[Q48846]
+<miejscowość>
+(miejscowość w Polsce)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Matka Rullusa Jana
+[NEW]
+<osoba>
+(matka Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Legnica
+[Q48846]
+<miejscowość>
+(miejscowość w Polsce)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Trzecieski starszy
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Antoninus
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Anzelm Ephorinus
+[Q152371]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jost Ludwik Decjusz
+[Q151367]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Winkler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antoni Mela
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Metzler
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Klemens Borek
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maciej Przybyło
+[Q167160]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Lang
+[Q159765]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jerzy Werner
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Andrzej Schroeter
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Wencki
+[NEW]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wawrzyniec Just
+[Q156376]
+<osoba>
+(przyjaciel Rullusa Jana)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"zbiór druków i kodeksów rękopiśmiennych
+[NEW]
+<przedmiot>
+(pokaźny zbiór druków i
+kodeksów rękopiśmiennych
+zgromadzony \
+przez Rullusa
+Jana)" -> "przedmiot
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

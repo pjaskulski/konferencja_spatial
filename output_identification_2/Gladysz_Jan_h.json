@@ -1,0 +1,203 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "rycerz z drobnej szlachty sądeckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kazimierz Wielki",
+                "type": "osoba",
+                "description": "król Polski",
+                "wikihum": "Q156969"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wieś Łosie i latyfundium",
+                "type": "własność",
+                "description": "nadanie od Kazimierza Wielkiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": "urząd związany z zarządzaniem kopalniami soli",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, pierwszy starosta spiski w Lubowli",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "bachmistrz bocheński",
+                "type": "urząd",
+                "description": "urząd związany z zarządzaniem kopalniami soli",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "syn Gładysza Jana, pierwszy starosta spiski w Lubowli",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starosta spiski w Lubowli",
+                "type": "urząd",
+                "description": "pierwszy starosta spiski w Lubowli w 1413 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dwór warowny w Szymbarku",
+                "type": "obiekt fizjograficzny",
+                "description": "siedziba rodu Gładyszów, istniejąca od XIV wieku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Mikołaj Gładysz",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Piotr Gładysz",
+                "type": "osoba",
+                "description": "syn Gładysza Jana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gładysz Jan",
+                "type": "osoba",
+                "description": "podrzędczy sądecki, bachmistrz bocheński",
+                "wikihum": "Q153521"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wieś Brzyście",
+                "type": "miejscowość",
+                "description": "wymieniona na urząd bachmistrza bocheńskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paweł Gładysz",
+                "type": "osoba",
+                "description": "rycerz z drobnej szlachty sądeckiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": "rycerz z drobnej szlachty sądeckiej",
+                "wikihum": "NEW",
+                "wikidata": "Q19166189"
+            }
+        }
+    ]
+}

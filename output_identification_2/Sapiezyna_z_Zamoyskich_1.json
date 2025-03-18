@@ -1,0 +1,542 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Dobroczynności św. Wincentego a Paulo",
+                "type": "organizacja",
+                "description": "organizacja dobroczynna we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szpital dziecięcy św. Zofii",
+                "type": "instytucja",
+                "description": "szpital dziecięcy we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Dom Opatrzności",
+                "type": "instytucja",
+                "description": "przytułek dla żebraków we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Dobroczynności w Przemyślu",
+                "type": "organizacja",
+                "description": "organizacja dobroczynna w Przemyślu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "katolickie Stowarzyszenie Rękodzielnicze «Skała»",
+                "type": "organizacja",
+                "description": "stowarzyszenie rękodzielnicze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Leon Sapieha",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q169733"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Stanisław Zamoyski",
+                "type": "osoba",
+                "description": "prezes Senatu Królestwa Kongresowego, ordynat",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Zofia z Czartoryskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasGrandfather",
+                "wikihum": "P91"
+            },
+            "object": {
+                "name": "Adam Kazimierz Czartoryski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151024"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Władysław Zamoyski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Celina Działyńska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Adam Sapieha",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q169682"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Krasiczyn",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46092"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krasiczyn",
+                "type": "miejscowość",
+                "description": "groby rodzinne",
+                "wikihum": "Q46092"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Podzamcze",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q67269"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1890-03-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1806-07-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jakub Fałkowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q152491"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Korzeniowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q158195"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Franciszek Lessel",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q160003"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dama honorowa cesarzowej",
+                "type": "osiągnięcie",
+                "description": "z cyfrą",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "rozdawnictwo zupy rumfordzkiej",
+                "type": "dzieło",
+                "description": "działalność dobroczynna we Lwowie w głodowych latach",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "organizacja domów dla sierot i potrzebujących",
+                "type": "dzieło",
+                "description": "działalność dobroczynna we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "organizacja wydarzeń charytatywnych",
+                "type": "dzieło",
+                "description": "kwesty, loterie fantowe, koncerty, festyny, wenty i bazary we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "organizacja pomocy w Przemyślu",
+                "type": "dzieło",
+                "description": "działalność dobroczynna w Przemyślu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "organizacja szpitala dla rannych powstańców",
+                "type": "dzieło",
+                "description": "działalność dobroczynna w Krasiczynie w 1863 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Sapieżyna z Zamoyskich",
+                "type": "osoba",
+                "description": "filantropka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "opieka nad szpitalami w Cieszanowie",
+                "type": "dzieło",
+                "description": "działalność dobroczynna w Cieszanowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Zamoyski",
+                "type": "osoba",
+                "description": "prezes Senatu Królestwa Kongresowego, ordynat",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezes Senatu Królestwa Kongresowego",
+                "type": "urząd",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Fałkowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jakub Fałkowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q152491"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Korzeniowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q158195"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Korzeniowski",
+                "type": "osoba",
+                "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich",
+                "wikihum": "Q158195"
+            }
+        }
+    ]
+}

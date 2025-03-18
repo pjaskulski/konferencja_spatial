@@ -1,0 +1,385 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)"	[color=black,
+		label="Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "1872-09-29"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "1938-05-03"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]"];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Henryk Dynowski
+[Q152059]
+<osoba>
+(Ojciec Marii Dynowskiej,
+profesor gimnazjum.)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Franciszka z Brudnickich
+[NEW]
+<osoba>
+(Matka Marii Dynowskiej.)"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Jadwiga Dynowska
+[NEW]
+<osoba>
+(Siostra Marii Dynowskiej,
+malarka.)"	[color=green,
+		label="hasSister [P97]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Polski Słownik Biograficzny
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Stronnictwo Narodowe
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Narodowa Organizacja Kobiet
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Podręcznik do historii literatury polskiej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Korespondencja Józefa Ignacego Kraszewskiego i Leopolda Kronenberga
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Polska w zwyczaju i obyczaju
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Dylu dylu na badylu
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Skarbiec poezji polskiej
+[NEW]
+<dzieło>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Karolina Stolzenwald
+[NEW]
+<osoba>
+(Znana działaczka i
+filantropka warszawska.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Antoni Bądzkiewicz
+[Q148923]
+<osoba>
+(Polonista, który obudził
+w Marii Dynowskiej
+zamiłowanie do
+literatury.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Piotr Chmielowski
+[Q150464]
+<osoba>
+(Jeden z najwybitniejszych
+uczonych warszawskich,
+wykładowca na
+'uniwersytecie
+latającym'.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Uniwersytet Latający
+[NEW]
+<instytucja>
+(Instytucja edukacyjna,
+gdzie wykładali
+najwybitniejsi uczeni
+warszawscy.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Szkoła Techniczna kolei terespolskiej
+[NEW]
+<instytucja>
+(Instytucja edukacyjna,
+gdzie Maria Dynowska
+brała lekcje od
+profesorów.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>
+(Znana uczelnia w
+Krakowie, która wydała
+prace Marii Dynowskiej.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Pamiętnik Literacki
+[NEW]
+<instytucja>
+(Czasopismo literackie,
+gdzie Maria Dynowska
+opublikowała swoją
+pierwszą rozprawę
+naukową.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "Rok Polski
+[NEW]
+<instytucja>
+(Czasopismo, w którym
+Maria Dynowska
+opublikowała szkic
+literacki o liryce
+Konopnickiej.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "sekretarka redakcji
+[NEW]
+<zawód>
+(Stanowisko zajmowane
+przez Marię Dynowską w
+Roku Polskim.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "założenie 'sali zajęć' dla chłopców z ulicy
+[NEW]
+<wydarzenie>
+(Inicjatywa założona przez
+Marię Dynowską w czasie
+pierwszej \
+rewolucji
+rosyjskiej.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "nauczanie na tajnych kursach języka i literatury polskiej
+[NEW]
+<wydarzenie>
+(Działalność edukacyjna
+prowadzona przez Marię
+\
+Dynowską w czasie
+pierwszej rewolucji
+rosyjskiej.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "wiceprzewodnicząca Narodowej Organizacji Kobiet
+[NEW]
+<zawód>
+(Stanowisko zajmowane
+przez Marię Dynowską w
+Narodowej Organizacji
+\
+Kobiet.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "kandydowanie do Sejmu
+[NEW]
+<wydarzenie>
+(Wydarzenie związane z
+działalnością polityczną
+Marii Dynowskiej w 1930
+roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Maria Dynowska
+[Q1591]
+<osoba>
+(Urodzona w 1872, zmarła w
+1938, działaczka
+społeczna i literacka.)" -> "aresztowanie po wygłoszeniu mowy programowej
+[NEW]
+<wydarzenie>
+(Wydarzenie związane z
+działalnością polityczną
+Marii Dynowskiej \
+w 1930
+roku.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+}

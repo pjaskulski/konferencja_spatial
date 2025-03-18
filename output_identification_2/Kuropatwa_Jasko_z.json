@@ -1,0 +1,295 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan zawichojski",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Jaśka Kuropatwę w latach 1412-1417.",
+                "wikihum": "NEW",
+                "wikidata": "Q64884085"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Przybek z Grodziny i Opatkowic",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Piotr Kuropatwa",
+                "type": "osoba",
+                "description": "kanonik krakowski i kustosz gnieźnieński, zm. przed 1406",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Przybek Kuropatwa",
+                "type": "osoba",
+                "description": "łożniczy królewski, zm. po 1420",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Machna z Mokrska",
+                "type": "osoba",
+                "description": "siostrzenica bezdzietnego Pakosza ze Żmigrodu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan Kuropatwa z Łańcuchowa",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Elżbieta z Widuchowej",
+                "type": "osoba",
+                "description": "wdowa po Jaśku Kuropatwie, żyła w 1421 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starosta",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Jaśka Kuropatwę w 1392 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q9344187"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "łowczy",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Jaśka Kuropatwę w 1400 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia ziemski lubelski",
+                "type": "urząd",
+                "description": "Urząd pełniony przez Jaśka Kuropatwę w 1403 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q65725803"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Śreniawici",
+                "type": "organizacja",
+                "description": "Ród, który reprezentował Jaśko Kuropatwa.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "unia horodelska",
+                "type": "wydarzenie",
+                "description": "Akt unii horodelskiej poświadczony przez Jaśka Kuropatwę.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "owns",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Łańcuchów",
+                "type": "miejscowość",
+                "description": "Wieś w powiecie chełmskim kupiona przez Jaśka Kuropatwę.",
+                "wikihum": "Q51014"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "holdsInPledge",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Stary Żmigród",
+                "type": "miejscowość",
+                "description": "Miejscowość objęta w zastaw przez Jaśka Kuropatwę w 1397 roku.",
+                "wikihum": "Q78879"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "represents",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Śreniawici",
+                "type": "ród",
+                "description": "Ród reprezentowany przez Jaśka Kuropatwę.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaśko Kuropatwa z Grodziny i Łańcuchowa",
+                "type": "osoba",
+                "description": "kasztelan zawichojski, zm. przed 1421",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "akt zbratania szlachty polskiej z bojarstwem litewskim",
+                "type": "wydarzenie",
+                "description": "Akt przypieczętowany przez Jaśka Kuropatwę.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

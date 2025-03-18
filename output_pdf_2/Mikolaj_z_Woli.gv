@@ -1,0 +1,75 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)"	[color=black,
+		label="Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "kasztelan kruszwicki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "starosta kujawski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "1346-10-31
+(Data śmierci jest
+niepewna, możliwy rok to
+1346 lub 1347.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "Maciej z Gołańczy
+[Q161002]
+<osoba>
+(biskup, który wykupił
+Mikołaja z Woli z niewoli)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "podkomorzy brzeski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "asesor sądu ziemskiego
+[NEW]
+<zawód>
+(w Inowrocławiu w 1341
+roku)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+}

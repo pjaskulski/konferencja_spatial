@@ -1,0 +1,646 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)"	[color=black,
+		label="Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)"];
+	"działacz rewolucyjny
+[NEW]
+<zawód>"	[color=black,
+		label="działacz rewolucyjny
+[NEW]
+<zawód>"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "działacz rewolucyjny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]"];
+	"Warszawa
+[Q85566]
+<miejscowość>"	[color=black,
+		label="Warszawa
+[Q85566]
+<miejscowość>"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"	[color=black,
+		label="Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)"	[color=green,
+		label="hasFather [P92]"];
+	"Nerczyński Zawód
+[NEW]
+<miejscowość>"	[color=black,
+		label="Nerczyński Zawód
+[NEW]
+<miejscowość>"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Nerczyński Zawód
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"skazanie na katorgę
+[NEW]
+<wydarzenie>
+(Wyrok 12 lat katorgi
+obniżony do 4 lat przez
+Paskiewicza)"	[color=black,
+		label="skazanie na katorgę
+[NEW]
+<wydarzenie>
+(Wyrok 12 lat katorgi
+obniżony do 4 lat przez
+Paskiewicza)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "skazanie na katorgę
+[NEW]
+<wydarzenie>
+(Wyrok 12 lat katorgi
+obniżony do 4 lat przez
+Paskiewicza)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Sas
+[Q170203]
+<osoba>
+(pseudonim Wilhelma
+Klopffleisch)"	[color=black,
+		label="Sas
+[Q170203]
+<osoba>
+(pseudonim Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Sas
+[Q170203]
+<osoba>
+(pseudonim Wilhelma
+Klopffleisch)"	[color=green,
+		label="hasAlias [NEW]"];
+	"gimnazjum
+[NEW]
+<instytucja>
+(miejsce ukończenia
+edukacji przez Wilhelma
+Klopffleisch)"	[color=black,
+		label="gimnazjum
+[NEW]
+<instytucja>
+(miejsce ukończenia
+edukacji przez Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "gimnazjum
+[NEW]
+<instytucja>
+(miejsce ukończenia
+edukacji przez Wilhelma
+Klopffleisch)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"pracownik techniczny
+[NEW]
+<zawód>
+(zawód wykonywany przez
+Wilhelma Klopffleisch)"	[color=black,
+		label="pracownik techniczny
+[NEW]
+<zawód>
+(zawód wykonywany przez
+Wilhelma Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "pracownik techniczny
+[NEW]
+<zawód>
+(zawód wykonywany przez
+Wilhelma Klopffleisch)"	[color=green,
+		label="hasOccupation [P106]"];
+	"fabryka maszyn na Solcu
+[NEW]
+<miejscowość>
+(miejsce związane z
+działalnością Wilhelma
+Klopffleisch)"	[color=black,
+		label="fabryka maszyn na Solcu
+[NEW]
+<miejscowość>
+(miejsce związane z
+działalnością Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "fabryka maszyn na Solcu
+[NEW]
+<miejscowość>
+(miejsce związane z
+działalnością Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Wrocław
+[Q89424]
+<miejscowość>
+(miejsce delegacji
+Wilhelma Klopffleisch)"	[color=black,
+		label="Wrocław
+[Q89424]
+<miejscowość>
+(miejsce delegacji
+Wilhelma Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Wrocław
+[Q89424]
+<miejscowość>
+(miejsce delegacji
+Wilhelma Klopffleisch)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Narcyz Tchórzewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Narcyz Tchórzewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Narcyz Tchórzewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Romuald Świerzbiński
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Romuald Świerzbiński
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Romuald Świerzbiński
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Henryk Krajewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Henryk Krajewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Henryk Krajewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Władysław Dzwonkowski
+[Q152227]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Władysław Dzwonkowski
+[Q152227]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Władysław Dzwonkowski
+[Q152227]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Karol Libelt
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Karol Libelt
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Karol Libelt
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Antonina Lissowska
+[Q160326]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Antonina Lissowska
+[Q160326]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Antonina Lissowska
+[Q160326]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"A. Skimborowiczowa
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="A. Skimborowiczowa
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "A. Skimborowiczowa
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Józef Wysocki
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Józef Wysocki
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Józef Wysocki
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Natalis Sulerzyski
+[Q173587]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Natalis Sulerzyski
+[Q173587]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Natalis Sulerzyski
+[Q173587]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Ignacy Łyskowski
+[Q160951]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Ignacy Łyskowski
+[Q160951]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Ignacy Łyskowski
+[Q160951]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Ludwik Bulewski
+[Q150116]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Ludwik Bulewski
+[Q150116]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Ludwik Bulewski
+[Q150116]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Paweł Darasz
+[Q151256]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=black,
+		label="Paweł Darasz
+[Q151256]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "Paweł Darasz
+[Q151256]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)"	[color=green,
+		label="significantFigure [P100]"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> 1856	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Wilhelm Klopffleisch
+[Q157376]
+<osoba>
+(działacz rewolucyjny
+warszawski, sybirak)" -> "1826
+(działacz rewolucyjny
+warszawski, sybirak)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"działacz rewolucyjny
+[NEW]
+<zawód>" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Warszawa
+[Q85566]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Klopffleisch
+[NEW]
+<osoba>
+(właściciel browaru na
+Nowym Świecie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nerczyński Zawód
+[NEW]
+<miejscowość>" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"skazanie na katorgę
+[NEW]
+<wydarzenie>
+(Wyrok 12 lat katorgi
+obniżony do 4 lat przez
+Paskiewicza)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Sas
+[Q170203]
+<osoba>
+(pseudonim Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"gimnazjum
+[NEW]
+<instytucja>
+(miejsce ukończenia
+edukacji przez Wilhelma
+Klopffleisch)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"pracownik techniczny
+[NEW]
+<zawód>
+(zawód wykonywany przez
+Wilhelma Klopffleisch)" -> "zawód
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"fabryka maszyn na Solcu
+[NEW]
+<miejscowość>
+(miejsce związane z
+działalnością Wilhelma
+Klopffleisch)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wrocław
+[Q89424]
+<miejscowość>
+(miejsce delegacji
+Wilhelma Klopffleisch)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Narcyz Tchórzewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Romuald Świerzbiński
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Henryk Krajewski
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Władysław Dzwonkowski
+[Q152227]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Karol Libelt
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Antonina Lissowska
+[Q160326]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"A. Skimborowiczowa
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Józef Wysocki
+[NEW]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Natalis Sulerzyski
+[Q173587]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ignacy Łyskowski
+[Q160951]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Ludwik Bulewski
+[Q150116]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Paweł Darasz
+[Q151256]
+<osoba>
+(współpracownik Wilhelma
+Klopffleisch)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

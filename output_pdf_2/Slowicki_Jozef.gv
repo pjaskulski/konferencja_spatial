@@ -1,0 +1,248 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)"	[color=black,
+		label="Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)"];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Rostoka
+[NEW]
+<miejscowość>
+(wieś w obwodzie
+krasnostawskim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Zagrzeb
+[Q146556]
+<miejscowość>
+(miejsce śmierci Józefa
+Słowickiego)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=2];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "1847
+(rok śmierci Józefa
+Słowickiego)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Józef
+[Q4654]
+<osoba>
+(rolnik i duchowny
+grekokatolicki, ojciec
+Józefa Słowickiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=4];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Uniwersytet Warszawski
+[NEW]
+<instytucja>
+(miejsce studiów Józefa
+Słowickiego)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "podporucznik
+[NEW]
+<stopień wojskowy>
+(stopień wojskowy Józefa
+Słowickiego)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=2];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "publicysta
+[NEW]
+<zawód>
+(zawód Józefa Słowickiego)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "emigrant
+[NEW]
+<zawód>
+(zawód Józefa Słowickiego)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "powstaniec
+[NEW]
+<zawód>
+(zawód Józefa Słowickiego)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Czas
+[NEW]
+<czasopismo>
+(czasopismo, z którym
+współpracował Józef
+Słowicki)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Demokrata Polski
+[NEW]
+<czasopismo>
+(czasopismo, z którym
+współpracował Józef
+Słowicki)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Towarzystwo Demokratyczne Polskie
+[NEW]
+<organizacja>
+(organizacja, do której
+należał Józef Słowicki)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Komisja Centralna Polaków w dep. des Landes
+[NEW]
+<organizacja>
+(organizacja, z którą był
+związany Józef Słowicki)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Komisja Korespondencyjna
+[NEW]
+<organizacja>
+(organizacja, z którą był
+związany Józef Słowicki)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Pismo TDP
+[NEW]
+<czasopismo>
+(publikacja, z którą był
+związany Józef Słowicki)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "Środki rewolucyjne
+[NEW]
+<dzieło>
+(rozprawa Józefa
+Słowickiego)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Lublin)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "bitwy pod Rudkami, Tykocinem, Ostrołęką, obrona Warszawy
+[NEW]
+<wydarzenie>
+(bitwy, w których
+uczestniczył Józef
+Słowicki \
+podczas
+powstania listopadowego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "sekretarz Komisji Centralnej Polaków w dep. des Landes
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Józefa Słowickiego)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "członek Centralizacji TDP
+[NEW]
+<urząd>
+(funkcja pełniona przez
+Józefa Słowickiego)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Józef Słowicki
+[Q171351]
+<osoba>
+(powstaniec 1830/31 r.,
+emigrant, publicysta)" -> "ekspedytor parowozów
+[NEW]
+<zawód>
+(praca Józefa Słowickiego
+w lokomotywowni w
+Cherbourgu)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+}

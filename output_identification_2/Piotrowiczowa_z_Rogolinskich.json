@@ -1,0 +1,256 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Ansberta z Badeńskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ciosy bagnetów i pik kozackich",
+                "type": "przyczyna śmierci",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "dateOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1863-02-28",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Radogoszcz (Dobra?)",
+                "type": "miejscowość",
+                "description": "pod Łodzią",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "we wsi Chocianowice",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zygmunt Rogoliński",
+                "type": "osoba",
+                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra w okolicach Łęczycy",
+                "type": "majątek",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Sawicki i Józef Dworzaczek",
+                "type": "osoby",
+                "description": "dowódcy partii powstańczej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ulica imienia Marii Piotrowiczowej",
+                "type": "osiągnięcie",
+                "description": "w Łodzi",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maria Piotrowiczowa",
+                "type": "osoba",
+                "description": "uczestniczka powstania styczniowego",
+                "wikihum": "Q165832"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "narodowa organizacja łódzka",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstanty Piotrowicz",
+                "type": "osoba",
+                "description": "nauczyciel we wsi Chocianowice",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "szpital",
+                "type": "obiekt fizjograficzny",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q33236693"
+            }
+        }
+    ]
+}

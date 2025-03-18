@@ -1,0 +1,361 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lublin",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q50436"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1700-09-29",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku",
+                "type": "miejsce",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Barbara Biettin",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Johan Pichgiel",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Daniel Pichgiel",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Emanuel Pichgiel",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1684-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724-05-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "warsztat rodziców",
+                "type": "instytucja",
+                "description": "miejsce nauki Christiana Pichgiela młodszego w latach 1689–1704",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "egzamin mistrzowski",
+                "type": "wydarzenie",
+                "description": "zdany 10 I 1716",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasUncle",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Matthias Pichel",
+                "type": "osoba",
+                "description": "stryj Christiana Pichgiela starszego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Hieronim Edel",
+                "type": "osoba",
+                "description": "nauczyciel Christiana Pichgiela starszego",
+                "wikihum": "Q152243"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "starszy cechu",
+                "type": "urząd",
+                "description": "pełniony przez Christiana Pichgiela starszego w latach 1692 i 1697",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "zastępca starszego cechu",
+                "type": "urząd",
+                "description": "pełniony przez Christiana Pichgiela starszego w latach 1691, 1696 i 1700",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Emanuel Pichgiel",
+                "type": "osoba",
+                "description": "syn Christiana Pichgiela starszego, czeladnik",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "czeladnik",
+                "type": "zawód",
+                "description": "zawód Emanuela Pichgiela",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel starszy",
+                "type": "osoba",
+                "description": "złotnik gdański",
+                "wikihum": "Q165477"
+            },
+            "predicate": {
+                "name": "hasCousin",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Matthias Pichgiel młodszy",
+                "type": "osoba",
+                "description": "kuzyn Christiana Pichgiela starszego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Christian Pichgiel młodszy",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "złotnik",
+                "type": "zawód",
+                "description": "zawód Christiana Pichgiela młodszego",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

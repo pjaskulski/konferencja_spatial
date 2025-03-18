@@ -1,0 +1,436 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1856",
+                "type": "data",
+                "description": null,
+                "wikidata": "Q17174105"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jan Klopffleisch",
+                "type": "osoba",
+                "description": "właściciel browaru na Nowym Świecie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "działacz rewolucyjny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Nerczyński Zawód",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Narcyz Tchórzewski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Henryk Krajewski",
+                "type": "osoba",
+                "description": "naczelnik organizacji warszawskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Romuald Świerzbiński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Antonina Lissowska",
+                "type": "osoba",
+                "description": "modystka zajmująca się przemytem druków",
+                "wikihum": "Q160326"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Wysocki",
+                "type": "osoba",
+                "description": "główny delegat wojskowy Tow. Demokr. Pol. na kraj",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Ludwik Bulewski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q150116"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Paweł Darasz",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151256"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Warszawa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieznane przedsiębiorstwo",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "fabryka maszyn na Solcu",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Związek Demokratyczny",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Centralizacja Towarzystwa Demokratycznego Polskiego w Paryżu",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Centralny Komitet Demokracji Europejskiej w Londynie",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Natalis Sulerzyski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q173587"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilhelm Klopffleisch",
+                "type": "osoba",
+                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak",
+                "wikihum": "Q157376"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Ignacy Łyskowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q160951"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Klopffleisch",
+                "type": "osoba",
+                "description": "właściciel browaru na Nowym Świecie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "browar na Nowym Świecie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Krajewski",
+                "type": "osoba",
+                "description": "naczelnik organizacji warszawskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "naczelnik organizacji warszawskiej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antonina Lissowska",
+                "type": "osoba",
+                "description": "modystka zajmująca się przemytem druków",
+                "wikihum": "Q160326"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "modystka",
+                "type": "zawód",
+                "description": "zajmująca się przemytem druków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Wysocki",
+                "type": "osoba",
+                "description": "główny delegat wojskowy Tow. Demokr. Pol. na kraj",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Demokratyczne Polskie",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)"	[color=black,
+		label="Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)"	[color=black,
+		label="Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Tuchola
+[Q84166]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "1906-01-21"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Franciszek Lesikowski
+[NEW]
+<osoba>
+(ojciec Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=3];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Władysława Głomska
+[NEW]
+<osoba>
+(matka Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasMother [P93]",
+		minlen=4];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Stutthof
+[Q81630]
+<miejscowość>
+(obóz koncentracyjny)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "1944-07-15
+(najprawdopodobniej przez
+powieszenie)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Teresa Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=3];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Bernadetta Lesikowska
+[NEW]
+<osoba>
+(córka Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=4];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "kapitan
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]"];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Armia Krajowa
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Krzyż Grunwaldu III klasy
+[NEW]
+<osiągnięcie>
+(odznaczenie pośmiertne)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Obóz koncentracyjny w Stutthofie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "Seminarium Nauczycielskie
+[NEW]
+<uczelnia>
+(Tuchola)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Bydgoszcz)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "66 pułk piechoty
+[NEW]
+<organizacja>
+(Grudziądz)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "gabinet optyczny
+[NEW]
+<instytucja>
+(Gdynia)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=3];
+	"Stanisław Lesikowski
+[Q159998]
+<osoba>
+(pseud. Las, kapitan,
+działacz Armii Krajowej,
+więzień Stutthofu)" -> "szef Inspektoratu AK «Hurtownia»
+[NEW]
+<urząd>
+(obejmujący powiaty
+Chojnice–Tuchola–Sępolno)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)" -> "Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)" -> "Wojskowa Służba Kobiet
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)" -> "przywódca Wojskowej Służby Kobiet
+[NEW]
+<stanowisko>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(pseud. Soból, kapitan)"	[color=black,
+		label="Jan Szalewski
+[NEW]
+<osoba>
+(pseud. Soból, kapitan)"];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(pseud. Soból, kapitan)" -> "Stefania Szefler
+[NEW]
+<osoba>
+(żona Stanisława
+Lesikowskiego)"	[color=green,
+		label="hasWife [P94]"];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(pseud. Soból, kapitan)" -> "kapitan
+[NEW]
+<stopień wojskowy>"	[color=green,
+		label="hasMilitaryRank [NEW]"];
+	"Jan Szalewski
+[NEW]
+<osoba>
+(pseud. Soból, kapitan)" -> "Grupa bojowa 'Szyszek'
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+}

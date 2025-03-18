@@ -1,0 +1,677 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)"	[color=black,
+		label="Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)"];
+	"Teklinowo
+[Q83100]
+<miejscowość>
+(miejsce urodzenia Julii
+Kazimiery Maciejewiczowej)"	[color=black,
+		label="Teklinowo
+[Q83100]
+<miejscowość>
+(miejsce urodzenia Julii
+Kazimiery Maciejewiczowej)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Teklinowo
+[Q83100]
+<miejscowość>
+(miejsce urodzenia Julii
+Kazimiery Maciejewiczowej)"	[color=green,
+		label="placeOfBirth [P140]"];
+	"Wilno
+[Q143061]
+<miejscowość>
+(miejsce śmierci Julii
+Kazimiery Maciejewiczowej)"	[color=black,
+		label="Wilno
+[Q143061]
+<miejscowość>
+(miejsce śmierci Julii
+Kazimiery Maciejewiczowej)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Wilno
+[Q143061]
+<miejscowość>
+(miejsce śmierci Julii
+Kazimiery Maciejewiczowej)"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Rossa
+[Q132304]
+<miejscowość>
+(miejsce pochówku Julii
+Kazimiery Maciejewiczowej)"	[color=black,
+		label="Rossa
+[Q132304]
+<miejscowość>
+(miejsce pochówku Julii
+Kazimiery Maciejewiczowej)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Rossa
+[Q132304]
+<miejscowość>
+(miejsce pochówku Julii
+Kazimiery Maciejewiczowej)"	[color=green,
+		label="placeOfBurial [NEW]"];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)"	[color=black,
+		label="Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)"	[color=green,
+		label="hasHusband [P94]"];
+	"pensja Hryniewska
+[NEW]
+<instytucja>
+(szkoła ukończona przez
+Julię Kazimierę
+Maciejewiczową w Rydze)"	[color=black,
+		label="pensja Hryniewska
+[NEW]
+<instytucja>
+(szkoła ukończona przez
+Julię Kazimierę
+Maciejewiczową w Rydze)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "pensja Hryniewska
+[NEW]
+<instytucja>
+(szkoła ukończona przez
+Julię Kazimierę
+Maciejewiczową w Rydze)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Dorpat
+[NEW]
+<miejscowość>
+(miejsce uzyskania dyplomu
+nauczycielskiego przez
+Julię Kazimierę
+Maciejewiczową)"	[color=black,
+		label="Dorpat
+[NEW]
+<miejscowość>
+(miejsce uzyskania dyplomu
+nauczycielskiego przez
+Julię Kazimierę
+Maciejewiczową)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Dorpat
+[NEW]
+<miejscowość>
+(miejsce uzyskania dyplomu
+nauczycielskiego przez
+Julię Kazimierę
+Maciejewiczową)"	[color=green,
+		label="placeOfStudy [NEW]"];
+	"Bolesław Świda
+[NEW]
+<osoba>
+(kuzyn Julii Kazimiery
+Maciejewiczowej)"	[color=black,
+		label="Bolesław Świda
+[NEW]
+<osoba>
+(kuzyn Julii Kazimiery
+Maciejewiczowej)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Bolesław Świda
+[NEW]
+<osoba>
+(kuzyn Julii Kazimiery
+Maciejewiczowej)"	[color=green,
+		label="hasCousin [P99]"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Bolesław Świda
+[NEW]
+<osoba>
+(kuzyn Julii Kazimiery
+Maciejewiczowej)"	[color=green,
+		label="significantFigure [P100]"];
+	"internat dla Polek
+[NEW]
+<instytucja>
+(internat założony przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"	[color=black,
+		label="internat dla Polek
+[NEW]
+<instytucja>
+(internat założony przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "internat dla Polek
+[NEW]
+<instytucja>
+(internat założony przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Szkoła Handlowa
+[NEW]
+<instytucja>
+(szkoła założona przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"	[color=black,
+		label="Szkoła Handlowa
+[NEW]
+<instytucja>
+(szkoła założona przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Szkoła Handlowa
+[NEW]
+<instytucja>
+(szkoła założona przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie
+[NEW]
+<instytucja>
+(organizacja, której
+członkiem zarządu \
+była
+Julia Kazimiera
+Maciejewiczowa)"	[color=black,
+		label="Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie
+[NEW]
+<instytucja>
+(organizacja, której
+członkiem zarządu \
+była
+Julia Kazimiera
+Maciejewiczowa)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie
+[NEW]
+<instytucja>
+(organizacja, której
+członkiem zarządu \
+była
+Julia Kazimiera
+Maciejewiczowa)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Stowarzyszenie Nauczycielstwa Polskiego
+[NEW]
+<instytucja>
+(organizacja, której Julia
+Kazimiera Maciejewiczowa
+przekazała zezwolenie \
+na
+prowadzenie zbiorowego
+nauczania)"	[color=black,
+		label="Stowarzyszenie Nauczycielstwa Polskiego
+[NEW]
+<instytucja>
+(organizacja, której Julia
+Kazimiera Maciejewiczowa
+przekazała zezwolenie \
+na
+prowadzenie zbiorowego
+nauczania)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Stowarzyszenie Nauczycielstwa Polskiego
+[NEW]
+<instytucja>
+(organizacja, której Julia
+Kazimiera Maciejewiczowa
+przekazała zezwolenie \
+na
+prowadzenie zbiorowego
+nauczania)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Gimnazjum im. Elizy Orzeszkowej
+[NEW]
+<instytucja>
+(gimnazjum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła języka
+niemieckiego)"	[color=black,
+		label="Gimnazjum im. Elizy Orzeszkowej
+[NEW]
+<instytucja>
+(gimnazjum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła języka
+niemieckiego)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Gimnazjum im. Elizy Orzeszkowej
+[NEW]
+<instytucja>
+(gimnazjum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła języka
+niemieckiego)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Liceum im. Filomatów
+[NEW]
+<instytucja>
+(liceum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła robót ręcznych)"	[color=black,
+		label="Liceum im. Filomatów
+[NEW]
+<instytucja>
+(liceum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła robót ręcznych)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Liceum im. Filomatów
+[NEW]
+<instytucja>
+(liceum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła robót ręcznych)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Krzyż Kawalerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie przyznane
+Julii Kazimierze
+Maciejewiczowej)"	[color=black,
+		label="Krzyż Kawalerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie przyznane
+Julii Kazimierze
+Maciejewiczowej)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Krzyż Kawalerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie przyznane
+Julii Kazimierze
+Maciejewiczowej)"	[color=green,
+		label="hasAchievement [NEW]"];
+	"Związek Pracy Obywatelskiej Kobiet
+[NEW]
+<instytucja>
+(organizacja, w której
+Julia Kazimiera
+Maciejewiczowa działała
+aktywnie)"	[color=black,
+		label="Związek Pracy Obywatelskiej Kobiet
+[NEW]
+<instytucja>
+(organizacja, w której
+Julia Kazimiera
+Maciejewiczowa działała
+aktywnie)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Związek Pracy Obywatelskiej Kobiet
+[NEW]
+<instytucja>
+(organizacja, w której
+Julia Kazimiera
+Maciejewiczowa działała
+aktywnie)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Stefania Świda
+[NEW]
+<osoba>
+(uczennica Julii Kazimiery
+Maciejewiczowej,
+współzałożycielka
+internatu dla Polek)"	[color=black,
+		label="Stefania Świda
+[NEW]
+<osoba>
+(uczennica Julii Kazimiery
+Maciejewiczowej,
+współzałożycielka
+internatu dla Polek)"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Stefania Świda
+[NEW]
+<osoba>
+(uczennica Julii Kazimiery
+Maciejewiczowej,
+współzałożycielka
+internatu dla Polek)"	[color=green,
+		label="significantFigure [P100]"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "1937-01-15
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa
+[Q161025]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Wilno
+[Q143061]
+<miejscowość>
+(miejsce zamieszkania i
+działalności Julii
+Kazimiery Maciejewiczowej)"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Teklinowo
+[Q83100]
+<miejscowość>
+(miejsce urodzenia Julii
+Kazimiery Maciejewiczowej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Wilno
+[Q143061]
+<miejscowość>
+(miejsce śmierci Julii
+Kazimiery Maciejewiczowej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Rossa
+[Q132304]
+<miejscowość>
+(miejsce pochówku Julii
+Kazimiery Maciejewiczowej)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"powstanie styczniowe
+[NEW]
+<wydarzenie>
+(powstanie z 1863 roku, w
+którym brał udział Edward
+Maciejewicz)"	[color=black,
+		label="powstanie styczniowe
+[NEW]
+<wydarzenie>
+(powstanie z 1863 roku, w
+którym brał udział Edward
+Maciejewicz)"];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)" -> "powstanie styczniowe
+[NEW]
+<wydarzenie>
+(powstanie z 1863 roku, w
+którym brał udział Edward
+Maciejewicz)"	[color=green,
+		label="significantEvent [NEW]"];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)" -> "Rossa
+[Q132304]
+<miejscowość>
+(miejsce pochówku Edwarda
+Maciejewicza)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Edward Maciejewicz
+[NEW]
+<osoba>
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)" -> "1899-00-00
+(mąż Julii Kazimiery
+Maciejewiczowej,
+powstaniec z 1863 roku)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"pensja Hryniewska
+[NEW]
+<instytucja>
+(szkoła ukończona przez
+Julię Kazimierę
+Maciejewiczową w Rydze)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Dorpat
+[NEW]
+<miejscowość>
+(miejsce uzyskania dyplomu
+nauczycielskiego przez
+Julię Kazimierę
+Maciejewiczową)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bolesław Świda
+[NEW]
+<osoba>
+(kuzyn Julii Kazimiery
+Maciejewiczowej)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"internat dla Polek
+[NEW]
+<instytucja>
+(internat założony przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Szkoła Handlowa
+[NEW]
+<instytucja>
+(szkoła założona przez
+Julię Kazimierę
+Maciejewiczową w Wilnie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie
+[NEW]
+<instytucja>
+(organizacja, której
+członkiem zarządu \
+była
+Julia Kazimiera
+Maciejewiczowa)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stowarzyszenie Nauczycielstwa Polskiego
+[NEW]
+<instytucja>
+(organizacja, której Julia
+Kazimiera Maciejewiczowa
+przekazała zezwolenie \
+na
+prowadzenie zbiorowego
+nauczania)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Gimnazjum im. Elizy Orzeszkowej
+[NEW]
+<instytucja>
+(gimnazjum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła języka
+niemieckiego)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Liceum im. Filomatów
+[NEW]
+<instytucja>
+(liceum, w którym Julia
+Kazimiera Maciejewiczowa
+uczyła robót ręcznych)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Krzyż Kawalerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>
+(odznaczenie przyznane
+Julii Kazimierze
+Maciejewiczowej)" -> "osiągnięcie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Związek Pracy Obywatelskiej Kobiet
+[NEW]
+<instytucja>
+(organizacja, w której
+Julia Kazimiera
+Maciejewiczowa działała
+aktywnie)" -> "instytucja
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stefania Świda
+[NEW]
+<osoba>
+(uczennica Julii Kazimiery
+Maciejewiczowej,
+współzałożycielka
+internatu dla Polek)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"powstanie styczniowe
+[NEW]
+<wydarzenie>
+(powstanie z 1863 roku, w
+którym brał udział Edward
+Maciejewicz)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

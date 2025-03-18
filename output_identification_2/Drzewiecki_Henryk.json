@@ -1,0 +1,651 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Wyszków",
+                "type": "miejscowość",
+                "description": "nad Bugiem",
+                "wikihum": "Q90482"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1937-10-04",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Radom",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Konserwatorium",
+                "type": "uczelnia",
+                "description": "Petersburg",
+                "wikihum": "NEW",
+                "wikidata": "Q184644"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Gabel",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Cotogni",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Barbacini",
+                "type": "osoba",
+                "description": "nauczyciel podczas debiutu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tadeusz Pawlikowski",
+                "type": "osoba",
+                "description": "dyrektor opery we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Erazm Dłuski",
+                "type": "osoba",
+                "description": "kompozytor opery 'Urwasi'",
+                "wikihum": "Q151549"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Henryk Skirmunt",
+                "type": "osoba",
+                "description": "kompozytor opery 'Pan Wołodyjowski'",
+                "wikihum": "Q170995"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pierwszy tenor liryczny",
+                "type": "zawód",
+                "description": "opera we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "sędzia okręgowy",
+                "type": "zawód",
+                "description": "Radom",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "O izbach notarialnych",
+                "type": "dzieło",
+                "description": "1927",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Studia i materiały do dziejów notariatu w Polsce",
+                "type": "dzieło",
+                "description": "1928",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zarys dziejów notariatu w Polsce",
+                "type": "dzieło",
+                "description": "1929",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1873",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Giacomo Puccini",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Georges Bizet",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Giuseppe Verdi",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Charles Gounod",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jules Massenet",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Stanisław Moniuszko",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "Q162802"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Piotr Czajkowski",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Pietro Mascagni",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Vincenzo Bellini",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Richard Wagner",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Daniel Auber",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Drzewiecki",
+                "type": "osoba",
+                "description": "artysta śpiewak, doktor praw, autor rozpraw w zakresie historii notariatu w Polsce",
+                "wikihum": "Q151878"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Anton Rubinstein",
+                "type": "osoba",
+                "description": "kompozytor oper",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabel",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Gabel",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cotogni",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Cotogni",
+                "type": "osoba",
+                "description": "nauczyciel sztuki śpiewackiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Barbacini",
+                "type": "osoba",
+                "description": "nauczyciel podczas debiutu",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Barbacini",
+                "type": "osoba",
+                "description": "nauczyciel podczas debiutu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Pawlikowski",
+                "type": "osoba",
+                "description": "dyrektor opery we Lwowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Tadeusz Pawlikowski",
+                "type": "osoba",
+                "description": "dyrektor opery we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Erazm Dłuski",
+                "type": "osoba",
+                "description": "kompozytor opery 'Urwasi'",
+                "wikihum": "Q151549"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Erazm Dłuski",
+                "type": "osoba",
+                "description": "kompozytor opery 'Urwasi'",
+                "wikihum": "Q151549"
+            }
+        },
+        {
+            "subject": {
+                "name": "Henryk Skirmunt",
+                "type": "osoba",
+                "description": "kompozytor opery 'Pan Wołodyjowski'",
+                "wikihum": "Q170995"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Henryk Skirmunt",
+                "type": "osoba",
+                "description": "kompozytor opery 'Pan Wołodyjowski'",
+                "wikihum": "Q170995"
+            }
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa",
+                "wikihum": "Q162340"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Zawisza",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa",
+                "wikihum": "Q159564"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Piotr",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Stefan",
+                "type": "osoba",
+                "description": "syn Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1453-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": "rycerz polski z XV wieku",
+                "wikihum": "NEW",
+                "wikidata": "Q19166189"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Zygmunt Luksemburski",
+                "type": "osoba",
+                "description": "osoba, u której Farurej Jan z Garbowa służył",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "bitwa pod Grunwaldem",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w bitwie pod Grunwaldem jako jedno z osiągnięć Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "turniej w Budzie",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w turnieju w Budzie w 1412 roku jako jedno z osiągnięć Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "konfederacja korczyńska",
+                "type": "wydarzenie",
+                "description": "uczestnictwo w konfederacji korczyńskiej w 1438 roku jako jedno z osiągnięć Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wyniesienie Władysława III na tron węgierski",
+                "type": "wydarzenie",
+                "description": "zaangażowanie w wyniesienie Władysława III na tron węgierski w 1440 roku jako jedno z osiągnięć Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Farurej Jan z Garbowa",
+                "type": "osoba",
+                "description": "rycerz polski z XV wieku, syn Mikołaja, brat Zawiszy Czarnego i Piotra Kruczka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan Głowacz z Oleśnicy",
+                "type": "osoba",
+                "description": "osoba, z którą Farurej Jan z Garbowa dokonywał transakcji majątkowych",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Mikołaj",
+                "type": "osoba",
+                "description": "kasztelan sieradzki, ojciec Farureja Jana z Garbowa",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan sieradzki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q64787471"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rycerz",
+                "type": "zawód",
+                "description": "znany rycerz polski",
+                "wikihum": "NEW",
+                "wikidata": "Q19166189"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Kruczek",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, brat Zawiszy Czarnego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Zawisza Czarny",
+                "type": "osoba",
+                "description": "brat Farureja Jana z Garbowa, znany rycerz polski",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

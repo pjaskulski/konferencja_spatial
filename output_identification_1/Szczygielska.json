@@ -1,0 +1,930 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Jadwiga Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jadwiga Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Maryla Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Maryla Wiśniewska",
+                "type": "osoba",
+                "description": "siostra Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Włodzimierz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Włodzimierz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Tadeusz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tadeusz Wiśniewski",
+                "type": "osoba",
+                "description": "brat Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q46043",
+                "wikidata": "Q31487",
+                "nominatim": 166399234,
+                "nominatim_name": "Kraków, województwo małopolskie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "miejsce urodzenia Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q46043",
+                "wikidata": "Q31487",
+                "nominatim": 166399234,
+                "nominatim_name": "Kraków, województwo małopolskie, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q68723",
+                "wikidata": "Q1085",
+                "nominatim": 121689254,
+                "nominatim_name": "Praha, obvod Praha 4, Hlavní město Praha, Praha, Česko"
+            }
+        },
+        {
+            "subject": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce śmierci Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q68723",
+                "wikidata": "Q1085",
+                "nominatim": 121689254,
+                "nominatim_name": "Praha, obvod Praha 4, Hlavní město Praha, Praha, Česko"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1913-12-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Praga",
+                "type": "miejscowość",
+                "description": "miejsce pochówku Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q1085",
+                "nominatim": 121689254,
+                "nominatim_name": "Praha, obvod Praha 4, Hlavní město Praha, Praha, Česko"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q174283"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q174283"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Tomasz Szczygielski",
+                "type": "osoba",
+                "description": "syn Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szczygielski",
+                "type": "osoba",
+                "description": "syn Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "malarka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rouen",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q30974",
+                "nominatim": 89748165,
+                "nominatim_name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rouen",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW",
+                "wikidata": "Q30974",
+                "nominatim": 89748165,
+                "nominatim_name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q146696",
+                "wikidata": "Q90",
+                "nominatim": 88126621,
+                "nominatim_name": "Paris, Île-de-France, France métropolitaine, France"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "miejsce studiów Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q146696",
+                "wikidata": "Q90",
+                "nominatim": 88126621,
+                "nominatim_name": "Paris, Île-de-France, France métropolitaine, France"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "debiut w TZSP w Warszawie",
+                "type": "wydarzenie",
+                "description": "debiut artystyczny Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "debiut w TZSP w Warszawie",
+                "type": "wydarzenie",
+                "description": "debiut artystyczny Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "medale artystyczne",
+                "type": "osiągnięcie",
+                "description": "srebrny medal za postępy w dziedzinie historii sztuki, dwa brązowe medale oraz zaszczytna wzmianka za rysunki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "medale artystyczne",
+                "type": "osiągnięcie",
+                "description": "srebrny medal za postępy w dziedzinie historii sztuki, dwa brązowe medale oraz zaszczytna wzmianka za rysunki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1866-12-26",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1843-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Julian Wiśniewski",
+                "type": "osoba",
+                "description": "krawiec, urzędnik pocztowy, ojciec Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1846-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Marianna z Matusiewiczów",
+                "type": "osoba",
+                "description": "żona Juliana Wiśniewskiego, matka Józefy Kazimiery Szczygielskiej",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q174283"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1913-12-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Antoni Szczygielski",
+                "type": "osoba",
+                "description": "mąż Józefy Kazimiery Szczygielskiej",
+                "wikihum": "Q174283"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zakopane",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1908 roku",
+                "wikihum": "Q91793",
+                "wikidata": "Q144786",
+                "nominatim": 170894114,
+                "nominatim_name": "Zakopane, powiat tatrzański, województwo małopolskie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Zakopane",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1908 roku",
+                "wikihum": "Q91793",
+                "wikidata": "Q144786",
+                "nominatim": 170894114,
+                "nominatim_name": "Zakopane, powiat tatrzański, województwo małopolskie, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Budapeszt",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1910 roku",
+                "wikihum": "Q147353",
+                "wikidata": "Q1781",
+                "nominatim": 58794709,
+                "nominatim_name": "Budapest, Közép-Magyarország, Magyarország"
+            }
+        },
+        {
+            "subject": {
+                "name": "Budapeszt",
+                "type": "miejscowość",
+                "description": "miejsce zamieszkania Józefy Kazimiery Szczygielskiej pod koniec 1910 roku",
+                "wikihum": "Q147353",
+                "wikidata": "Q1781",
+                "nominatim": 58794709,
+                "nominatim_name": "Budapest, Közép-Magyarország, Magyarország"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": "miejsce wystawy Józefy Kazimiery Szczygielskiej w grudniu 1901 roku",
+                "wikihum": "Q52081",
+                "wikidata": "Q580",
+                "nominatim": 168721300,
+                "nominatim_name": "Łódź, województwo łódzkie, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": "miejsce wystawy Józefy Kazimiery Szczygielskiej w grudniu 1901 roku",
+                "wikihum": "Q52081",
+                "wikidata": "Q580",
+                "nominatim": 168721300,
+                "nominatim_name": "Łódź, województwo łódzkie, Polska"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wystawa w TPSP w Krakowie",
+                "type": "wydarzenie",
+                "description": "wystawa Józefy Kazimiery Szczygielskiej w 1897 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wystawa w TPSP w Krakowie",
+                "type": "wydarzenie",
+                "description": "wystawa Józefy Kazimiery Szczygielskiej w 1897 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "wielki srebrny medal",
+                "type": "osiągnięcie",
+                "description": "za kompozycje dekoracyjne pokazane we Lwowie w 1895 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "wielki srebrny medal",
+                "type": "osiągnięcie",
+                "description": "za kompozycje dekoracyjne pokazane we Lwowie w 1895 roku",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józefa Kazimiera Szczygielska",
+                "type": "osoba",
+                "description": "malarka, córka Juliana Wiśniewskiego i Marianny z Matusiewiczów",
+                "wikihum": "Q174282"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rada Szkolna Okręgowa we Lwowie",
+                "type": "instytucja",
+                "description": "instytucja, z którą współpracowała Józefa Kazimiera Szczygielska w czasie pobytu w Zakopanem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rada Szkolna Okręgowa we Lwowie",
+                "type": "instytucja",
+                "description": "instytucja, z którą współpracowała Józefa Kazimiera Szczygielska w czasie pobytu w Zakopanem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

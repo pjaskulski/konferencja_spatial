@@ -1,0 +1,317 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)"	[color=black,
+		label="Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)"];
+	"Stanisław Zamoyski
+[NEW]
+<osoba>
+(prezes Senatu Królestwa
+Kongresowego, ordynat)"	[color=black,
+		label="Stanisław Zamoyski
+[NEW]
+<osoba>
+(prezes Senatu Królestwa
+Kongresowego, ordynat)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Stanisław Zamoyski
+[NEW]
+<osoba>
+(prezes Senatu Królestwa
+Kongresowego, ordynat)"	[color=green,
+		label="hasFather [P92]"];
+	"Józef Korzeniowski
+[Q158195]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=black,
+		label="Józef Korzeniowski
+[Q158195]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Józef Korzeniowski
+[Q158195]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Towarzystwo Dobroczynności św. Wincentego a Paulo
+[NEW]
+<organizacja>
+(organizacja dobroczynna
+we Lwowie)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "szpital dziecięcy św. Zofii
+[NEW]
+<instytucja>
+(szpital dziecięcy we
+Lwowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Dom Opatrzności
+[NEW]
+<instytucja>
+(przytułek dla żebraków we
+Lwowie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Towarzystwo Dobroczynności w Przemyślu
+[NEW]
+<organizacja>
+(organizacja dobroczynna w
+Przemyślu)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=4];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "katolickie Stowarzyszenie Rękodzielnicze «Skała»
+[NEW]
+<organizacja>
+(stowarzyszenie
+rękodzielnicze)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Leon Sapieha
+[Q169733]
+<osoba>"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Zofia z Czartoryskich
+[NEW]
+<osoba>"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Adam Kazimierz Czartoryski
+[Q151024]
+<osoba>"	[color=green,
+		label="hasGrandfather [P91]",
+		minlen=4];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Władysław Zamoyski
+[NEW]
+<osoba>"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Celina Działyńska
+[NEW]
+<osoba>"	[color=green,
+		label="hasSister [P97]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Adam Sapieha
+[Q169682]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Krasiczyn
+[Q46092]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Krasiczyn
+[Q46092]
+<miejscowość>
+(groby rodzinne)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Podzamcze
+[Q67269]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "1890-03-29"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "1806-07-09"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Jakub Fałkowski
+[Q152491]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="significantFigure [P100]"];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "Franciszek Lessel
+[Q160003]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "dama honorowa cesarzowej
+[NEW]
+<osiągnięcie>
+(z cyfrą)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "rozdawnictwo zupy rumfordzkiej
+[NEW]
+<dzieło>
+(działalność dobroczynna
+we Lwowie w głodowych
+latach)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "organizacja domów dla sierot i potrzebujących
+[NEW]
+<dzieło>
+(działalność dobroczynna
+we Lwowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "organizacja wydarzeń charytatywnych
+[NEW]
+<dzieło>
+(kwesty, loterie fantowe,
+koncerty, festyny, wenty
+i bazary we Lwowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "organizacja pomocy w Przemyślu
+[NEW]
+<dzieło>
+(działalność dobroczynna w
+Przemyślu)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "organizacja szpitala dla rannych powstańców
+[NEW]
+<dzieło>
+(działalność dobroczynna w
+Krasiczynie w 1863 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jadwiga Sapieżyna z Zamoyskich
+[NEW]
+<osoba>
+(filantropka)" -> "opieka nad szpitalami w Cieszanowie
+[NEW]
+<dzieło>
+(działalność dobroczynna w
+Cieszanowie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Stanisław Zamoyski
+[NEW]
+<osoba>
+(prezes Senatu Królestwa
+Kongresowego, ordynat)" -> "prezes Senatu Królestwa Kongresowego
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jakub Fałkowski
+[NEW]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=black,
+		label="Jakub Fałkowski
+[NEW]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"];
+	"Jakub Fałkowski
+[NEW]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)" -> "Jakub Fałkowski
+[Q152491]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Józef Korzeniowski
+[Q158195]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)" -> "Józef Korzeniowski
+[Q158195]
+<osoba>
+(nauczyciel domowy Jadwigi
+Sapieżyny z Zamoyskich)"	[color=green,
+		label="significantFigure [P100]"];
+}

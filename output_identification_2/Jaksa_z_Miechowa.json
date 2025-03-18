@@ -1,0 +1,237 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "Fundacja Jakszy z Miechowa, założona ok. 1163 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "klasztory premonstrantek w Krzyżanowicach i na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "Instytucje wspierane przez Jaksę z Miechowa.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1176-02-24",
+                "type": "data",
+                "description": "Data śmierci Jakszy z Miechowa, zapisana w \"Liber mortuorum\" klasztoru św. Wincentego."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "hasRelative",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Piotr Włostowic",
+                "type": "osoba",
+                "description": "W starszej literaturze uważany za teścia Jakszy z Miechowa.",
+                "wikihum": "Q165735"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "hasRelative",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Świętosław",
+                "type": "osoba",
+                "description": "W starszej literaturze uważany za szwagra Jakszy z Miechowa.",
+                "wikihum": "Q175631"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Bolesław Kędzierzawy",
+                "type": "osoba",
+                "description": "Książę, przeciwko któremu Jaksa z Miechowa planował bunt.",
+                "wikihum": "Q149561"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Kazimierz Sprawiedliwy",
+                "type": "osoba",
+                "description": "Książę, który sprzeciwił się planom Jakszy z Miechowa.",
+                "wikihum": "Q156968"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "ród Gryfitów",
+                "type": "organizacja",
+                "description": "Uważany niekiedy za protoplastę rodu Gryfitów.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor bożogrobców z Miechowa",
+                "type": "instytucja",
+                "description": "Fundacja Jakszy z Miechowa, założona ok. 1163 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "majątki i nadania",
+                "type": "własność",
+                "description": "Obdarowana majątkami przez książąt polskich i rycerstwo.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor benedyktyński w Sieciechowie",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kompleks włości",
+                "type": "własność",
+                "description": "Kompleks włości, które rozrosły się do 15 osad, 9 z nich w Lubelskiem.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "klasztor premonstrantek na Zwierzyńcu pod Krakowem",
+                "type": "instytucja",
+                "description": "Instytucja wspierana przez Jaksę z Miechowa.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "trzy wsie - Zwierzyniec, Zabierzów, Bibice",
+                "type": "własność",
+                "description": "Podstawę klasztoru miała stanowić darowizna trzech wsi: Zwierzyńca, Zabierzowa i Bibic.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jaksa z Miechowa",
+                "type": "osoba",
+                "description": "możnowładca małopolski z 2. poł. XII w.",
+                "wikihum": "Q155592"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dux",
+                "type": "urząd",
+                "description": "Tytuł \"Jaxa qui cognominatus dux\" w dokumencie Bolesława Wstydliwego.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

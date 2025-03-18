@@ -1,0 +1,160 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)"	[color=black,
+		label="Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)"];
+	"wojewoda krakowski
+[NEW]
+<urząd>"	[color=black,
+		label="wojewoda krakowski
+[NEW]
+<urząd>"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "wojewoda krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"kasztelan sandomierski
+[NEW]
+<urząd>"	[color=black,
+		label="kasztelan sandomierski
+[NEW]
+<urząd>"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "kasztelan sandomierski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Bolesław Wstydliwy
+[Q149562]
+<osoba>
+(książę krakowski)"	[color=black,
+		label="Bolesław Wstydliwy
+[Q149562]
+<osoba>
+(książę krakowski)"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "Bolesław Wstydliwy
+[Q149562]
+<osoba>
+(książę krakowski)"	[color=green,
+		label="significantFigure [P100]"];
+	"bitwa pod Bogucinem
+[NEW]
+<wydarzenie>"	[color=black,
+		label="bitwa pod Bogucinem
+[NEW]
+<wydarzenie>"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "bitwa pod Bogucinem
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]"];
+	"Paweł z Przemankowa
+[Q165106]
+<osoba>
+(biskup krakowski)"	[color=black,
+		label="Paweł z Przemankowa
+[Q165106]
+<osoba>
+(biskup krakowski)"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "Paweł z Przemankowa
+[Q165106]
+<osoba>
+(biskup krakowski)"	[color=green,
+		label="significantFigure [P100]"];
+	"Władysław opolski
+[NEW]
+<osoba>"	[color=black,
+		label="Władysław opolski
+[NEW]
+<osoba>"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "Władysław opolski
+[NEW]
+<osoba>"	[color=green,
+		label="significantFigure [P100]"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Nieustęp
+[Q163629]
+<osoba>
+(wojewoda krakowski,
+kasztelan sandomierski)" -> "1278-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"wojewoda krakowski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kasztelan sandomierski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Bolesław Wstydliwy
+[Q149562]
+<osoba>
+(książę krakowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"bitwa pod Bogucinem
+[NEW]
+<wydarzenie>" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Paweł z Przemankowa
+[Q165106]
+<osoba>
+(biskup krakowski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Władysław opolski
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

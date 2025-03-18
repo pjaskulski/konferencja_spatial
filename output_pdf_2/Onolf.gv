@@ -1,0 +1,122 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)"	[color=black,
+		label="Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)"];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "biskup kruszwicki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "biskup kujawski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "1187-00-00
+(Data śmierci Onolfa jest
+przybliżona, katalog
+wolborski podaje rok
+1190.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "Włocławek
+[Q87838]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "Stefan
+[Q172759]
+<osoba>
+(następca Onolfa jako
+biskup)"	[color=green,
+		label="hasSuccessor [NEW]",
+		minlen=1];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "dziekan kapituły
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "konsekracja tumu pod Łęczycą
+[NEW]
+<wydarzenie>
+(wydarzenie z 1161 roku, w
+którym uczestniczył Onolf
+jako biskup kruszwicki)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "zjazd łęczycki
+[NEW]
+<wydarzenie>
+(wydarzenie z 1180 roku, w
+którym uczestniczył Onolf
+jako biskup kujawski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "katedra romańska we Włocławku
+[NEW]
+<obiekt architektoniczny>
+(niezachowana katedra
+romańska, z którą
+związany był Onolf)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Onolf
+[Q164270]
+<osoba>
+(biskup kruszwicki, potem
+kujawski)" -> "szpital Św. Gotarda
+[NEW]
+<instytucja>
+(szpital nad Wisłą
+naprzeciw Włocławka, z
+którym związany był Onolf)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+}

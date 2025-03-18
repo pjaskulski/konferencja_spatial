@@ -1,0 +1,272 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)"	[color=black,
+		label="Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)"];
+	"Julia Rodziewicz
+[NEW]
+<osoba>
+(prezeska Stowarzyszenia
+Nauczycielstwa Polskiego)"	[color=black,
+		label="Julia Rodziewicz
+[NEW]
+<osoba>
+(prezeska Stowarzyszenia
+Nauczycielstwa Polskiego)"];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Julia Rodziewicz
+[NEW]
+<osoba>
+(prezeska Stowarzyszenia
+Nauczycielstwa Polskiego)"	[color=green,
+		label="significantFigure [P100]"];
+	"Stanisław Kościałkowski
+[Q2513]
+<osoba>
+(dyrektor męskiej szkoły)"	[color=black,
+		label="Stanisław Kościałkowski
+[Q2513]
+<osoba>
+(dyrektor męskiej szkoły)"];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Stanisław Kościałkowski
+[Q2513]
+<osoba>
+(dyrektor męskiej szkoły)"	[color=green,
+		label="significantFigure [P100]"];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "1937-01-15"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Teklinowo
+[NEW]
+<miejscowość>
+(w powiecie orszańskim)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Edward Maciejewicz
+[NEW]
+<osoba>
+(powstaniec z 1863 r.)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=4];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "nauczycielka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "organizatorka szkolnictwa polskiego
+[NEW]
+<zawód>
+(w Wilnie)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Pensja Hryniewska
+[NEW]
+<uczelnia>
+(w Rydze)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<uczelnia>
+(Dorpat)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń
+[NEW]
+<organizacja>
+(w Wilnie)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Związek Pracy Obywatelskiej Kobiet
+[NEW]
+<organizacja>"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=2];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Krzyż Kawalerski Orderu Polonia Restituta
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Bolesław Świda
+[NEW]
+<osoba>"	[color=green,
+		label="hasCousin [P99]",
+		minlen=4];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Stefania Świda
+[NEW]
+<osoba>
+(uczennica Julii Kazimiery
+Maciejewiczowej z
+Moszczyńskich)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Gimnazjum im. Elizy Orzeszkowej
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Liceum im. Filomatów
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Internat dla Polek
+[NEW]
+<instytucja>
+(internat dla Polek
+uczących się w szkołach
+średnich w Wilnie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Szkoła Handlowa dla dziewcząt-chrześcijanek
+[NEW]
+<instytucja>
+(sześcioklasowa szkoła
+założona w 1907 roku,
+przekształcona \
+w
+siedmioklasową w 1913
+roku)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Julia Kazimiera Maciejewiczowa z Moszczyńskich
+[NEW]
+<osoba>
+(nauczycielka,
+organizatorka szkolnictwa
+polskiego w Wilnie)" -> "Rossa
+[Q132304]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=2];
+	"Julia Rodziewicz
+[NEW]
+<osoba>
+(prezeska Stowarzyszenia
+Nauczycielstwa Polskiego)" -> "prezeska
+[NEW]
+<urząd>
+(Stowarzyszenie
+Nauczycielstwa Polskiego)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Stanisław Kościałkowski
+[Q2513]
+<osoba>
+(dyrektor męskiej szkoły)" -> "dyrektor męskiej szkoły
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

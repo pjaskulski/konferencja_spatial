@@ -1,0 +1,873 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "stolnik upicki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "stolnik upicki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Anna Eleonora ze Skopów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna Eleonora ze Skopów",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Felicjanna z Chreptowiczów",
+                "type": "osoba",
+                "description": "podkomorzanka nowogrodzka",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Felicjanna z Chreptowiczów",
+                "type": "osoba",
+                "description": "podkomorzanka nowogrodzka",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstancja Aleksandra z Kamińskich",
+                "type": "osoba",
+                "description": "córka Krzysztofa, sędziego orszańskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Konstancja Aleksandra z Kamińskich",
+                "type": "osoba",
+                "description": "córka Krzysztofa, sędziego orszańskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Antoni Przezdziecki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Antoni Przezdziecki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1734-10-24",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Sporządzenie testamentu w Wilnie",
+                "type": "wydarzenie",
+                "description": "Sporządzenie testamentu w Wilnie 29 września 1732 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Sporządzenie testamentu w Wilnie",
+                "type": "wydarzenie",
+                "description": "Sporządzenie testamentu w Wilnie 29 września 1732 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Elekcja Stanisława Leszczyńskiego",
+                "type": "wydarzenie",
+                "description": "Elekcja Stanisława Leszczyńskiego 11 września 1733 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elekcja Stanisława Leszczyńskiego",
+                "type": "wydarzenie",
+                "description": "Elekcja Stanisława Leszczyńskiego 11 września 1733 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan inflancki",
+                "type": "urząd",
+                "description": "Mianowany 24 listopada 1726 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q5289270"
+            }
+        },
+        {
+            "subject": {
+                "name": "kasztelan inflancki",
+                "type": "urząd",
+                "description": "Mianowany 24 listopada 1726 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q5289270"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "chorąży mozyrski",
+                "type": "urząd",
+                "description": "Pełnił urząd co najmniej od 1694 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q91102406"
+            }
+        },
+        {
+            "subject": {
+                "name": "chorąży mozyrski",
+                "type": "urząd",
+                "description": "Pełnił urząd co najmniej od 1694 roku.",
+                "wikihum": "NEW",
+                "wikidata": "Q91102406"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "deputat na Trybunał Wielkiego Księstwa Litewskiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "deputat na Trybunał Wielkiego Księstwa Litewskiego",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sekretarz poselstwa do Rosji",
+                "type": "urząd",
+                "description": "Wyznaczony przez radę senatu w 1703 roku.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "sekretarz poselstwa do Rosji",
+                "type": "urząd",
+                "description": "Wyznaczony przez radę senatu w 1703 roku.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "urząd",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "starostwo hrabowskie",
+                "type": "majątek",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "starostwo hrabowskie",
+                "type": "majątek",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Biesiady w województwie mińskim",
+                "type": "majątek",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Biesiady w województwie mińskim",
+                "type": "majątek",
+                "description": null,
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "znaczne dobra zasławskie i Włodawa",
+                "type": "majątek",
+                "description": "Posiadane w zastawie.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "znaczne dobra zasławskie i Włodawa",
+                "type": "majątek",
+                "description": "Posiadane w zastawie.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "majątek",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Elekcja Augusta II",
+                "type": "wydarzenie",
+                "description": "Elekcja Augusta II w 1697 roku, w której Aleksander Przezdziecki prawdopodobnie uczestniczył.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elekcja Augusta II",
+                "type": "wydarzenie",
+                "description": "Elekcja Augusta II w 1697 roku, w której Aleksander Przezdziecki prawdopodobnie uczestniczył.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Walki wewnętrzne na Litwie",
+                "type": "wydarzenie",
+                "description": "Walki wewnętrzne na Litwie w 1700 roku, w których Aleksander Przezdziecki brał udział.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Walki wewnętrzne na Litwie",
+                "type": "wydarzenie",
+                "description": "Walki wewnętrzne na Litwie w 1700 roku, w których Aleksander Przezdziecki brał udział.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Rokowania z Piotrem I",
+                "type": "wydarzenie",
+                "description": "Rokowania z Piotrem I o zawarcie traktatu narewskiego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rokowania z Piotrem I",
+                "type": "wydarzenie",
+                "description": "Rokowania z Piotrem I o zawarcie traktatu narewskiego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantEvent",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wysłanie do Saksonii",
+                "type": "wydarzenie",
+                "description": "Wysłanie do Saksonii z oświadczeniem od wojska litewskiego o przejściu na stronę Stanisława Leszczyńskiego.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wysłanie do Saksonii",
+                "type": "wydarzenie",
+                "description": "Wysłanie do Saksonii z oświadczeniem od wojska litewskiego o przejściu na stronę Stanisława Leszczyńskiego.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "wydarzenie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Michał Wiśniowiecki",
+                "type": "osoba",
+                "description": "późniejszy kanclerz wielki litewski.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Michał Wiśniowiecki",
+                "type": "osoba",
+                "description": "późniejszy kanclerz wielki litewski.",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Aleksander Przezdziecki",
+                "type": "osoba",
+                "description": "kasztelan inflancki, syn Krzysztofa Przezdzieckiego i Anny Eleonory ze Skopów.",
+                "wikihum": "Q167111"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q143061"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wilno",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q143061"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1724-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Józef Przezdziecki",
+                "type": "osoba",
+                "description": "starosta hrabowski",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1727-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Krzysztof Przezdziecki",
+                "type": "osoba",
+                "description": "osoba o krewkim temperamencie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            },
+            "predicate": {
+                "name": "instance_of",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        }
+    ]
+}

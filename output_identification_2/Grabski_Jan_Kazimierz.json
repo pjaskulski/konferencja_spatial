@@ -1,0 +1,439 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan nakielski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q64760014"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Maciej Grabski",
+                "type": "osoba",
+                "description": "sędzia grodzki bydgoski i starosta kłecki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Marianna Mańkowska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna Konradzka",
+                "type": "osoba",
+                "description": "wdowa po Wojciechu Wilczyńskim, skarbniku poznańskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Marianna Łakińska",
+                "type": "osoba",
+                "description": "wdowa po Zdzychowskim, podczaszym wschowskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Maciej Grabski",
+                "type": "osoba",
+                "description": "syn Jana Kazimierza Grabskiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Franciszek Grabski",
+                "type": "osoba",
+                "description": "jezuita, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Stanisław Grabski",
+                "type": "osoba",
+                "description": "dziekan fary gnieźnieńskiej, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Józef Grabski",
+                "type": "osoba",
+                "description": "syn Jana Kazimierza Grabskiego z drugiego małżeństwa",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1723-00-00",
+                "type": "data",
+                "description": "Rok śmierci Jana Kazimierza Grabskiego"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Żelice",
+                "type": "miejscowość",
+                "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie kcyńskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Michałkowice",
+                "type": "miejscowość",
+                "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie kcyńskim",
+                "wikihum": "Q181162"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Miasteczko",
+                "type": "miejscowość",
+                "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie nakielskim",
+                "wikihum": "NEW",
+                "wikidata": "Q651788",
+                "nominatim": 170741673,
+                "nominatim_name": "Miasteczko Śląskie, powiat tarnogórski, województwo śląskie, 42-610, Polska"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Brzostowo",
+                "type": "miejscowość",
+                "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie nakielskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra nowomiejskie",
+                "type": "miejscowość",
+                "description": "część dóbr Jana Kazimierza Grabskiego w powiecie pyzdrskim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Prawdy powszechne albo dowolne nauki chrześcijańskiej filozofii",
+                "type": "dzieło",
+                "description": "przetłumaczone przez Jana Kazimierza Grabskiego, dzieło J. Manniego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "komisarz do sprawdzania rachunków poborowych",
+                "type": "urząd",
+                "description": "z sejmiku średzkiego, 1688",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "deputat na trybunał koronny",
+                "type": "urząd",
+                "description": "z województwa poznańskiego, 1694-1695",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia grodzki nakielski",
+                "type": "urząd",
+                "description": "1695",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "poseł na sejm",
+                "type": "urząd",
+                "description": "z województwa kaliskiego, 1699",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "poseł na sejm lubelski",
+                "type": "urząd",
+                "description": "z województwa poznańskiego, 1703",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "konsyliarz konfederacji",
+                "type": "urząd",
+                "description": "zawiązanej w Środzie, 1703",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia surogator grodzkim wałecki",
+                "type": "urząd",
+                "description": "pod koniec życia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Kazimierz Grabski",
+                "type": "osoba",
+                "description": "kasztelan nakielski, zm. 1723",
+                "wikihum": "Q154092"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "J. Morawski",
+                "type": "osoba",
+                "description": "autor pracy dedykowanej Janowi Kazimierzowi Grabskiemu",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

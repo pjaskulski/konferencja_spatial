@@ -1,0 +1,524 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1914-01-16",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wydział Lekarski",
+                "type": "uczelnia",
+                "description": "Kraków",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent Izby Lekarskiej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "lekarz-akuszer",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Lekarzy Galicyjskich",
+                "type": "organizacja",
+                "description": "Fundusz Wdów i Sierot po Lekarzach",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Galicyjskie Towarzystwo Muzyczne",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Opieki Szpitalnej nad Dziećmi",
+                "type": "organizacja",
+                "description": "utrzymywało Szpitalik św. Zofii",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lwowskie Towarzystwo Lekarskie",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Ginekologiczne we Lwowie",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krajowa Rada Zdrowia",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Instytut Medyko-chirurgiczny",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Izba Lekarska",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szpital Powszechny",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szpitalik św. Zofii",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Oddział Ginekologiczny",
+                "type": "instytucja",
+                "description": "Instytut Medyko-chirurgiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zakład Położniczy",
+                "type": "instytucja",
+                "description": "Instytut Medyko-chirurgiczny",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Józef Rożański",
+                "type": "osoba",
+                "description": "pierwszy prezydent Izby Wschodnio-galicyjskiej we Lwowie",
+                "wikihum": "Q168813"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Adam Czyżewicz",
+                "type": "osoba",
+                "description": "kierownik katedry położnictwa po Weberze",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Weber",
+                "type": "osoba",
+                "description": "profesor, kierownik Oddziału Ginekologicznego",
+                "wikihum": "Q175324"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Czerniowce",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1843-00-00",
+                "type": "data",
+                "description": "Roczna data urodzenia podana w nawiasie w pierwszym zdaniu biogramu."
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "skarbnikiem",
+                "type": "urząd",
+                "description": "Towarzystwo Lekarzy Galicyjskich",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezes",
+                "type": "urząd",
+                "description": "Lwowskie Towarzystwo Lekarskie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Festenburg de Gérard Edward",
+                "type": "osoba",
+                "description": "lekarz-akuszer, prezydent Izby Lekarskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wiceprezes",
+                "type": "urząd",
+                "description": "Krajowa Rada Zdrowia",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Józef Rożański",
+                "type": "osoba",
+                "description": "pierwszy prezydent Izby Wschodnio-galicyjskiej we Lwowie",
+                "wikihum": "Q168813"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent Izby Wschodnio-galicyjskiej",
+                "type": "urząd",
+                "description": "Izba Wschodnio-galicyjska we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Czyżewicz",
+                "type": "osoba",
+                "description": "kierownik katedry położnictwa po Weberze",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kierownik katedry położnictwa",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Weber",
+                "type": "osoba",
+                "description": "profesor, kierownik Oddziału Ginekologicznego",
+                "wikihum": "Q175324"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Instytut Medyko-chirurgiczny",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

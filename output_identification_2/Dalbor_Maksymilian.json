@@ -1,0 +1,218 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Poznań",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q68589"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1923-07-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Krotoszyn",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46588"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "order Virtuti Militari",
+                "type": "osiągnięcie",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Emilia z Nowaków",
+                "type": "osoba",
+                "description": "żona Dalbora Maksymiliana",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Wyższa Szkoła Leśnicza",
+                "type": "uczelnia",
+                "description": "Lwów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1839-10-15",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mirosław",
+                "type": "miejscowość",
+                "description": "miejsce pracy Dalbora Maksymiliana jako elew rolniczy",
+                "wikihum": "Q16091"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "hrabia Mielżyński",
+                "type": "osoba",
+                "description": "osoba, która pomogła Dalborowi Maksymilianowi w znalezieniu pracy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Dalbor Maksymilian",
+                "type": "osoba",
+                "description": "powstaniec styczniowy, sybirak",
+                "wikihum": "Q151199"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "hrabia Włodzimierz Dzieduszycki",
+                "type": "osoba",
+                "description": "osoba, dla której Dalbor Maksymilian pracował w administracji dóbr i lasów",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "hrabia Mielżyński",
+                "type": "osoba",
+                "description": "osoba, która pomogła Dalborowi Maksymilianowi w znalezieniu pracy",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "hrabia Mielżyński",
+                "type": "osoba",
+                "description": "osoba, która pomogła Dalborowi Maksymilianowi w znalezieniu pracy",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "hrabia Włodzimierz Dzieduszycki",
+                "type": "osoba",
+                "description": "osoba, dla której Dalbor Maksymilian pracował w administracji dóbr i lasów",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "dobra i lasy",
+                "type": "własność",
+                "description": "dobra i lasy, w których Dalbor Maksymilian pracował",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

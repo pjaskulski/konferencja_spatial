@@ -1,0 +1,168 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "kasztelan kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q12129374"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1518-00-00",
+                "type": "data",
+                "description": "Zmarł przed 15 marca 1518 roku."
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jakub Podfilipski (syn)",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ewa Podfilipska",
+                "type": "osoba",
+                "description": "żona Mikołaja Jazłowieckiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Mikołaj Jazłowiecki",
+                "type": "osoba",
+                "description": "kasztelan kamieniecki",
+                "wikihum": "Q156120"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki",
+                "wikihum": "Q166163"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Podfilipie",
+                "type": "miejscowość",
+                "description": "dziedziczne miasteczko w ziemi kamienieckiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jakub Podfilipski",
+                "type": "osoba",
+                "description": "herbu Ciołek, zm. ok. 1518, kasztelan kamieniecki",
+                "wikihum": "Q166161"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "stolnik kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q65720863"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wiktoryn Podfilipski",
+                "type": "osoba",
+                "description": "sędzia ziemski kamieniecki",
+                "wikihum": "Q166163"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "sędzia ziemski kamieniecki",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q65725952"
+            }
+        }
+    ]
+}

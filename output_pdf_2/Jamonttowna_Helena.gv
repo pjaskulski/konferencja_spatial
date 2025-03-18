@@ -1,0 +1,220 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)"	[color=black,
+		label="Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)"];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Janusz Jamontt
+[NEW]
+<osoba>
+(sędzia Sądu Najwyższego,
+profesor prawa karnego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Róża de Latour
+[NEW]
+<osoba>
+(matka Heleny Jamonttówny)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Starówka
+[NEW]
+<miejscowość>
+(część Warszawy)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "1944-08-21"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Armia Krajowa
+[NEW]
+<organizacja>
+(organizacja wojskowa
+podczas II wojny
+światowej)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Konfederacja Narodu
+[NEW]
+<organizacja>
+(organizacja polityczna
+podczas II wojny
+światowej)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Gimnazjum Humanistyczne C. Plater
+[NEW]
+<instytucja>
+(szkoła średnia)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Uniwersytet Warszawski
+[NEW]
+<instytucja>
+(uczelnia wyższa w
+Warszawie)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "łączniczka
+[NEW]
+<zawód>
+(rola pełniona w Armii
+Krajowej)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Falanga
+[NEW]
+<organizacja>
+(organizacja młodzieży
+nacjonalistycznej)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Międzyorganizacyjne Porozumienie Pomocy Więźniom
+[NEW]
+<organizacja>
+(organizacja zajmująca się
+pomocą więźniom)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Delegatura Rządu
+[NEW]
+<instytucja>
+(instytucja związana z
+polskim rządem na
+uchodźstwie)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Patronat Opieki nad Więźniami
+[NEW]
+<instytucja>
+(instytucja zajmująca się
+opieką nad więźniami)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Zgrupowanie płka 'Radosława'
+[NEW]
+<organizacja>
+(jednostka Armii Krajowej)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Wydział Humanistyczny Uniwersytetu Warszawskiego
+[NEW]
+<instytucja>
+(wydział Uniwersytetu
+Warszawskiego, gdzie
+studiowała filozofię \
+i
+psychologię)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Polska Macierz Szkolna
+[NEW]
+<organizacja>
+(organizacja edukacyjna)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Pomoc Bliźniemu
+[NEW]
+<organizacja>
+(katolicka organizacja)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Helena Jamonttówna
+[Q155668]
+<osoba>
+(pseud. Hela Warzycka, ur.
+1914, zm. 1944)" -> "Wydział Prawa Uniwersytetu Warszawskiego
+[NEW]
+<instytucja>
+(wydział Uniwersytetu
+Warszawskiego, gdzie
+studiowała prawo)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+}

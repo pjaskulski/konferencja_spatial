@@ -1,0 +1,200 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)"	[color=black,
+		label="Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)"];
+	"Jan Besta
+[NEW]
+<osoba>
+(kolega Antoniego Cygana w
+Głogówku)"	[color=black,
+		label="Jan Besta
+[NEW]
+<osoba>
+(kolega Antoniego Cygana w
+Głogówku)"];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "Jan Besta
+[NEW]
+<osoba>
+(kolega Antoniego Cygana w
+Głogówku)"	[color=green,
+		label="significantFigure [P100]"];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "seminarium nauczycielskie w Głogówku
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "podręczniki szkolne
+[NEW]
+<dzieło>
+(Podręczniki były w
+zasadzie dwujęzyczne, ale
+w praktyce część ich
+polska przeważała.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "Zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego
+[NEW]
+<dzieło>
+(Zawiera 113 polskich \
+a w
+dodatku 17 niemieckich
+pieśni.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "dalsze polskie podręczniki szkolne
+[NEW]
+<dzieło>
+(Podręczniki z czytankami
+z żywotów świętych i
+historii kościelnej.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "1895-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "1830-00-00"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "plany wydania dalszych polskich podręczników szkolnych
+[NEW]
+<osiągnięcie>
+(Podręczniki z czytankami
+z żywotów świętych \
+i
+historii kościelnej.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "nauczyciel
+[NEW]
+<zawód>
+(nauczyciel w seminarium
+nauczycielskim w Głogówku)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "seminarium nauczycielskie w Głogówku
+[NEW]
+<uczelnia>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Antoni Cygan
+[Q150839]
+<osoba>
+(pedagog górnośląski)" -> "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych
+[NEW]
+<książka>
+(Książka wyszła w dwóch
+częściach, \
+których
+pierwsza doczekała się na
+przestrzeni lat 1860–72
+wydań 17, druga wydań 5.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Feliks Rendschmidt
+[NEW]
+<osoba>
+(autor czytanek zmarły w
+1853 roku)"	[color=black,
+		label="Feliks Rendschmidt
+[NEW]
+<osoba>
+(autor czytanek zmarły w
+1853 roku)"];
+	"Feliks Rendschmidt
+[NEW]
+<osoba>
+(autor czytanek zmarły w
+1853 roku)" -> "czytanki
+[NEW]
+<dzieło>
+(Czytanki rozpowszechnione
+na całym Górnym Śląsku.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+	"Karol Hauschke
+[NEW]
+<osoba>
+(kurator i profesor
+seminaryjny w Głogówku)"	[color=black,
+		label="Karol Hauschke
+[NEW]
+<osoba>
+(kurator i profesor
+seminaryjny w Głogówku)"];
+	"Karol Hauschke
+[NEW]
+<osoba>
+(kurator i profesor
+seminaryjny w Głogówku)" -> "melodie w Zbiorze pieśni polskich
+[NEW]
+<dzieło>
+(Melodie do 26 numerów
+polskich i 1
+niemieckiego.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Karol Hauschke
+[NEW]
+<osoba>
+(kurator i profesor
+seminaryjny w Głogówku)" -> "Zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego
+[NEW]
+<książka>
+(Zawiera 113 polskich \
+a w
+dodatku 17 niemieckich
+pieśni.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Jan Besta
+[NEW]
+<osoba>
+(kolega Antoniego Cygana w
+Głogówku)" -> "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych
+[NEW]
+<książka>
+(Książka wyszła w dwóch
+częściach, \
+których
+pierwsza doczekała się na
+przestrzeni lat 1860–72
+wydań 17, druga wydań 5.)"	[color=green,
+		label="isAuthorOf [NEW]"];
+}

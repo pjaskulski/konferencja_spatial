@@ -1,0 +1,231 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)"	[color=black,
+		label="Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)"];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "setnik
+[NEW]
+<zawód>
+(setnik czehryński i
+subotowski)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "dyplomata
+[NEW]
+<zawód>
+(dyplomata kozacki)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Bohdan Chmielnicki
+[NEW]
+<osoba>
+(hetman kozacki, przywódca
+powstania przeciwko
+Rzeczypospolitej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Fedorowicz
+[NEW]
+<osoba>
+(były dowódca załogi
+kozackiej w Suczawie,
+oskarżony o
+przywłaszczenie rzeczy
+poległego syna
+hetmańskiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Iwan Fomin
+[NEW]
+<osoba>
+(poseł moskiewski
+oczekujący w Czehryniu na
+hetmana)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Strieszniew i Briedichin
+[NEW]
+<osoba>
+(posłowie carscy
+przebywający na Ukrainie
+po Fominie)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Repnin-Oboleński
+[NEW]
+<osoba>
+(poseł rosyjski do Polski,
+który przywiózł listy
+Jana Kazimierza do cara)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Jerzy II Rakoczy
+[NEW]
+<osoba>
+(zaangażowany w łupieską
+wyprawę do Polski, w
+której udział brali
+Kozacy)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Piotr Parcewicz
+[NEW]
+<osoba>
+(poseł cesarski, którego
+Kapusta Ławryn miał
+powitać w 1656 roku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Reniger
+[Q168080]
+<osoba>
+(rezydent cesarski w
+Turcji, który
+relacjonował misję
+Kapusty Ławryna do
+sułtana tureckiego)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "Harasim Kapłoński
+[NEW]
+<osoba>
+(osoba, która podpisała
+akt ugody cudnowskiej w
+imieniu Kapusty Ławryna)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "setnik czehryński
+[NEW]
+<urząd>
+(setnik czehryński w 1653
+roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "setnik subotowski
+[NEW]
+<urząd>
+(setnik subotowski w
+sierpniu 1653 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "ugoda perejasławska
+[NEW]
+<wydarzenie>
+(przygotowania
+dyplomatyczne do ugody
+perejasławskiej)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Kapusta Ławryn
+[Q156691]
+<osoba>
+(setnik i dyplomata
+kozacki w czasie
+powstania Bohdana
+Chmielnickiego)" -> "sułtan turecki
+[NEW]
+<osoba>
+(sułtan turecki, do
+którego Kapusta Ławryn
+posłował w 1657 roku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+}

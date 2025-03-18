@@ -1,0 +1,701 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)"	[color=black,
+		label="Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)"];
+	"kasztelan zawichojski
+[NEW]
+<urząd>"	[color=black,
+		label="kasztelan zawichojski
+[NEW]
+<urząd>"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "kasztelan zawichojski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Przybek z Grodziny i Opatkowic
+[NEW]
+<osoba>"	[color=black,
+		label="Przybek z Grodziny i Opatkowic
+[NEW]
+<osoba>"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Przybek z Grodziny i Opatkowic
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]"];
+	"Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)"	[color=black,
+		label="Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)"	[color=green,
+		label="hasBrother [P97]"];
+	"Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)"	[color=black,
+		label="Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)"	[color=green,
+		label="hasBrother [P97]"];
+	"Machna z Mokrska
+[NEW]
+<osoba>
+(Matka Jaśka z Grodziny i
+Łańcuchowa, siostrzenica
+Pakosza ze Żmigrodu.)"	[color=black,
+		label="Machna z Mokrska
+[NEW]
+<osoba>
+(Matka Jaśka z Grodziny i
+Łańcuchowa, siostrzenica
+Pakosza ze Żmigrodu.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Machna z Mokrska
+[NEW]
+<osoba>
+(Matka Jaśka z Grodziny i
+Łańcuchowa, siostrzenica
+Pakosza ze Żmigrodu.)"	[color=green,
+		label="hasMother [P93]"];
+	"Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)"	[color=black,
+		label="Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)"	[color=green,
+		label="hasSon [P153]"];
+	"Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)"	[color=black,
+		label="Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)"	[color=green,
+		label="hasWife [P94]"];
+	"Grodziny
+[NEW]
+<miejscowość>
+(Gniazdo rodzinne rodziny
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=black,
+		label="Grodziny
+[NEW]
+<miejscowość>
+(Gniazdo rodzinne rodziny
+Jaśka z Grodziny i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Grodziny
+[NEW]
+<miejscowość>
+(Gniazdo rodzinne rodziny
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Łańcuchów
+[Q51014]
+<miejscowość>
+(Miejscowość kupiona przez
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=black,
+		label="Łańcuchów
+[Q51014]
+<miejscowość>
+(Miejscowość kupiona przez
+Jaśka z Grodziny i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Łańcuchów
+[Q51014]
+<miejscowość>
+(Miejscowość kupiona przez
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Stary Żmigród
+[Q78879]
+<miejscowość>
+(Miejscowość objęta w
+zastaw przez Jaśka z
+Grodziny i Łańcuchowa.)"	[color=black,
+		label="Stary Żmigród
+[Q78879]
+<miejscowość>
+(Miejscowość objęta w
+zastaw przez Jaśka z
+Grodziny i Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "Stary Żmigród
+[Q78879]
+<miejscowość>
+(Miejscowość objęta w
+zastaw przez Jaśka z
+Grodziny i Łańcuchowa.)"	[color=green,
+		label="significantLocality [NEW]"];
+	"akt unii horodelskiej
+[NEW]
+<wydarzenie>
+(Wydarzenie poświadczone
+przez Jaśka z Grodziny i
+Łańcuchowa.)"	[color=black,
+		label="akt unii horodelskiej
+[NEW]
+<wydarzenie>
+(Wydarzenie poświadczone
+przez Jaśka z Grodziny i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "akt unii horodelskiej
+[NEW]
+<wydarzenie>
+(Wydarzenie poświadczone
+przez Jaśka z Grodziny i
+Łańcuchowa.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"akt zbratania szlachty polskiej z bojarstwem litewskim
+[NEW]
+<wydarzenie>
+(Wydarzenie
+przypieczętowane przez
+Jaśka z Grodziny \
+i
+Łańcuchowa.)"	[color=black,
+		label="akt zbratania szlachty polskiej z bojarstwem litewskim
+[NEW]
+<wydarzenie>
+(Wydarzenie
+przypieczętowane przez
+Jaśka z Grodziny \
+i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "akt zbratania szlachty polskiej z bojarstwem litewskim
+[NEW]
+<wydarzenie>
+(Wydarzenie
+przypieczętowane przez
+Jaśka z Grodziny \
+i
+Łańcuchowa.)"	[color=green,
+		label="significantEvent [NEW]"];
+	"herb Śreniawa
+[NEW]
+<herb>
+(Herb reprezentowany przez
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=black,
+		label="herb Śreniawa
+[NEW]
+<herb>
+(Herb reprezentowany przez
+Jaśka z Grodziny i
+Łańcuchowa.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "herb Śreniawa
+[NEW]
+<herb>
+(Herb reprezentowany przez
+Jaśka z Grodziny i
+Łańcuchowa.)"	[color=green,
+		label="nobleTitle [NEW]"];
+	"starosta
+[NEW]
+<urząd>"	[color=black,
+		label="starosta
+[NEW]
+<urząd>"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "starosta
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"łowczy
+[NEW]
+<urząd>"	[color=black,
+		label="łowczy
+[NEW]
+<urząd>"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "łowczy
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"sędzia ziemski lubelski
+[NEW]
+<urząd>"	[color=black,
+		label="sędzia ziemski lubelski
+[NEW]
+<urząd>"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "sędzia ziemski lubelski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"trzej bracia
+[NEW]
+<osoba>
+(Trzej bracia Jaśka z
+Grodziny i Łańcuchowa,
+których imiona nie
+zostały podane w tekście.)"	[color=black,
+		label="trzej bracia
+[NEW]
+<osoba>
+(Trzej bracia Jaśka z
+Grodziny i Łańcuchowa,
+których imiona nie
+zostały podane w tekście.)"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "trzej bracia
+[NEW]
+<osoba>
+(Trzej bracia Jaśka z
+Grodziny i Łańcuchowa,
+których imiona nie
+zostały podane w tekście.)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)" -> "1421-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"kasztelan zawichojski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Przybek z Grodziny i Opatkowic
+[NEW]
+<osoba>" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kanonik krakowski
+[NEW]
+<urząd>"	[color=black,
+		label="kanonik krakowski
+[NEW]
+<urząd>"];
+	"Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)" -> "kanonik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"kustosz gnieźnieński
+[NEW]
+<urząd>"	[color=black,
+		label="kustosz gnieźnieński
+[NEW]
+<urząd>"];
+	"Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)" -> "kustosz gnieźnieński
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Piotr
+[Q165742]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, kanonik
+krakowski i kustosz
+gnieźnieński.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"łożniczy królewski
+[NEW]
+<urząd>"	[color=black,
+		label="łożniczy królewski
+[NEW]
+<urząd>"];
+	"Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)" -> "łożniczy królewski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Przybek
+[NEW]
+<osoba>
+(Brat Jaśka z Grodziny i
+Łańcuchowa, łożniczy
+królewski.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Machna z Mokrska
+[NEW]
+<osoba>
+(Matka Jaśka z Grodziny i
+Łańcuchowa, siostrzenica
+Pakosza ze Żmigrodu.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)" -> "Jaśko z Grodziny i Łańcuchowa
+[Q159540]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)"	[color=green,
+		label="hasFather [P92]"];
+	"Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>
+(Syn Jaśka z Grodziny i
+Łańcuchowa.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(Wdowa po Jaśku z Grodziny
+i Łańcuchowa.)" -> "Jaśko z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(Kuropatwa Jaśko z
+Grodziny i Łańcuchowa h.
+Śreniawa, kasztelan
+zawichojski.)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Grodziny
+[NEW]
+<miejscowość>
+(Gniazdo rodzinne rodziny
+Jaśka z Grodziny i
+Łańcuchowa.)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Łańcuchów
+[Q51014]
+<miejscowość>
+(Miejscowość kupiona przez
+Jaśka z Grodziny i
+Łańcuchowa.)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Stary Żmigród
+[Q78879]
+<miejscowość>
+(Miejscowość objęta w
+zastaw przez Jaśka z
+Grodziny i Łańcuchowa.)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"akt unii horodelskiej
+[NEW]
+<wydarzenie>
+(Wydarzenie poświadczone
+przez Jaśka z Grodziny i
+Łańcuchowa.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"akt zbratania szlachty polskiej z bojarstwem litewskim
+[NEW]
+<wydarzenie>
+(Wydarzenie
+przypieczętowane przez
+Jaśka z Grodziny \
+i
+Łańcuchowa.)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"herb Śreniawa
+[NEW]
+<herb>
+(Herb reprezentowany przez
+Jaśka z Grodziny i
+Łańcuchowa.)" -> "herb
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"starosta
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"łowczy
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"sędzia ziemski lubelski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kanonik krakowski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"kustosz gnieźnieński
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"łożniczy królewski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"trzej bracia
+[NEW]
+<osoba>
+(Trzej bracia Jaśka z
+Grodziny i Łańcuchowa,
+których imiona nie
+zostały podane w tekście.)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+}

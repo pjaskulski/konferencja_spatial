@@ -1,0 +1,291 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)"	[color=black,
+		label="Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)"];
+	"Helena z Pokrzywnickich
+[NEW]
+<osoba>
+(żona Karola
+Gomolińskiego, zmarła w
+Warszawie)"	[color=black,
+		label="Helena z Pokrzywnickich
+[NEW]
+<osoba>
+(żona Karola
+Gomolińskiego, zmarła w
+Warszawie)"];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Helena z Pokrzywnickich
+[NEW]
+<osoba>
+(żona Karola
+Gomolińskiego, zmarła w
+Warszawie)"	[color=green,
+		label="hasWife [P94]"];
+	"Ignacy Gomoliński
+[Q153783]
+<osoba>
+(syn Karola Gomolińskiego,
+konsyliarz konfederacji
+łęczyckiej)"	[color=black,
+		label="Ignacy Gomoliński
+[Q153783]
+<osoba>
+(syn Karola Gomolińskiego,
+konsyliarz konfederacji
+łęczyckiej)"];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Ignacy Gomoliński
+[Q153783]
+<osoba>
+(syn Karola Gomolińskiego,
+konsyliarz konfederacji
+łęczyckiej)"	[color=green,
+		label="hasSon [P153]"];
+	"Józefata Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+generała Skarbka, potem
+Dzierzbickiego)"	[color=black,
+		label="Józefata Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+generała Skarbka, potem
+Dzierzbickiego)"];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Józefata Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+generała Skarbka, potem
+Dzierzbickiego)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Marianna Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+Opackiego)"	[color=black,
+		label="Marianna Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+Opackiego)"];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Marianna Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+Opackiego)"	[color=green,
+		label="hasDaughter [P154]"];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "podkomorzy łęczycki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Jan Gomoliński
+[NEW]
+<osoba>
+(ojciec Karola
+Gomolińskiego)"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Bielicka
+[NEW]
+<osoba>
+(matka Karola
+Gomolińskiego)"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "miecznik łęczycki
+[NEW]
+<urząd>
+(za Augusta II)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "podczaszy i chorąży
+[NEW]
+<urząd>
+(za Augusta III)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "sędzia grodzki
+[NEW]
+<urząd>
+(od 17 marca 1749 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "podkomorzy
+[NEW]
+<urząd>
+(od 1757 roku)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "Order Św. Stanisława
+[NEW]
+<osiągnięcie>
+(przyznany przez króla
+Stanisława Augusta)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "1784-11-22"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "klasztor bernardynów w Łęczycy
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=2];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "bernardyni w Łęczycy
+[NEW]
+<organizacja>
+(klasztor, w którym Karol
+Gomoliński spędzał czas
+na starość i był
+syndykiem)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=3];
+	"Karol Gomoliński
+[Q153785]
+<osoba>
+(h. Jelita (1696–1784),
+podkomorzy łęczycki)" -> "majątek w Krośniewicach
+[NEW]
+<własność>
+(dziedziczny majątek
+Karola Gomolińskiego w
+woj. łęczyckim)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=4];
+	"Helena z Pokrzywnickich
+[NEW]
+<osoba>
+(żona Karola
+Gomolińskiego, zmarła w
+Warszawie)" -> "Warszawa
+[Q85566]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Ignacy Gomoliński
+[Q153783]
+<osoba>
+(syn Karola Gomolińskiego,
+konsyliarz konfederacji
+łęczyckiej)" -> "konsyliarz konfederacji łęczyckiej
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Józefata Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+generała Skarbka, potem
+Dzierzbickiego)" -> "generał Skarbek
+[NEW]
+<osoba>
+(pierwszy mąż Józefaty
+Gomolińskiej)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Józefata Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+generała Skarbka, potem
+Dzierzbickiego)" -> "Dzierzbicki
+[Q152157]
+<osoba>
+(drugi mąż Józefaty
+Gomolińskiej)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=2];
+	"Marianna Gomolińska
+[NEW]
+<osoba>
+(córka Karola
+Gomolińskiego, żona
+Opackiego)" -> "Opacki
+[NEW]
+<osoba>
+(mąż Marianny Gomolińskiej)"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+}

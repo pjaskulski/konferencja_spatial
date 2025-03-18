@@ -1,0 +1,199 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)"	[color=black,
+		label="Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)"];
+	"Stanisław Goldman
+[NEW]
+<osoba>
+(nauczyciel prywatny,
+później właściciel firmy
+wydawniczej.)"	[color=black,
+		label="Stanisław Goldman
+[NEW]
+<osoba>
+(nauczyciel prywatny,
+później właściciel firmy
+wydawniczej.)"];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Stanisław Goldman
+[NEW]
+<osoba>
+(nauczyciel prywatny,
+później właściciel firmy
+wydawniczej.)"	[color=green,
+		label="hasFather [P92]"];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "romanista
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "1907-05-12"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "1942-00-00"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=4];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Lwów
+[Q144390]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=1];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Lea Goldman
+[NEW]
+<osoba>
+(z domu Bader.)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Uniwersytet Jagielloński
+[NEW]
+<instytucja>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "lektor języka francuskiego
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=4];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "z rąk hitlerowców
+[NEW]
+<przyczyna>"	[color=green,
+		label="causeOfDeath [NEW]",
+		minlen=1];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Brno Morawskie
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=2];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "rozprawa doktorska
+[NEW]
+<osiągnięcie>
+(ważny przyczynek do
+zbadania narodzin
+naukowej filologii
+romańskiej.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "La philologie romane en Pologne
+[NEW]
+<dzieło>
+(obszerna bibliografia
+rozumowana filologii
+romańskiej w Polsce.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "Stanisław Wędkiewicz
+[NEW]
+<osoba>
+(promotor rozprawy
+doktorskiej Jana
+Goldmana.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Jan Goldman
+[Q153698]
+<osoba>
+(romanista, urodzony w
+1907, zmarł w 1942.)" -> "IV Gimnazjum Realne im. H. Sienkiewicza
+[NEW]
+<instytucja>
+(szkoła, w której Jan
+Goldman uzyskał
+świadectwo dojrzałości.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Stanisław Goldman
+[NEW]
+<osoba>
+(nauczyciel prywatny,
+później właściciel firmy
+wydawniczej.)" -> "nauczyciel prywatny
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Stanisław Goldman
+[NEW]
+<osoba>
+(nauczyciel prywatny,
+później właściciel firmy
+wydawniczej.)" -> "właściciel firmy wydawniczej
+[NEW]
+<zawód>
+(specjalizującej się w
+wydawnictwie słowników
+oraz samouczków języków
+nowożytnych.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+}

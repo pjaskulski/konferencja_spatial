@@ -1,0 +1,718 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "artysta malarz i rzeźbiarz",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "artysta malarz i rzeźbiarz",
+                "type": "zawód",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "zawód",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q146696"
+            }
+        },
+        {
+            "subject": {
+                "name": "Paryż",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q146696"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1865",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1947-02-13",
+                "type": "data",
+                "description": ""
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q46043"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "artysta malarz",
+                "wikihum": "Q152460"
+            }
+        },
+        {
+            "subject": {
+                "name": "Erazm Rudolf",
+                "type": "osoba",
+                "description": "artysta malarz",
+                "wikihum": "Q152460"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Lucyna Odrowąż Sypniewska",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lucyna Odrowąż Sypniewska",
+                "type": "osoba",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q144390"
+            }
+        },
+        {
+            "subject": {
+                "name": "Lwów",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q144390"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "jednostka osadnicza",
+                "wikihum": "Q175698"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Szkoła Sztuk Pięknych w Krakowie",
+                "type": "instytucja",
+                "description": "Meisterschuli",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szkoła Sztuk Pięknych w Krakowie",
+                "type": "instytucja",
+                "description": "Meisterschuli",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "placeOfStudy",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Akademia w Monachium",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Akademia w Monachium",
+                "type": "instytucja",
+                "description": "",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "instytucja",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pierwsza nagroda za wykonanie afisza na otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie",
+                "type": "osiągnięcie",
+                "description": "1902",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "pierwsza nagroda za wykonanie afisza na otwarcie dorocznej wystawy w Towarzystwie Przyjaciół Sztuk Pięknych w Krakowie",
+                "type": "osiągnięcie",
+                "description": "1902",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "srebrny medal za obraz Chrystus na krzyżu na wystawie w warszawskiej Zachęcie",
+                "type": "osiągnięcie",
+                "description": "1928",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "srebrny medal za obraz Chrystus na krzyżu na wystawie w warszawskiej Zachęcie",
+                "type": "osiągnięcie",
+                "description": "1928",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "osiągnięcie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantLocality",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": "",
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Marconi",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego we Lwowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Marconi",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego we Lwowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Starkowski",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Starkowski",
+                "type": "osoba",
+                "description": "nauczyciel rzeźby Stanisława Fabijańskiego",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Szynalewski",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Szynalewski",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jabłoński",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q155491"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jabłoński",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q155491"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Łuszczkiewicz",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q160940"
+            }
+        },
+        {
+            "subject": {
+                "name": "Łuszczkiewicz",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q160940"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Cynk",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q150846"
+            }
+        },
+        {
+            "subject": {
+                "name": "Cynk",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q150846"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Loeffler",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q160363"
+            }
+        },
+        {
+            "subject": {
+                "name": "Loeffler",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "Q160363"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Matejko",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Matejko",
+                "type": "osoba",
+                "description": "nauczyciel malarstwa Stanisława Fabijańskiego w Szkole Sztuk Pięknych w Krakowie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        },
+        {
+            "subject": {
+                "name": "Stanisław Fabijański",
+                "type": "osoba",
+                "description": "artysta malarz i rzeźbiarz",
+                "wikihum": "Q152461"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Wagner",
+                "type": "osoba",
+                "description": "nauczyciel Stanisława Fabijańskiego w Akademii w Monachium",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Wagner",
+                "type": "osoba",
+                "description": "nauczyciel Stanisława Fabijańskiego w Akademii w Monachium",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "instanceOf",
+                "wikihum": "P27"
+            },
+            "object": {
+                "name": "człowiek",
+                "wikihum": "Q5"
+            }
+        }
+    ]
+}

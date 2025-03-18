@@ -1,0 +1,253 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)"	[color=black,
+		label="Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)"];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "1891-01-09"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Dąbrówka
+[Q27614]
+<miejscowość>
+(wieś w powiecie janowskim
+ziemi lubelskiej)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "1920-10-18"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Michniszki
+[NEW]
+<miejscowość>
+(w pobliżu Nowych Trok w
+ziemi wileńskiej)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Jan Korczak
+[NEW]
+<osoba>
+(ojciec Józefa Korczaka)"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Rozalia Korczak
+[NEW]
+<osoba>
+(matka Józefa Korczaka)"	[color=green,
+		label="hasMother [P93]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "nieokreślona szkoła/uczelnia
+[NEW]
+<instytucja>
+(Siedlce)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=3];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Organizacja Młodzieży Narodowej
+[NEW]
+<organizacja>
+(wstąpił w 1910 roku)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Związek Strzelecki
+[NEW]
+<organizacja>
+(wstąpił w 1913 roku)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Polska Partia Socjalistyczna
+[NEW]
+<organizacja>
+(wstąpił pod wpływem
+członków Organizacji
+Bojowej PPS)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "podporucznik
+[NEW]
+<stopień wojskowy>
+(przyjęty do Wojska
+Polskiego 2 grudnia 1918
+roku)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=3];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Wolna Wszechnica Polska
+[NEW]
+<instytucja>"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Order Virtuti Militari 5 kl.
+[NEW]
+<odznaczenie>
+(odznaczony pośmiertnie)"	[color=green,
+		label="isAwarded [NEW]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Krzyż Niepodległości z Mieczami
+[NEW]
+<odznaczenie>
+(odznaczony pośmiertnie)"	[color=green,
+		label="isAwarded [NEW]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Wskazania przyszłości
+[NEW]
+<dzieło>
+(broszura poświęcona
+sprawie wychowania
+żołnierza)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Przed świtem
+[NEW]
+<dzieło>
+(zbiór wierszy uzupełniony
+przedmową A. Struga i
+życiorysem pióra T.
+Hołówki)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "Piotr
+[NEW]
+<osoba>
+(pseudonim Józefa Korczaka)"	[color=green,
+		label="hasAlias [NEW]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "komendant okręgu
+[NEW]
+<urząd>
+(Polska Organizacja
+Wojskowa, okręg siedlecki)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "zastępca komendanta okręgu
+[NEW]
+<urząd>
+(Polska Organizacja
+Wojskowa, okręg płocki)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "inspektor główny
+[NEW]
+<urząd>
+(Milicja Ludowa)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "praca w referacie prasowym
+[NEW]
+<urząd>
+(Ministerstwo Spraw
+Wojskowych)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "dowódca plutonu
+[NEW]
+<urząd>
+(201 pułk piechoty)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Józef Korczak
+[Q158049]
+<osoba>
+(działacz
+niepodległościowy, poeta)" -> "dowódca kompanii
+[NEW]
+<urząd>
+(front litewsko-polski)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+}

@@ -1,0 +1,195 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)"	[color=black,
+		label="Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)"];
+	"Małgorzata Rossi
+[NEW]
+<osoba>
+(córka Józefa Baltazary
+(Baldassari?))"	[color=black,
+		label="Małgorzata Rossi
+[NEW]
+<osoba>
+(córka Józefa Baltazary
+(Baldassari?))"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Małgorzata Rossi
+[NEW]
+<osoba>
+(córka Józefa Baltazary
+(Baldassari?))"	[color=green,
+		label="hasWife [P94]"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "architekt
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "1760-00-00
+(Data przybliżona)"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=2];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "1810-00-00
+(Data przybliżona, zmarł
+po 1810 roku)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=3];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Rzym
+[Q147390]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=4];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Andrzej Rossi
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=1];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Andrzej Rossi
+[NEW]
+<osoba>
+(ur. 1790)"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Kornel Rossi
+[NEW]
+<osoba>
+(ur. 1791)"	[color=green,
+		label="hasSon [P153]",
+		minlen=3];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Klemens Rossi
+[NEW]
+<osoba>
+(ur. 1794)"	[color=green,
+		label="hasSon [P153]",
+		minlen=4];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Izabella Rossi
+[NEW]
+<osoba>
+(ur. 1792)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=1];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Feliksa Rossi
+[NEW]
+<osoba>
+(ur. 1793)"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=2];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Wilno
+[Q143061]
+<miejscowość>"	[color=green,
+		label="placeOfActivity [NEW]",
+		minlen=3];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Wawrzyniec Gucewicz
+[Q154470]
+<osoba>"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "Józef Baltazary
+[NEW]
+<osoba>
+(Baldassari?)"	[color=green,
+		label="hasFatherInLaw [NEW]"];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "architekt guberni wileńskiej
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "nieruchomości w Wilnie
+[NEW]
+<własność>"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=2];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "przebudowa kolegiów jezuickich na koszary
+[NEW]
+<osiągnięcie>
+(przy kościołach Św.
+Ignacego i Św. Kazimierza)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "przebudowa kaplicy Matki Boskiej przy Ostrej Bramie
+[NEW]
+<osiągnięcie>
+(według własnych planów)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=4];
+	"Piotr Rossi
+[Q168590]
+<osoba>
+(architekt)" -> "przebudowa browaru na arsenał
+[NEW]
+<osiągnięcie>
+(przy placu Kossakowskich
+na Antokolu)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Małgorzata Rossi
+[NEW]
+<osoba>
+(córka Józefa Baltazary
+(Baldassari?))" -> "Józef Baltazary
+[NEW]
+<osoba>
+(Baldassari?)"	[color=green,
+		label="hasFather [P92]"];
+}

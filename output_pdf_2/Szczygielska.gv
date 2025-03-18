@@ -1,0 +1,338 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)"	[color=black,
+		label="Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)"];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)"	[color=black,
+		label="Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)"	[color=green,
+		label="hasFather [P92]"];
+	"Marianna Wiśniewska
+[NEW]
+<osoba>
+(z domu Matusiewicz)"	[color=black,
+		label="Marianna Wiśniewska
+[NEW]
+<osoba>
+(z domu Matusiewicz)"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Marianna Wiśniewska
+[NEW]
+<osoba>
+(z domu Matusiewicz)"	[color=green,
+		label="hasMother [P93]"];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "1866-12-26"	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "1913-12-27
+(Data przybliżona, zmarła
+kilka dni po pogrzebie
+męża.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Praga
+[Q146637]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=3];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Praga
+[Q146637]
+<miejscowość>
+(cmentarz)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=4];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Antoni Szczygielski
+[Q174283]
+<osoba>"	[color=green,
+		label="hasHusband [P94]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Tomasz Szczygielski
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "malarka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "szkoła sztuk pięknych w Rouen
+[NEW]
+<instytucja>
+(Francja)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=4];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "szkoła sztuk pięknych w Paryżu
+[NEW]
+<instytucja>
+(Francja)"	[color=green,
+		label="nameOfSchoolOrUniversity [NEW]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Kraków
+[Q46043]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=2];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Jadwiga Wiśniewska
+[NEW]
+<osoba>
+(ur. 1873)"	[color=green,
+		label="hasSister [P97]",
+		minlen=3];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Maryla Wiśniewska
+[NEW]
+<osoba>
+(ur. 1875)"	[color=green,
+		label="hasSister [P97]",
+		minlen=4];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Włodzimierz Wiśniewski
+[NEW]
+<osoba>
+(1874–1911)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Tadeusz Wiśniewski
+[NEW]
+<osoba>
+(1876–1882)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=2];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "nauczycielka
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Kwiaty
+[NEW]
+<dzieło>
+(obraz wystawiony w TZSP w
+Warszawie)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "kompozycje dekoracyjne
+[NEW]
+<dzieło>
+(pokazane we Lwowie, za
+które otrzymała wielki
+srebrny medal)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "obrazy
+[NEW]
+<dzieło>
+(wystawione w TPSP w
+Krakowie w 1897 roku)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "prowadzenie kursów rysunków, malarstwa i modelowania w glinie
+[NEW]
+<zawód>
+(w latach 1903–1906)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "lwowska Rada Szkolna Okręgowa
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=4];
+	"Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)" -> "Związek Czeskich Kobiet
+[NEW]
+<instytucja>
+(Ustředni Spolek Českych
+Žen)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)" -> "krawiec
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)" -> "prowadzenie filii wiedeńskiej farbiarni i pralni chemicznej
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)" -> "urzędnik pocztowy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Julian Wiśniewski
+[NEW]
+<osoba>
+(krawiec, prowadził filię
+wiedeńskiej farbiarni i
+pralni chemicznej,
+później urzędnik pocztowy)" -> 1843	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=4];
+	"František Hovorka
+[NEW]
+<osoba>
+(redaktor)"	[color=black,
+		label="František Hovorka
+[NEW]
+<osoba>
+(redaktor)"];
+	"František Hovorka
+[NEW]
+<osoba>
+(redaktor)" -> "Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Irma Raichova
+[NEW]
+<osoba>
+(primadonna opery praskiej)"	[color=black,
+		label="Irma Raichova
+[NEW]
+<osoba>
+(primadonna opery praskiej)"];
+	"Irma Raichova
+[NEW]
+<osoba>
+(primadonna opery praskiej)" -> "Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Maria Bogucka
+[Q1154]
+<osoba>
+(primadonna opery praskiej)"	[color=black,
+		label="Maria Bogucka
+[Q1154]
+<osoba>
+(primadonna opery praskiej)"];
+	"Maria Bogucka
+[Q1154]
+<osoba>
+(primadonna opery praskiej)" -> "Józefa Kazimiera Szczygielska
+[Q174282]
+<osoba>
+(malarka)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Marianna Wiśniewska
+[NEW]
+<osoba>
+(z domu Matusiewicz)" -> 1846	[color=green,
+		label="dateOfBirth [P11]",
+		minlen=1];
+}

@@ -1,0 +1,110 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)"	[color=black,
+		label="Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)"];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Jan
+[NEW]
+<osoba>
+(syn Jana Patruusa z Koła)"	[color=green,
+		label="hasSon [P153]",
+		minlen=1];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Poznań
+[Q68589]
+<miejscowość>"	[color=green,
+		label="placeOfDeath [P141]"];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Poznań
+[Q68589]
+<miejscowość>"	[color=green,
+		label="placeOfResidence [NEW]"];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "1538-00-00
+(zmarł w pierwszej połowie
+roku)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Melchior i Michael Lotterowie
+[NEW]
+<osoba>
+(firma drukarska z Lipska)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Jan Latalski
+[Q159843]
+<osoba>
+(biskup, zleceniodawca
+druku w 1533 roku)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Norymberga
+[Q146877]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "Koło
+[Q43857]
+<miejscowość>"	[color=green,
+		label="placeOfResidence [NEW]",
+		minlen=2];
+	"Jan Patruus z Koła
+[NEW]
+<osoba>
+(introligator, księgarz i
+nakładca, zmarł w 1538
+roku)" -> "córki Jana Patruusa z Koła
+[NEW]
+<osoba>"	[color=green,
+		label="hasDaughter [P154]",
+		minlen=3];
+}

@@ -1,0 +1,197 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)"	[color=black,
+		label="Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)"];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "kasztelan zawichojski
+[NEW]
+<urząd>
+(Urząd pełniony przez
+Jaśka Kuropatwę w latach
+1412-1417.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Przybek z Grodziny i Opatkowic
+[NEW]
+<osoba>"	[color=green,
+		label="hasFather [P92]",
+		minlen=2];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Piotr Kuropatwa
+[NEW]
+<osoba>
+(kanonik krakowski i
+kustosz gnieźnieński, zm.
+przed 1406)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Przybek Kuropatwa
+[NEW]
+<osoba>
+(łożniczy królewski, zm.
+po 1420)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=4];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Machna z Mokrska
+[NEW]
+<osoba>
+(siostrzenica bezdzietnego
+Pakosza ze Żmigrodu)"	[color=green,
+		label="hasMother [P93]",
+		minlen=1];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Jan Kuropatwa z Łańcuchowa
+[NEW]
+<osoba>"	[color=green,
+		label="hasSon [P153]",
+		minlen=2];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Elżbieta z Widuchowej
+[NEW]
+<osoba>
+(wdowa po Jaśku
+Kuropatwie, żyła w 1421
+roku)"	[color=green,
+		label="hasWife [P94]",
+		minlen=3];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "starosta
+[NEW]
+<urząd>
+(Urząd pełniony przez
+Jaśka Kuropatwę w 1392
+roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "łowczy
+[NEW]
+<urząd>
+(Urząd pełniony przez
+Jaśka Kuropatwę w 1400
+roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "sędzia ziemski lubelski
+[NEW]
+<urząd>
+(Urząd pełniony przez
+Jaśka Kuropatwę w 1403
+roku.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Śreniawici
+[NEW]
+<organizacja>
+(Ród, który reprezentował
+Jaśko Kuropatwa.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=3];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "unia horodelska
+[NEW]
+<wydarzenie>
+(Akt unii horodelskiej
+poświadczony przez Jaśka
+Kuropatwę.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Łańcuchów
+[Q51014]
+<miejscowość>
+(Wieś w powiecie chełmskim
+kupiona przez Jaśka
+Kuropatwę.)"	[color=green,
+		label="owns [NEW]",
+		minlen=1];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Stary Żmigród
+[Q78879]
+<miejscowość>
+(Miejscowość objęta w
+zastaw przez Jaśka
+Kuropatwę w 1397 roku.)"	[color=green,
+		label="holdsInPledge [NEW]",
+		minlen=2];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "Śreniawici
+[NEW]
+<ród>
+(Ród reprezentowany przez
+Jaśka Kuropatwę.)"	[color=green,
+		label="represents [NEW]",
+		minlen=3];
+	"Jaśko Kuropatwa z Grodziny i Łańcuchowa
+[NEW]
+<osoba>
+(kasztelan zawichojski,
+zm. przed 1421)" -> "akt zbratania szlachty polskiej z bojarstwem litewskim
+[NEW]
+<wydarzenie>
+(Akt przypieczętowany
+przez Jaśka Kuropatwę.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+}

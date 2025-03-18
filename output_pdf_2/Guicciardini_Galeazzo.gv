@@ -1,0 +1,230 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)"	[color=black,
+		label="Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)"];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "budowniczy
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "1557-07-31"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "brat Guicciardini Galeazzo
+[NEW]
+<osoba>
+(Brat Guicciardini
+Galeazzo, który miał
+dokończyć jego pracę po
+śmierci.)"	[color=green,
+		label="hasBrother [P97]",
+		minlen=3];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Sebastian Montelupi
+[Q162813]
+<osoba>
+(Osoba, dla której
+Guicciardini Galeazzo
+prowadził prace
+budowlane.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "zamek w Melsztynie
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym miał
+pracować Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "zamek wawelski
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "dwór Rabsztyn
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "dzwonnica zygmuntowska
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "dom Montelupich
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "dom Gutteterów
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "dom wikariuszy zamkowych
+[NEW]
+<obiekt fizjograficzny>
+(Obiekt, przy którym
+pracował Guicciardini
+Galeazzo.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Spytek Jordan z Melsztyna
+[NEW]
+<osoba>
+(Osoba, która miała
+wypłacić Guicciardini
+Galeazzo sumę na budowę
+zamku w Melsztynie.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Stanisław Pilecki z Pilicy
+[NEW]
+<osoba>
+(Osoba, która miała dług
+wobec Guicciardini
+Galeazzo.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Barbara Kmitowa
+[NEW]
+<osoba>
+(Osoba, która miała dług
+wobec Guicciardini
+Galeazzo.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Florencja
+[Q147374]
+<miejscowość>
+(Miasto we Włoszech, z
+którego pochodził
+Guicciardini Galeazzo.)"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=3];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "Kraków
+[Q46043]
+<miejscowość>
+(Miasto, w którym
+Guicciardini Galeazzo
+prowadził działalność
+budowlaną i gdzie
+znajduje \
+się jego
+nagrobek.)"	[color=green,
+		label="placeOfDeath [P141]",
+		minlen=4];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "krużganki dominikanów w Krakowie
+[NEW]
+<miejsce>
+(Miejsce pochówku
+Guicciardini Galeazzo.)"	[color=green,
+		label="placeOfBurial [NEW]",
+		minlen=1];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "cegielnia koło Krakowa
+[NEW]
+<przedsiębiorstwo>
+(Cegielnia należąca do
+Guicciardini Galeazzo.)"	[color=green,
+		label="owns [NEW]",
+		minlen=2];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "stajnia z 13 końmi
+[NEW]
+<przedsiębiorstwo>
+(Stajnia należąca do
+Guicciardini Galeazzo.)"	[color=green,
+		label="owns [NEW]",
+		minlen=3];
+	"Guicciardini Galeazzo
+[Q154480]
+<osoba>
+(Włoch, budowniczy)" -> "kamienica «książęca» w Rynku
+[NEW]
+<budynek>
+(Miejsce zamieszkania
+Guicciardini Galeazzo w
+Krakowie.)"	[color=green,
+		label="residence [NEW]",
+		minlen=4];
+}

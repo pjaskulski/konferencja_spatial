@@ -1,0 +1,256 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Lubawa",
+                "type": "miejscowość",
+                "description": "ziemia chełmińska",
+                "wikihum": "Q179155"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1705-00-00",
+                "type": "data",
+                "description": "jesień 1705"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasRelative",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Zakon Dominikanów",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "przeor",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q11829032"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "pisarz religijny",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "studium zakonne",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasAchievement",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "magister teologii",
+                "type": "osiągnięcie",
+                "description": "najwyższy stopień naukowy w zakonie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "dominikanin, przeor, pisarz religijny",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "isAuthorOf",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici",
+                "type": "dzieło",
+                "description": "wydane w Gdańsku w latach 1694-1695, wydanie drugie w 1697",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prepozyt i kanonik chełmiński",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "archiprezbiter elbląski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "proboszcz lubawski",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Tomasz Jan Szulc-Prątnicki",
+                "type": "osoba",
+                "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "oficjał i wizytator diecezji chełmińskiej",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

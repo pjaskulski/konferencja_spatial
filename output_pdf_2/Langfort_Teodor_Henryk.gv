@@ -1,0 +1,129 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)"	[color=black,
+		label="Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)"];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "inżynier
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=1];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kartograf
+[NEW]
+<zawód>"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=2];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "oficer regimentu
+[NEW]
+<zawód>
+(w batalionie Skarbu Kor.)"	[color=green,
+		label="hasOccupation [P106]",
+		minlen=3];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kapitan
+[NEW]
+<stopień wojskowy>
+(otrzymał patent na szarżę
+kapitana z kompanią w
+1791 roku)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=4];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "major
+[NEW]
+<stopień wojskowy>
+(mianowany majorem w
+regimencie pieszym 16 w
+1794 roku)"	[color=green,
+		label="hasMilitaryRank [NEW]",
+		minlen=1];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "mapa rzeki Warty
+[NEW]
+<dzieło>
+(dotycząca odcinka od
+Sieradza do wsi Siemiątki)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=2];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "Komisja Skarbowa
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=3];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "kwatermistrz
+[NEW]
+<urząd>
+(regimentu w batalionie
+Skarbu Kor.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "mapa rzeki Narew i Biebrza
+[NEW]
+<przedmiot>"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Langfort Teodor Henryk
+[NEW]
+<osoba>
+(inżynier, kartograf,
+oficer regimentu w
+batalionie Skarbu Kor.)" -> "1791-00-00
+(Nobilitacja Langforta
+Teodora Henryka.)"	[color=green,
+		label="dateOfNobilitation [NEW]",
+		minlen=2];
+}

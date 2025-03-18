@@ -1,0 +1,419 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1848-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1920-10-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Zaklików",
+                "type": "miejscowość",
+                "description": "pow. lubelskim, w Królestwie Polskim",
+                "wikihum": "Q137397"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Jordan Dąbrowski",
+                "type": "osoba",
+                "description": "obywatel ziemski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Weronika Dąbrowska",
+                "type": "osoba",
+                "description": "z domu Paszkowska, obywatelka ziemska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasSister",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Wiktor Dąbrowski",
+                "type": "osoba",
+                "description": "literat",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "rejent",
+                "type": "zawód",
+                "description": "w Odessie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "sędzia śledczy",
+                "type": "zawód",
+                "description": "w Berdyczowie i Żytomierzu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "członek sądu wojskowego",
+                "type": "zawód",
+                "description": "w Odessie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasMilitaryRank",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "generał-lejtnant",
+                "type": "stopień wojskowy",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "korpus kadetów",
+                "type": "uczelnia",
+                "description": "w Brześciu Litewskim",
+                "wikihum": "NEW",
+                "wikidata": "Q20032575"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "akademia jurydyczna",
+                "type": "uczelnia",
+                "description": "w Petersburgu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komitet Polski",
+                "type": "organizacja",
+                "description": "utworzony w 1914 roku",
+                "wikihum": "NEW",
+                "wikidata": "Q11741796"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Piotrogradzkie Towarzystwo Pomocy Ofiarom Wojny",
+                "type": "organizacja",
+                "description": "utworzone w 1915 roku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Piotr Korejwa",
+                "type": "osoba",
+                "description": "generał, współpracownik w sądzie wojskowym w Odessie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Ebiełow",
+                "type": "osoba",
+                "description": "generał gubernator, osoba, z którą interweniował Adam Dąbrowski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "hasAssets",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kamienica",
+                "type": "własność",
+                "description": "wartości 120.000 rubli, przekazana w testamencie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "skarb rządu polskiego",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Adam Dąbrowski",
+                "type": "osoba",
+                "description": "rejent w Odessie",
+                "wikihum": "Q151302"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Oddział Pomocy Jeńcom Cywilnym i Wojskowym",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Weronika Dąbrowska",
+                "type": "osoba",
+                "description": "z domu Paszkowska, obywatelka ziemska",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Paszkowski",
+                "type": "osoba",
+                "description": "ojciec Weroniki Dąbrowskiej",
+                "wikihum": "Q165019"
+            }
+        },
+        {
+            "subject": {
+                "name": "Romualda Glińska",
+                "type": "osoba",
+                "description": "żona znanego literata, zmarła w przytułku przy ul. Belwederskiej w Warszawie",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Warszawa",
+                "type": "miejscowość",
+                "description": "przytułek przy ul. Belwederskiej",
+                "wikihum": "Q85566"
+            }
+        },
+        {
+            "subject": {
+                "name": "Ebiełow",
+                "type": "osoba",
+                "description": "generał gubernator, osoba, z którą interweniował Adam Dąbrowski",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "generał gubernator",
+                "type": "urząd",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q9266842"
+            }
+        }
+    ]
+}

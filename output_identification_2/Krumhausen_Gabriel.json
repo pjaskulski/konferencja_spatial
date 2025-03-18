@@ -1,0 +1,272 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Gdańsk",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q31993"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "ojciec Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Gertruda Schumann",
+                "type": "osoba",
+                "description": "matka Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasGrandfather",
+                "wikihum": "P91"
+            },
+            "object": {
+                "name": "Stanisław Bornbach",
+                "type": "osoba",
+                "description": "pisarz miejski i kronikarz Gdańska",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasBrother",
+                "wikihum": "P97"
+            },
+            "object": {
+                "name": "Joachim Krumhausen",
+                "type": "osoba",
+                "description": "brat Gabriela Krumhausena, członek i kwatermistrz Kwartału Wysokiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Konstancja Falcke",
+                "type": "osoba",
+                "description": "żona Gabriela Krumhausena, wdowa po Henryku Nimsgarten",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": "pełniony przez Gabriela Krumhausena w Gdańsku",
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burgrabia królewski",
+                "type": "urząd",
+                "description": "pełniony przez Gabriela Krumhausena w Gdańsku",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "uniwersytet w Strasburgu",
+                "type": "instytucja",
+                "description": "miejsce studiów prawniczych Gabriela Krumhausena",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1614-09-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1685-04-09",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "dateOfMarriage",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "1651-02-14",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Jan III Sobieski",
+                "type": "osoba",
+                "description": "król Polski, z którym Gabriel Krumhausen prowadził tajne obrady w 1677 roku",
+                "wikihum": "Q155674"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gabriel Krumhausen",
+                "type": "osoba",
+                "description": "burmistrz i burgrabia królewski w Gdańsku",
+                "wikihum": "Q159045"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "urzędnik miejski",
+                "type": "zawód",
+                "description": "pełnił różnorodne funkcje administracyjne związane z miastem Gdańsk",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

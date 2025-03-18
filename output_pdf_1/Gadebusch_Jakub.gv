@@ -1,0 +1,194 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)"	[color=black,
+		label="Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)"];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Gryfii
+[NEW]
+<miejscowość>"	[color=green,
+		label="placeOfBirth [P140]",
+		minlen=1];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Gdańsk
+[Q31993]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=2];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Gimnazjum Akademickie
+[NEW]
+<instytucja>
+(Instytucja edukacyjna w
+Gdańsku, gdzie studiował
+Jakub Gadebusch.)"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=3];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Adrian Pauli
+[Q165059]
+<osoba>
+(Profesor fizyki i
+metafizyki, pod którego
+kierunkiem studiował
+Jakub Gadebusch.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=4];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Królewiec
+[Q72328]
+<miejscowość>"	[color=green,
+		label="placeOfStudy [NEW]",
+		minlen=1];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "utwory panegiryczne
+[NEW]
+<dzieło>
+(Utwory ku czci wybitnych
+gdańszczan wydane przez
+Jakuba Gadebuscha.)"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Vestibulum Regni Poloniae
+[NEW]
+<dzieło>
+(Krótki rys części
+gramatyki polskiej wydany
+przez Jakuba Gadebuscha.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=3];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Encomium Regni Poloniae
+[NEW]
+<dzieło>
+(Opis Polski wydany przez
+Jakuba Gadebuscha.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=4];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "Chronicon dynastarum Regni Poloniae
+[NEW]
+<dzieło>
+(Wierszowany utwór
+Klemensa Janickiego
+wydany przez Jakuba
+Gadebuscha pod zmienionym
+\
+tytułem.)"	[color=green,
+		label="isAuthorOf [NEW]",
+		minlen=1];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "łacińska dysputacja filozoficzna o kometach
+[NEW]
+<wydarzenie>
+(Wydarzenie naukowe, które
+miało miejsce 2 II 1619.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "łacińska mowa o metodzie uczenia się
+[NEW]
+<wydarzenie>
+(Wydarzenie naukowe, które
+miało miejsce 10 V 1620.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Jakub Gadebusch
+[Q152955]
+<osoba>
+(Niemiec z pochodzenia,
+związany uczuciowo z
+Polską, podpisywał się
+jako Pomeranus –
+Pomorzanin.)" -> "zapisanie się na uniwersytet w Królewcu
+[NEW]
+<wydarzenie>
+(Wydarzenie edukacyjne,
+które miało miejsce 14 X
+1623.)"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=4];
+}

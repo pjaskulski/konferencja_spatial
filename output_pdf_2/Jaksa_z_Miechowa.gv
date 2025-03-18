@@ -1,0 +1,203 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)"	[color=black,
+		label="Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)"];
+	"klasztor bożogrobców z Miechowa
+[NEW]
+<instytucja>
+(Fundacja Jakszy z
+Miechowa, założona ok.
+1163 roku.)"	[color=black,
+		label="klasztor bożogrobców z Miechowa
+[NEW]
+<instytucja>
+(Fundacja Jakszy z
+Miechowa, założona ok.
+1163 roku.)"];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "klasztor bożogrobców z Miechowa
+[NEW]
+<instytucja>
+(Fundacja Jakszy z
+Miechowa, założona ok.
+1163 roku.)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"klasztor benedyktyński w Sieciechowie
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)"	[color=black,
+		label="klasztor benedyktyński w Sieciechowie
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)"];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "klasztor benedyktyński w Sieciechowie
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)"	[color=green,
+		label="relatedInstitution [NEW]"];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "klasztory premonstrantek w Krzyżanowicach i na Zwierzyńcu pod Krakowem
+[NEW]
+<instytucja>
+(Instytucje wspierane
+przez Jaksę z \
+Miechowa.)"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=1];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "1176-02-24
+(Data śmierci Jakszy z
+Miechowa, zapisana w
+\"Liber mortuorum\"
+klasztoru św. Wincentego.)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=2];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "Piotr Włostowic
+[Q165735]
+<osoba>
+(W starszej literaturze
+uważany za teścia Jakszy
+z Miechowa.)"	[color=green,
+		label="hasRelative [NEW]",
+		minlen=3];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "Świętosław
+[Q175631]
+<osoba>
+(W starszej literaturze
+uważany za szwagra Jakszy
+z Miechowa.)"	[color=green,
+		label="hasRelative [NEW]",
+		minlen=4];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "Bolesław Kędzierzawy
+[Q149561]
+<osoba>
+(Książę, przeciwko któremu
+Jaksa z Miechowa planował
+bunt.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "Kazimierz Sprawiedliwy
+[Q156968]
+<osoba>
+(Książę, który sprzeciwił
+się planom Jakszy z
+Miechowa.)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "ród Gryfitów
+[NEW]
+<organizacja>
+(Uważany niekiedy za
+protoplastę rodu
+Gryfitów.)"	[color=green,
+		label="relatedOrganisation [NEW]",
+		minlen=3];
+	"Jaksa z Miechowa
+[Q155592]
+<osoba>
+(możnowładca małopolski z
+2. poł. XII w.)" -> "dux
+[NEW]
+<urząd>
+(Tytuł \"Jaxa qui
+cognominatus dux\" w
+dokumencie Bolesława
+Wstydliwego.)"	[color=green,
+		label="positionHeld [P101]",
+		minlen=4];
+	"klasztor bożogrobców z Miechowa
+[NEW]
+<instytucja>
+(Fundacja Jakszy z
+Miechowa, założona ok.
+1163 roku.)" -> "majątki i nadania
+[NEW]
+<własność>
+(Obdarowana majątkami
+przez książąt polskich i
+rycerstwo.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"klasztor benedyktyński w Sieciechowie
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)" -> "kompleks włości
+[NEW]
+<własność>
+(Kompleks włości, które
+rozrosły się do 15 osad,
+9 z nich w Lubelskiem.)"	[color=green,
+		label="hasAssets [NEW]",
+		minlen=1];
+	"klasztor premonstrantek na Zwierzyńcu pod Krakowem
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)"	[color=black,
+		label="klasztor premonstrantek na Zwierzyńcu pod Krakowem
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)"];
+	"klasztor premonstrantek na Zwierzyńcu pod Krakowem
+[NEW]
+<instytucja>
+(Instytucja wspierana
+przez Jaksę z Miechowa.)" -> "trzy wsie - Zwierzyniec, Zabierzów, Bibice
+[NEW]
+<własność>
+(Podstawę klasztoru miała
+stanowić darowizna trzech
+wsi  Zwierzyńca,
+\
+Zabierzowa i Bibic.)"	[color=green,
+		label="hasAssets [NEW]"];
+}

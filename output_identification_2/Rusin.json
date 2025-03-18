@@ -1,0 +1,273 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rajca krakowski",
+                "type": "urząd",
+                "description": "Pełniony przez Mikołaja w latach 1319–20, 1327, 1329–30.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasFatherInLaw",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Mikołaj z Zawichostu",
+                "type": "osoba",
+                "description": "teść Mikołaja, opiekun jego dzieci po jego śmierci",
+                "wikihum": "Q162403"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Jan Rusin",
+                "type": "osoba",
+                "description": "syn Mikołaja, żonaty z córką kuśnierza Wilusza",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Anna Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, pozostała panną",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Helena Rusin",
+                "type": "osoba",
+                "description": "żona Mikołaja, córka Mikołaja z Zawichostu",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1330-12-20",
+                "type": "data",
+                "description": "Data ostatniej wzmianki o Mikołaju, po której brak dalszych informacji."
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Tyczek Snel",
+                "type": "osoba",
+                "description": "mąż Gertrudy Rusin",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Gertruda Rusin",
+                "type": "osoba",
+                "description": "córka Mikołaja, zamężna za Tyczkiem Snelem",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Elżbieta Snel",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka, wyszła za mąż za Stanisława Pensatora",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Elżbieta Snel",
+                "type": "osoba",
+                "description": "córka Gertrudy i Tyczka, wyszła za mąż za Stanisława Pensatora",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Stanisław Pensator",
+                "type": "osoba",
+                "description": "mąż Elżbiety Snel",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "placeOfActivity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kraków",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q46043"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "Władysław Łokietek",
+                "type": "osoba",
+                "description": "król Polski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Kościół Najśw. Marii Panny w Krakowie",
+                "type": "obiekt sakralny",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "causeOfDeath",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Ziemia Święta",
+                "type": "miejscowość",
+                "description": "Miejsce, gdzie Mikołaj mógł zginąć podczas pielgrzymki.",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Rusin Mikołaj",
+                "type": "osoba",
+                "description": "rajca krakowski, zm. po 20 XII 1330",
+                "wikihum": "Q169032"
+            },
+            "predicate": {
+                "name": "hasChild",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Nieznane dzieci Rusina Mikołaja",
+                "type": "osoba",
+                "description": "Dwoje dzieci Mikołaja, których imiona nie są znane.",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

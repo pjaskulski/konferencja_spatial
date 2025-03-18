@@ -1,0 +1,311 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)"	[color=black,
+		label="Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)"];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)"	[color=black,
+		label="Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)"	[color=green,
+		label="hasFather [P92]"];
+	"Piotr
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, starosta
+podolski)"	[color=black,
+		label="Piotr
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, starosta
+podolski)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Piotr
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, starosta
+podolski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Stanisław
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, rycerz w
+bitwie pod Grunwaldem)"	[color=black,
+		label="Stanisław
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, rycerz w
+bitwie pod Grunwaldem)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Stanisław
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, rycerz w
+bitwie pod Grunwaldem)"	[color=green,
+		label="hasBrother [P97]"];
+	"Jan
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego,
+podczaszy lwowski)"	[color=black,
+		label="Jan
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego,
+podczaszy lwowski)"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Jan
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego,
+podczaszy lwowski)"	[color=green,
+		label="hasBrother [P97]"];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "podkomorzy sandomierski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "ród Sulimów
+[NEW]
+<tytuł szlachecki>"	[color=green,
+		label="nobleTitle [NEW]",
+		minlen=2];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Halszka
+[Q153966]
+<osoba>
+(matka Bartosza
+Charbinowskiego)"	[color=green,
+		label="hasMother [P93]",
+		minlen=3];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "bratanica Piotra Wysza
+[NEW]
+<osoba>
+(żona Bartosza
+Charbinowskiego)"	[color=green,
+		label="hasWife [P94]",
+		minlen=4];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Zawisza Czarny
+[NEW]
+<osoba>
+(znana postać historyczna,
+rycerz i dyplomata)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=1];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Piotr Wysz
+[Q165804]
+<osoba>
+(biskup krakowski)"	[color=green,
+		label="significantFigure [P100]",
+		minlen=2];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "ochmistrz dworu królowej Anny
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=3];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "Charbinowice, Ogrodzieniec, Wierzchosławice
+[NEW]
+<miejscowość>"	[color=green,
+		label="significantLocality [NEW]",
+		minlen=4];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "udział w polskim życiu politycznym w pierwszej połowie XV wieku
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=1];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "wystąpienie z oskarżeniem Wojciecha Jastrzębca
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=2];
+	"Bartosz Charbinowski
+[Q150345]
+<osoba>
+(podkomorzy sandomierski,
+pochodził z możnego rodu
+Sulimów)" -> "pomnażanie majętności i wypełnianie obowiązków sądowych
+[NEW]
+<osiągnięcie>"	[color=green,
+		label="hasAchievement [NEW]",
+		minlen=3];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)" -> "cześnik krakowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)" -> "starosta lubelski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=2];
+	"Włodko
+[Q165092]
+<osoba>
+(cześnik krakowski,
+starosta lubelski, ojciec
+Bartosza Charbinowskiego)" -> "rokowania o unię polsko-litewską
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=3];
+	"Piotr
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, starosta
+podolski)" -> "starosta podolski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Piotr
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, starosta
+podolski)" -> "biskupstwo krakowskie
+[NEW]
+<instytucja>"	[color=green,
+		label="relatedInstitution [NEW]",
+		minlen=2];
+	"Stanisław
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, rycerz w
+bitwie pod Grunwaldem)" -> "chorąży sandomierski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+	"Stanisław
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego, rycerz w
+bitwie pod Grunwaldem)" -> "kampania 1410 roku
+[NEW]
+<wydarzenie>"	[color=green,
+		label="significantEvent [NEW]",
+		minlen=2];
+	"Jan
+[NEW]
+<osoba>
+(brat Bartosza
+Charbinowskiego,
+podczaszy lwowski)" -> "podczaszy lwowski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]",
+		minlen=1];
+}

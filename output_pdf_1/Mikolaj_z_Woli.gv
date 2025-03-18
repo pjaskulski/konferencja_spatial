@@ -1,0 +1,224 @@
+digraph {
+	node [shape=box,
+		style=rounded
+	];
+	edge [fontsize=10];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)"	[color=black,
+		label="Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)"];
+	"kasztelan kruszwicki
+[NEW]
+<urząd>"	[color=black,
+		label="kasztelan kruszwicki
+[NEW]
+<urząd>"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "kasztelan kruszwicki
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"starosta kujawski
+[NEW]
+<urząd>"	[color=black,
+		label="starosta kujawski
+[NEW]
+<urząd>"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "starosta kujawski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"Maciej z Gołańczy
+[Q161002]
+<osoba>
+(biskup, który wykupił
+Mikołaja z Woli z niewoli)"	[color=black,
+		label="Maciej z Gołańczy
+[Q161002]
+<osoba>
+(biskup, który wykupił
+Mikołaja z Woli z niewoli)"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "Maciej z Gołańczy
+[Q161002]
+<osoba>
+(biskup, który wykupił
+Mikołaja z Woli z niewoli)"	[color=green,
+		label="significantFigure [P100]"];
+	"obrona zamku biskupów kujawskich w Raciążku
+[NEW]
+<wydarzenie>
+(wydarzenie z 1330 roku, w
+którym brał udział
+Mikołaj z Woli)"	[color=black,
+		label="obrona zamku biskupów kujawskich w Raciążku
+[NEW]
+<wydarzenie>
+(wydarzenie z 1330 roku, w
+którym brał udział
+Mikołaj z Woli)"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "obrona zamku biskupów kujawskich w Raciążku
+[NEW]
+<wydarzenie>
+(wydarzenie z 1330 roku, w
+którym brał udział
+Mikołaj z Woli)"	[color=green,
+		label="significantEvent [NEW]"];
+	"podkomorzy brzeski
+[NEW]
+<urząd>"	[color=black,
+		label="podkomorzy brzeski
+[NEW]
+<urząd>"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "podkomorzy brzeski
+[NEW]
+<urząd>"	[color=green,
+		label="positionHeld [P101]"];
+	"asesor sądu ziemskiego w Inowrocławiu
+[NEW]
+<stanowisko>
+(stanowisko pełnione przez
+Mikołaja z Woli w 1341
+roku)"	[color=black,
+		label="asesor sądu ziemskiego w Inowrocławiu
+[NEW]
+<stanowisko>
+(stanowisko pełnione przez
+Mikołaja z Woli w 1341
+roku)"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "asesor sądu ziemskiego w Inowrocławiu
+[NEW]
+<stanowisko>
+(stanowisko pełnione przez
+Mikołaja z Woli w 1341
+roku)"	[color=green,
+		label="positionHeld [P101]"];
+	"Inowrocław
+[Q37053]
+<miejscowość>
+(miejsce, gdzie Mikołaj z
+Woli pełnił funkcję
+asesora sądu ziemskiego w
+1341 roku)"	[color=black,
+		label="Inowrocław
+[Q37053]
+<miejscowość>
+(miejsce, gdzie Mikołaj z
+Woli pełnił funkcję
+asesora sądu ziemskiego w
+1341 roku)"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "Inowrocław
+[Q37053]
+<miejscowość>
+(miejsce, gdzie Mikołaj z
+Woli pełnił funkcję
+asesora sądu ziemskiego w
+1341 roku)"	[color=green,
+		label="significantLocality [NEW]"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Mikołaj z Woli
+[Q162401]
+<osoba>
+(kasztelan kruszwicki i
+starosta kujawski)" -> "1346-10-31
+(kasztelan kruszwicki i
+starosta kujawski)"	[color=green,
+		label="dateOfDeath [P12]",
+		minlen=1];
+	"kasztelan kruszwicki
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"starosta kujawski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"Maciej z Gołańczy
+[Q161002]
+<osoba>
+(biskup, który wykupił
+Mikołaja z Woli z niewoli)" -> "człowiek
+[Q5]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"obrona zamku biskupów kujawskich w Raciążku
+[NEW]
+<wydarzenie>
+(wydarzenie z 1330 roku, w
+którym brał udział
+Mikołaj z Woli)" -> "wydarzenie
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"podkomorzy brzeski
+[NEW]
+<urząd>" -> "urząd
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]"];
+	"asesor sądu ziemskiego w Inowrocławiu
+[NEW]
+<stanowisko>
+(stanowisko pełnione przez
+Mikołaja z Woli w 1341
+roku)" -> "stanowisko
+[NEW]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+	"Inowrocław
+[Q37053]
+<miejscowość>
+(miejsce, gdzie Mikołaj z
+Woli pełnił funkcję
+asesora sądu ziemskiego w
+1341 roku)" -> "jednostka osadnicza
+[Q175698]
+<None>"	[color=green,
+		label="instance_of [P27]",
+		minlen=1];
+}

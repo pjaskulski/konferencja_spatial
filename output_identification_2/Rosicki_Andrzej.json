@@ -1,0 +1,380 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent miasta Łodzi",
+                "type": "urząd",
+                "description": "od 16 XII 1862 do 15 II 1865",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "dyrektor Towarzystwa Kredytowego m. Łodzi",
+                "type": "urząd",
+                "description": "od 31 X 1872 do śmierci",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Władysławowo",
+                "type": "miejscowość",
+                "description": "koło Konina",
+                "wikihum": "Q87772"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "Łódź",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q52081"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfBurial",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "cmentarz katolicki przy ul. Ogrodowej w Łodzi",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Walenty Rosicki",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Marianna z Idzikowskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasWife",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Józefa Konstancja",
+                "type": "osoba",
+                "description": "ur. 1859",
+                "wikihum": "Q169849"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasDaughter",
+                "wikihum": "P154"
+            },
+            "object": {
+                "name": "Antonina Wiktoria",
+                "type": "osoba",
+                "description": "ur. 1863",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "Piotr Michał",
+                "type": "osoba",
+                "description": "ur. 1862, kupiec",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Towarzystwo Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1814-10-13",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1904-01-17",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1899-00-00",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "placeOfResidence",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Sochaczew",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "Q76789"
+            }
+        },
+        {
+            "subject": {
+                "name": "Andrzej Rosicki",
+                "type": "osoba",
+                "description": "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego",
+                "wikihum": "Q168549"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "burmistrz",
+                "type": "urząd",
+                "description": "pełniony w Sochaczewie",
+                "wikihum": "NEW",
+                "wikidata": "Q99247352"
+            }
+        },
+        {
+            "subject": {
+                "name": "Franciszek Traeger",
+                "type": "osoba",
+                "description": "poprzednik Andrzeja Rosickiego na stanowisku prezydenta miasta Łodzi",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prezydent miasta Łodzi",
+                "type": "urząd",
+                "description": "przed Andrzejem Rosickim",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Anna z Robowskich",
+                "type": "osoba",
+                "description": "działaczka społeczna i przewodnicząca I Ochronki",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "I Ochronka",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Michał",
+                "type": "osoba",
+                "description": "ur. 1862, kupiec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "kupiec",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW",
+                "wikidata": "Q16570206"
+            }
+        },
+        {
+            "subject": {
+                "name": "Piotr Michał",
+                "type": "osoba",
+                "description": "ur. 1862, kupiec",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1862-00-00",
+                "type": "data",
+                "description": "Data urodzenia Piotra Michała"
+            }
+        }
+    ]
+}

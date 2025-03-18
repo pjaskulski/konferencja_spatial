@@ -1,0 +1,380 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "dateOfBirth",
+                "wikihum": "P11"
+            },
+            "object": {
+                "name": "1745",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1807",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "rektor",
+                "type": "urząd",
+                "description": "kolegium pijarskie w Radziejowie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wicerektor",
+                "type": "urząd",
+                "description": "Collegium Nobilium w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "wicedyrektor",
+                "type": "urząd",
+                "description": "kolegium w Drohiczynie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "prefekt i profesor klasy czwartej",
+                "type": "urząd",
+                "description": "kolegium szczuczyńskie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczyciel",
+                "type": "zawód",
+                "description": "w różnych kolegiach",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "nieokreślona szkoła/uczelnia",
+                "type": "uczelnia",
+                "description": "Podoliniec",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium pijarskie w Rzeszowie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium pijarskie w Radomiu",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium w Łowiczu",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium w Drohiczynie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium szczuczyńskie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Collegium Nobilium w Warszawie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium pijarskie w Radziejowie",
+                "type": "uczelnia",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "placeOfDeath",
+                "wikihum": "P141"
+            },
+            "object": {
+                "name": "kolegium łowickie",
+                "type": "miejscowość",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "relatedOrganisation",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "Komisja Edukacji Narodowej",
+                "type": "organizacja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "ks. Jordan",
+                "type": "osoba",
+                "description": "prowincjał pijarski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "ks. Reszczyński",
+                "type": "osoba",
+                "description": "prowincjał pijarski",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "significantFigure",
+                "wikihum": "P100"
+            },
+            "object": {
+                "name": "ks. Franciszek Salezy Jezierski",
+                "type": "osoba",
+                "description": "wizytator KEN",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Jan Gołaski",
+                "type": "osoba",
+                "description": "rektor kolegium pijarskiego w Radziejowie",
+                "wikihum": "Q153735"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "kolegium łowickie",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}

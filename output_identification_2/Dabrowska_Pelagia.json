@@ -1,0 +1,273 @@
+{
+    "triplets": [
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "placeOfBirth",
+                "wikihum": "P140"
+            },
+            "object": {
+                "name": "Dubienka",
+                "type": "miejscowość",
+                "description": "w Lubelskiem",
+                "wikihum": "Q29633"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "dateOfDeath",
+                "wikihum": "P12"
+            },
+            "object": {
+                "name": "1909-02-11",
+                "type": "data",
+                "description": null
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasHusband",
+                "wikihum": "P94"
+            },
+            "object": {
+                "name": "Jarosław Dąbrowski",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "Q151316"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasMother",
+                "wikihum": "P93"
+            },
+            "object": {
+                "name": "Pelagia z Piotrowskich",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasFather",
+                "wikihum": "P92"
+            },
+            "object": {
+                "name": "Michał Zgliczyński",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasAunt",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Waleria Piotrowska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasAunt",
+                "wikihum": "P99"
+            },
+            "object": {
+                "name": "Ignacja Piotrowska",
+                "type": "osoba",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "nameOfSchoolOrUniversity",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "pensja Teresy Brzezińskiej",
+                "type": "uczelnia",
+                "description": "w Warszawie",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasOccupation",
+                "wikihum": "P106"
+            },
+            "object": {
+                "name": "nauczycielka",
+                "type": "zawód",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "positionHeld",
+                "wikihum": "P101"
+            },
+            "object": {
+                "name": "ochmistrzyni",
+                "type": "urząd",
+                "description": "w pierwszym gimnazjum żeńskim założonym przez Trzaskowskiego",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "syn",
+                "type": "osoba",
+                "description": "jeden z trzech synów Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "gimnazjum Królowej Jadwigi",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "szkoła św. Andrzeja ss. felicjanek",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "Pelagia Dąbrowska",
+                "type": "osoba",
+                "description": "żona Jarosława, nauczycielka",
+                "wikihum": "Q151299"
+            },
+            "predicate": {
+                "name": "relatedInstitution",
+                "wikihum": "NEW"
+            },
+            "object": {
+                "name": "praca u Serwatowskiej i Krynickiej",
+                "type": "instytucja",
+                "description": null,
+                "wikihum": "NEW"
+            }
+        },
+        {
+            "subject": {
+                "name": "syn",
+                "type": "osoba",
+                "description": "jeden z trzech synów Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            },
+            "predicate": {
+                "name": "hasSon",
+                "wikihum": "P153"
+            },
+            "object": {
+                "name": "syn",
+                "type": "osoba",
+                "description": "jeden z trzech synów Pelagii Dąbrowskiej",
+                "wikihum": "NEW"
+            }
+        }
+    ]
+}
