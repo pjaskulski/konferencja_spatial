@@ -13,7 +13,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1856",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Jan Klopffleisch",
                 "type": "osoba",
                 "description": "właściciel browaru na Nowym Świecie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,22 +61,8 @@
                 "name": "działacz rewolucyjny",
                 "type": "zawód",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Wilhelm Klopffleisch",
-                "type": "osoba",
-                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "zesłanie na Syberię",
-                "type": "wydarzenie",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +77,8 @@
                 "name": "Nerczyński Zawód",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +93,8 @@
                 "name": "Narcyz Tchórzewski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +109,8 @@
                 "name": "Henryk Krajewski",
                 "type": "osoba",
                 "description": "naczelnik organizacji warszawskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +125,8 @@
                 "name": "Romuald Świerzbiński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +141,8 @@
                 "name": "Antonina Lissowska",
                 "type": "osoba",
                 "description": "modystka zajmująca się przemytem druków"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "Józef Wysocki",
                 "type": "osoba",
                 "description": "główny delegat wojskowy Tow. Demokr. Pol. na kraj"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "Ludwik Bulewski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "Paweł Darasz",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Warszawa"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "nieznane przedsiębiorstwo",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +237,8 @@
                 "name": "fabryka maszyn na Solcu",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +253,8 @@
                 "name": "Związek Demokratyczny",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +269,8 @@
                 "name": "Centralizacja Towarzystwa Demokratycznego Polskiego w Paryżu",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "Centralny Komitet Demokracji Europejskiej w Londynie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +301,8 @@
                 "name": "Natalis Sulerzyski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,22 +317,8 @@
                 "name": "Ignacy Łyskowski",
                 "type": "osoba",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Wilhelm Klopffleisch",
-                "type": "osoba",
-                "description": "pseud. Sas, działacz rewolucyjny warszawski, sybirak"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "aresztowanie w Zbrachlinie",
-                "type": "wydarzenie",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +333,8 @@
                 "name": "browar na Nowym Świecie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -358,7 +349,8 @@
                 "name": "naczelnik organizacji warszawskiej",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -373,7 +365,8 @@
                 "name": "modystka",
                 "type": "zawód",
                 "description": "zajmująca się przemytem druków"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +381,8 @@
                 "name": "Towarzystwo Demokratyczne Polskie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

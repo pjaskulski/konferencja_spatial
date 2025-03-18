@@ -49,7 +49,7 @@
                 "description": "Data przybliżona, zmarł po 1810 roku"
             },
             "reasoning": "Piotr Rossi zmarł po 1810 roku, co jest podane w pierwszym zdaniu tekstu.",
-            "result": true
+            "result": false
         },
         {
             "subject": {
@@ -66,7 +66,7 @@
                 "description": null
             },
             "reasoning": "Piotr Rossi urodził się zapewne w Rzymie, co jest podane w tekście., Rzym jest wymieniony jako prawdopodobne miejsce urodzenia.",
-            "result": true
+            "result": false
         },
         {
             "subject": {

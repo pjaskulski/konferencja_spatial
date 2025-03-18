@@ -9,7 +9,7 @@ from graphviz import Digraph
 # ----------------------------- FUNCTIONS --------------------------------------
 def read_json(input_file:str):
     """ wczytanie danych z pliku json """
-    input_path = Path('..') / "output_dataset_link" / input_file
+    input_path = Path('..') / "output_identification_2" / input_file
     with open(input_path, 'r', encoding='utf-8') as f_in:
         json_data = json.load(f_in)
 
@@ -33,6 +33,7 @@ def visualize_knowledge_graph(kg:list, filename:str):
         s_type = triplet["subject"]["type"]
 
         if s_description:
+            s_description = s_description.replace(":", " ")
             s_description = textwrap.fill(s_description, width=25)
             node_name = f'{s_name}\n[{s_wikihum}]\n<{s_type}>\n({s_description})'
 
@@ -53,6 +54,7 @@ def visualize_knowledge_graph(kg:list, filename:str):
         s_type = triplet["subject"]["type"]
 
         if s_description:
+            s_description = s_description.replace(":", " ")
             s_description = textwrap.fill(s_description, width=25)
             tail_name = f'{s_name}\n[{s_wikihum}]\n<{s_type}>\n({s_description})'
         else:
@@ -64,9 +66,10 @@ def visualize_knowledge_graph(kg:list, filename:str):
         o_wikihum = triplet.get("object",{}).get("wikihum",None)
 
         if o_description:
+            o_description = o_description.replace(":", " ")
             o_description = textwrap.fill(o_description, width=25)
             if  o_type == "data":
-                head_name = f'{o_name}\n({s_description})'
+                head_name = f'{o_name}\n({o_description})'
             else:
                 head_name = f'{o_name}\n[{o_wikihum}]\n<{o_type}>\n({o_description})'
         else:
@@ -84,7 +87,7 @@ def visualize_knowledge_graph(kg:list, filename:str):
 
     # Render the graph
     output_file = filename.replace('.json','.gv')
-    output_path = Path('..') / "output_pdf" / output_file
+    output_path = Path('..') / "output_pdf_2" / output_file
     dot_u = dot.unflatten(stagger=4)
     dot_u.render(output_path, view=False)
 
@@ -93,7 +96,7 @@ def visualize_knowledge_graph(kg:list, filename:str):
 if __name__ == "__main__":
 
     # dataset - dane po identyfikacji i walidacji
-    data_folder = Path("..") / "output_link"
+    data_folder = Path("..") / "output_identification_2"
     data_file_list = data_folder.glob('*.json')
 
     for data_file in data_file_list:
@@ -102,7 +105,7 @@ if __name__ == "__main__":
 
         # pomijanie jeżeli pdf z grafem już istnieje
         pdf_file = file_name.replace('.json', '.pdf')
-        pdf_path = Path("..") / "output_pdf" / pdf_file
+        pdf_path = Path("..") / "output_pdf_2" / pdf_file
         if os.path.exists(pdf_path):
             continue
 

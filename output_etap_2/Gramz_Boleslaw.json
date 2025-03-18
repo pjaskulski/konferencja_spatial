@@ -13,7 +13,8 @@
                 "name": "1904-04-04",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1943-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Kubliczew",
                 "type": "miejscowość",
                 "description": "miasteczko w guberni witebskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Bolesław Gramz (ojciec)",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Adela z Erdmanów",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Gimnazjum Św. Katarzyny",
                 "type": "uczelnia",
                 "description": "w Petersburgu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Wilno"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Seminarium Duchowne",
                 "type": "uczelnia",
                 "description": "Wilno"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Uniwersytet Stefana Batorego",
                 "type": "uczelnia",
                 "description": "Wydział Teologiczny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "wikariusz",
                 "type": "zawód",
                 "description": "Grodno"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Fundusz Kultury Narodowej",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "prefekt",
                 "type": "zawód",
                 "description": "Święciany"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "kapelan",
                 "type": "zawód",
                 "description": "6. pułk piechoty I. Dywizji"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "proboszcz",
                 "type": "zawód",
                 "description": "Idołta"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "gestapo",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,37 +253,8 @@
                 "name": "własowcy",
                 "type": "organizacja",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Bolesław Gramz",
-                "type": "osoba",
-                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wyświęcenie na kapłana",
-                "type": "wydarzenie",
-                "description": "4 kwietnia 1931 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Bolesław Gramz",
-                "type": "osoba",
-                "description": "kapelan W.P., proboszcz w Idołcie k. Drui, uczestnik konspiracji"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "aresztowanie przez gestapo",
-                "type": "wydarzenie",
-                "description": "7 czerwca 1943 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +269,8 @@
                 "name": "morderstwo przez własowców",
                 "type": "wydarzenie",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Antoni Gintowt",
                 "type": "osoba",
                 "description": "miecznik bełski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Józef Byszewski",
                 "type": "osoba",
                 "description": "szambelan dworu, pułkownik, później generał-major wojsk koronnych"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "szambelan dworu",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "pułkownik",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "generał-major wojsk koronnych",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Joachim Gintowt",
                 "type": "osoba",
                 "description": "sekretarz Komisji Edukacji Narodowej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "sekretarz Komisji Edukacji Narodowej",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Franciszek Karpiński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "O edukacji fizycznej i moralnej płci żeńskiej",
                 "type": "dzieło",
                 "description": "traktat ogłoszony drukiem w 1789 roku, przełożony z francuskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "wsie Rudka i Mierzwica",
                 "type": "własność",
                 "description": "wsie podlaskie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "dobra Fajsławice i wsie w województwie krakowskim",
                 "type": "własność",
                 "description": "dobra w województwie lubelskim i krakowskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "królewszczyzna Lachowicze",
                 "type": "własność",
                 "description": "w województwie nowogródzkim"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "wsie Rudka i Mierzwica",
                 "type": "własność",
                 "description": "wsie duże, przedmiot sporu z Tomaszem Aleksandrowiczem"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "dobra w opactwie miechowskim",
                 "type": "własność",
                 "description": "przedmiot sporu z Szkołą Główną krakowską"
-            }
+            },
+            "result": false
         }
     ]
 }

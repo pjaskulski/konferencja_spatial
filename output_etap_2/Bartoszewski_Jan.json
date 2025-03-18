@@ -13,7 +13,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Uniwersytet Wiedeński",
                 "type": "instytucja",
                 "description": "miejsce studiów teologicznych Jana Bartoszewskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Uniwersytet Lwowski",
                 "type": "instytucja",
                 "description": "miejsce pracy Jana Bartoszewskiego jako profesora"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "ksiądz greckokatolicki",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "profesor teologii pastoralnej",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Komentarz do Pisma św. St. Test.",
                 "type": "dzieło",
                 "description": "wraz z tekstem starosłowiańskim (t. I–VII, Lw. 1900–1908)"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Pedagogja chrześc. kat.",
                 "type": "dzieło",
                 "description": "Lw. 1891, 2. wyd. pomn. 1909"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Teologia pasterska",
                 "type": "dzieło",
                 "description": "Lw. 1902"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "1852-01-18",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "1920-12-13",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Lwów"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "adjunkt wydziału teologicznego",
                 "type": "urząd",
                 "description": "Uniwersytet Lwowski, 1879-1883"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "zastępca profesora teologii pastoralnej",
                 "type": "urząd",
                 "description": "Uniwersytet Lwowski, 1883-1884"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "profesor zwyczajny teologii pastoralnej",
                 "type": "urząd",
                 "description": "Uniwersytet Lwowski, od 1885"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "wykładowca pedagogiki",
                 "type": "urząd",
                 "description": "Uniwersytet Lwowski, od 1890"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "dziekan wydziału teologicznego",
                 "type": "urząd",
                 "description": "Uniwersytet Lwowski, 1888/9 i 1893/4"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "kierownik seminarjum homiletycznego",
                 "type": "urząd",
                 "description": "od 1905"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "rzeczywisty radca gr.-kat. Konsystorza Metropol.",
                 "type": "urząd",
                 "description": "od 1891"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
                 "type": "urząd",
                 "description": "od 1895"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
                 "type": "urząd",
                 "description": "od 1897"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "egzaminator synodalny",
                 "type": "urząd",
                 "description": "lwowski synod diecezjalny, 1905"
-            }
+            },
+            "result": true
         }
     ]
 }

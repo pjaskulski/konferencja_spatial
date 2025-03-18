@@ -13,7 +13,8 @@
                 "name": "1532-06-00",
                 "type": "data",
                 "description": "Zmarł w czerwcu 1532."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Wrocław",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Sebastian Puschel",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "uniwersytet wiedeński",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Kraków"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "rektor gimnazjum",
                 "type": "urząd",
                 "description": "przy kościele Św. Marii Magdaleny we Wrocławiu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "bibliofil",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "humanista",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "pedagog",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Leonard Cox",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Erazm z Rotterdamu",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Andrzej Trzecieski starszy",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Jan Antoninus",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Anzelm Ephorinus",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Jost Ludwik Decjusz",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Klemens Borek",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Maciej Przybyło",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Jan Lang",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Jerzy Werner",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Andrzej Schroeter",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Jan Wencki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "Wawrzyniec Just",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "nieznana z imienia matka Rullusa Jana",
                 "type": "osoba",
                 "description": "pochodziła z Legnicy"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "rodzina alzacka z Wissemburga",
                 "type": "osoba",
                 "description": "pochodzenie rodziny Rullusa Jana"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "Akademia Lubrańskiego",
                 "type": "instytucja",
                 "description": "Poznań"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "Rada Miejska Wrocławia",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -418,7 +445,8 @@
                 "name": "zbiór druków i kodeksów rękopiśmiennych",
                 "type": "obiekt fizyczny",
                 "description": "kolekcja książek i rękopisów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +461,8 @@
                 "name": "Legnica",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -448,7 +477,8 @@
                 "name": "rodzina alzacka z Wissemburga",
                 "type": "osoba",
                 "description": "pochodzenie rodziny Rullusa Jana"
-            }
+            },
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Krzysztof Przezdziecki",
                 "type": "osoba",
                 "description": "stolnik upicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Anna Eleonora ze Skopów",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Józef Przezdziecki",
                 "type": "osoba",
                 "description": "starosta hrabowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Krzysztof Przezdziecki",
                 "type": "osoba",
                 "description": "znany z zajazdów i rozbojów"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Antoni Przezdziecki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Felicjanna z Chreptowiczów",
                 "type": "osoba",
                 "description": "podkomorzanka nowogrodzka"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Konstancja Aleksandra z Kamińskich",
                 "type": "osoba",
                 "description": "córka Krzysztofa, sędziego orszańskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "kasztelan inflancki",
                 "type": "urząd",
                 "description": "od 24 XI 1726"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "chorąży mozyrski",
                 "type": "urząd",
                 "description": "co najmniej od 1694"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "deputat na Trybunał W. Ks. Lit.",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "miecznik litewski",
                 "type": "urząd",
                 "description": "na przełomie 1708/9"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "sekretarz poselstwa do Rosji",
                 "type": "urząd",
                 "description": "w 1703 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Michał Wiśniowiecki",
                 "type": "osoba",
                 "description": "późniejszy kanclerz wielki litewski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Radziwiłłowie",
                 "type": "osoba",
                 "description": "rodzina, z którą Aleksander Przezdziecki zaczął się wiązać w latach trzydziestych XVIII wieku"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "1734-10-24",
                 "type": "data",
                 "description": "przybliżona data śmierci"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Wilno",
                 "type": "miejscowość",
                 "description": "prawdopodobne miejsce śmierci"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "1724-00-00",
                 "type": "data",
                 "description": "data śmierci podczas zajazdu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "1727-12-00",
                 "type": "data",
                 "description": "data śmierci przez ścięcie we Lwowie"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": "miejsce śmierci przez ścięcie"
-            }
+            },
+            "result": false
         }
     ]
 }

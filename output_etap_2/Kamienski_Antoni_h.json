@@ -13,7 +13,8 @@
                 "name": "Stanisław Kamieński",
                 "type": "osoba",
                 "description": "burgrabia krzemieniecki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Barbara z Kuczabskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Franciszka Czarnocka",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Stanisław Kamieński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Juliusz Kamieński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Ludwiszcze",
                 "type": "miejscowość",
                 "description": "miejscowość w powiecie krzemienieckim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "1862-11-08",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Liceum Wołyńskie",
                 "type": "uczelnia",
                 "description": "szkoła w Krzemieńcu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "podsędek sądu",
                 "type": "urząd",
                 "description": "w Starym Konstantynowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kurator gimnazjum",
                 "type": "urząd",
                 "description": "w Równem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Kołki",
                 "type": "miejscowość",
                 "description": "wieś w powiecie starokonstantynowskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Feliks Czacki",
                 "type": "osoba",
                 "description": "bratanek Tadeusza Czackiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "K. Kaczkowski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "K. Sienkiewicz",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "A. Słowikowski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Tadeusz Czacki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Tadeusz Czacki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

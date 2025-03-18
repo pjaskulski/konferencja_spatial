@@ -13,7 +13,8 @@
                 "name": "pisarka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "tłumaczka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1860-07-00",
                 "type": "data",
                 "description": "Urodzona w połowie lipca."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "1899-04-11",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Tykocin",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Aleksander Jelski",
                 "type": "osoba",
                 "description": "Dziedzic Zamościa i znany publicysta"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Helena z Kałęczyńskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Zygmunt Gloger",
                 "type": "osoba",
                 "description": "Właściciel majątku Jeżewo na Podlasiu, historyk i etnograf"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "pensja wizytek polskich",
                 "type": "uczelnia",
                 "description": "Wersal"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,22 +157,8 @@
                 "name": "dwór w Dudziczach",
                 "type": "obiekt fizjograficzny",
                 "description": "Gniazdo rodzinne Jelskich"
-            }
-        },
-        {
-            "subject": {
-                "name": "Aleksandra Glogerowa z Jelskich",
-                "type": "osoba",
-                "description": "Pisarka i tłumaczka"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "neoromantyzm",
-                "type": "wydarzenie",
-                "description": "Przedstawicielka rozwijającego się podówczas neoromantyzmu"
-            }
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "Adam Pług",
                 "type": "osoba",
                 "description": "Przyjaciel domu Glogerów, autor pośmiertnego wspomnienia o Aleksandrze Glogerowej z Jelskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "przekład pamiętników Michała Starzeńskiego",
                 "type": "dzieło",
                 "description": "Nie dokończony przekład pisanych po francusku pamiętników Michała Starzeńskiego, starosty brańskiego w czasach Stan. Aug. Poniatowskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "Zamość",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "publicysta",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +237,8 @@
                 "name": "majątek Jeżewo",
                 "type": "obiekt fizjograficzny",
                 "description": "Majątek na Podlasiu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +253,8 @@
                 "name": "historyk",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +269,8 @@
                 "name": "etnograf",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "pośmiertne wspomnienie o Aleksandrze Glogerowej z Jelskich",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

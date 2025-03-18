@@ -13,7 +13,8 @@
                 "name": "Kotiużany",
                 "type": "miejscowość",
                 "description": "na Podolu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1931-12-30",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Henryk Dzierżek",
                 "type": "osoba",
                 "description": "ojciec Natalii Dzierżek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Maria z Piątkowskich Nieczuja-Dzierżków",
                 "type": "osoba",
                 "description": "matka Natalii Dzierżek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Henryk Piątkowski",
                 "type": "osoba",
                 "description": "artysta malarz, wuj Natalii Dzierżek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Szkoła Sztuk Pięknych",
                 "type": "uczelnia",
                 "description": "w Odessie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,22 +125,8 @@
                 "name": "Sokoły",
                 "type": "organizacja",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Natalia Dzierżek",
-                "type": "osoba",
-                "description": "literatka, artystka-malarka, działaczka społeczna"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "Deportacja do Archangielska",
-                "type": "wydarzenie",
-                "description": "aresztowanie i deportacja w 1895 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +141,8 @@
                 "name": "Mariusz Zaruski",
                 "type": "osoba",
                 "description": "współwięzień Natalii Dzierżek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "Tadeusz Gałecki",
                 "type": "osoba",
                 "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "Teresa z Wołowskich Prażmowska",
                 "type": "osoba",
                 "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "Nagroda na konkursie »Gazety Świątecznej«",
                 "type": "osiągnięcie",
                 "description": "za utwór Bartłomiej Słomka. Gawęda w 1900 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "Jerzy Orwicz",
                 "type": "pseudonim",
                 "description": "pseudonim literacki Natalii Dzierżek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "literatka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +237,8 @@
                 "name": "artystka-malarka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +253,8 @@
                 "name": "działaczka społeczna",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +269,8 @@
                 "name": "nauczycielka rysunku",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "redaktorka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +301,8 @@
                 "name": "Żywot wodza narodu (T. Kościuszki)",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +317,8 @@
                 "name": "Kurier Warszawski",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,22 +333,8 @@
                 "name": "Kronika Rolnicza",
                 "type": "dzieło",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Deportacja do Archangielska",
-                "type": "wydarzenie",
-                "description": "aresztowanie i deportacja w 1895 roku"
             },
-            "predicate": {
-                "name": "dateOfEvent"
-            },
-            "object": {
-                "name": "1895-00-00",
-                "type": "data",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +349,8 @@
                 "name": "artysta malarz",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +365,8 @@
                 "name": "Tadeusz Gałecki",
                 "type": "osoba",
                 "description": "osoba, do której zbliżyła się Natalia Dzierżek w Archangielsku"
-            }
+            },
+            "result": true
         }
     ]
 }

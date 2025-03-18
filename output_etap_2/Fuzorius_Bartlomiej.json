@@ -13,7 +13,8 @@
                 "name": "kolegiata nowosądecka",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1637",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Nowy Sącz",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Nowy Sącz",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "kolegiata nowosądecka",
                 "type": "instytucja",
                 "description": "miejsce pochówku Fuzoriusa Bartłomieja"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Stanisław Lwowczyk",
                 "type": "osoba",
                 "description": "ojciec Fuzoriusa Bartłomieja"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "1598",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Akademia Krakowska",
                 "type": "instytucja",
                 "description": "miejsce prawdopodobnego kształcenia Fuzoriusa Bartłomieja"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "wikariusz",
                 "type": "urząd",
                 "description": "stanowisko pełnione przez Fuzoriusa Bartłomieja od 1584 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kustosz kolegiaty św. Małgorzaty",
                 "type": "urząd",
                 "description": "stanowisko pełnione przez Fuzoriusa Bartłomieja od 1605 roku do jego śmierci"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Kamionka Wielka",
                 "type": "miejscowość",
                 "description": "miejsce, gdzie Fuzorius Bartłomiej wybudował kościółek"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "stypendium dla młodzieńców z Nowego Sącza, Grybowa i Kamionki Wielkiej",
                 "type": "przedmiot",
                 "description": "stworzone w 1631 roku przez Fuzoriusa Bartłomieja"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "bakałarz",
                 "type": "zawód",
                 "description": "posiadał stopień bakałarza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "balwierz",
                 "type": "zawód",
                 "description": ""
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "rajca miejski",
                 "type": "urząd",
                 "description": ""
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "dwóch stałych penitencjariuszów",
                 "type": "osoba",
                 "description": "ufundowani przez Fuzoriusa Bartłomieja w kolegiacie św. Małgorzaty"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Biblioteka Kapitulna we Lwowie",
                 "type": "instytucja",
                 "description": "miejsce przechowywania resztek biblioteki Fuzoriusa Bartłomieja"
-            }
+            },
+            "result": true
         }
     ]
 }

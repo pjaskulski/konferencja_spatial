@@ -13,7 +13,8 @@
                 "name": "Gdańsk",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1595-04-12",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1649-08-21",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Gdańsk",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Mikołaj",
                 "type": "osoba",
                 "description": "obywatel gdański"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Anna von Domfsdorff",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Konstanty Ferber",
                 "type": "osoba",
                 "description": "burmistrz"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Anna von Thielen",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Konstanty Pahl",
                 "type": "osoba",
                 "description": "burmistrz gdański w l. 1687–91"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "burmistrz",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "burgrabia królewski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "dyplom nobilitacyjny",
                 "type": "osiągnięcie",
                 "description": "otrzymany od cesarza Ferdynanda II"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Toruń"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "ławnik",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "rajca",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "sędzia",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "inspektor kancelarii i archiwum",
                 "type": "urząd",
                 "description": "funkcja dożywotnia"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "burmistrz",
                 "type": "urząd",
                 "description": "burmistrz gdański w l. 1687–91"
-            }
+            },
+            "result": false
         }
     ]
 }

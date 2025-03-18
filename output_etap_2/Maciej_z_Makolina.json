@@ -13,7 +13,8 @@
                 "name": "Stanisław",
                 "type": "osoba",
                 "description": "zapewne Hukleja, wójt w Mąkolinie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Anna z Kośnińskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Mikołaj",
                 "type": "osoba",
                 "description": "wójt knyszyński"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Paweł",
                 "type": "osoba",
                 "description": "doktor obojga praw, późniejszy opat płocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Filip",
                 "type": "osoba",
                 "description": "kanonik pułtuski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Jan",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Zygmunt",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Królowa Bona",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Król Zygmunt August",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -142,28 +151,14 @@
                 "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta"
             },
             "predicate": {
-                "name": "event"
-            },
-            "object": {
-                "name": "Sejm 25 I 1533",
-                "type": "wydarzenie",
-                "description": "wydarzenie, podczas którego Maciej z Mąkolina otrzymał nobilitację"
-            }
-        },
-        {
-            "subject": {
-                "name": "Maciej z Mąkolina",
-                "type": "osoba",
-                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta"
-            },
-            "predicate": {
-                "name": "owns"
+                "name": "hasAsset"
             },
             "object": {
                 "name": "Kaleczyce",
                 "type": "miejscowość",
                 "description": "majętność nabyta przez Macieja z Mąkolina i jego brata Pawła"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "Nagrobek w katedrze płockiej",
                 "type": "obiekt fizyczny",
                 "description": "nagrobek wystawiony przez Macieja z Mąkolina i jego brata Pawła"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "1576-12-30",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "Kolegiata w Pułtusku",
                 "type": "miejscowość",
                 "description": "miejsce pochówku Macieja z Mąkolina"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "sekretarz",
                 "type": "zawód",
                 "description": "sekretarz królowej Bony i Zygmunta Augusta"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +237,8 @@
                 "name": "prebendy",
                 "type": "urząd",
                 "description": "kanonia sądecka, kanonia kolegiaty Św. Michała na Wawelu, altaria św. Trójcy w Mejszagole, plebania w Kalinówce, altaria św. Doroty w katedrze krakowskiej, plebania w Młodzieszynie, kanonia łęczycka, plebania w Sochaczewie, kanonia kolegiaty Św. Jerzego na Wawelu, plebania w Nurze i Makowie, kanonia pułtuska, kanonia wileńska, prepozytura trocka, kanonia płocka, kantorstwo płockie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,22 +253,8 @@
                 "name": "Andrzej Krzycki",
                 "type": "osoba",
                 "description": "biskup płocki od 1527 roku, protektor Macieja z Mąkolina"
-            }
-        },
-        {
-            "subject": {
-                "name": "Maciej z Mąkolina",
-                "type": "osoba",
-                "description": "później zwany Kalecki, h. Kotwicz, sekretarz królowej Bony i Zygmunta Augusta"
             },
-            "predicate": {
-                "name": "relatedPlace"
-            },
-            "object": {
-                "name": "miejsca prebend",
-                "type": "miejscowość",
-                "description": "Sącz, Wawel, Mejszagoła, Kalinówka, Kraków, Młodzieszyn, Łęczyca, Sochaczew, Nur, Maków, Pułtusk, Wilno, Troki, Płock"
-            }
+            "result": true
         }
     ]
 }

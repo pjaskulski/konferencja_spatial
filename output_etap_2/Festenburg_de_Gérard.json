@@ -13,7 +13,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1914-01-16",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Wydział Lekarski",
                 "type": "uczelnia",
                 "description": "Kraków"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "prezydent Izby Lekarskiej",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "lekarz-akuszer",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Towarzystwo Lekarzy Galicyjskich",
                 "type": "organizacja",
                 "description": "Fundusz Wdów i Sierot po Lekarzach"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Galicyjskie Towarzystwo Muzyczne",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Towarzystwo Opieki Szpitalnej nad Dziećmi",
                 "type": "organizacja",
                 "description": "utrzymywało Szpitalik św. Zofii"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Lwowskie Towarzystwo Lekarskie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Towarzystwo Ginekologiczne we Lwowie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Krajowa Rada Zdrowia",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Instytut Medyko-chirurgiczny",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Izba Lekarska",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Szpital Powszechny",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Szpitalik św. Zofii",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Oddział Ginekologiczny",
                 "type": "instytucja",
                 "description": "Instytut Medyko-chirurgiczny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Zakład Położniczy",
                 "type": "instytucja",
                 "description": "Instytut Medyko-chirurgiczny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Józef Rożański",
                 "type": "osoba",
                 "description": "pierwszy prezydent Izby Wschodnio-galicyjskiej we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Adam Czyżewicz",
                 "type": "osoba",
                 "description": "kierownik katedry położnictwa po Weberze"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Weber",
                 "type": "osoba",
                 "description": "profesor, kierownik Oddziału Ginekologicznego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Czerniowce"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "1843-00-00",
                 "type": "data",
                 "description": "Roczna data urodzenia podana w nawiasie w pierwszym zdaniu biogramu."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "skarbnikiem",
                 "type": "urząd",
                 "description": "Towarzystwo Lekarzy Galicyjskich"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "prezes",
                 "type": "urząd",
                 "description": "Lwowskie Towarzystwo Lekarskie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "wiceprezes",
                 "type": "urząd",
                 "description": "Krajowa Rada Zdrowia"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "prezydent Izby Wschodnio-galicyjskiej",
                 "type": "urząd",
                 "description": "Izba Wschodnio-galicyjska we Lwowie"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -418,7 +445,8 @@
                 "name": "kierownik katedry położnictwa",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +461,8 @@
                 "name": "Instytut Medyko-chirurgiczny",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

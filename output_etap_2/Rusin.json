@@ -13,7 +13,8 @@
                 "name": "rajca krakowski",
                 "type": "urząd",
                 "description": "Pełniony przez Mikołaja w latach 1319–20, 1327, 1329–30."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Mikołaj z Zawichostu",
                 "type": "osoba",
                 "description": "teść Mikołaja, opiekun jego dzieci po jego śmierci"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Jan Rusin",
                 "type": "osoba",
                 "description": "syn Mikołaja, żonaty z córką kuśnierza Wilusza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Anna Rusin",
                 "type": "osoba",
                 "description": "córka Mikołaja, pozostała panną"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Gertruda Rusin",
                 "type": "osoba",
                 "description": "córka Mikołaja, zamężna za Tyczkiem Snelem"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Helena Rusin",
                 "type": "osoba",
                 "description": "żona Mikołaja, córka Mikołaja z Zawichostu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "1330-12-20",
                 "type": "data",
                 "description": "Data ostatniej wzmianki o Mikołaju, po której brak dalszych informacji."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Tyczek Snel",
                 "type": "osoba",
                 "description": "mąż Gertrudy Rusin"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Elżbieta Snel",
                 "type": "osoba",
                 "description": "córka Gertrudy i Tyczka, wyszła za mąż za Stanisława Pensatora"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Stanisław Pensator",
                 "type": "osoba",
                 "description": "mąż Elżbiety Snel"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Władysław Łokietek",
                 "type": "osoba",
                 "description": "król Polski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Kościół Najśw. Marii Panny w Krakowie",
                 "type": "obiekt sakralny",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Ziemia Święta",
                 "type": "miejscowość",
                 "description": "Miejsce, gdzie Mikołaj mógł zginąć podczas pielgrzymki."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Nieznane dzieci Rusina Mikołaja",
                 "type": "osoba",
                 "description": "Dwoje dzieci Mikołaja, których imiona nie są znane."
-            }
+            },
+            "result": false
         }
     ]
 }

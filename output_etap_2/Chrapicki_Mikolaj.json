@@ -13,7 +13,8 @@
                 "name": "kanonik warmiński",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "biskup chełmiński",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1514-02-02",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "kościół pofranciszkański w Lubawie",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Łukasz Watzenrode",
                 "type": "osoba",
                 "description": "biskup warmiński"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "klasztor franciszkański w Lubawie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "klasztor w Kartuzach",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "katedra chełmińska",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "kościół w Byszwałdzie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kościół w Lembargu",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Uniwersytet Koloński",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Uniwersytet Krakowski",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Toruń",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Lubawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Chełmno",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Radzyń",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "zamek starogrodzki",
                 "type": "obiekt fizjograficzny",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "zamek papowski",
                 "type": "obiekt fizjograficzny",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Jan Konopacki",
                 "type": "osoba",
                 "description": "administrator biskupstwa chełmińskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "kanonik warmiński od 5 września 1488",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "biskup chełmiński",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "fundator klasztoru franciszkańskiego w Lubawie",
                 "type": "zawód",
                 "description": "1502 rok"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "fundator klasztoru w Kartuzach",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "konsekracja kościoła w Byszwałdzie",
                 "type": "zawód",
                 "description": "1500 rok"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,22 +397,8 @@
                 "name": "konsekracja kościoła w Lembargu",
                 "type": "zawód",
                 "description": "1507 rok"
-            }
-        },
-        {
-            "subject": {
-                "name": "Mikołaj Chrapicki",
-                "type": "osoba",
-                "description": "kanonik warmiński, biskup chełmiński"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "przeciwnik Krzyżaków",
-                "type": "zawód",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +413,8 @@
                 "name": "Jan Olbracht",
                 "type": "osoba",
                 "description": "król Polski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -418,7 +429,8 @@
                 "name": "Aleksander Jagiellończyk",
                 "type": "osoba",
                 "description": "król Polski"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -433,7 +445,8 @@
                 "name": "Zygmunt I Stary",
                 "type": "osoba",
                 "description": "król Polski"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -448,7 +461,8 @@
                 "name": "Juliusz II",
                 "type": "osoba",
                 "description": "papież"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -463,7 +477,8 @@
                 "name": "administrator biskupstwa chełmińskiego",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

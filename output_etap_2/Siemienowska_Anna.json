@@ -13,7 +13,8 @@
                 "name": "Wiktor Siemienowski",
                 "type": "osoba",
                 "description": "ojciec Anny Siemienowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Pelagia Siemienowska",
                 "type": "osoba",
                 "description": "matka Anny Siemienowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Albertyn",
                 "type": "miejscowość",
                 "description": "miejsce urodzenia Anny Siemienowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": "miejsce śmierci Anny Siemienowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Cmentarz Komunalny Północny",
                 "type": "miejscowość",
                 "description": "miejsce pochówku Anny Siemienowskiej"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Państwowy Zarząd Wodny w Łucku",
                 "type": "instytucja",
                 "description": "miejsce pracy Anny Siemienowskiej przed drugą wojną światową"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Zentral Handelsgesellschaft Ost w Łucku",
                 "type": "instytucja",
                 "description": "miejsce pracy Anny Siemienowskiej od 1 I 1942 do 30 I 1944"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Związek Walki Zbrojnej – Armia Krajowa",
                 "type": "organizacja",
                 "description": "organizacja, do której należała Anna Siemienowska od 1 IX 1941 do marca 1944"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Centralne Biuro Studiów Budownictwa Wodnego «Hydroprojekt»",
                 "type": "instytucja",
                 "description": "miejsce pracy Anny Siemienowskiej po powrocie do kraju"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Komisja Historii Kobiet w Walce o Niepodległość Towarzystwa Miłośników Historii w Warszawie",
                 "type": "organizacja",
                 "description": "organizacja, w której działała Anna Siemienowska w latach 1980–89"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Jadwiga Brojakowa",
                 "type": "osoba",
                 "description": "siostra Anny Siemienowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Inspektorat Rejonowy AK Łuck",
                 "type": "organizacja",
                 "description": "jednostka, w której Anna Siemienowska pełniła funkcje szefa łączności wewnętrznej i szefa kancelarii"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "NKWD",
                 "type": "organizacja",
                 "description": "instytucja, która aresztowała Annę Siemienowską"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Trybunał Kijowskiego Okręgu Wojskowego",
                 "type": "organizacja",
                 "description": "instytucja, która skazała Annę Siemienowską na 15 lat obozu pracy"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Republika Autonomiczna Komi",
                 "type": "miejscowość",
                 "description": "miejsce, do którego Anna Siemienowska została wywieziona po skazaniu na obóz pracy"
-            }
+            },
+            "result": true
         }
     ]
 }

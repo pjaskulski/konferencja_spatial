@@ -13,7 +13,8 @@
                 "name": "Józef Kazimierz",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Anna Maria z Kempińskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Będzin",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "I Prywatna Średnia Szkoła Żeńska w Krakowie",
                 "type": "instytucja",
                 "description": "szkoła ukończona przez Marię Jadwigę Migową"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Uniwersytet Jagielloński",
                 "type": "instytucja",
                 "description": "uczelnia, na której Maria Jadwiga Migowa studiowała polonistykę i romanistykę"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Związek Filaretów",
                 "type": "organizacja",
                 "description": "młodzieżowa organizacja niepodległościowa, do której należała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Związek Strzelecki",
                 "type": "organizacja",
                 "description": "organizacja niepodległościowa, do której należała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Praga",
                 "type": "miejscowość",
                 "description": "miejsce, gdzie Maria Jadwiga Migowa prowadziła kuchnię dla rannych legionistów i uchodźców z Małopolski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Ilustrowany Kurier Codzienny",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Goniec Krakowski",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Nowa Reforma",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Nowości Ilustrowane",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Kurier Czerwony",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Kino",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Świat",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Kurier Poranny",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Światowid",
                 "type": "instytucja",
                 "description": "czasopismo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Wydawnictwo Ibis",
                 "type": "instytucja",
                 "description": "wydawnictwo, z którym współpracowała Maria Jadwiga Migowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Jan Miga",
                 "type": "osoba",
                 "description": "dziennikarz, współpracownik krakowskich czasopism"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "1890-05-19",
                 "type": "data",
                 "description": "Rok urodzenia jest niepewny, podany jako 1890 lub 1891."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "1942-00-00",
                 "type": "data",
                 "description": "Dokładna data śmierci nie jest znana, ale jest to rok 1942."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "1942-05-00",
                 "type": "data",
                 "description": "Dokładna data aresztowania nie jest znana, ale jest to maj 1942."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "dawne więzienie wojskowe na ul. Gęsiej",
                 "type": "miejsce",
                 "description": "Miejsce osadzenia Marii Jadwigi Migowej po aresztowaniu."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "1942-07-22",
                 "type": "data",
                 "description": "Data wywiezienia Marii Jadwigi Migowej, prawdopodobnie od razu na śmierć."
-            }
+            },
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "1914-01-16",
                 "type": "data",
                 "description": "Data śmierci Władysława Fiorentiniego, podana jako 16 (29) stycznia 1914 r."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Wilno",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Anna Popow",
                 "type": "osoba",
                 "description": "córka marszałka powiatu dyneburskiego Bazylego Popowa i Bogumiły z Gizbertów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Bazyli Popow",
                 "type": "osoba",
                 "description": "marszałek powiatu dyneburskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Bogumiła z Gizbertów",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Antoni Fiorentini",
                 "type": "osoba",
                 "description": "kupiec"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Franciszek Fiorentini",
                 "type": "osoba",
                 "description": "założyciel stypendium handlowego w Wilnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Bolesław Rusiecki",
                 "type": "osoba",
                 "description": "malarz, syn Kanuta"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Władysław Syrokomla",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Aleksander Strauss",
                 "type": "osoba",
                 "description": "znany artysta fotograf wileński"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "rajca miejski",
                 "type": "urząd",
                 "description": "stanowisko w Wilnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "kupiec",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Jęczmieniszki",
                 "type": "miejscowość",
                 "description": "majątek Władysława Fiorentiniego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "cenny zbiór obrazów",
                 "type": "obiekt fizyczny",
                 "description": "spuścizna Władysława Fiorentiniego, zbiór obrazów mistrzów obcych i artystów polskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "cmentarz bernardyński w Wilnie",
                 "type": "obiekt fizjograficzny",
                 "description": "miejsce pochówku Władysława Fiorentiniego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Władysław Fiorentini",
                 "type": "osoba",
                 "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,22 +269,8 @@
                 "name": "Oława i Szwabiszki w Trockiem",
                 "type": "miejscowość",
                 "description": "własność Fabiana Fiorentiniego"
-            }
-        },
-        {
-            "subject": {
-                "name": "Władysław Fiorentini",
-                "type": "osoba",
-                "description": "wileński kupiec i esteta, działacz społeczny, rajca miejski"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "projekt założenia parku w Wilnie",
-                "type": "wydarzenie",
-                "description": "projekt obejmujący wzgórza ze strony Zarzecza i Antokolu, opracowany z Aleksandrem Straussem"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "marszałek powiatu dyneburskiego",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +301,8 @@
                 "name": "stypendium handlowe w Wilnie",
                 "type": "instytucja",
                 "description": "założone przez Franciszka Fiorentiniego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +317,8 @@
                 "name": "Kanut",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

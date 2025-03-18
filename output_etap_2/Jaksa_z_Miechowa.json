@@ -13,7 +13,8 @@
                 "name": "klasztor bożogrobców z Miechowa",
                 "type": "instytucja",
                 "description": "Fundacja Jakszy z Miechowa, założona ok. 1163 roku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "klasztor benedyktyński w Sieciechowie",
                 "type": "instytucja",
                 "description": "Instytucja wspierana przez Jaksę z Miechowa."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "klasztory premonstrantek w Krzyżanowicach i na Zwierzyńcu pod Krakowem",
                 "type": "instytucja",
                 "description": "Instytucje wspierane przez Jaksę z Miechowa."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "1176-02-24",
                 "type": "data",
                 "description": "Data śmierci Jakszy z Miechowa, zapisana w \"Liber mortuorum\" klasztoru św. Wincentego."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Piotr Włostowic",
                 "type": "osoba",
                 "description": "W starszej literaturze uważany za teścia Jakszy z Miechowa."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Świętosław",
                 "type": "osoba",
                 "description": "W starszej literaturze uważany za szwagra Jakszy z Miechowa."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Bolesław Kędzierzawy",
                 "type": "osoba",
                 "description": "Książę, przeciwko któremu Jaksa z Miechowa planował bunt."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Kazimierz Sprawiedliwy",
                 "type": "osoba",
                 "description": "Książę, który sprzeciwił się planom Jakszy z Miechowa."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,22 +141,8 @@
                 "name": "ród Gryfitów",
                 "type": "organizacja",
                 "description": "Uważany niekiedy za protoplastę rodu Gryfitów."
-            }
-        },
-        {
-            "subject": {
-                "name": "Jaksa z Miechowa",
-                "type": "osoba",
-                "description": "możnowładca małopolski z 2. poł. XII w."
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wyprawa do Palestyny",
-                "type": "wydarzenie",
-                "description": "Wyprawa Jakszy z Miechowa do Palestyny w 1162 roku."
-            }
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "majątki i nadania",
                 "type": "własność",
                 "description": "Obdarowana majątkami przez książąt polskich i rycerstwo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "kompleks włości",
                 "type": "własność",
                 "description": "Kompleks włości, które rozrosły się do 15 osad, 9 z nich w Lubelskiem."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "trzy wsie: Zwierzyniec, Zabierzów, Bibice",
                 "type": "własność",
                 "description": "Podstawę klasztoru miała stanowić darowizna trzech wsi: Zwierzyńca, Zabierzowa i Bibic."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "dux",
                 "type": "urząd",
                 "description": "Tytuł \"Jaxa qui cognominatus dux\" w dokumencie Bolesława Wstydliwego."
-            }
+            },
+            "result": true
         }
     ]
 }

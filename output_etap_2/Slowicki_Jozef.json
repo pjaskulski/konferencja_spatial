@@ -13,7 +13,8 @@
                 "name": "Rostoka",
                 "type": "miejscowość",
                 "description": "wieś w obwodzie krasnostawskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Zagrzeb",
                 "type": "miejscowość",
                 "description": "miejsce śmierci Józefa Słowickiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1847",
                 "type": "data",
                 "description": "rok śmierci Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Józef",
                 "type": "osoba",
                 "description": "rolnik i duchowny grekokatolicki, ojciec Józefa Słowickiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Uniwersytet Warszawski",
                 "type": "instytucja",
                 "description": "miejsce studiów Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "podporucznik",
                 "type": "stopień wojskowy",
                 "description": "stopień wojskowy Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "publicysta",
                 "type": "zawód",
                 "description": "zawód Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "emigrant",
                 "type": "zawód",
                 "description": "zawód Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "powstaniec",
                 "type": "zawód",
                 "description": "zawód Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Czas",
                 "type": "czasopismo",
                 "description": "czasopismo, z którym współpracował Józef Słowicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Demokrata Polski",
                 "type": "czasopismo",
                 "description": "czasopismo, z którym współpracował Józef Słowicki"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Towarzystwo Demokratyczne Polskie",
                 "type": "organizacja",
                 "description": "organizacja, do której należał Józef Słowicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Komisja Centralna Polaków w dep. des Landes",
                 "type": "organizacja",
                 "description": "organizacja, z którą był związany Józef Słowicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Komisja Korespondencyjna",
                 "type": "organizacja",
                 "description": "organizacja, z którą był związany Józef Słowicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Pismo TDP",
                 "type": "czasopismo",
                 "description": "publikacja, z którą był związany Józef Słowicki"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Środki rewolucyjne",
                 "type": "dzieło",
                 "description": "rozprawa Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Lublin"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "bitwy pod Rudkami, Tykocinem, Ostrołęką, obrona Warszawy",
                 "type": "wydarzenie",
                 "description": "bitwy, w których uczestniczył Józef Słowicki podczas powstania listopadowego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "sekretarz Komisji Centralnej Polaków w dep. des Landes",
                 "type": "urząd",
                 "description": "funkcja pełniona przez Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "członek Centralizacji TDP",
                 "type": "urząd",
                 "description": "funkcja pełniona przez Józefa Słowickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "ekspedytor parowozów",
                 "type": "zawód",
                 "description": "praca Józefa Słowickiego w lokomotywowni w Cherbourgu"
-            }
+            },
+            "result": true
         }
     ]
 }

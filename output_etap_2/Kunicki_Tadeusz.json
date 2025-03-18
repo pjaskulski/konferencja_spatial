@@ -13,7 +13,8 @@
                 "name": "1919-10-22",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1967-12-19",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Stanisław Kunicki",
                 "type": "osoba",
                 "description": "ślusarz"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Józefa z Winklerów",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Zofia Chromy",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "wypadek samochodowy",
                 "type": "zdarzenie",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "generał brygady",
                 "type": "stopień wojskowy",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "artykuły na tematy artyleryjskie",
                 "type": "dzieło",
                 "description": "zamieszczone w „Przeglądzie Artyleryjskim” i „Przeglądzie Wojsk Lądowych”"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Polska Partia Robotnicza",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Polska Zjednoczona Partia Robotnicza",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Akademia Medyczno-Weterynaryjna",
                 "type": "instytucja",
                 "description": "Lwów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Akademia Sztabu Generalnego",
                 "type": "instytucja",
                 "description": "Moskwa"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Krzyż Komandorski Orderu Odrodzenia Polski",
                 "type": "odznaczenie",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Krzyż Walecznych",
                 "type": "odznaczenie",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

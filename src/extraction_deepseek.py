@@ -13,8 +13,8 @@ import openai
 from openai import OpenAI
 
 
-MODEL_DEEPSEEK_CHAT = "deepseek-chat"
-MODEL_DEEPSEEK_R = "deepseek-reasoner"
+MODEL_DEEPSEEK_CHAT = "deepseek-chat" # DeepSeek V3
+MODEL_DEEPSEEK_R = "deepseek-reasoner" # DeepSeek R1
 MODEL = MODEL_DEEPSEEK_CHAT
 CHAIN_OF_THOUGHT = True
 

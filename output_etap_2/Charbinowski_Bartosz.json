@@ -13,7 +13,8 @@
                 "name": "podkomorzy sandomierski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "ochmistrz dworu królowej Anny",
                 "type": "urząd",
                 "description": "około 1414"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "bratanica Piotra Wysza",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Piotr Wysz",
                 "type": "osoba",
                 "description": "biskup krakowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Zawisza Czarny",
                 "type": "osoba",
                 "description": "Sulimczyk"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Włodko",
                 "type": "osoba",
                 "description": "cześnik krakowski, starosta lubelski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Halszka",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Piotr Charbinowski",
                 "type": "osoba",
                 "description": "podczaszy sandomierski, starosta podolski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Stanisław Charbinowski",
                 "type": "osoba",
                 "description": "przedchorągiewny rycerz chorągwi małopolskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Jan Charbinowski",
                 "type": "osoba",
                 "description": "podczaszy lwowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "cześnik krakowski",
                 "type": "urząd",
                 "description": "od 1365"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "starosta lubelski",
                 "type": "urząd",
                 "description": "od 1383"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "podczaszy sandomierski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "starosta podolski",
                 "type": "urząd",
                 "description": "do 1411"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "przedchorągiewny rycerz chorągwi małopolskiej",
                 "type": "urząd",
                 "description": "w bitwie pod Grunwaldem"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "chorąży sandomierski",
                 "type": "urząd",
                 "description": "w 1433"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "podczaszy lwowski",
                 "type": "urząd",
                 "description": "w czwartym dziesiątku XV stulecia"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Piotr Wysz",
                 "type": "osoba",
                 "description": "biskup krakowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Zawisza Czarny",
                 "type": "osoba",
                 "description": "Sulimczyk"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Anna",
                 "type": "osoba",
                 "description": "królowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Wojciech Jastrzębiec",
                 "type": "osoba",
                 "description": "biskup, przeciwnik polityczny Bartosza Charbinowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "1421-03-04",
                 "type": "data",
                 "description": "Data śmierci Bartosza Charbinowskiego jest przybliżona, ponieważ zniknął z widowni po tej dacie."
-            }
+            },
+            "result": false
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Paweł Gładysz",
                 "type": "osoba",
                 "description": "rycerz z drobnej szlachty sądeckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Kazimierz Wielki",
                 "type": "osoba",
                 "description": "król Polski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,37 +45,8 @@
                 "name": "wieś Łosie i latyfundium",
                 "type": "własność",
                 "description": "nadanie od Kazimierza Wielkiego"
-            }
-        },
-        {
-            "subject": {
-                "name": "Gładysz Jan",
-                "type": "osoba",
-                "description": "podrzędczy sądecki, bachmistrz bocheński"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "założenie wsi Ropa, Zdynia, Hańczowa i Wysowa",
-                "type": "wydarzenie",
-                "description": "rozwój osadnictwa na polskim pograniczu"
-            }
-        },
-        {
-            "subject": {
-                "name": "Gładysz Jan",
-                "type": "osoba",
-                "description": "podrzędczy sądecki, bachmistrz bocheński"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "fundacja kościoła w Szymbarku",
-                "type": "wydarzenie",
-                "description": "fundacja budowli sakralnej"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +61,8 @@
                 "name": "bachmistrz bocheński",
                 "type": "urząd",
                 "description": "urząd związany z zarządzaniem kopalniami soli"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +77,8 @@
                 "name": "bachmistrz bocheński",
                 "type": "urząd",
                 "description": "urząd związany z zarządzaniem kopalniami soli"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,22 +93,8 @@
                 "name": "starosta spiski w Lubowli",
                 "type": "urząd",
                 "description": "pierwszy starosta spiski w Lubowli w 1413 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Paweł Gładysz",
-                "type": "osoba",
-                "description": "syn Gładysza Jana, pierwszy starosta spiski w Lubowli"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "świadkowanie na dokumencie lokacji Gorlic",
-                "type": "wydarzenie",
-                "description": "działalność urzędnicza w 1466 roku"
-            }
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +109,8 @@
                 "name": "dwór warowny w Szymbarku",
                 "type": "obiekt fizjograficzny",
                 "description": "siedziba rodu Gładyszów, istniejąca od XIV wieku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +125,8 @@
                 "name": "Mikołaj Gładysz",
                 "type": "osoba",
                 "description": "syn Gładysza Jana"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,37 +141,8 @@
                 "name": "Piotr Gładysz",
                 "type": "osoba",
                 "description": "syn Gładysza Jana"
-            }
-        },
-        {
-            "subject": {
-                "name": "Gładysz Jan",
-                "type": "osoba",
-                "description": "podrzędczy sądecki, bachmistrz bocheński"
             },
-            "predicate": {
-                "name": "dateOfEvent"
-            },
-            "object": {
-                "name": "1368",
-                "type": "data",
-                "description": "data otrzymania urzędu bachmistrza bocheńskiego przez Jana Gładysza"
-            }
-        },
-        {
-            "subject": {
-                "name": "Gładysz Jan",
-                "type": "osoba",
-                "description": "podrzędczy sądecki, bachmistrz bocheński"
-            },
-            "predicate": {
-                "name": "dateOfEvent"
-            },
-            "object": {
-                "name": "1359-10-27",
-                "type": "data",
-                "description": "data nadania wsi Łosie i latyfundium przez Kazimierza Wielkiego"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +157,8 @@
                 "name": "wieś Brzyście",
                 "type": "miejscowość",
                 "description": "wymieniona na urząd bachmistrza bocheńskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +173,8 @@
                 "name": "rycerz",
                 "type": "zawód",
                 "description": "rycerz z drobnej szlachty sądeckiej"
-            }
+            },
+            "result": true
         }
     ]
 }

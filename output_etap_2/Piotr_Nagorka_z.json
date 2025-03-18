@@ -13,7 +13,8 @@
                 "name": "kanonik poznański i płocki",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "poseł Kazimierza Wielkiego do Awinionu",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1361-12-31",
                 "type": "data",
                 "description": "Data przybliżona, zmarł niedługo przed 31 XII 1361."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Awinion",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Bogusław",
                 "type": "osoba",
                 "description": "dziedzic Grąbca i Kisielewa pod Sierpcem w woj. płockim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Mroczka z Kisielewa",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Kazimierz Wielki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Imisław Wroński",
                 "type": "osoba",
                 "description": "elektor płocki popierany przez króla"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Innocenty VI",
                 "type": "osoba",
                 "description": "papież"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "dziedzic Grąbca i Kisielewa",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Imisław Wroński",
                 "type": "osoba",
                 "description": "elektor płocki popierany przez króla"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Bernard",
                 "type": "osoba",
                 "description": "dominikanin, który otrzymał prowizję na biskupstwo płockie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "diecezja płocka",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "1359",
                 "type": "data",
                 "description": "Pierwsza wzmianka o Piotrze Nagórce."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Jan Jura",
                 "type": "osoba",
                 "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Jan z Buska",
                 "type": "osoba",
                 "description": "towarzysz Piotra Nagórki w poselstwie do Awinionu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Mroczka z Kisielewa",
                 "type": "osoba",
                 "description": "brat Piotra Nagórki"
-            }
+            },
+            "result": true
         }
     ]
 }

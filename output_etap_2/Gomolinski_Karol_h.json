@@ -13,7 +13,8 @@
                 "name": "podkomorzy łęczycki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Jan Gomoliński",
                 "type": "osoba",
                 "description": "ojciec Karola Gomolińskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -43,22 +45,8 @@
                 "name": "Bielicka",
                 "type": "osoba",
                 "description": "matka Karola Gomolińskiego"
-            }
-        },
-        {
-            "subject": {
-                "name": "Karol Gomoliński",
-                "type": "osoba",
-                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "zasiadanie jako deputat w trybunale koronnym",
-                "type": "wydarzenie",
-                "description": "od 1727 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +61,8 @@
                 "name": "miecznik łęczycki",
                 "type": "urząd",
                 "description": "za Augusta II"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +77,8 @@
                 "name": "podczaszy i chorąży",
                 "type": "urząd",
                 "description": "za Augusta III"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +93,8 @@
                 "name": "sędzia grodzki",
                 "type": "urząd",
                 "description": "od 17 marca 1749 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,22 +109,8 @@
                 "name": "podkomorzy",
                 "type": "urząd",
                 "description": "od 1757 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Karol Gomoliński",
-                "type": "osoba",
-                "description": "h. Jelita (1696–1784), podkomorzy łęczycki"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "podpisanie elekcji Stanisława Augusta",
-                "type": "wydarzenie",
-                "description": "1764 rok"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +125,8 @@
                 "name": "Order Św. Stanisława",
                 "type": "osiągnięcie",
                 "description": "przyznany przez króla Stanisława Augusta"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +141,8 @@
                 "name": "1784-11-22",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +157,8 @@
                 "name": "klasztor bernardynów w Łęczycy",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +173,8 @@
                 "name": "Helena z Pokrzywnickich",
                 "type": "osoba",
                 "description": "żona Karola Gomolińskiego, zmarła w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +189,8 @@
                 "name": "Ignacy Gomoliński",
                 "type": "osoba",
                 "description": "syn Karola Gomolińskiego, konsyliarz konfederacji łęczyckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +205,8 @@
                 "name": "Józefata Gomolińska",
                 "type": "osoba",
                 "description": "córka Karola Gomolińskiego, żona generała Skarbka, potem Dzierzbickiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +221,8 @@
                 "name": "Marianna Gomolińska",
                 "type": "osoba",
                 "description": "córka Karola Gomolińskiego, żona Opackiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +237,8 @@
                 "name": "bernardyni w Łęczycy",
                 "type": "organizacja",
                 "description": "klasztor, w którym Karol Gomoliński spędzał czas na starość i był syndykiem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +253,8 @@
                 "name": "majątek w Krośniewicach",
                 "type": "własność",
                 "description": "dziedziczny majątek Karola Gomolińskiego w woj. łęczyckim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +269,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +285,8 @@
                 "name": "konsyliarz konfederacji łęczyckiej",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +301,8 @@
                 "name": "generał Skarbek",
                 "type": "osoba",
                 "description": "pierwszy mąż Józefaty Gomolińskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +317,8 @@
                 "name": "Dzierzbicki",
                 "type": "osoba",
                 "description": "drugi mąż Józefaty Gomolińskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +333,8 @@
                 "name": "Opacki",
                 "type": "osoba",
                 "description": "mąż Marianny Gomolińskiej"
-            }
+            },
+            "result": true
         }
     ]
 }

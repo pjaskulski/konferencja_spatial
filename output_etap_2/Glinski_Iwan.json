@@ -13,7 +13,8 @@
                 "name": "Lew Borysowicz",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Michał Gliński",
                 "type": "osoba",
                 "description": "marszałek nadworny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Wasyl Gliński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "wojewoda kijowski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "wojewoda nowogrodzki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "1522-00-00",
                 "type": "data",
                 "description": "Iwan Gliński zmarł przed 1522 rokiem."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "dworzanin królewski",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "marszałek hospodarski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "chorąży ziemski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "namiestnik przełomski i ożski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Michał Gliński",
                 "type": "osoba",
                 "description": "marszałek nadworny"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -172,13 +183,14 @@
                 "description": "wojewoda kijowski, później nowogrodzki, z przydomkiem Mamaj"
             },
             "predicate": {
-                "name": "hasSignificantFigure"
+                "name": "significantFigure"
             },
             "object": {
                 "name": "Aleksander Jagiellończyk",
                 "type": "osoba",
                 "description": "wielki książę litewski"
-            }
+            },
+            "result": true
         }
     ]
 }

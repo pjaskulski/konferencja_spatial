@@ -13,7 +13,8 @@
                 "name": "Frysztak",
                 "type": "miejscowość",
                 "description": "w pow. jasielskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Katowice",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1927-11-09",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Antoni Kliszewski",
                 "type": "osoba",
                 "description": "aktor i śpiewak"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "H. Majeranowska",
                 "type": "osoba",
                 "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "M. Szlezygierowa",
                 "type": "osoba",
                 "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Lamperi",
                 "type": "osoba",
                 "description": "nauczyciel śpiewu Karoliny Kliszewskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Teatr Lwowski",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Teatr Polski w Katowicach",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Teatr prowincjonalny Henryka Lasockiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Teatr polsko-ruski J. Biberowicza",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Własny zespół teatralny w Krośnie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Teatr Nowy w Warszawie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Teatr Śląski",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "śpiewaczka operetkowa i operowa",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,37 +269,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "nauka śpiewu u H. Majeranowskiej, M. Szlezygierowej i Lamperiego"
-            }
-        },
-        {
-            "subject": {
-                "name": "Karolina Kliszewska",
-                "type": "osoba",
-                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "pobyt w Krakowie",
-                "type": "wydarzenie",
-                "description": "reżyserowanie \"Jasia i Małgosi\" i dawanie lekcji śpiewu w 1920 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Karolina Kliszewska",
-                "type": "osoba",
-                "description": "początkowo na scenie Karlińska, śpiewaczka operetkowa i operowa"
-            },
-            "predicate": {
-                "name": "dateOfEvent"
-            },
-            "object": {
-                "name": "1920-00-00",
-                "type": "data",
-                "description": "rok pobytu w Krakowie, reżyserowanie \"Jasia i Małgosi\" i dawanie lekcji śpiewu"
-            }
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +285,8 @@
                 "name": "M. Szlezygierowa",
                 "type": "osoba",
                 "description": "nauczycielka śpiewu Karoliny Kliszewskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +301,8 @@
                 "name": "nauczyciel śpiewu",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

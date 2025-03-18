@@ -13,7 +13,8 @@
                 "name": "Jan",
                 "type": "osoba",
                 "description": "prawdopodobnie Węgier z pochodzenia, osiadły w Killobe na Pomorzu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Barbara Niżyńska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Killobe",
                 "type": "miejscowość",
                 "description": "na Pomorzu"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Gdańsk",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "1564-07-09",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "szlachectwo Rzeszy",
                 "type": "osiągnięcie",
                 "description": "nadane przez cesarza Karola V"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "firma bursztynowa",
                 "type": "własność",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Dorota Rosenberg",
                 "type": "osoba",
                 "description": "córka Michała Rosenberga"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Małgorzata Ottinghusen",
                 "type": "osoba",
                 "description": "córka Wessla Ottinghusena"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Paweł Koene-Jaski (II)",
                 "type": "osoba",
                 "description": "rajca gdański"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Grzegorz Koene-Jaski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Jerzy Koene-Jaski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Jan Koene-Jaski",
                 "type": "osoba",
                 "description": "studiował w Wittenberdze, radca sądowy w Królewcu"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Wittenberga"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "radca sądowy",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "kupiec",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,37 +269,8 @@
                 "name": "Gdańsk",
                 "type": "miejscowość",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Paweł Koene-Jaski",
-                "type": "osoba",
-                "description": "kupiec gdański, właściciel firmy bursztynowej"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "poselstwo do Krakowa",
-                "type": "wydarzenie",
-                "description": "wysłane przez gdańską Radę Miejską w 1525 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Paweł Koene-Jaski",
-                "type": "osoba",
-                "description": "kupiec gdański, właściciel firmy bursztynowej"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "kontrakt z księciem Albrechtem pruskim",
-                "type": "wydarzenie",
-                "description": "zawarty w 1533 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +285,8 @@
                 "name": "Packenhaus",
                 "type": "instytucja",
                 "description": "szpital miejski, nad którym Paweł Koene-Jaski sprawował opiekę"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +301,8 @@
                 "name": "bogaty księgozbiór",
                 "type": "własność",
                 "description": "przeszedł na własność biblioteki Rady Miejskiej w Gdańsku w XVII wieku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +317,8 @@
                 "name": "piękny ekslibris",
                 "type": "własność",
                 "description": "jeden z najstarszych na terenie Polski"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -343,7 +333,8 @@
                 "name": "Killobe",
                 "type": "miejscowość",
                 "description": "na Pomorzu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +349,8 @@
                 "name": "Michał Rosenberg",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -373,7 +365,8 @@
                 "name": "Wessel Ottinghusen",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +381,8 @@
                 "name": "Wittenberga",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +397,8 @@
                 "name": "Królewiec",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

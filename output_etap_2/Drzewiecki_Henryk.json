@@ -13,7 +13,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Wyszków",
                 "type": "miejscowość",
                 "description": "nad Bugiem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1937-10-04",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Radom"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Konserwatorium",
                 "type": "uczelnia",
                 "description": "Petersburg"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Gabel",
                 "type": "osoba",
                 "description": "nauczyciel sztuki śpiewackiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Cotogni",
                 "type": "osoba",
                 "description": "nauczyciel sztuki śpiewackiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Barbacini",
                 "type": "osoba",
                 "description": "nauczyciel podczas debiutu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Tadeusz Pawlikowski",
                 "type": "osoba",
                 "description": "dyrektor opery we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Erazm Dłuski",
                 "type": "osoba",
                 "description": "kompozytor opery 'Urwasi'"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Henryk Skirmunt",
                 "type": "osoba",
                 "description": "kompozytor opery 'Pan Wołodyjowski'"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "pierwszy tenor liryczny",
                 "type": "zawód",
                 "description": "opera we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "sędzia okręgowy",
                 "type": "zawód",
                 "description": "Radom"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "rejent",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "O izbach notarialnych",
                 "type": "dzieło",
                 "description": "1927"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Studia i materiały do dziejów notariatu w Polsce",
                 "type": "dzieło",
                 "description": "1928"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Zarys dziejów notariatu w Polsce",
                 "type": "dzieło",
                 "description": "1929"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "1873",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Giacomo Puccini",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Georges Bizet",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Giuseppe Verdi",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Charles Gounod",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "Jules Massenet",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "Stanisław Moniuszko",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "Piotr Czajkowski",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "Pietro Mascagni",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "Vincenzo Bellini",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -418,7 +445,8 @@
                 "name": "Richard Wagner",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -433,7 +461,8 @@
                 "name": "Daniel Auber",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -448,7 +477,8 @@
                 "name": "Anton Rubinstein",
                 "type": "osoba",
                 "description": "kompozytor oper"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -463,7 +493,8 @@
                 "name": "Gabel",
                 "type": "osoba",
                 "description": "nauczyciel sztuki śpiewackiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -478,7 +509,8 @@
                 "name": "Cotogni",
                 "type": "osoba",
                 "description": "nauczyciel sztuki śpiewackiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -493,7 +525,8 @@
                 "name": "Barbacini",
                 "type": "osoba",
                 "description": "nauczyciel podczas debiutu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -508,7 +541,8 @@
                 "name": "Tadeusz Pawlikowski",
                 "type": "osoba",
                 "description": "dyrektor opery we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -523,7 +557,8 @@
                 "name": "Erazm Dłuski",
                 "type": "osoba",
                 "description": "kompozytor opery 'Urwasi'"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -538,7 +573,8 @@
                 "name": "Henryk Skirmunt",
                 "type": "osoba",
                 "description": "kompozytor opery 'Pan Wołodyjowski'"
-            }
+            },
+            "result": false
         }
     ]
 }

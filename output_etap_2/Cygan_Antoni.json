@@ -13,7 +13,8 @@
                 "name": "seminarium nauczycielskie w Głogówku",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "podręczniki szkolne",
                 "type": "dzieło",
                 "description": "Podręczniki były w zasadzie dwujęzyczne, ale w praktyce część ich polska przeważała."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego",
                 "type": "dzieło",
                 "description": "Zawiera 113 polskich a w dodatku 17 niemieckich pieśni."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Jan Besta",
                 "type": "osoba",
                 "description": "kolega Antoniego Cygana w Głogówku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "dalsze polskie podręczniki szkolne",
                 "type": "dzieło",
                 "description": "Podręczniki z czytankami z żywotów świętych i historii kościelnej."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "1895-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "1830-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "czytanki",
                 "type": "dzieło",
                 "description": "Czytanki rozpowszechnione na całym Górnym Śląsku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "melodie w Zbiorze pieśni polskich",
                 "type": "dzieło",
                 "description": "Melodie do 26 numerów polskich i 1 niemieckiego."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "plany wydania dalszych polskich podręczników szkolnych",
                 "type": "osiągnięcie",
                 "description": "Podręczniki z czytankami z żywotów świętych i historii kościelnej."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "nauczyciel",
                 "type": "zawód",
                 "description": "nauczyciel w seminarium nauczycielskim w Głogówku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "seminarium nauczycielskie w Głogówku",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych",
                 "type": "książka",
                 "description": "Książka wyszła w dwóch częściach, których pierwsza doczekała się na przestrzeni lat 1860–72 wydań 17, druga wydań 5."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Polsko-niemiecka książka do czytania dla katolickich szkół elementarnych",
                 "type": "książka",
                 "description": "Książka wyszła w dwóch częściach, których pierwsza doczekała się na przestrzeni lat 1860–72 wydań 17, druga wydań 5."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Zbiór pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego",
                 "type": "książka",
                 "description": "Zawiera 113 polskich a w dodatku 17 niemieckich pieśni."
-            }
+            },
+            "result": false
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "1918-04-24",
                 "type": "data",
                 "description": "są podawane także inne daty zgonu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Jezierzany",
                 "type": "miejscowość",
                 "description": "w Galicji"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Jeszaajahu Schulboym",
                 "type": "osoba",
                 "description": "ojciec Mosze Schulboyma"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Debora Aszkenazi",
                 "type": "osoba",
                 "description": "matka Mosze Schulboyma"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": "jeden z głównych ośrodków Haskali w Galicji"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Kołomyja",
                 "type": "miejscowość",
                 "description": "miejsce pracy Mosze Schulboyma jako nauczyciela"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Mikulińce",
                 "type": "miejscowość",
                 "description": "miejsce pracy Mosze Schulboyma jako nauczyciela"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Tarnopol",
                 "type": "miejscowość",
                 "description": "miejsce pracy Mosze Schulboyma jako inspektora nauki języka hebrajskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Wiedeń",
                 "type": "miejscowość",
                 "description": "miejsce, gdzie Mosze Schulboym złączył się z rodziną"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "nauczyciel",
                 "type": "zawód",
                 "description": "praca w szkole żydowskiej w Kołomyi"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "inspektor nauki języka hebrajskiego",
                 "type": "zawód",
                 "description": "praca w Tarnopolu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "korektor",
                 "type": "zawód",
                 "description": "praca w drukarni Michała Wolfa we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Ocar hamilim haklali",
                 "type": "dzieło",
                 "description": "Allgemeines vollständiges neuhebräisch-deutsches Wörterbuch, Lemberg 1880"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Ocar hašemot",
                 "type": "dzieło",
                 "description": "Słownik imion, obejmujący onomastykę hebrajską od Biblii do końca XVIII wieku, Lemberg 1881"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Milon germani-iwri",
                 "type": "dzieło",
                 "description": "Neues, vollständiges deutsch-hebräisches Wörterbuch, Lemberg 1881, Wyd. 2 rozszerzone, Lemberg 1904"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Ocar lešon aramit",
                 "type": "dzieło",
                 "description": "Słownik języka aramejskiego, Lemberg 1900"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Ocar haszoraszim",
                 "type": "dzieło",
                 "description": "Słownik źródłosłowów, nowe wydanie hebrajskiego słownika J. L. Ben-Zeewa, Lwów 1881"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Etyka nikomachejska",
                 "type": "dzieło",
                 "description": "przekład na język hebrajski, Lwów 1877"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Zbójcy",
                 "type": "dzieło",
                 "description": "niepełny przekład na język hebrajski, Lwów 1881"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "1830-04-19",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "nieznana pierwsza żona",
                 "type": "osoba",
                 "description": "pierwsza żona Mosze Schulboyma, małżeństwo zakończone rozwodem"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "nieznana druga żona",
                 "type": "osoba",
                 "description": "druga żona Mosze Schulboyma, wyjechała do Wiednia z córką"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "nieznana córka",
                 "type": "osoba",
                 "description": "córka Mosze Schulboyma z drugiego małżeństwa, wyjechała do Wiednia z matką"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "Haet i Kol Haet",
                 "type": "dzieło",
                 "description": "krótkotrwałe czasopisma wydane we Lwowie w latach 1871-1872"
-            }
+            },
+            "result": true
         }
     ]
 }

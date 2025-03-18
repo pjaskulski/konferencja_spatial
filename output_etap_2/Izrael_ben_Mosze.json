@@ -13,7 +13,8 @@
                 "name": "Zamość",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Brody",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Necach Israel",
                 "type": "dzieło",
                 "description": "pierwsze dzieło popularnonaukowe z zakresu matematyki i astronomii w kulturze polskich Żydów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Mojżesz Mendelsohn",
                 "type": "osoba",
                 "description": "ideolog oświecenia Żydów niemieckich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Lessing",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Nicolai",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Salomon Majmon",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "nauczyciel",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "matematyk",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "choroba melancholii",
                 "type": "przyczyna śmierci",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Majmonides",
                 "type": "osoba",
                 "description": "postać historyczna znana z racjonalizmu"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "gmina zamojska",
                 "type": "instytucja",
                 "description": "instytucja związana z miejscowością Zamość"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Berlin",
                 "type": "miejscowość",
                 "description": "miasto, w którym Izrael ben Mosze mieszkał przez pewien czas"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Mojżesz Mendelsohn",
                 "type": "osoba",
                 "description": "ideolog oświecenia Żydów niemieckich"
-            }
+            },
+            "result": true
         }
     ]
 }

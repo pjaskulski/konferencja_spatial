@@ -13,7 +13,8 @@
                 "name": "kasztelan nakielski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Maciej Grabski",
                 "type": "osoba",
                 "description": "sędzia grodzki bydgoski i starosta kłecki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Marianna Mańkowska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Anna Konradzka",
                 "type": "osoba",
                 "description": "wdowa po Wojciechu Wilczyńskim, skarbniku poznańskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Marianna Łakińska",
                 "type": "osoba",
                 "description": "wdowa po Zdzychowskim, podczaszym wschowskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Maciej Grabski",
                 "type": "osoba",
                 "description": "syn Jana Kazimierza Grabskiego z pierwszego małżeństwa"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Franciszek Grabski",
                 "type": "osoba",
                 "description": "jezuita, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Stanisław Grabski",
                 "type": "osoba",
                 "description": "dziekan fary gnieźnieńskiej, syn Jana Kazimierza Grabskiego z pierwszego małżeństwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Józef Grabski",
                 "type": "osoba",
                 "description": "syn Jana Kazimierza Grabskiego z drugiego małżeństwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "1723-00-00",
                 "type": "data",
                 "description": "Rok śmierci Jana Kazimierza Grabskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Żelice",
                 "type": "miejscowość",
                 "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie kcyńskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Michałkowice",
                 "type": "miejscowość",
                 "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie kcyńskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Miasteczko",
                 "type": "miejscowość",
                 "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie nakielskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Brzostowo",
                 "type": "miejscowość",
                 "description": "dziedzictwo Jana Kazimierza Grabskiego w powiecie nakielskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "dobra nowomiejskie",
                 "type": "miejscowość",
                 "description": "część dóbr Jana Kazimierza Grabskiego w powiecie pyzdrskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Prawdy powszechne albo dowolne nauki chrześcijańskiej filozofii",
                 "type": "dzieło",
                 "description": "przetłumaczone przez Jana Kazimierza Grabskiego, dzieło J. Manniego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "komisarz do sprawdzania rachunków poborowych",
                 "type": "urząd",
                 "description": "z sejmiku średzkiego, 1688"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "deputat na trybunał koronny",
                 "type": "urząd",
                 "description": "z województwa poznańskiego, 1694-1695"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "sędzia grodzki nakielski",
                 "type": "urząd",
                 "description": "1695"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "poseł na sejm",
                 "type": "urząd",
                 "description": "z województwa kaliskiego, 1699"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "poseł na sejm lubelski",
                 "type": "urząd",
                 "description": "z województwa poznańskiego, 1703"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "konsyliarz konfederacji",
                 "type": "urząd",
                 "description": "zawiązanej w Środzie, 1703"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "sędzia surogator grodzkim wałecki",
                 "type": "urząd",
                 "description": "pod koniec życia"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "J. Morawski",
                 "type": "osoba",
                 "description": "autor pracy dedykowanej Janowi Kazimierzowi Grabskiemu"
-            }
+            },
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "1745",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,22 +29,8 @@
                 "name": "1807",
                 "type": "data",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Jan Gołaski",
-                "type": "osoba",
-                "description": "rektor kolegium pijarskiego w Radziejowie"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wstąpienie do zakonu pijarów",
-                "type": "wydarzenie",
-                "description": "27 sierpnia 1765"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +45,8 @@
                 "name": "rektor",
                 "type": "urząd",
                 "description": "kolegium pijarskie w Radziejowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +61,8 @@
                 "name": "wicerektor",
                 "type": "urząd",
                 "description": "Collegium Nobilium w Warszawie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +77,8 @@
                 "name": "wicedyrektor",
                 "type": "urząd",
                 "description": "kolegium w Drohiczynie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +93,8 @@
                 "name": "prefekt i profesor klasy czwartej",
                 "type": "urząd",
                 "description": "kolegium szczuczyńskie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +109,8 @@
                 "name": "nauczyciel",
                 "type": "zawód",
                 "description": "w różnych kolegiach"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +125,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Podoliniec"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +141,8 @@
                 "name": "kolegium pijarskie w Rzeszowie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "kolegium pijarskie w Radomiu",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "kolegium w Łowiczu",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "kolegium w Drohiczynie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "kolegium szczuczyńskie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "Collegium Nobilium w Warszawie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +237,8 @@
                 "name": "kolegium pijarskie w Radziejowie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,22 +253,8 @@
                 "name": "kolegium łowickie",
                 "type": "miejscowość",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Jan Gołaski",
-                "type": "osoba",
-                "description": "rektor kolegium pijarskiego w Radziejowie"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "reformy przeprowadzane przez KEN w szkołach pijarskich",
-                "type": "wydarzenie",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +269,8 @@
                 "name": "Komisja Edukacji Narodowej",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +285,8 @@
                 "name": "ks. Jordan",
                 "type": "osoba",
                 "description": "prowincjał pijarski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +301,8 @@
                 "name": "ks. Reszczyński",
                 "type": "osoba",
                 "description": "prowincjał pijarski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +317,8 @@
                 "name": "ks. Franciszek Salezy Jezierski",
                 "type": "osoba",
                 "description": "wizytator KEN"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +333,8 @@
                 "name": "kolegium łowickie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

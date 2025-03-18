@@ -13,7 +13,8 @@
                 "name": "budowniczy",
                 "type": "zawód",
                 "description": "budowniczy toruński, czynny w Toruniu i Braniewie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Hans Gotland",
                 "type": "osoba",
                 "description": "ojciec Jana Gotlanda młodszego, murator, starszy cechu w Toruniu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "starszy cechu",
                 "type": "urząd",
                 "description": "starszy cechu w Toruniu w latach 1389–1409"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "mistrz Jakub",
                 "type": "osoba",
                 "description": "osoba, u której Jan Gotland młodszy pracował przy wznoszeniu parteru kościoła Św. Jana"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "kościół Św. Jana",
                 "type": "instytucja",
                 "description": "miejsce, gdzie Jan Gotland młodszy zbudował górną część wieży"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "kościół Św. Wawrzyńca",
                 "type": "instytucja",
                 "description": "miejsce, gdzie Jan Gotland młodszy wzniósł zakrystię"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "brama miejska mostowa",
                 "type": "instytucja",
                 "description": "brama miejska zbudowana przez Jana Gotlanda młodszego w 1432 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "kościół OO. Franciszkanów w Braniewie",
                 "type": "instytucja",
                 "description": "miejsce, gdzie Jan Gotland młodszy zbudował sklepienia i kaplicę"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Toruń",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "około 1380",
                 "type": "data",
                 "description": "przybliżona data urodzenia"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "po 1445",
                 "type": "data",
                 "description": "przybliżona data śmierci"
-            }
+            },
+            "result": true
         }
     ]
 }

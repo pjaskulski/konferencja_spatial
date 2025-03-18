@@ -13,7 +13,8 @@
                 "name": "1836-04-24",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Czechy",
                 "type": "miejscowość",
                 "description": "wieś pod Zduńską Wolą"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1913-06-02",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Aleksander Federowicz",
                 "type": "osoba",
                 "description": "ojciec Ignacego Federowicza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Aniela Wilczyńska",
                 "type": "osoba",
                 "description": "matka Ignacego Federowicza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Zakon Paulinów",
                 "type": "instytucja",
                 "description": "zakon, do którego wstąpił Ignacy Federowicz w Częstochowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "prokurator klasztoru i magister nowicjatu",
                 "type": "urząd",
                 "description": "pełnione obowiązki na Skałce w Krakowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "przeor i administrator parafii",
                 "type": "urząd",
                 "description": "pełnione obowiązki na Skałce"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kustosz generalny zakonu",
                 "type": "urząd",
                 "description": "pełnione obowiązki w całej monarchii austriackiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Wieluń"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Włocławek",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "kaznodzieja klasztoru",
                 "type": "zawód",
                 "description": "pełnione obowiązki w Leśniowie pod Żarkami"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Nowy klasztor oo. paulinów",
                 "type": "instytucja",
                 "description": "otwarty przez Ignacego Federowicza w Nagy-Levard na Węgrzech"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Klasztor św. Krzyża",
                 "type": "instytucja",
                 "description": "założony przez Ignacego Federowicza na Węgrzech"
-            }
+            },
+            "result": false
         }
     ]
 }

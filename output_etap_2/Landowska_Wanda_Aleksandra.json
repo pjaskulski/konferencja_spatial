@@ -13,7 +13,8 @@
                 "name": "1879-07-05",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1959-08-16",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Lakeville",
                 "type": "miejscowość",
                 "description": "w stanie Connecticut"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Marian Lautenberg",
                 "type": "osoba",
                 "description": "adwokat"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Ewelina Lautenberg",
                 "type": "osoba",
                 "description": "filolog, założycielka pierwszej w Warszawie szkoły języków obcych"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "katolicyzm",
                 "type": "religia",
                 "description": "przeszła z wyznania mojżeszowego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Konserwatorium Warszawskie",
                 "type": "instytucja",
                 "description": "Warszawa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Berlin"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "H. Lew",
                 "type": "osoba",
                 "description": "pisarz i znawca folkloru hebrajskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "profesor gry klawesynowej",
                 "type": "zawód",
                 "description": "Królewska Wyższa Szkoła Muzyczna w Berlinie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "École de Musique Ancienne",
                 "type": "instytucja",
                 "description": "szkoła muzyki dawnej w Saint-Leu la Forêt"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "doktor muzyki honoris causa",
                 "type": "tytuł",
                 "description": "Uniwersytet w Hartford"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Schola Cantorum",
                 "type": "instytucja",
                 "description": "Paryż"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "nieokreślona instytucja",
                 "type": "instytucja",
                 "description": "Bazylea"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "około 15 rozpraw dotyczących wykonawstwa muzyki dawnej",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "La musique ancienne",
                 "type": "dzieło",
                 "description": "1909"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "liczne kompozycje, w tym miniatury fortepianowe i utwory na orkiestrę smyczkową",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

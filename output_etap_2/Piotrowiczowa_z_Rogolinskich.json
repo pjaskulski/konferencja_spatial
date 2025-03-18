@@ -7,28 +7,14 @@
                 "description": "uczestniczka powstania styczniowego"
             },
             "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "powstanie styczniowe",
-                "type": "wydarzenie historyczne",
-                "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Maria Piotrowiczowa",
-                "type": "osoba",
-                "description": "uczestniczka powstania styczniowego"
-            },
-            "predicate": {
                 "name": "hasFather"
             },
             "object": {
                 "name": "Zygmunt Rogoliński",
                 "type": "osoba",
                 "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +29,8 @@
                 "name": "Ansberta z Badeńskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +45,8 @@
                 "name": "Konstanty Piotrowicz",
                 "type": "osoba",
                 "description": "nauczyciel we wsi Chocianowice"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +61,8 @@
                 "name": "ciosy bagnetów i pik kozackich",
                 "type": "przyczyna śmierci",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +77,8 @@
                 "name": "1863-02-28",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +93,8 @@
                 "name": "Radogoszcz (Dobra?)",
                 "type": "miejscowość",
                 "description": "pod Łodzią"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +109,8 @@
                 "name": "nauczyciel",
                 "type": "zawód",
                 "description": "we wsi Chocianowice"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,22 +125,8 @@
                 "name": "dobra w okolicach Łęczycy",
                 "type": "majątek",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Zygmunt Rogoliński",
-                "type": "osoba",
-                "description": "właściciel dóbr w okolicach Łęczycy, powstaniec 1831 r."
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "powstanie listopadowe",
-                "type": "wydarzenie historyczne",
-                "description": "1831 r."
-            }
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +141,8 @@
                 "name": "Maria Piotrowiczowa",
                 "type": "osoba",
                 "description": "uczestniczka powstania styczniowego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +157,8 @@
                 "name": "Józef Sawicki i Józef Dworzaczek",
                 "type": "osoby",
                 "description": "dowódcy partii powstańczej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +173,8 @@
                 "name": "ulica imienia Marii Piotrowiczowej",
                 "type": "osiągnięcie",
                 "description": "w Łodzi"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +189,8 @@
                 "name": "narodowa organizacja łódzka",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,22 +205,8 @@
                 "name": "narodowa organizacja łódzka",
                 "type": "organizacja",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Maria Piotrowiczowa",
-                "type": "osoba",
-                "description": "uczestniczka powstania styczniowego"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "rozbicie oddziału powstańczego pod Dobrą",
-                "type": "wydarzenie",
-                "description": "24 lutego 1863"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -253,22 +221,8 @@
                 "name": "szpital",
                 "type": "obiekt fizjograficzny",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Maria Piotrowiczowa",
-                "type": "osoba",
-                "description": "uczestniczka powstania styczniowego"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wydanie zakazu przyjmowania kobiet do służby liniowej",
-                "type": "wydarzenie",
-                "description": "16 kwietnia 1863"
-            }
+            "result": false
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "ksiądz",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "kapituła mohylewska",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1922-01-19",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Ząbki",
                 "type": "miejscowość",
                 "description": "cmentarz"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Akademia Duchowna",
                 "type": "instytucja",
                 "description": "Petersburg"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "proboszcz",
                 "type": "urząd",
                 "description": "Charków"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "kanclerz",
                 "type": "urząd",
                 "description": "kuria metropolitalna, Petersburg"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "choroba płuc",
                 "type": "przyczyna",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kościół św. Katarzyny",
                 "type": "instytucja",
                 "description": "Petersburg"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "kościół św. Piotra i Pawła",
                 "type": "instytucja",
                 "description": "Moskwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "polskie organizacje oświatowo-kulturalne",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "C. K. O. i P. T. P. O. W.",
                 "type": "instytucja",
                 "description": "organizacje ratownicze"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "magister teologii",
                 "type": "stopień naukowy",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "prefekt",
                 "type": "stanowisko",
                 "description": "w szkołach średnich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Parafia Charkowska – miesięcznik informacyjny",
                 "type": "dzieło",
                 "description": "pismo w języku polskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Kalendarzyk charkowski informacyjny",
                 "type": "dzieło",
                 "description": "zawierał dane statystyczne o stanie inteligencji, przemysłu i handlu polskim w Charkowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "G. P. U.",
                 "type": "organizacja",
                 "description": "agenci w Petersburgu"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "zły stan zdrowia",
                 "type": "stan zdrowia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Tiebie jedinomu sogrieszyła",
                 "type": "dzieło",
                 "description": "powieść Anny Mar wydana w Petersburgu w 1915 roku"
-            }
+            },
+            "result": true
         }
     ]
 }

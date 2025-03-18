@@ -13,7 +13,8 @@
                 "name": "budowniczy",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1557-07-31",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "brat Guicciardini Galeazzo",
                 "type": "osoba",
                 "description": "Brat Guicciardini Galeazzo, który miał dokończyć jego pracę po śmierci."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Sebastian Montelupi",
                 "type": "osoba",
                 "description": "Osoba, dla której Guicciardini Galeazzo prowadził prace budowlane."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "zamek w Melsztynie",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym miał pracować Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "zamek wawelski",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "dwór Rabsztyn",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "dzwonnica zygmuntowska",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "dom Montelupich",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "dom Gutteterów",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "dom wikariuszy zamkowych",
                 "type": "obiekt fizjograficzny",
                 "description": "Obiekt, przy którym pracował Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Spytek Jordan z Melsztyna",
                 "type": "osoba",
                 "description": "Osoba, która miała wypłacić Guicciardini Galeazzo sumę na budowę zamku w Melsztynie."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Stanisław Pilecki z Pilicy",
                 "type": "osoba",
                 "description": "Osoba, która miała dług wobec Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Barbara Kmitowa",
                 "type": "osoba",
                 "description": "Osoba, która miała dług wobec Guicciardini Galeazzo."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Florencja",
                 "type": "miejscowość",
                 "description": "Miasto we Włoszech, z którego pochodził Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": "Miasto, w którym Guicciardini Galeazzo prowadził działalność budowlaną i gdzie znajduje się jego nagrobek."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "krużganki dominikanów w Krakowie",
                 "type": "miejsce",
                 "description": "Miejsce pochówku Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "cegielnia koło Krakowa",
                 "type": "przedsiębiorstwo",
                 "description": "Cegielnia należąca do Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "stajnia z 13 końmi",
                 "type": "przedsiębiorstwo",
                 "description": "Stajnia należąca do Guicciardini Galeazzo."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "kamienica «książęca» w Rynku",
                 "type": "budynek",
                 "description": "Miejsce zamieszkania Guicciardini Galeazzo w Krakowie."
-            }
+            },
+            "result": true
         }
     ]
 }

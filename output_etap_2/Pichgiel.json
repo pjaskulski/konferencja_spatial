@@ -13,7 +13,8 @@
                 "name": "złotnik",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Lublin",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1700-09-29",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "kaplica cechu złotników w kościele Najśw. Maryi Panny w Gdańsku",
                 "type": "miejsce",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Barbara Biettin",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Christian Pichgiel młodszy",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Johan Pichgiel",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Daniel Pichgiel",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Emanuel Pichgiel",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "1684-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "1724-05-26",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "warsztat rodziców",
                 "type": "instytucja",
                 "description": "miejsce nauki Christiana Pichgiela młodszego w latach 1689–1704"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "egzamin mistrzowski",
                 "type": "wydarzenie",
                 "description": "zdany 10 I 1716"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Matthias Pichel",
                 "type": "osoba",
                 "description": "stryj Christiana Pichgiela starszego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Hieronim Edel",
                 "type": "osoba",
                 "description": "nauczyciel Christiana Pichgiela starszego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "starszy cechu",
                 "type": "urząd",
                 "description": "pełniony przez Christiana Pichgiela starszego w latach 1692 i 1697"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "zastępca starszego cechu",
                 "type": "urząd",
                 "description": "pełniony przez Christiana Pichgiela starszego w latach 1691, 1696 i 1700"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "czeladnik",
                 "type": "zawód",
                 "description": "zawód Emanuela Pichgiela"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Matthias Pichgiel młodszy",
                 "type": "osoba",
                 "description": "kuzyn Christiana Pichgiela starszego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "złotnik",
                 "type": "zawód",
                 "description": "zawód Christiana Pichgiela młodszego"
-            }
+            },
+            "result": true
         }
     ]
 }

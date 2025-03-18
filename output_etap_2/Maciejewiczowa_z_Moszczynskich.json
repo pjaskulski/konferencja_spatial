@@ -13,7 +13,8 @@
                 "name": "1937-01-15",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Teklinowo",
                 "type": "miejscowość",
                 "description": "w powiecie orszańskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Wilno",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Edward Maciejewicz",
                 "type": "osoba",
                 "description": "powstaniec z 1863 r."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "nauczycielka",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "organizatorka szkolnictwa polskiego",
                 "type": "zawód",
                 "description": "w Wilnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Pensja Hryniewska",
                 "type": "uczelnia",
                 "description": "w Rydze"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Dorpat"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń",
                 "type": "organizacja",
                 "description": "w Wilnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Związek Pracy Obywatelskiej Kobiet",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Krzyż Kawalerski Orderu Polonia Restituta",
                 "type": "osiągnięcie",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Bolesław Świda",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Stefania Świda",
                 "type": "osoba",
                 "description": "uczennica Julii Kazimiery Maciejewiczowej z Moszczyńskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Julia Rodziewicz",
                 "type": "osoba",
                 "description": "prezeska Stowarzyszenia Nauczycielstwa Polskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Stanisław Kościałkowski",
                 "type": "osoba",
                 "description": "dyrektor męskiej szkoły"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Gimnazjum im. Elizy Orzeszkowej",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Liceum im. Filomatów",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Internat dla Polek",
                 "type": "instytucja",
                 "description": "internat dla Polek uczących się w szkołach średnich w Wilnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Szkoła Handlowa dla dziewcząt-chrześcijanek",
                 "type": "instytucja",
                 "description": "sześcioklasowa szkoła założona w 1907 roku, przekształcona w siedmioklasową w 1913 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,22 +317,8 @@
                 "name": "Rossa",
                 "type": "miejscowość",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Edward Maciejewicz",
-                "type": "osoba",
-                "description": "powstaniec z 1863 r."
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "powstanie styczniowe",
-                "type": "wydarzenie historyczne",
-                "description": "powstanie z 1863 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +333,8 @@
                 "name": "prezeska",
                 "type": "urząd",
                 "description": "Stowarzyszenie Nauczycielstwa Polskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +349,8 @@
                 "name": "dyrektor męskiej szkoły",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

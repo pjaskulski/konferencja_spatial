@@ -13,7 +13,8 @@
                 "name": "kasztelan kruszwicki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "starosta kujawski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1346-10-31",
                 "type": "data",
                 "description": "Data śmierci jest niepewna, możliwy rok to 1346 lub 1347."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,37 +61,8 @@
                 "name": "Maciej z Gołańczy",
                 "type": "osoba",
                 "description": "biskup, który wykupił Mikołaja z Woli z niewoli"
-            }
-        },
-        {
-            "subject": {
-                "name": "Mikołaj z Woli",
-                "type": "osoba",
-                "description": "kasztelan kruszwicki i starosta kujawski"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "obrona zamku biskupów kujawskich w Raciążku",
-                "type": "wydarzenie",
-                "description": "Obrona zamku przed Krzyżakami w 1330 roku."
-            }
-        },
-        {
-            "subject": {
-                "name": "Mikołaj z Woli",
-                "type": "osoba",
-                "description": "kasztelan kruszwicki i starosta kujawski"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wzięcie do niewoli podczas obrony zamku biskupów kujawskich w Raciążku",
-                "type": "wydarzenie",
-                "description": "Wzięcie do niewoli przez Krzyżaków w 1330 roku."
-            }
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +77,8 @@
                 "name": "podkomorzy brzeski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +93,8 @@
                 "name": "asesor sądu ziemskiego",
                 "type": "zawód",
                 "description": "w Inowrocławiu w 1341 roku"
-            }
+            },
+            "result": true
         }
     ]
 }

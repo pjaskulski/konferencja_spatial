@@ -13,7 +13,8 @@
                 "name": "biskup kruszwicki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "biskup kujawski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1187-00-00",
                 "type": "data",
                 "description": "Data śmierci Onolfa jest przybliżona, katalog wolborski podaje rok 1190."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Włocławek",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Stefan",
                 "type": "osoba",
                 "description": "następca Onolfa jako biskup"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "dziekan kapituły",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "konsekracja tumu pod Łęczycą",
                 "type": "wydarzenie",
                 "description": "wydarzenie z 1161 roku, w którym uczestniczył Onolf jako biskup kruszwicki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "zjazd łęczycki",
                 "type": "wydarzenie",
                 "description": "wydarzenie z 1180 roku, w którym uczestniczył Onolf jako biskup kujawski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "katedra romańska we Włocławku",
                 "type": "obiekt architektoniczny",
                 "description": "niezachowana katedra romańska, z którą związany był Onolf"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "szpital Św. Gotarda",
                 "type": "instytucja",
                 "description": "szpital nad Wisłą naprzeciw Włocławka, z którym związany był Onolf"
-            }
+            },
+            "result": true
         }
     ]
 }

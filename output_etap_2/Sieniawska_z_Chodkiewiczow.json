@@ -13,7 +13,8 @@
                 "name": "Aleksander Chodkiewicz",
                 "type": "osoba",
                 "description": "wojewoda trocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Eufemia Sienieńska",
                 "type": "osoba",
                 "description": "córka Andrzeja, podkomorzego lwowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Prokop Sieniawski",
                 "type": "osoba",
                 "description": "chorąży kor."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Adam Hieronim",
                 "type": "osoba",
                 "description": "syn Anny Eufrozyny Sieniawskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Mikołaj Sieniawski",
                 "type": "osoba",
                 "description": "podczaszy kor."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Krzysztof Radziwiłł",
                 "type": "osoba",
                 "description": "hetman polny litewski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "dobra Sieniawskiej",
                 "type": "własność",
                 "description": "Szkłów, Nowa Mysz, Gołogóry i inne"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "1633-04-00",
                 "type": "data",
                 "description": "Anna Eufrozyna Sieniawska zmarła w kwietniu 1633 roku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "kościół Dominikanów lwowskich",
                 "type": "miejsce",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "dominikanie lwowscy",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "karmelici bosi",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Andrzej Sienieński",
                 "type": "osoba",
                 "description": "podkomorzy lwowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Andrzej Sienieński",
                 "type": "osoba",
                 "description": "podkomorzy lwowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "hetman polny litewski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

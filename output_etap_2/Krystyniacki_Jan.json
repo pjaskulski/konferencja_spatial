@@ -13,7 +13,8 @@
                 "name": "1828-12-22",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1893-03-23",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Leżajsk",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Cmentarz Łyczakowski",
                 "type": "obiekt fizjograficzny",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Mateusz Krystyniacki",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Katarzyna z Romańskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Teofila Felsztyńska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "sześciu synów",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Towarzystwo Nauczycieli Szkół Wyższych",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "pedagog",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "tłumacz",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "wydawca literatury greckiej i łacińskiej",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "dyrektor miejskiego gimnazjum w Drohobyczu",
                 "type": "urząd",
                 "description": "mianowany w 1863 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "profesor greki i łaciny",
                 "type": "urząd",
                 "description": "w gimnazjum I i IV we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Wydział Filozoficzny Szkoły Filozoficznej",
                 "type": "uczelnia",
                 "description": "Przemyśl"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Przemyśl"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Wydział Filozoficzny",
                 "type": "uczelnia",
                 "description": "Lwów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Mathiae Sarbievii carmina posthuma",
                 "type": "dzieło",
                 "description": "wydane w 1876 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "M. Tulliusza Cicerona tłómaczenie Arata",
                 "type": "dzieło",
                 "description": "wydane w 1883 roku"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Fasti Sarbieviani",
                 "type": "dzieło",
                 "description": "wydane w 1886 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Wykład ewangelii św. Mateusza w 90 homiliach",
                 "type": "dzieło",
                 "description": "przekład św. Jana Chryzostoma, wydane w 1886 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "O języku greckim pisarzy bizantyńskich",
                 "type": "dzieło",
                 "description": "wydane w 1890 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "Diplomata statutaria confraternitatis Stauropigianae Leopoliensis 1586–1593",
                 "type": "dzieło",
                 "description": "wydane pośmiertnie w 1894 roku"
-            }
+            },
+            "result": false
         }
     ]
 }

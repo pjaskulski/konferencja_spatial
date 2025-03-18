@@ -13,7 +13,8 @@
                 "name": "działaczka oświatowa",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Beit Jakow",
                 "type": "organizacja",
                 "description": "żeńskie szkolnictwo żydowskie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "1935-03-01",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "cmentarz żydowski przy ul. Jerozolimskiej 14 w Krakowie",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Becalel Schenirer",
                 "type": "osoba",
                 "description": "pochodzący z Tarnopola kupiec"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Róża z Laków",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Szymon",
                 "type": "osoba",
                 "description": "sędzia rabinacki w Krakowie w latach 1935–1939"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Izaak Landau",
                 "type": "osoba",
                 "description": "rabin"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "1927-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "1937-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "sędzia rabinacki",
                 "type": "urząd",
                 "description": "w Krakowie w latach 1935–1939"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Agudat Israel",
                 "type": "organizacja",
                 "description": "Związek Izraela"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Keren Hatora",
                 "type": "organizacja",
                 "description": "Fundusz Wychowania Religijnego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Benot Agudat Israel",
                 "type": "organizacja",
                 "description": "Córki Związku Izraela"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "rak żołądka",
                 "type": "choroba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Der kojech fun hejlikn szabes",
                 "type": "dzieło",
                 "description": "sztuka dla dzieci opublikowana w 1922 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Chane un ir zibn zin",
                 "type": "dzieło",
                 "description": "sztuka dla dzieci opublikowana w 1929 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Ester un Achaszwejrosz",
                 "type": "dzieło",
                 "description": "sztuka dla dzieci opublikowana w 1930 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "Gizamlte szriftn",
                 "type": "dzieło",
                 "description": "zbiór artykułów opublikowany w 1933 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Cu wos darf men Bejs Jakew szulen",
                 "type": "dzieło",
                 "description": "broszura opublikowana w 1933 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "Bajs Jakow",
                 "type": "organizacja",
                 "description": "łódzkie czasopismo związane z Beit Jakow"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "Kolegium Nauczycielskie Keren Hatora",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "Mojżesz Deutscher",
                 "type": "osoba",
                 "description": "senator"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "seminarium nauczycielskie w Krakowie",
                 "type": "instytucja",
                 "description": "założone w 1925 roku z internatem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "1883-07-13",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -418,7 +445,8 @@
                 "name": "krawcowa",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +461,8 @@
                 "name": "D. M. Flesch",
                 "type": "osoba",
                 "description": "neo-orthodox rabbi in Vienna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -448,22 +477,8 @@
                 "name": "S. R. Hirsch",
                 "type": "osoba",
                 "description": "founder of the neo-orthodox movement"
-            }
-        },
-        {
-            "subject": {
-                "name": "Sara Szenirer",
-                "type": "osoba",
-                "description": "działaczka oświatowa, założycielka żeńskiego szkolnictwa żydowskiego Beit Jakow"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "wyjazd do Wiednia",
-                "type": "wydarzenie",
-                "description": "related to the approach of Russian troops during World War I"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -478,7 +493,8 @@
                 "name": "Tarnopol",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -493,7 +509,8 @@
                 "name": "neo-orthodox rabbi",
                 "type": "urząd",
                 "description": "in Vienna"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -508,7 +525,8 @@
                 "name": "founder of the neo-orthodox movement",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

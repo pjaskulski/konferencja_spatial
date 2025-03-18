@@ -13,7 +13,8 @@
                 "name": "Warszawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1900-04-20",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Bogumił Linde",
                 "type": "osoba",
                 "description": "językoznawca"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "pensja żeńska Z. Wilczyńskiej",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Górecki",
                 "type": "osoba",
                 "description": "budowniczy"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "przytułek Św. Franciszka Salezego",
                 "type": "instytucja",
                 "description": "przy ul. Solec"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Akademia Umiejętności w Krakowie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Towarzystwo Zachęty Sztuk Pięknych",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "gmina augsburska",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Jan Karłowicz",
                 "type": "osoba",
                 "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Jan Hanusz",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Stefan Ramułt",
                 "type": "osoba",
                 "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Bolesław Erzepki",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Adam Kryński",
                 "type": "osoba",
                 "description": "językoznawca, dwukrotny laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Władysław Niedźwiedzki",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Kazimierz Nitsch",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Jan Rozwadowski",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Józef Rostafiński",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Jan Łoś",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "matka Ludwiki Góreckiej",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Julian Niemcewicz",
                 "type": "osoba",
                 "description": "przyjaciel ojca Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "Stanisław Staszic",
                 "type": "osoba",
                 "description": "przyjaciel ojca Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "Franciszek Salezy Dmochowski",
                 "type": "osoba",
                 "description": "przyjaciel ojca Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "Narcyza Żmichowska",
                 "type": "osoba",
                 "description": "przyjaciółka Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "Maria Ilnicka",
                 "type": "osoba",
                 "description": "przyjaciółka Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "Seweryna Duchińska",
                 "type": "osoba",
                 "description": "przyjaciółka Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -418,7 +445,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +461,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -448,7 +477,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -463,7 +493,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -478,7 +509,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -493,7 +525,8 @@
                 "name": "Jan Rozwadowski",
                 "type": "osoba",
                 "description": "językoznawca, laureat nagrody im. B. Lindego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -508,7 +541,8 @@
                 "name": "Nagroda im. B. Lindego",
                 "type": "osiągnięcie",
                 "description": "nagroda za najlepszą pracę z dziedziny językoznawstwa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -523,7 +557,8 @@
                 "name": "Stanisław Staszic",
                 "type": "osoba",
                 "description": "przyjaciel ojca Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -538,7 +573,8 @@
                 "name": "Franciszek Salezy Dmochowski",
                 "type": "osoba",
                 "description": "przyjaciel ojca Ludwiki Góreckiej"
-            }
+            },
+            "result": true
         }
     ]
 }

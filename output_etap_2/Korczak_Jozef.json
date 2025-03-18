@@ -13,7 +13,8 @@
                 "name": "1891-01-09",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Dąbrówka",
                 "type": "miejscowość",
                 "description": "wieś w powiecie janowskim ziemi lubelskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1920-10-18",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Michniszki",
                 "type": "miejscowość",
                 "description": "w pobliżu Nowych Trok w ziemi wileńskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Jan Korczak",
                 "type": "osoba",
                 "description": "ojciec Józefa Korczaka"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Rozalia Korczak",
                 "type": "osoba",
                 "description": "matka Józefa Korczaka"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Siedlce"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Organizacja Młodzieży Narodowej",
                 "type": "organizacja",
                 "description": "wstąpił w 1910 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Związek Strzelecki",
                 "type": "organizacja",
                 "description": "wstąpił w 1913 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Polska Partia Socjalistyczna",
                 "type": "organizacja",
                 "description": "wstąpił pod wpływem członków Organizacji Bojowej PPS"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "podporucznik",
                 "type": "stopień wojskowy",
                 "description": "przyjęty do Wojska Polskiego 2 grudnia 1918 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Wolna Wszechnica Polska",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Order Virtuti Militari 5 kl.",
                 "type": "odznaczenie",
                 "description": "odznaczony pośmiertnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Krzyż Niepodległości z Mieczami",
                 "type": "odznaczenie",
                 "description": "odznaczony pośmiertnie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Wskazania przyszłości",
                 "type": "dzieło",
                 "description": "broszura poświęcona sprawie wychowania żołnierza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Przed świtem",
                 "type": "dzieło",
                 "description": "zbiór wierszy uzupełniony przedmową A. Struga i życiorysem pióra T. Hołówki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Piotr",
                 "type": "osoba",
                 "description": "pseudonim Józefa Korczaka"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "komendant okręgu",
                 "type": "urząd",
                 "description": "Polska Organizacja Wojskowa, okręg siedlecki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "zastępca komendanta okręgu",
                 "type": "urząd",
                 "description": "Polska Organizacja Wojskowa, okręg płocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "inspektor główny",
                 "type": "urząd",
                 "description": "Milicja Ludowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "praca w referacie prasowym",
                 "type": "urząd",
                 "description": "Ministerstwo Spraw Wojskowych"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "dowódca plutonu",
                 "type": "urząd",
                 "description": "201 pułk piechoty"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "dowódca kompanii",
                 "type": "urząd",
                 "description": "front litewsko-polski"
-            }
+            },
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Towarzystwo Dobroczynności św. Wincentego a Paulo",
                 "type": "organizacja",
                 "description": "organizacja dobroczynna we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "szpital dziecięcy św. Zofii",
                 "type": "instytucja",
                 "description": "szpital dziecięcy we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Dom Opatrzności",
                 "type": "instytucja",
                 "description": "przytułek dla żebraków we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Towarzystwo Dobroczynności w Przemyślu",
                 "type": "organizacja",
                 "description": "organizacja dobroczynna w Przemyślu"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "katolickie Stowarzyszenie Rękodzielnicze «Skała»",
                 "type": "organizacja",
                 "description": "stowarzyszenie rękodzielnicze"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Leon Sapieha",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Stanisław Zamoyski",
                 "type": "osoba",
                 "description": "prezes Senatu Królestwa Kongresowego, ordynat"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Zofia z Czartoryskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Adam Kazimierz Czartoryski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Władysław Zamoyski",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Celina Działyńska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Adam Sapieha",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Krasiczyn",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Krasiczyn",
                 "type": "miejscowość",
                 "description": "groby rodzinne"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Podzamcze",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "1890-03-29",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "1806-07-09",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Jakub Fałkowski",
                 "type": "osoba",
                 "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Józef Korzeniowski",
                 "type": "osoba",
                 "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,22 +317,8 @@
                 "name": "Franciszek Lessel",
                 "type": "osoba",
                 "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "pobyt w Genewie",
-                "type": "wydarzenie",
-                "description": "około roku 1818/19"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -328,97 +333,8 @@
                 "name": "dama honorowa cesarzowej",
                 "type": "osiągnięcie",
                 "description": "z cyfrą"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "rozdawnictwo zupy rumfordzkiej",
-                "type": "wydarzenie",
-                "description": "działalność dobroczynna we Lwowie w głodowych latach"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "organizacja domów dla sierot i potrzebujących",
-                "type": "wydarzenie",
-                "description": "działalność dobroczynna we Lwowie"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "organizacja wydarzeń charytatywnych",
-                "type": "wydarzenie",
-                "description": "kwesty, loterie fantowe, koncerty, festyny, wenty i bazary we Lwowie"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "organizacja pomocy w Przemyślu",
-                "type": "wydarzenie",
-                "description": "działalność dobroczynna w Przemyślu"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "organizacja szpitala dla rannych powstańców",
-                "type": "wydarzenie",
-                "description": "działalność dobroczynna w Krasiczynie w 1863 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Jadwiga Sapieżyna z Zamoyskich",
-                "type": "osoba",
-                "description": "filantropka"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "opieka nad szpitalami w Cieszanowie",
-                "type": "wydarzenie",
-                "description": "działalność dobroczynna w Cieszanowie"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +349,8 @@
                 "name": "rozdawnictwo zupy rumfordzkiej",
                 "type": "dzieło",
                 "description": "działalność dobroczynna we Lwowie w głodowych latach"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -448,7 +365,8 @@
                 "name": "organizacja domów dla sierot i potrzebujących",
                 "type": "dzieło",
                 "description": "działalność dobroczynna we Lwowie"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -463,7 +381,8 @@
                 "name": "organizacja wydarzeń charytatywnych",
                 "type": "dzieło",
                 "description": "kwesty, loterie fantowe, koncerty, festyny, wenty i bazary we Lwowie"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -478,7 +397,8 @@
                 "name": "organizacja pomocy w Przemyślu",
                 "type": "dzieło",
                 "description": "działalność dobroczynna w Przemyślu"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -493,7 +413,8 @@
                 "name": "organizacja szpitala dla rannych powstańców",
                 "type": "dzieło",
                 "description": "działalność dobroczynna w Krasiczynie w 1863 roku"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -508,7 +429,8 @@
                 "name": "opieka nad szpitalami w Cieszanowie",
                 "type": "dzieło",
                 "description": "działalność dobroczynna w Cieszanowie"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -523,7 +445,8 @@
                 "name": "prezes Senatu Królestwa Kongresowego",
                 "type": "urząd",
                 "description": ""
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -538,7 +461,8 @@
                 "name": "Jakub Fałkowski",
                 "type": "osoba",
                 "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -553,7 +477,8 @@
                 "name": "Józef Korzeniowski",
                 "type": "osoba",
                 "description": "nauczyciel domowy Jadwigi Sapieżyny z Zamoyskich"
-            }
+            },
+            "result": true
         }
     ]
 }

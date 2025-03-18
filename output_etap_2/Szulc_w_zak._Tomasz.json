@@ -13,7 +13,8 @@
                 "name": "Lubawa",
                 "type": "miejscowość",
                 "description": "ziemia chełmińska"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1705-00-00",
                 "type": "data",
                 "description": "jesień 1705"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Tomasz Jan Szulc-Prątnicki",
                 "type": "osoba",
                 "description": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski, oficjał i wizytator diecezji chełmińskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Zakon Dominikanów",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "przeor",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "pisarz religijny",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "studium zakonne",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "magister teologii",
                 "type": "osiągnięcie",
                 "description": "najwyższy stopień naukowy w zakonie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,22 +141,8 @@
                 "name": "Gdańsk",
                 "type": "miejscowość",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Tomasz Szulc-Prątnicki",
-                "type": "osoba",
-                "description": "dominikanin, przeor, pisarz religijny"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "złożenie ślubów zakonnych",
-                "type": "wydarzenie",
-                "description": "24 października 1660"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "Compendium unsyllogisticum totius Summae s. Thomae Aquinatis Doctoris Angelici",
                 "type": "dzieło",
                 "description": "wydane w Gdańsku w latach 1694-1695, wydanie drugie w 1697"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "prepozyt i kanonik chełmiński",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "archiprezbiter elbląski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +205,8 @@
                 "name": "proboszcz lubawski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +221,8 @@
                 "name": "oficjał i wizytator diecezji chełmińskiej",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

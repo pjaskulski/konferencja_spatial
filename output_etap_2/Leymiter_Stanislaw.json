@@ -13,7 +13,8 @@
                 "name": "1462-01-15",
                 "type": "data",
                 "description": "Data śmierci Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "cmentarz mariacki",
                 "type": "miejscowość",
                 "description": "Miejsce pochówku Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Mikołaj Leymiter",
                 "type": "osoba",
                 "description": "Ojciec Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Benigna Leymiter",
                 "type": "osoba",
                 "description": "Matka Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Zofia Leymiter",
                 "type": "osoba",
                 "description": "Żona Stanisława Leymitera, córka Jana Tesznara."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Jan Leymiter",
                 "type": "osoba",
                 "description": "Syn Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Stanisław Leymiter (syn)",
                 "type": "osoba",
                 "description": "Syn Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Barbara Leymiter",
                 "type": "osoba",
                 "description": "Córka Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Benigna Leymiter",
                 "type": "osoba",
                 "description": "Córka Stanisława Leymitera."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Mikołaj Leymiter",
                 "type": "osoba",
                 "description": "Brat Stanisława Leymitera, mistrz i wychowanek Uniwersytetu Krakowskiego."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "kupiec",
                 "type": "zawód",
                 "description": "Zawód Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "ławnik",
                 "type": "urząd",
                 "description": "Urząd pełniony przez Stanisława Leymitera w Krakowie."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "burmistrz",
                 "type": "urząd",
                 "description": "Urząd pełniony przez Stanisława Leymitera w Krakowie."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "ścięcie",
                 "type": "zdarzenie",
                 "description": "Przyczyna śmierci Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Jan Tesznar",
                 "type": "osoba",
                 "description": "Ojciec Zofii Leymiter."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Jan Tesznar",
                 "type": "osoba",
                 "description": "Brat Zofii Leymiter, opiekun dzieci Stanisława Leymitera."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Katarzyna Kreidler",
                 "type": "osoba",
                 "description": "Żona Mikołaja Kreidlera, siostra Zofii Leymiter."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Agnieszka Wierzynek",
                 "type": "osoba",
                 "description": "Żona Jana Wierzynka, siostra Zofii Leymiter."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Wincenty Beck",
                 "type": "osoba",
                 "description": "Mąż Barbary Leymiter."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Jan Tretkop",
                 "type": "osoba",
                 "description": "Mąż Benigny Leymiter."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "dom przy ul. Brackiej",
                 "type": "obiekt fizyczny",
                 "description": "Dom w Krakowie należący do Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "dom przy ul. Grodzkiej",
                 "type": "obiekt fizyczny",
                 "description": "Dom w Krakowie należący do Stanisława Leymitera, odziedziczony po rodzicach."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "prawo",
                 "type": "zainteresowanie",
                 "description": "Zainteresowania prawnicze Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +381,8 @@
                 "name": "kram na rynku krakowskim",
                 "type": "obiekt fizyczny",
                 "description": "Kram należący do Stanisława Leymitera od 1446 roku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +397,8 @@
                 "name": "wierzyciel",
                 "type": "zawód",
                 "description": "Działalność Stanisława Leymitera jako wierzyciela."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +413,8 @@
                 "name": "Mikołaj Leymiter i Benigna Leymiter",
                 "type": "osoba",
                 "description": "Rodzice Stanisława Leymitera."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +429,8 @@
                 "name": "Wit Stwosz",
                 "type": "osoba",
                 "description": "Osoba, która przejęła dom przy ul. Grodzkiej w 1481 roku."
-            }
+            },
+            "result": true
         }
     ]
 }

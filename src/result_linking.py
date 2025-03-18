@@ -16,6 +16,7 @@ import instructor
 from pydantic import BaseModel, Field
 from geopy.geocoders import Nominatim
 from ratelimit import limits
+from groq import Groq
 
 
 # adresy dla API Wikibase (instancja docelowa)
@@ -47,10 +48,16 @@ wbi = WikibaseIntegrator(login=login_instance)
 
 
 # stałe
-MODEL = "gpt-4o-mini"
+MODEL_LLAMA3 = "llama-3.3-70b-versatile"
+MODEL_DEEPSEEK_CHAT = "deepseek-chat" # DeepSeek V3
+MODEL_GPT4O_MINI = "gpt-4o-mini"
+MODEL = MODEL_GPT4O_MINI
+
 P_INSTANCE_OF = "P27"
 P_INSTANCE_OF_WIKIDATA = "P31"
 Q_HUMAN_WIKIDATA = "Q5"
+
+INSTANCE_OF = False
 
 # api key (OpenAI)
 env_path_openai = Path(".") / ".env"
@@ -58,6 +65,8 @@ load_dotenv(dotenv_path=env_path_openai)
 OPENAI_ORG_ID = os.environ.get('OPENAI_ORG_ID')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 openai.api_key = OPENAI_API_KEY
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
 
 
 wikihum_properties = {
@@ -97,6 +106,21 @@ wikihum_elements = {
     "obiekt hydrograficzny": "Q53"  # hydrographic object
 }
 
+# client OpenAI
+client_openai = instructor.from_openai(OpenAI())
+
+# client Groq
+client_g = Groq(api_key=GROQ_API_KEY)
+client_groq = instructor.from_groq(client_g)
+
+# client DeepSeek
+client_deep = instructor.from_openai(
+    OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com"),
+    mode=instructor.Mode.MD_JSON,
+    max_tokens=8000
+)
+
+
 # ------------------------------- CLASSES --------------------------------------
 class BestCandidateModel(BaseModel):
     """ struktura odpowiedzi modelu językowego  - wybór najbardziej pasującego wyniku """
@@ -108,6 +132,19 @@ class BestCandidateModel(BaseModel):
 
 
 # ------------------------------ FUNCTIONS -------------------------------------
+def zamien_kolejnosc(tekst):
+    """Zamienia kolejność wyrazów """
+    if not isinstance(tekst, str):
+      return None
+
+    tekst = tekst.strip()
+    slowa = tekst.split()
+    if len(slowa) == 2:
+        return f"{slowa[1]} {slowa[0]}"
+    else:
+        return tekst
+
+
 def search_wikihum(nazwa:str, typ_obiektu:str, opis_obiektu:str) -> list:
     """ wyszukiwanie w wikihum """
     try:
@@ -115,6 +152,16 @@ def search_wikihum(nazwa:str, typ_obiektu:str, opis_obiektu:str) -> list:
         text_to_search = nazwa
 
         wyniki = wbi_helpers.search_entities(search_string=text_to_search,
+                                            mediawiki_api_url="https://wikihum.lab.dariah.pl/api.php",
+                                            max_results=10,
+                                            language='pl',
+                                            dict_result=True,
+                                            strict_language=True)
+
+        if not wyniki:
+            text_to_search = zamien_kolejnosc(text_to_search)
+            if text_to_search != nazwa: # zamiana skuteczna
+                wyniki = wbi_helpers.search_entities(search_string=text_to_search,
                                             mediawiki_api_url="https://wikihum.lab.dariah.pl/api.php",
                                             max_results=10,
                                             language='pl',
@@ -258,7 +305,12 @@ def select_item(candidate_list:list, expected:str) -> str:
     if len(candidate_list) == 1:
         return candidate_list[0]["id"]
 
-    client = instructor.from_openai(OpenAI())
+    if MODEL == MODEL_LLAMA3:
+        client = client_groq
+    elif MODEL == MODEL_DEEPSEEK_CHAT:
+        client = client_deep
+    else:
+        client = client_openai
 
     system_prompt = """
     Jesteś asystentem historyka i specjalistą od baz wiedzy. Z podanej listy wyników wyszukiwania w
@@ -348,70 +400,71 @@ def save_json_kg(relations:list, output_file:str):
 
         data.append(item)
 
-        if "subject_instance_of" in relation:
-            if (relation["subject"]["name"], relation["subject_instance_of"]) not in subjects_instance_of:
-                if relation["subject_instance_of"] == "Q5":
-                    wikihum_qid = relation["subject_instance_of"]
-                    wikihum_name = "człowiek"
-                elif relation["subject_instance_of"] == "Q175698":
-                    wikihum_qid = relation["subject_instance_of"]
-                    wikihum_name = "jednostka osadnicza"
-                else:
-                    tmp = str(relation["subject_instance_of"])
-                    if '[' in tmp:
-                        tmp = tmp.replace('[','').replace(']','')
-                    if tmp.startswith('Q'):
+        if INSTANCE_OF:
+            if "subject_instance_of" in relation:
+                if (relation["subject"]["name"], relation["subject_instance_of"]) not in subjects_instance_of:
+                    if relation["subject_instance_of"] == "Q5":
                         wikihum_qid = relation["subject_instance_of"]
-                        wikihum_name = "?"
-                    else:
-                        wikihum_qid = "NEW"
-                        wikihum_name = tmp
-
-                item = {
-                    "subject": r_subject,
-                    "predicate": {"name": "instanceOf", "wikihum": P_INSTANCE_OF},
-                    "object": {"name": wikihum_name, "wikihum": wikihum_qid }
-                }
-                data.append(item)
-                subjects_instance_of[(relation["subject"]["name"], relation["subject_instance_of"])] = relation["subject_instance_of"]
-
-        if "object_instance_of" in relation:
-            if (relation["object"]["name"], relation["object_instance_of"]) not in objects_instance_of:
-                if relation["object_instance_of"] == "Q5":
-                    wikihum_qid = relation["object_instance_of"]
-                    wikihum_name = "człowiek"
-                elif relation["object_instance_of"] == "Q175698":
-                    wikihum_qid = relation["object_instance_of"]
-                    wikihum_name = "jednostka osadnicza"
-                else:
-                    tmp = str(relation["object_instance_of"])
-                    if '[' in tmp:
-                        tmp = tmp.replace('[','').replace(']','')
-                    if tmp.startswith('Q'):
+                        wikihum_name = "człowiek"
+                    elif relation["subject_instance_of"] == "Q175698":
                         wikihum_qid = relation["subject_instance_of"]
-                        wikihum_name = "?"
+                        wikihum_name = "jednostka osadnicza"
                     else:
-                        wikihum_qid = "NEW"
-                        wikihum_name = tmp
+                        tmp = str(relation["subject_instance_of"])
+                        if '[' in tmp:
+                            tmp = tmp.replace('[','').replace(']','')
+                        if tmp.startswith('Q'):
+                            wikihum_qid = relation["subject_instance_of"]
+                            wikihum_name = "?"
+                        else:
+                            wikihum_qid = "NEW"
+                            wikihum_name = tmp
 
-                item = {
-                    "subject": r_object,
-                    "predicate": {"name": "instanceOf", "wikihum": P_INSTANCE_OF},
-                    "object": {"name": wikihum_name, "wikihum": wikihum_qid}
-                }
-                data.append(item)
-                objects_instance_of[(relation["object"]["name"], relation["object_instance_of"])] = relation["object_instance_of"]
+                    item = {
+                        "subject": r_subject,
+                        "predicate": {"name": "instanceOf", "wikihum": P_INSTANCE_OF},
+                        "object": {"name": wikihum_name, "wikihum": wikihum_qid }
+                    }
+                    data.append(item)
+                    subjects_instance_of[(relation["subject"]["name"], relation["subject_instance_of"])] = relation["subject_instance_of"]
+
+            if "object_instance_of" in relation:
+                if (relation["object"]["name"], relation["object_instance_of"]) not in objects_instance_of:
+                    if relation["object_instance_of"] == "Q5":
+                        wikihum_qid = relation["object_instance_of"]
+                        wikihum_name = "człowiek"
+                    elif relation["object_instance_of"] == "Q175698":
+                        wikihum_qid = relation["object_instance_of"]
+                        wikihum_name = "jednostka osadnicza"
+                    else:
+                        tmp = str(relation["object_instance_of"])
+                        if '[' in tmp:
+                            tmp = tmp.replace('[','').replace(']','')
+                        if tmp.startswith('Q'):
+                            wikihum_qid = relation["subject_instance_of"]
+                            wikihum_name = "?"
+                        else:
+                            wikihum_qid = "NEW"
+                            wikihum_name = tmp
+
+                    item = {
+                        "subject": r_object,
+                        "predicate": {"name": "instanceOf", "wikihum": P_INSTANCE_OF},
+                        "object": {"name": wikihum_name, "wikihum": wikihum_qid}
+                    }
+                    data.append(item)
+                    objects_instance_of[(relation["object"]["name"], relation["object_instance_of"])] = relation["object_instance_of"]
 
     output = {"triplets": data}
 
-    output_path = Path('..') / "output_dataset_link" / output_file
+    output_path = Path('..') / "output_identification_2" / output_file
     with open(output_path, 'w', encoding='utf-8') as f_out:
         json.dump(output, f_out, indent=4, ensure_ascii=False)
 
 
 def read_json(input_file:str):
     """ wczytanie danych z pliku json """
-    input_path = Path('..') / "output_dataset" / input_file
+    input_path = Path('..') / "output_etap_2" / input_file
     with open(input_path, 'r', encoding='utf-8') as f_in:
         json_data = json.load(f_in)
 
@@ -504,7 +557,8 @@ if __name__ == "__main__":
     logging.info('Wczytanie danych...')
 
     # dataset pliki json z tripletami znalezionymi przez model językowy
-    data_folder = Path("..") / "output_dataset"
+    # po walidacji automatycznej przez model walidujący
+    data_folder = Path("..") / "output_etap_2"
     data_file_list = data_folder.glob('*.json')
 
     for data_file in data_file_list:
@@ -512,11 +566,9 @@ if __name__ == "__main__":
         file_name = os.path.basename(data_file)
 
         # pomijanie biogramów, które już mają zidentyfikowane dane
-        link_path = Path('..') / "output_dataset_link" / file_name
+        link_path = Path('..') / "output_identification_2" / file_name
         if os.path.exists(link_path):
             continue
-
-
 
         relations = read_json(input_file=file_name)
 
@@ -535,20 +587,21 @@ if __name__ == "__main__":
             else:
                 relation["predicate_wikihum_p"] = f'[{predicate}]'
 
-            # instance of dla subject
-            subject_type = relation["subject"]["type"]
-            if subject_type in wikihum_elements:
-                relation["subject_instance_of"] = wikihum_elements[subject_type]
-            else:
-                relation["subject_instance_of"] = f'[{subject_type}]'
+            if INSTANCE_OF:
+                # instance of dla subject
+                subject_type = relation["subject"]["type"]
+                if subject_type in wikihum_elements:
+                    relation["subject_instance_of"] = wikihum_elements[subject_type]
+                else:
+                    relation["subject_instance_of"] = f'[{subject_type}]'
 
-            # instance of dla object
-            object_type = relation["object"]["type"]
-            if object_type in wikihum_elements:
-                relation["object_instance_of"] = wikihum_elements[object_type]
-            else:
-                if object_type != 'data':
-                    relation["object_instance_of"] = f'[{object_type}]'
+                # instance of dla object
+                object_type = relation["object"]["type"]
+                if object_type in wikihum_elements:
+                    relation["object_instance_of"] = wikihum_elements[object_type]
+                else:
+                    if object_type != 'data':
+                        relation["object_instance_of"] = f'[{object_type}]'
 
             # próba identyfikacji osób i miejsc w subject
             data_subject = process_element(element=relation["subject"]["name"],

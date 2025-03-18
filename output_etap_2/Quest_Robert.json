@@ -13,7 +13,8 @@
                 "name": "1874-01-13",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1942-09-17",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Opawa",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Rövensdorf",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Rudolf Quest",
                 "type": "osoba",
                 "description": "urzędnik Banku Krajowego we Lwowie, działacz Towarzystwa Tatrzańskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Emilia Mannowa",
                 "type": "osoba",
                 "description": "owdowiała siostra Roberta Questa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Kazimierz Mann",
                 "type": "osoba",
                 "description": "malarz zakopiański"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Roman Mann",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Tadeusz Mann",
                 "type": "osoba",
                 "description": "profesor biochemii i fizjologii w Cambridge"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Lwów"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "T. Escherich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "M. Pfaundler",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "A. Czerny",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Uniwersytet Lwowski",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,22 +253,8 @@
                 "name": "Uniwersytet Lwowski",
                 "type": "uczelnia",
                 "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Robert Quest",
-                "type": "osoba",
-                "description": "lekarz, pediatra"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "organizacja kolonii dziecięcych w Szczawnicy",
-                "type": "wydarzenie",
-                "description": null
-            }
+            "result": false
         },
         {
             "subject": {
@@ -268,7 +269,8 @@
                 "name": "lekarz, pediatra",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "Gimnazjum we Lwowie",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +301,8 @@
                 "name": "Uniwersytet w Grazu",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +317,8 @@
                 "name": "Szpital zakaźny we Lwowie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +333,8 @@
                 "name": "Szpital Dziecięcy im. Św. Zofii we Lwowie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +349,8 @@
                 "name": "Zakład patologii ogólnej i doświadczalnej Uniwersytetu Lwowskiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +365,8 @@
                 "name": "habilitacja z pediatrii",
                 "type": "osiągnięcie",
                 "description": "na Uniwersytecie Lwowskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +381,8 @@
                 "name": "badania nad tężyczką, krzywicą, zawartością wapna w mózgu niemowląt oraz krańcowymi ubytkami wagi ciała u dzieci",
                 "type": "osiągnięcie",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +397,8 @@
                 "name": "publikacje w czasopismach lekarskich polskich i niemieckich",
                 "type": "osiągnięcie",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -403,7 +413,8 @@
                 "name": "urzędnik",
                 "type": "zawód",
                 "description": "Bank Krajowy we Lwowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -418,7 +429,8 @@
                 "name": "Towarzystwo Tatrzańskie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -433,7 +445,8 @@
                 "name": "Mann",
                 "type": "osoba",
                 "description": "zmarły mąż Emilii Mannowej"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -448,7 +461,8 @@
                 "name": "Cambridge",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

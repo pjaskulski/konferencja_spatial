@@ -13,7 +13,8 @@
                 "name": "przełożona Zgromadzenia Sióstr Prezentek w Krakowie",
                 "type": "urząd",
                 "description": "Funkcja pełniona przez Franciszkę Prastel od 16 września 1781 roku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "kierowniczka szkoły Zgromadzenia Sióstr Prezentek w Krakowie",
                 "type": "urząd",
                 "description": "Funkcja pełniona przez Franciszkę Prastel od 16 września 1781 roku."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1808-07-06",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "cmentarz Rakowicki",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Zgromadzenie Sióstr Prezentek w Krakowie",
                 "type": "instytucja",
                 "description": "Zgromadzenie, które nakładało na zakonnice obowiązek wychowywania i kształcenia dziewcząt."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Tadeusz Kościuszko",
                 "type": "osoba",
                 "description": "Zetknął się z Franciszką Prastel i prosił ją o modlitwy w intencji powstania."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Franciszka Prastel",
                 "type": "osoba",
                 "description": "Przełożona prezentek w Krakowie, znana jako matka sierot i doskonały organizator szkoły."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Zgromadzenie Sióstr Prezentek w Krakowie",
                 "type": "instytucja",
                 "description": "Zgromadzenie, które nakładało na zakonnice obowiązek wychowywania i kształcenia dziewcząt."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -133,22 +141,8 @@
                 "name": "1763-05-21",
                 "type": "data",
                 "description": "Data wstąpienia Franciszki Prastel do Zgromadzenia Sióstr Prezentek w Krakowie."
-            }
-        },
-        {
-            "subject": {
-                "name": "Franciszka Prastel",
-                "type": "osoba",
-                "description": "Przełożona prezentek w Krakowie, znana jako matka sierot i doskonały organizator szkoły."
             },
-            "predicate": {
-                "name": "organizedEvent"
-            },
-            "object": {
-                "name": "wakacyjne kursy dla sióstr",
-                "type": "wydarzenie",
-                "description": "Kursy organizowane przez Franciszkę Prastel dla sióstr."
-            }
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +157,8 @@
                 "name": "kościół Św. Jana",
                 "type": "miejsce",
                 "description": "Kościół, który Franciszka Prastel odnowiła i wyposażyła."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +173,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": "Miejsce, gdzie Franciszka Prastel była znana i szanowana."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +189,8 @@
                 "name": "Magdalena",
                 "type": "imię zakonne",
                 "description": "Imię zakonne Franciszki Prastel."
-            }
+            },
+            "result": true
         }
     ]
 }

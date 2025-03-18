@@ -13,7 +13,8 @@
                 "name": "1891-08-06",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1974-07-27",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Krzeszowice",
                 "type": "miejscowość",
                 "description": "koło Krakowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "cmentarz Salwatorski",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Edward Schnayder",
                 "type": "osoba",
                 "description": "sędzia"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Felicja z Krzyszkowskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Edward Schnayder",
                 "type": "osoba",
                 "description": "geograf, pracownik B. Jag."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Janina Smorawińska",
                 "type": "osoba",
                 "description": "farmaceutka"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Felicja Teresa z Kęszyckich",
                 "type": "osoba",
                 "description": "historyczka i pedagog"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Uniwersytet Łódzki",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Uniwersytet Wrocławski",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Polskie Towarzystwo Filologiczne",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Łódzkie Towarzystwo Naukowe",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Komitet Nauk o Kulturze Antycznej PAN",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Uniwersytet Jagielloński",
                 "type": "instytucja",
                 "description": "miejsce studiów Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "De rerum natura apud tragicos Graecos descripta",
                 "type": "dzieło",
                 "description": "praca doktorska Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "De Heraclidis descriptione urbium Graecarum",
                 "type": "dzieło",
                 "description": "praca habilitacyjna Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "De periegetarum Graecorum reliquis",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "De itinerariis poematis Romanorum",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Soziologisches in den Werken des Theophrastos",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "De Verrinarum narrationibus quasi scaenae aptis",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "Antologia listu antycznego",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +365,8 @@
                 "name": "Wybór pism Ksenofonta",
                 "type": "dzieło",
                 "description": "dzieło naukowe Jerzego Edwarda Schnaydera"
-            }
+            },
+            "result": true
         }
     ]
 }

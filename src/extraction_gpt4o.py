@@ -20,6 +20,7 @@ MODEL_GPT_4O_MINI = "gpt-4o-mini"
 MODEL_GPT_4O = "gpt-4o"
 MODEL_QWEN_QWQ = "qwen-qwq-32b"
 MODEL_LLAMA3 = "llama-3.3-70b-versatile"
+MODEL_DEEPSEEK_CHAT = "deepseek-chat" # DeepSeek V3
 MODEL = MODEL_GPT_4O
 
 CHAIN_OF_THOUGHT = True
@@ -32,6 +33,8 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 openai.api_key = OPENAI_API_KEY
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
+
 
 # lista predykatów (właściwości)
 with open('predicate.json', 'r', encoding='utf-8') as f:
@@ -424,8 +427,14 @@ if __name__ == '__main__':
     client_g = Groq(api_key=GROQ_API_KEY)
     client_groq = instructor.from_groq(client_g)
 
+    client_deep = instructor.from_openai(
+        OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com"),
+        mode=instructor.Mode.MD_JSON,
+        max_tokens=8000
+    )
+
     # dataset
-    data_folder = Path("..") / "dataset"
+    data_folder = Path("..") / "data"
     data_file_list = data_folder.glob('*.txt')
 
     for data_file in data_file_list:
@@ -437,7 +446,7 @@ if __name__ == '__main__':
 
         # pomijanie biogramów już przetworzonych
         json_file = file_name.replace('.txt', '.json')
-        json_path = Path('..') / "output_dataset" / json_file
+        json_path = Path('..') / "output_etap_2" / json_file
         if os.path.exists(json_path):
             continue
 
@@ -449,7 +458,7 @@ if __name__ == '__main__':
             f_log.write(f'{file_name}\n')
 
         # wczytanie tekstu testowego biogramu
-        data_file = Path("..") / "dataset" / file_name
+        data_file = Path("..") / "data" / file_name
         with open(data_file, "r", encoding="utf-8") as f:
             biogram = f.read()
 
@@ -483,8 +492,10 @@ if __name__ == '__main__':
         logging.info("Dodatkowa analiza struktury wyników, wyszukiwanie dodatkowych relacji...")
         struktura = object_analysis(client, struktura, MODEL)
 
-        # validation
+        # validation LLaMA3
         struktura = validate(llm_client=client_groq, data_structure=struktura, llm_model=MODEL_LLAMA3)
+        # validation DeepSeek
+        # struktura = validate(llm_client=client_deep, data_structure=struktura, llm_model=MODEL_DEEPSEEK_CHAT)
 
         # zapis wyników w pliku json
         logging.info("Zapis wyników w formacie json...")

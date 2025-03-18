@@ -13,7 +13,8 @@
                 "name": "Stanisław Kaliński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Elżbieta z Oborskich",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Jakub Kaliński",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Marianna Wiktoria z Białynia Białyńska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Konstanty Kaliński",
                 "type": "osoba",
                 "description": "podkomorzy bracławski (1703)"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "rotmistrz królewski",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "starosta bracławski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "1663-00-00",
                 "type": "data",
                 "description": "Data śmierci jest przybliżona, ponieważ nie jest znana dokładna data."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Aleksander Koniecpolski",
                 "type": "osoba",
                 "description": "chorąży koronny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Andrzej Gołyński",
                 "type": "osoba",
                 "description": "drugi mąż Marianny Wiktorii z Białynia Białyńskiej po śmierci Seweryna Mikołaja Kalińskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Niedźwica",
                 "type": "miejscowość",
                 "description": "wieś w powiecie latyczowskim otrzymana przez Seweryna Mikołaja Kalińskiego za zasługi w walkach na Ukrainie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Hołodki",
                 "type": "miejscowość",
                 "description": "wieś należąca do starostwa barskiego, trzymana w dożywotniej dzierżawie przez Seweryna Mikołaja Kalińskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Pustomyty",
                 "type": "miejscowość",
                 "description": "miejscowość wykupiona przez Seweryna Mikołaja Kalińskiego w 1649 roku od matki Marianny Wiktorii z Białynia Białyńskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "pułkownik",
                 "type": "zawód",
                 "description": "stopień wojskowy otrzymany przez Seweryna Mikołaja Kalińskiego w nagrodę za przejście na stronę Szwedów"
-            }
+            },
+            "result": true
         }
     ]
 }

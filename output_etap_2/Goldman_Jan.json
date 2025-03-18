@@ -13,7 +13,8 @@
                 "name": "Uniwersytet Jagielloński",
                 "type": "uczelnia",
                 "description": "Wydział Filozoficzny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "doktor filozofii",
                 "type": "osiągnięcie",
                 "description": "w zakresie filologii romańskiej i angielskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1942-00-00",
                 "type": "data",
                 "description": "zginął z rąk hitlerowców"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "1907-05-12",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Stanisław Goldman",
                 "type": "osoba",
                 "description": "nauczyciel prywatny, później właściciel firmy wydawniczej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Lea Goldman",
                 "type": "osoba",
                 "description": "z domu Bader"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "IV Gimnazjum Realne im. H. Sienkiewicza",
                 "type": "uczelnia",
                 "description": "Kraków"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Paryż"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Lwów",
                 "type": "miejscowość",
                 "description": ""
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "lektor języka francuskiego",
                 "type": "zawód",
                 "description": "Lwów"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "nauczyciel prywatny",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "właściciel firmy wydawniczej",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

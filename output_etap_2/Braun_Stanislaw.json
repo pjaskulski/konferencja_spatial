@@ -13,7 +13,8 @@
                 "name": "Jaszczew",
                 "type": "miejscowość",
                 "description": "koło Krosna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1922-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Uniwersytet Jagielloński",
                 "type": "uczelnia",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Szpital św. Łazarza",
                 "type": "instytucja",
                 "description": "w Krakowie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Klinika położniczo-ginekologiczna Uniwersytetu Jagiellońskiego",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "docent położnictwa i ginekologii",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "profesor nadzwyczajny",
                 "type": "urząd",
                 "description": "otrzymany w 1909 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Olga z Górskich",
                 "type": "osoba",
                 "description": "żona Stanisława Brauna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Jerzy Braun",
                 "type": "osoba",
                 "description": "syn Stanisława Brauna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Zofia Braun",
                 "type": "osoba",
                 "description": "córka Stanisława Brauna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "dom przy ul. Dietlowskiej 95",
                 "type": "obiekt fizjograficzny",
                 "description": "przebudowany na zakład położniczy, sprzedany w 1898 roku"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "1863",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "1893",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "1895",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

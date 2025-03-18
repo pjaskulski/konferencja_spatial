@@ -13,7 +13,8 @@
                 "name": "1811-05-31",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1863-01-14",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Opole",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Rumia",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "cmentarz przykościelny w Rumi",
                 "type": "miejsce",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Augustyn Skiba",
                 "type": "osoba",
                 "description": "rybak"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Rozalia Skiba",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Uniwersytet we Wrocławiu",
                 "type": "instytucja",
                 "description": "miejsce studiów Antoniego Skiby"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "ksiądz",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "poseł do pruskiego Zgromadzenia Narodowego w Berlinie",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "proboszcz w Rumi",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "inspektor lokalny szkół katolickich w Rumi",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Bractwo Bożej Opatrzności w Rumi",
                 "type": "organizacja",
                 "description": "istniejące od 1730 roku, z nowym statutem od 1852 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Bractwo Różańca Świętego w Redzie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Liga Polska Narodowa",
                 "type": "organizacja",
                 "description": "organizacja kierująca wyborami w 1849 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "A. Sedlag",
                 "type": "osoba",
                 "description": "biskup, który ściągał księży i kleryków do diecezji chełmińskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "F. Waldeck",
                 "type": "osoba",
                 "description": "poseł, autor wniosku dotyczącego pomocy rewolucji wiedeńskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Jan Klingenberg, Andrzej Pomieczyński, Karol Richter, Michał Pokrzywnicki",
                 "type": "osoba",
                 "description": "współzałożyciele Ligi Polskiej Narodowej w 1848 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Seminarium duchowne w Pelplinie",
                 "type": "instytucja",
                 "description": "miejsce edukacji teologicznej Antoniego Skiby"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "Święcenia kapłańskie",
                 "type": "wydarzenie",
                 "description": "otrzymane 7 marca 1839 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,37 +333,8 @@
                 "name": "Proboszcz w parafii kościoła św. Józefa w Gdańsku",
                 "type": "urząd",
                 "description": "pierwsza placówka pracy duszpasterskiej Antoniego Skiby"
-            }
-        },
-        {
-            "subject": {
-                "name": "Antoni Skiba",
-                "type": "osoba",
-                "description": "ksiądz, poseł polski do pruskiego Zgromadzenia Narodowego w Berlinie"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "Wybory do Zgromadzenia Narodowego w Berlinie w maju 1848 roku",
-                "type": "wydarzenie",
-                "description": "Antoni Skiba został wybrany jako jeden z pięciu przedstawicieli ludności polskiej Prus Zachodnich"
-            }
-        },
-        {
-            "subject": {
-                "name": "Antoni Skiba",
-                "type": "osoba",
-                "description": "ksiądz, poseł polski do pruskiego Zgromadzenia Narodowego w Berlinie"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "Wybory do sejmu pruskiego w Berlinie w 1849 roku",
-                "type": "wydarzenie",
-                "description": "Antoni Skiba został ponownie wybrany na posła z powiatu wejherowskiego"
-            }
+            "result": false
         }
     ]
 }

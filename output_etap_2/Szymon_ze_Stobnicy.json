@@ -13,7 +13,8 @@
                 "name": "1372-00-00",
                 "type": "data",
                 "description": "Data urodzenia jest przybliżona."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1419-07-00",
                 "type": "data",
                 "description": "Data śmierci jest przybliżona, przed 21 lipca 1419."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Piotr z Kurdwanowa i Stobnicy",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Jakub z Kurdwanowa",
                 "type": "osoba",
                 "description": "biskup płocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Florian z Kurdwanowa",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Andrzej z Kurdwanowa",
                 "type": "osoba",
                 "description": "student Uniwersytetu Krakowskiego, kanonik krakowski, poznański i płocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "kanonik poznański",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "kanonik krakowski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "kustosz poznański",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Uniwersytet Krakowski",
                 "type": "uczelnia",
                 "description": "lata studiów: 1414-1415"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Kościół św. Wawrzyńca w Kazimierzu",
                 "type": "instytucja",
                 "description": "koło Krakowa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "dziekania kurzelowska",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "kustodia poznańska",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "kanonia kruszwicka",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "kanonik krakowski",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "kanonik poznański",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "kanonik płocki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

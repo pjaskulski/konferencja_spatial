@@ -13,7 +13,8 @@
                 "name": "Jan",
                 "type": "osoba",
                 "description": "syn Jana Patruusa z Koła"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Poznań",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1538-00-00",
                 "type": "data",
                 "description": "zmarł w pierwszej połowie roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Melchior i Michael Lotterowie",
                 "type": "osoba",
                 "description": "firma drukarska z Lipska"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Jan Latalski",
                 "type": "osoba",
                 "description": "biskup, zleceniodawca druku w 1533 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Norymberga",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Koło",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Poznań",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "córki Jana Patruusa z Koła",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         }
     ]
 }

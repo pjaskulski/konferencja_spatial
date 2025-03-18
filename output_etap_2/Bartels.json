@@ -13,7 +13,8 @@
                 "name": "Wilno",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Kraków",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "1885-12-23",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Petersburg"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Leon Radziwiłł",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,37 +93,8 @@
                 "name": "Wańkowiczówna",
                 "type": "osoba",
                 "description": "żona Artura Bartelsa"
-            }
-        },
-        {
-            "subject": {
-                "name": "Artur Bartels",
-                "type": "osoba",
-                "description": "satyryk, pieśniarz, rysownik"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "przeprowadzka do Warszawy",
-                "type": "wydarzenie",
-                "description": null
-            }
-        },
-        {
-            "subject": {
-                "name": "Artur Bartels",
-                "type": "osoba",
-                "description": "satyryk, pieśniarz, rysownik"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "przeprowadzka do Krakowa",
-                "type": "wydarzenie",
-                "description": null
-            }
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +109,8 @@
                 "name": "Ciocia Salusia",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +125,8 @@
                 "name": "Panna Marjanna",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +141,8 @@
                 "name": "Departament niższej Sekwany",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +157,8 @@
                 "name": "Goście",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +173,8 @@
                 "name": "Popas w Miłosnej",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +189,8 @@
                 "name": "Łowiec",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -223,7 +205,8 @@
                 "name": "Tydzień poleski",
                 "type": "dzieło",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +221,8 @@
                 "name": "Wańkowiczówna",
                 "type": "osoba",
                 "description": "żona Artura Bartelsa"
-            }
+            },
+            "result": false
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Mikołaj Schirmer",
                 "type": "osoba",
                 "description": "syn Wawrzyńca Schirmera, wójt lubelski przed 1415 rokiem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Jan Schirmer",
                 "type": "osoba",
                 "description": "syn Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Małgorzata Schirmer",
                 "type": "osoba",
                 "description": "żona Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Zygmunt Wierzynek",
                 "type": "osoba",
                 "description": "siostrzeniec Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Siostra Wawrzyńca Schirmera",
                 "type": "osoba",
                 "description": "spokrewniona z Wierzynkami"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "wójt lubelski",
                 "type": "urząd",
                 "description": "urząd pełniony przez Mikołaja Schirmera przed 1415 rokiem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "wójt lubelski",
                 "type": "urząd",
                 "description": "urząd pełniony przez Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "1413-09-05",
                 "type": "data",
                 "description": "zmarł przed 5 września 1413 roku"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Wawrzyniec Schirmer",
                 "type": "osoba",
                 "description": "wójt lubelski, zmarł ok. 1413"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "dziedziczne wójtostwo w Lublinie",
                 "type": "własność",
                 "description": "majątek sprzedany Wawrzyńcowi Schirmerowi przez Zygmunta Wierzynka"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "dziedziczne wójtostwo w Lublinie",
                 "type": "własność",
                 "description": "majątek nabyty od Zygmunta Wierzynka przez Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "sołectwo w Konopnicy i folwark w Brunowicach",
                 "type": "własność",
                 "description": "majątek objęty przez Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "domy we Lwowie i Sandomierzu",
                 "type": "własność",
                 "description": "majątek posiadany przez Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "kaplica św. Zofii na zamku lubelskim",
                 "type": "osiągnięcie",
                 "description": "fundacja Wawrzyńca Schirmera przed 1406 rokiem"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Siostra Wawrzyńca Schirmera",
                 "type": "osoba",
                 "description": "spokrewniona z Wierzynkami"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Zygmunt Wierzynek",
                 "type": "osoba",
                 "description": "siostrzeniec Wawrzyńca Schirmera"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Lublin",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": false
         }
     ]
 }

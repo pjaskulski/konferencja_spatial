@@ -13,7 +13,8 @@
                 "name": "Eliasz Grynberg",
                 "type": "osoba",
                 "description": "ojciec Cecylii Orłowskiej, urzędnik w zakładach I. K. Poznańskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Barbara",
                 "type": "osoba",
                 "description": "matka Cecylii Orłowskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Łódź",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "1906-02-26",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "1937-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Antoni Markowski",
                 "type": "osoba",
                 "description": "mąż Cecylii Orłowskiej, alternatywne nazwisko Franciszek Szczepowski"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "1937-00-00",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "działaczka komunistyczna",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Komunistyczna Partia Robotnicza Polski",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Związek Młodzieży Komunistycznej",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "komunistyczny uniwersytet im. J. M. Swierdłowa",
                 "type": "instytucja",
                 "description": "Moskwa"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Gimnazjum im. E. Orzeszkowej",
                 "type": "instytucja",
                 "description": "Łódź"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "1937-00-00",
                 "type": "data",
                 "description": "Data aresztowania Cecylii Orłowskiej."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "1937-00-00",
                 "type": "data",
                 "description": "Data aresztowania Antoniego Markowskiego."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "rehabilitacja",
                 "type": "wydarzenie",
                 "description": "Pośmiertna rehabilitacja Cecylii Orłowskiej."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "rehabilitacja",
                 "type": "wydarzenie",
                 "description": "Pośmiertna rehabilitacja Antoniego Markowskiego."
-            }
+            },
+            "result": true
         }
     ]
 }

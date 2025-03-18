@@ -13,7 +13,8 @@
                 "name": "Tuchola",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "1906-01-21",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Franciszek Lesikowski",
                 "type": "osoba",
                 "description": "ojciec Stanisława Lesikowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Władysława Głomska",
                 "type": "osoba",
                 "description": "matka Stanisława Lesikowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Stutthof",
                 "type": "miejscowość",
                 "description": "obóz koncentracyjny"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "1944-07-15",
                 "type": "data",
                 "description": "najprawdopodobniej przez powieszenie"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Stefania Szefler",
                 "type": "osoba",
                 "description": "żona Stanisława Lesikowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Teresa Lesikowska",
                 "type": "osoba",
                 "description": "córka Stanisława Lesikowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Bernadetta Lesikowska",
                 "type": "osoba",
                 "description": "córka Stanisława Lesikowskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "kapitan",
                 "type": "stopień wojskowy",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Armia Krajowa",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "Krzyż Grunwaldu III klasy",
                 "type": "osiągnięcie",
                 "description": "odznaczenie pośmiertne"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Obóz koncentracyjny w Stutthofie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Wojskowa Służba Kobiet",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "przywódca Wojskowej Służby Kobiet",
                 "type": "stanowisko",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Grupa bojowa 'Szyszek'",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "kapitan",
                 "type": "stopień wojskowy",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "Stefania Szefler",
                 "type": "osoba",
                 "description": "żona Stanisława Lesikowskiego"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Seminarium Nauczycielskie",
                 "type": "uczelnia",
                 "description": "Tuchola"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "uczelnia",
                 "description": "Bydgoszcz"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "66 pułk piechoty",
                 "type": "organizacja",
                 "description": "Grudziądz"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +349,8 @@
                 "name": "gabinet optyczny",
                 "type": "instytucja",
                 "description": "Gdynia"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,37 +365,8 @@
                 "name": "szef Inspektoratu AK «Hurtownia»",
                 "type": "urząd",
                 "description": "obejmujący powiaty Chojnice–Tuchola–Sępolno"
-            }
-        },
-        {
-            "subject": {
-                "name": "Stanisław Lesikowski",
-                "type": "osoba",
-                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "zamach na linii kolejowej Chojnice–Tczew",
-                "type": "wydarzenie",
-                "description": "w czerwcu 1942 roku"
-            }
-        },
-        {
-            "subject": {
-                "name": "Stanisław Lesikowski",
-                "type": "osoba",
-                "description": "pseud. Las, kapitan, działacz Armii Krajowej, więzień Stutthofu"
-            },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "aresztowanie przez gestapo",
-                "type": "wydarzenie",
-                "description": "w Kościerzynie, 18 kwietnia 1944 roku"
-            }
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +381,8 @@
                 "name": "Stefania Szefler",
                 "type": "osoba",
                 "description": "żona Stanisława Lesikowskiego"
-            }
+            },
+            "result": false
         }
     ]
 }

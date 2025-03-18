@@ -13,7 +13,8 @@
                 "name": "uczony",
                 "type": "zawód",
                 "description": "karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "wójt",
                 "type": "urząd",
                 "description": "naczelny sędzia karaimski w Trokach"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "naczelny sędzia karaimski",
                 "type": "urząd",
                 "description": "w Trokach"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "Józef Del Medigo",
                 "type": "osoba",
                 "description": "nauczyciel lub współpracownik Ezry ben Nisan z Trok"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "dwór wileński Radziwiłłów",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "1666-09-21",
                 "type": "data",
                 "description": "Data śmierci Ezry ben Nisan z Trok według kalendarza hebrajskiego."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "stary cmentarz karaimski w Trokach",
                 "type": "miejscowość",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "dwór króla Jana Kazimierza",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "hymny i pieśni religijne karaimskie",
                 "type": "dzieło",
                 "description": "np. modlitewnik karaimski, wyd. wileńskie z r. 1892, IV 107, 137 itd."
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Ezra Nisanowicz",
                 "type": "osoba",
                 "description": "alternatywna forma nazwiska Ezry ben Nisan z Trok"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "lekarz i doradca królewski",
                 "type": "urząd",
                 "description": "tytuł otrzymany pod koniec życia Ezry ben Nisan z Trok"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,22 +189,8 @@
                 "name": "włości w okolicy Trok",
                 "type": "przedmiot",
                 "description": "włości otrzymane w nagrodę za uzdrowienie córki Jana Kazimierza"
-            }
-        },
-        {
-            "subject": {
-                "name": "Ezra ben Nisan z Trok",
-                "type": "osoba",
-                "description": "uczony karaimski, matematyk i medyk nadworny Radziwiłłów oraz króla Jana Kazimierza"
             },
-            "predicate": {
-                "name": "significantEvent"
-            },
-            "object": {
-                "name": "uzdrowienie córki Jana Kazimierza",
-                "type": "wydarzenie",
-                "description": "ważne wydarzenie związane z działalnością Ezry ben Nisan z Trok jako lekarza"
-            }
+            "result": true
         }
     ]
 }

@@ -13,7 +13,8 @@
                 "name": "Uniwersytet w Moskwie",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Werki",
                 "type": "miejscowość",
                 "description": "koło Wilna"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Dachau",
                 "type": "miejscowość",
                 "description": "obóz koncentracyjny"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "1940-11-14",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "1887-04-16",
                 "type": "data",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Stanisław Rudziński",
                 "type": "osoba",
                 "description": "ojciec Mieczysława Rudzińskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "Maria z Downarowiczów",
                 "type": "osoba",
                 "description": "matka Mieczysława Rudzińskiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "Polska Partia Socjalistyczna",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "Zrzeszenie Prawników Socjalistów w Warszawie",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "Liga Praw Człowieka i Obywatela",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "Aleksander Lednicki",
                 "type": "osoba",
                 "description": "osoba, z którą Mieczysław Rudziński współpracował w kancelarii"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "adwokat",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "Okręgowa Rada Adwokacka",
                 "type": "instytucja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Rada Konsultacyjna (Beirat)",
                 "type": "instytucja",
                 "description": "powołana przez niemieckiego komisarza dla reorganizacji adwokatury E. Wendorffa"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Związek Polskiej Młodzieży Socjalistycznej",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "żołnierz",
                 "type": "zawód",
                 "description": "służba na froncie kaukaskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,22 +269,8 @@
                 "name": "dyplomata",
                 "type": "zawód",
                 "description": "praca w polskim przedstawicielstwie w Gruzji, Armenii i Azerbejdżanie"
-            }
-        },
-        {
-            "subject": {
-                "name": "Mieczysław Rudziński",
-                "type": "osoba",
-                "description": "adwokat, obrońca w sprawach politycznych, urodzony w 1887, zmarł w 1940"
             },
-            "predicate": {
-                "name": "relatedEvent"
-            },
-            "object": {
-                "name": "Zjazd Polskiej Młodzieży Akademickiej w Moskwie",
-                "type": "wydarzenie",
-                "description": "współorganizator w 1915 roku"
-            }
+            "result": false
         },
         {
             "subject": {
@@ -283,7 +285,8 @@
                 "name": "Komitet Pomocy Ofiarom Wojny",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -298,7 +301,8 @@
                 "name": "członek Centralnego Sądu Partyjnego PPS",
                 "type": "urząd",
                 "description": "wybrany na XXII Kongresie PPS w 1931 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -313,7 +317,8 @@
                 "name": "członek Sądu Koleżeńskiego Zrzeszenia Prawników Socjalistów w Warszawie",
                 "type": "urząd",
                 "description": "wybrany na Walnym Zjeździe Zrzeszenia w 1935 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -328,7 +333,8 @@
                 "name": "rzecznik dyscyplinarny w Okręgowej Radzie Adwokackiej",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -343,7 +349,8 @@
                 "name": "zastępca rzecznika dyscyplinarnego w Prezydium Okręgowej Rady Adwokackiej w Warszawie",
                 "type": "urząd",
                 "description": "w początkach okupacji niemieckiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -358,7 +365,8 @@
                 "name": "gestapo",
                 "type": "organizacja",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -373,7 +381,8 @@
                 "name": "obóz koncentracyjny Sachsenhausen",
                 "type": "miejsce",
                 "description": "przewieziony 3 maja 1940 roku"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -388,7 +397,8 @@
                 "name": "obóz koncentracyjny Dachau",
                 "type": "miejsce",
                 "description": "przewieziony we wrześniu 1940 roku"
-            }
+            },
+            "result": true
         }
     ]
 }

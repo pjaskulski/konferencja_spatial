@@ -13,7 +13,8 @@
                 "name": "Stanisław Kłokocki",
                 "type": "osoba",
                 "description": "sędzia ziemi zawkrzeńskiej"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -28,7 +29,8 @@
                 "name": "Regina Teofila Mirska",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -43,7 +45,8 @@
                 "name": "Jan Hieronim Kłokocki",
                 "type": "osoba",
                 "description": "chorąży rzeczycki, później jezuita"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -58,7 +61,8 @@
                 "name": "nieokreślona szkoła/uczelnia",
                 "type": "instytucja",
                 "description": "Orlean"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -73,7 +77,8 @@
                 "name": "Starzynki",
                 "type": "miejscowość",
                 "description": "miejscowość w powiecie mińskim"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -88,7 +93,8 @@
                 "name": "Słuck",
                 "type": "miejscowość",
                 "description": "miasto na Białorusi"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -103,7 +109,8 @@
                 "name": "gubernator księstwa słuckiego i kopylskiego",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -118,7 +125,8 @@
                 "name": "stolnik płocki",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -133,7 +141,8 @@
                 "name": "pułkownik JKM",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -148,7 +157,8 @@
                 "name": "chorąży miński",
                 "type": "urząd",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -163,7 +173,8 @@
                 "name": "bibliotekarz nacji germańskiej",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -178,7 +189,8 @@
                 "name": "porucznik",
                 "type": "stopień wojskowy",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -193,7 +205,8 @@
                 "name": "tłumacz",
                 "type": "zawód",
                 "description": null
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -208,7 +221,8 @@
                 "name": "Zbigniew Morsztyn",
                 "type": "osoba",
                 "description": "wybitny poeta ariański"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -223,7 +237,8 @@
                 "name": "Karol Ferdynand",
                 "type": "osoba",
                 "description": "królewicz, biskup płocki"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -238,7 +253,8 @@
                 "name": "Bogusław Radziwiłł",
                 "type": "osoba",
                 "description": null
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -253,7 +269,8 @@
                 "name": "Ludwika Karolina Radziwiłł",
                 "type": "osoba",
                 "description": "córka Bogusława Radziwiłła"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -268,7 +285,8 @@
                 "name": "dworzanin",
                 "type": "zawód",
                 "description": "dworzanin królewicza Karola Ferdynanda, biskupa płockiego"
-            }
+            },
+            "result": true
         },
         {
             "subject": {
@@ -283,7 +301,8 @@
                 "name": "Stanisław Kłokocki",
                 "type": "osoba",
                 "description": "sędzia ziemi zawkrzeńskiej"
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -298,7 +317,8 @@
                 "name": "niewola tatarska",
                 "type": "zdarzenie",
                 "description": "Kazimierz Krzysztof Kłokocki dostał się do niewoli tatarskiej, z której wykupił go ojciec."
-            }
+            },
+            "result": false
         },
         {
             "subject": {
@@ -313,7 +333,8 @@
                 "name": "poseł na sejm",
                 "type": "urząd",
                 "description": "poseł na sejm w 1677 roku"
-            }
+            },
+            "result": true
         }
     ]
 }
