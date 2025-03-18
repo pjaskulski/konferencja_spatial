@@ -6,6 +6,17 @@ Materiały związane z pracami dotyczącymi wydobywania z biogramów PSB danych 
 
 While computer usage has become commonplace in the humanities, historical data often remains siloed within textual sources rather than residing in structured databases or knowledge bases. This unstructured format presents significant challenges for searching and analysis. Manual data transformation into databases or knowledge bases is a further hurdle due to its time-consuming nature. Our work aimed to bridge this gap by leveraging advancements in Artificial Intelligence (AI) and Natural Language Processing (NLP) for automated text processing. This pipeline facilitates information extraction, identification and linking of proper names (people and locations), and data transformation for seamless integration into a knowledge base (Wikibase). The processing pipeline, built using Python scripts, incorporates large language models, fuzzy string matching, and import methods based on the Wikibase API.  We applied this pipeline to biographies from the Polish Biographical Dictionary dataset (over 27,500 entries). An additional challenge stemmed from the occasional use of archaic language in these early 20th-century biographies.  Beyond efficiency gains through automation, a crucial aspect of our work involved evaluating the quality of the processed data.
 
+## Pliki
+
+data - katalog na dane, biogramy postaci historycznych w formacje txt
+output_etap_1 - pliki json z wynikami pierwszego przetwarzania
+output_etap_2 - pliki json z wynikami prztwarzania po poprawkach listy właściwości
+output_identification - pliki json po przeprowadzonej procedurze identyfikacji
+src - kod źródłówy skryptów
+test_output - wyniki testów różnych modeli LLM, testów powtarzalności wyników
+test_prompt - testowe prompty
+test_validation - wyniki testów automatycznej walidacji "trójek" przez inny model
+
 ## Bibliografia
 
 1. Xiaohan Feng, Xixin Wu and Helen Meng, "Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema"
